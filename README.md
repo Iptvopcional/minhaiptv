@@ -15,8 +15,8 @@ http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2022/06/amazon.png" group-title="CANAIS: VARIEDADES", AMAZON SAT
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Band_logo_2018.png" group-title="CANAIS: VARIEDADES", BAND
-https://fazoeli.fun/token/a200ad48c00bf5b5e49f6f5b61ca7139/embedtv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Band_logo_2018.png" group-title="CANAIS: VARIEDADES", Band
+https://live-c2.cf.dmcdn.net/sec2(dCkYsmRDi_dwcp88vsRRmjCb0VHYopodam7LO_QKAGwan3Y5kgLRVwamE_X_1IGnvA6yLEKCiAPopkcJSGCIW3M86b5LypmGIWzG3Kv_Fm7xIz1Q6cAiLiaI6lRoq9bF)/cloud/3/x8nkbc2/s/live-720.m3u8#cell=lcfc2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png" group-title="CANAIS: VARIEDADES", BAND PA
 [https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2009673231.m3u8](https://live-c2.cf.dmcdn.net/sec2(t_awmSXLh2YrP8Y66DWz0jHLg3838zh1yRvlY48V71-di2-zQ7RLI3I9lP4cLXwZHopul-YiH7gkbphN43cLDb4uqQ-gyXEGNbE5Yao6ws9Z3p-e6ATTIOcRkhNEh7RF)/cloud/3/x83vbd6/s/live-720.m3u8#cell=lcfc2)
 #EXTINF:-1 tvg-id="https://tvonline.global/" tvg-logo="http://www.melhorsite.xyz/wp-content/uploads/2020/12/BONS-TEMPOS-TV-138x93.png" group-title="CANAIS: CLÁSSICOS | DESENHOS | FILMES | SERIADOS", BONS TEMPOS
