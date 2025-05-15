@@ -1614,7 +1614,7 @@ http://8da15e7a4d.farpasmaster.shop/deregodego/lastdance/filmcucu/2/th3pw3rhrr0r
 https://9da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/2/turn0m4ld1t0DUB.mp4
 
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://br.web.img3.acsta.net/c_310_420/img/a7/cb/a7cb1f5c2ca43af0fbbea82e3c5ba1d5.jpg" group-title="COMÉDIA", Um Dia Daqueles, 3 de abril de 2025
-https://8da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/1d14d4qu3l3sDUB.mp4
+https://watch.brplayer.cc/stream/SlBnSWNvYkhqRFVlSjE2TzNObHZLdDRTQmVqRUxrajYrSjNicm1lNnhTbXJxWC9OOVBrU29yWkVaL3dZcVdOZTVDOWlCYnA0Tm8vazg2MDBvTVBqdGc9PQ==
 #EXTINF:-1 tvg-logo="https://filmeflix.tv/wp-content/uploads/2021/05/wYqmuxd9jNFLf3gtQY5vbAUgiGk-200x300.jpg" group-title="DRAMA | SUSPENSE | TERROR", UM LUGAR SILENCIOSO: Parte 2 (2021)
 https://video.wixstatic.com/video/834009_d702abb4661b4c8e9484302b2f19b82b/720p/mp4/file.mp4?https://gofilmes.me/b/
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/v4Ic5tJBTLL83zd1RLailzDdJi0.jpg" group-title="AÇÃO | TERROR", UM DIA DE CAOS (2017)
