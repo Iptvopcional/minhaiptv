@@ -987,7 +987,7 @@ https://9da15e7a4d.misterkobe.shop/deregodego/novosup/filmcucu/1/h4ll0w33nkls0tr
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://filmessgratis.net/wp-content/uploads/2022/11/ends-200x300.jpg" group-title="SUSPENSE | TERROR", HALLOWEEN ENDS – O FINAL (2022)
 https://8da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/2/h4ll0w33n3ndsDUB.mp4
 #EXTINF:-1 tvg-id="https://br.web.img2.acsta.net/c_310_420/img/78/ec/78ec5c65afb4f48098429871ecf98543.jpg" group-title="SUSPENSE | TERROR", Herege, 20 de novembro de 2024
-https://watch.brplayer.cc/stream/eElvaVlvcSt0WTUra1R4NWNHRlV5djErTjhOaTBaSUJnN1ltTWNXbjZqRnlzTkxHM3VyWkVrQTZHK1I2UHVSczN5ZWJlSWx4Q1lIZ2JGejhiOW5OTWc9PQ==
+https://8da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/h3r3g3DUB.mp4
 
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//2FIDX50JB5vFvA5jGtJQfUdnfKj.jpg" group-title="AÇÃO | F. CIENTÍFICA | SUSPENSE", INIMIGO MORTAL (2018)
 https://video.wixstatic.com/video/834009_9475ad2f5241466fa69b418bde26754f/480p/mp4/file.mp4
@@ -1488,8 +1488,6 @@ https://lh3.googleusercontent.com/GyCg_voT4IlupzejSV7M_UD2vVwO7ZllpjjiQwx1SJpKsu
 https://lh3.googleusercontent.com/INIBVmMz9055Y6-PmQrjmorNFH6v0A9LGLHmaOdXppnemHlw1VfZE75GPXCjf7_1VAPTpCEFqA=m18
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ANIMAÇÃO", PATRULHA CANINA 04 - OS FILHOTES E O TESOURO PIRATA
 https://lh3.googleusercontent.com/GXIa7TjdGMW5rUDfiUddneqw0E_YTlPvvRhckSljrFGYuni2WOep5QNfQn2A4cQ0kkG7L3hnzw=m18
-#EXTINF:-1 tvg-id="https://gofilmess.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w150_and_h150_bestv2/5p0wQ24CWJ4rBxcJtBNs0uc4ech.jpg" group-title="SUSPENSE | TERROR", Peter Pan: Pesadelo na Terra do Nunca, 2025
-https://watch.brplayer.cc/stream/TElBOS94UDk4Q0hsMnNmZEkxdHZOQnhWKyt3UEhtYXoxc0FSN0VsTGRmSkt5MVMwVVQzeW8zUFFTNjVvb2tzM2FHVUhvS1NSY3JqL1lVR2wxK3Z3QUE9PQ==
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/11/28/19/44/0594568.jpg" group-title="COMÉDIA | ROMANCE", QUE CULPA O BEBE TEM: Uma Ressaca de 9 Meses (2016)
 https://lh3.googleusercontent.com/fFhufvHsyQRzaNaQpDFMtGqE7RrWnA4Goo-Il6UHm3RW0kGbb1GrS_sKb0c_R4PfnCN1mIDKVXWBA2IDCK-zpbblqPF6u5hhMF0iFggi3-g__QVZVppwhbh9Rbuo_sSFqTLwo2tn=m22
@@ -1616,7 +1614,7 @@ http://8da15e7a4d.farpasmaster.shop/deregodego/lastdance/filmcucu/2/th3pw3rhrr0r
 https://9da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/2/turn0m4ld1t0DUB.mp4
 
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://br.web.img3.acsta.net/c_310_420/img/a7/cb/a7cb1f5c2ca43af0fbbea82e3c5ba1d5.jpg" group-title="COMÉDIA", Um Dia Daqueles, 3 de abril de 2025
-https://watch.brplayer.cc/stream/SlBnSWNvYkhqRFVlSjE2TzNObHZLdDRTQmVqRUxrajYrSjNicm1lNnhTbXJxWC9OOVBrU29yWkVaL3dZcVdOZTVDOWlCYnA0Tm8vazg2MDBvTVBqdGc9PQ==
+https://8da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/1d14d4qu3l3sDUB.mp4
 #EXTINF:-1 tvg-logo="https://filmeflix.tv/wp-content/uploads/2021/05/wYqmuxd9jNFLf3gtQY5vbAUgiGk-200x300.jpg" group-title="DRAMA | SUSPENSE | TERROR", UM LUGAR SILENCIOSO: Parte 2 (2021)
 https://video.wixstatic.com/video/834009_d702abb4661b4c8e9484302b2f19b82b/720p/mp4/file.mp4?https://gofilmes.me/b/
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/v4Ic5tJBTLL83zd1RLailzDdJi0.jpg" group-title="AÇÃO | TERROR", UM DIA DE CAOS (2017)
