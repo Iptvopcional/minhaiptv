@@ -1488,6 +1488,8 @@ https://lh3.googleusercontent.com/GyCg_voT4IlupzejSV7M_UD2vVwO7ZllpjjiQwx1SJpKsu
 https://lh3.googleusercontent.com/INIBVmMz9055Y6-PmQrjmorNFH6v0A9LGLHmaOdXppnemHlw1VfZE75GPXCjf7_1VAPTpCEFqA=m18
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ANIMAÇÃO", PATRULHA CANINA 04 - OS FILHOTES E O TESOURO PIRATA
 https://lh3.googleusercontent.com/GXIa7TjdGMW5rUDfiUddneqw0E_YTlPvvRhckSljrFGYuni2WOep5QNfQn2A4cQ0kkG7L3hnzw=m18
+#EXTINF:-1 tvg-id="https://gofilmess.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w150_and_h150_bestv2/5p0wQ24CWJ4rBxcJtBNs0uc4ech.jpg" group-title="SUSPENSE | TERROR", Peter Pan: Pesadelo na Terra do Nunca, 2025
+https://watch.brplayer.cc/stream/TElBOS94UDk4Q0hsMnNmZEkxdHZOQnhWKyt3UEhtYXoxc0FSN0VsTGRmSkt5MVMwVVQzeW8zUFFTNjVvb2tzM2FHVUhvS1NSY3JqL1lVR2wxK3Z3QUE9PQ==
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/11/28/19/44/0594568.jpg" group-title="COMÉDIA | ROMANCE", QUE CULPA O BEBE TEM: Uma Ressaca de 9 Meses (2016)
 https://lh3.googleusercontent.com/fFhufvHsyQRzaNaQpDFMtGqE7RrWnA4Goo-Il6UHm3RW0kGbb1GrS_sKb0c_R4PfnCN1mIDKVXWBA2IDCK-zpbblqPF6u5hhMF0iFggi3-g__QVZVppwhbh9Rbuo_sSFqTLwo2tn=m22
