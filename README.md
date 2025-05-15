@@ -987,7 +987,7 @@ https://9da15e7a4d.misterkobe.shop/deregodego/novosup/filmcucu/1/h4ll0w33nkls0tr
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://filmessgratis.net/wp-content/uploads/2022/11/ends-200x300.jpg" group-title="SUSPENSE | TERROR", HALLOWEEN ENDS – O FINAL (2022)
 https://8da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/2/h4ll0w33n3ndsDUB.mp4
 #EXTINF:-1 tvg-id="https://br.web.img2.acsta.net/c_310_420/img/78/ec/78ec5c65afb4f48098429871ecf98543.jpg" group-title="SUSPENSE | TERROR", Herege, 20 de novembro de 2024
-https://8da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/h3r3g3DUB.mp4
+https://watch.brplayer.cc/stream/eElvaVlvcSt0WTUra1R4NWNHRlV5djErTjhOaTBaSUJnN1ltTWNXbjZqRnlzTkxHM3VyWkVrQTZHK1I2UHVSczN5ZWJlSWx4Q1lIZ2JGejhiOW5OTWc9PQ==
 
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//2FIDX50JB5vFvA5jGtJQfUdnfKj.jpg" group-title="AÇÃO | F. CIENTÍFICA | SUSPENSE", INIMIGO MORTAL (2018)
 https://video.wixstatic.com/video/834009_9475ad2f5241466fa69b418bde26754f/480p/mp4/file.mp4
