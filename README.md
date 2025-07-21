@@ -7,8 +7,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2022/06/amazon.png" group-title="CANAIS: VARIEDADES", AMAZON SAT
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Band_logo_2018.png" group-title="CANAIS: VARIEDADES", BAND SP INTERIOR
-http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Band_logo_2018.png" group-title="CANAIS: VARIEDADES", BAND SP
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(2AcnB45nkTe5YLJPHg_MqIdHGaWt5zbXVeytVLCNlUl8wfNd611PDco6cBRGTpQfVXwkJq6wn6eJoklM_2GQxJwTnr29jk5M1IUNNaJxwCGwwJ6Zu8znAl9NEnfP1v28)/cloud/3/x83vbd6/s/live-1080.m3u8#cell=lcf2-eu-north-1b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png" group-title="CANAIS: VARIEDADES", BAND PA
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2009673231.m3u8
 #EXTINF:-1 tvg-id="https://tvonline.global/" tvg-logo="http://www.melhorsite.xyz/wp-content/uploads/2020/12/BONS-TEMPOS-TV-138x93.png" group-title="CANAIS: CLÁSSICOS | DESENHOS | FILMES | SERIADOS", BONS TEMPOS
@@ -45,21 +45,8 @@ https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w467414107.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: VARIEDADES", CANAL 25 JUNDIAÍ
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/28210d4e070cd9ecede7cdd61383ec9c.jpg" group-title="CANAIS: VARIEDADES", CANAL TV RIO
-https://cdn.live.br1.jmvstream.com/w/AVJ-15127/playlist/chunklist.m3u8
-#EXTINF:-1 tvg-id="https://www.olhosnatv.com.br/" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CANAIS: VARIEDADES", CNT SP
-https://cloudflare.cdn.spalla.io/live/2b512662-a40f-46ef-b540-e8ee3f5bb1fb/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxODExMTgxNSwiaWF0IjoxNzE3NTA3MDE1LCJpZCI6IjAxOGZhMjg1LTJmNGMtNzcxOC1iNzhkLTU0YTNlOGFiY2U 0NyIsIm5iZiI6MTcxNzUwNTIxNSwicmF1IjpbXSwidWlkIjoiMDE4ZmEyODUtMmY0Yy03NzE4LWI3OGQtNTRhM2U4YWJjZTQ3IiwidXJpX3N1YiI6Ii8yYjUxMjY2Mi1hNDBmLTQ2ZWYtYjU0MC1lOGVlM2Y1YmIxZmIvIn0.tEmYV83Vt2IuM-UOtN8Z11fpjMQicq2DUx_6uzwWGvI&uid=018fa285-2f4c-7718-b78d-54a3e8abce47&
-#EXTINF:-1 tvg-id="https://www.olhosnatv.com.br/" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CANAIS: VARIEDADES", CNT RJ
-https://cloudflare.cdn.spalla.io/live/c125dfb2-87ee-40b9-bf6f-566072c05e84/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxODEyMTQxNywiaWF0IjoxNzE3NTE2NjE3LCJpZCI6IjAxOGZhMjg1LTJmNGMtNzcxOC1iNzhkLTU0YTNlOGFiY2U 0NyIsIm5iZiI6MTcxNzUxNDgxNywicmF1IjpbXSwidWlkIjoiMDE4ZmEyODUtMmY0Yy03NzE4LWI3OGQtNTRhM2U4YWJjZTQ3IiwidXJpX3N1YiI6Ii9jMTI1ZGZiMi04N2VlLTQwYjktYmY2Zi01NjYwNzJjMDVlODQvIn0.i9cZ89S2v2LGTQBn_dR3vfoul9N8bOlcB8PJPWS3Pp8&uid=018fa285-2f4c-7718-b78d-54a3e8abce47&
-#EXTINF:-1 tvg-id="https://www.olhosnatv.com.br/" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CANAIS: VARIEDADES", CNT RS - PORTO ALEGRE
-https://cloudflare.cdn.spalla.io/live/28496f6e-83f6-4167-943b-8bdad7991bb5/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxODEyMzA0MSwiaWF0IjoxNzE3NTE4MjQxLCJpZCI6IjAxOGZhMjg1LTJmNGMtNzcxOC1iNzhkLTU0YTNlOGFiY2U 0NyIsIm5iZiI6MTcxNzUxNjQ0MSwicmF1IjpbXSwidWlkIjoiMDE4ZmEyODUtMmY0Yy03NzE4LWI3OGQtNTRhM2U4YWJjZTQ3IiwidXJpX3N1YiI6Ii8yODQ5NmY2ZS04M2Y2LTQxNjctOTQzYi04YmRhZDc5OTFiYjUvIn0.H9V2NZ1BVz5uaKayRI8oBIaIDR9VCFl29IRsbD8YXjI&uid=018fa285-2f4c-7718-b78d-54a3e8abce47&
-#EXTINF:-1 tvg-id="https://www.olhosnatv.com.br/" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CANAIS: VARIEDADES", CNT PR - Curitiba
-https://cloudflare.cdn.spalla.io/live/ee4d3ab8-a162-42d8-a4d0-e4ae03f9224a/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxODEyMzM3NSwiaWF0IjoxNzE3NTE4NTc1LCJpZCI6IjAxOGZhMjg1LTJmNGMtNzcxOC1iNzhkLTU0YTNlOGFiY2U 0NyIsIm5iZiI6MTcxNzUxNjc3NSwicmF1IjpbXSwidWlkIjoiMDE4ZmEyODUtMmY0Yy03NzE4LWI3OGQtNTRhM2U4YWJjZTQ3IiwidXJpX3N1YiI6Ii9lZTRkM2FiOC1hMTYyLTQyZDgtYTRkMC1lNGFlMDNmOTIyNGEvIn0.X1Et8YLjUn7xwKym1EN1YZXJH7TgxWaWYX5Qfmjqvvo&uid=018fa285-2f4c-7718-b78d-54a3e8abce47&
-#EXTINF:-1 tvg-id="https://www.olhosnatv.com.br/" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CANAIS: VARIEDADES", CNT PR - Londrina
-https://cloudflare.cdn.spalla.io/live/cb4a055c-36e9-489c-88bc-e225dc6ac594/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxODEyMzQzMiwiaWF0IjoxNzE3NTE4NjMyLCJpZCI6IjAxOGZhMjg1LTJmNGMtNzcxOC1iNzhkLTU0YTNlOGFiY2U 0NyIsIm5iZiI6MTcxNzUxNjgzMiwicmF1IjpbXSwidWlkIjoiMDE4ZmEyODUtMmY0Yy03NzE4LWI3OGQtNTRhM2U4YWJjZTQ3IiwidXJpX3N1YiI6Ii9jYjRhMDU1Yy 0zNmU5LTQ4OWMtODhiYy1lMjI1ZGM2YWM1OTQvIn0.7jDT9xZRoDLKIiAP1f950NF3p17vpE4aF3hnMbxGKNE&uid=018fa285-2f4c-7718-b78d-54a3e8abce47&
-#EXTINF:-1 tvg-id="https://www.olhosnatv.com.br/" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CANAIS: VARIEDADES", CNT BA - Salvador
-https://cloudflare.cdn.spalla.io/live/c0fbab1d-8ad6-4b6c-b053-b30a89b02110/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxODExMjc4MiwiaWF0IjoxNzE3NTA3OTgyLCJpZCI6IjAxOGZhMjg1LTJmNGMtNzcxOC1iNzhkLTU0YTNlOGFiY2U 0NyIsIm5iZiI6MTcxNzUwNjE4MiwicmF1IjpbXSwidWlkIjoiMDE4ZmEyODUtMmY0Yy03NzE4LWI3OGQtNTRhM2U4YWJjZTQ3IiwidXJpX3N1YiI6Ii9jMGZiYWIxZC 04YWQ2LTRINmMtYjA1My1iMzBhODliMDIxMTAvIn0.OQ3pyJxP6q8Pbtlmt-B0SzvFS4FZfMngn5I-ntZqOa0&uid=018fa285-2f4c-7718-b78d-54a3e8abce47&
-#EXTINF:-1 tvg-id="https://www.olhosnatv.com.br/" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CANAIS: VARIEDADES", CNT MT - Cuiabá
-https://cloudflare.cdn.spalla.io/live/974e28f6-887e-4831-94ca-06abf1a80c66/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxODEyMzgwMSwiaWF0IjoxNzE3NTE5MDAxLCJpZCI6IjAxOGZhMjg1LTJmNGMtNzcxOC1iNzhkLTU0YTNlOGFiY2U 0NyIsIm5iZiI6MTcxNzUxNzIwMSwicmF1IjpbXSwidWlkIjoiMDE4ZmEyODUtMmY0Yy03NzE4LWI3OGQtNTRhM2U4YWJjZTQ3IiwidXJpX3N1YiI6Ii85NzRlMjhmNi04ODdlLTQ4MzEtOTRjYS0wNmFiZjFhODBjNjYvIn0.7C08ohfqytIMJ0uYuqnCjgTJFGWaVxbPlHNu1XBjLBc&uid=018fa285-2f4c-7718-b78d-54a3e8abce47&
+https://cdn.live.br1.jmvstream.com/webtv/canaltvrio/playlist/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="CANAIS: HUMOR", COMEDY CENTRAL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://www.fontedoscanais.xyz/logos/canais/comedycentral.png" group-title="CANAIS: HUMOR", COMEDY CENTRAL (720p)
@@ -99,11 +86,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c094
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="CANAIS: HUMOR", FAILARMY
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=65e4a7cf-0b18-4 b0a-97d2-7eadc239c740&deviceLat=-22.4545&deviceLon=-41.9492&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=BR&sid=787d788c-3e55-11eb-a8d7-0242ac110002&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="CANAIS: FILMES", FILME GOSPEL TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da98ac6d6b08d276d592769ec21bc17f.png" group-title="CANAIS: FILMES", FILMES GOSPEL TELEVISÃO (Evangélico)
 https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: VARIEDADES", Globo Ao Vivo
+https://live-cm-ah-21-08.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMjEtMDgudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzUzMTQyMTg3LCJpYXQiOjE3NTMwNTU3ODcsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiOGFmZjg5Y2UtOGQ0YS00OTBmLWE3Y2UtZjVhYzZmNjFhZDczIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1jYWIvcGxheWxpc3QubTN1OCJ9.GCh945PkLOr1WuQX8ADOP6HfVXJvgQt0e3h5iA5UxdN1ByFgaQGfYApX3BP8iYyksn8roJ0tzJPzKJD76eQ38vc11r7MVPfEubBPozcpsVZ2MbZua3Ca-Gfh2Bx3mHRV4asZUfVGl0C5IPhvko82tXRRbRhVd69CSv2wRTQLgz-PqNOV5nMPLgbwKFYVLjsjYlnfR_lehxSlUdCAozFw15p3L2ZpCKiPZ2_SJAPRQ20BY-70MUk1PljEKYAOB8jKvwAoKhkPOnbDt_XnLAQmndnGL1YTKciV_5mdwzbEseh0-kg06dVBUiEcnLbOxxBDuwQcnDiphY6-1NzpWiSkOg/live/f(i=2)/globo-cab/globo-cab-audio_1=96000-video=3442944.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7p5Xgv.jpg" group-title="CANAIS: FILMES | SÉRIES", GOSPEL FILMES TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
@@ -151,8 +140,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e17
 #EXTINF:-1 tvg-logo="https://topcanais.com/wp-content/uploads/2019/07/tvnovotempo-561x316.jpg" group-title="CANAIS: RELIGIOSOS", NOVO TEMPO
 http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="CANAIS: HUMOR", PORTA DOS FUNDOS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=65e4a7cf-0b18-4 b0a-97d2-7eadc239c740&deviceLat=-22.4545&deviceLon=-41.9492&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=BR&sid=ce5af346-3e5a-11eb-b866-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="ext" group-title="CANAIS: HUMOR", PLUTO TV COMÉDIA (720p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-id="https://television-live.com/pt/tvi/brazil/" tvg-logo="https://television-live.com/uploads/posts/ecrherhehcetg.png" group-title="CANAIS: NOTÍCIAS", PORTAL GUARÁ
