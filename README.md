@@ -481,9 +481,9 @@ https://stmv1.srvif.com/startrek/startrek/chunklist_w1289506923.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="CANAIS: 24 HORAS", TURMA DA MÔNICA (720p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-name="" tvg-logo="http://cc90.one/AUWM" group-title="Series | Netflix", Round 6: 1° Temporada: 9; Um dia de sorte
+#EXTINF:-1 tvg-name="" tvg-logo="[http://cc90.one/AUWM](https://image.tmdb.org/t/p/w342/eZ5U6zoQ0IpokyVWRvm2BJQLG53.jpg)" group-title="Series | Netflix", Round 6: 1° Temporada: 9; Um dia de sorte
 https://watch.brplayer.cc/stream/bTN1OC8xMC82YThjZWVlZmEyYzQyYjEwNGE2NzU0N2VmYmU3OWM5ZC83MjBwLzcyMHAubTN1OD9pZD0yMzUyMg==?s=1&id=23522&cache=1
-#EXTINF:-1 tvg-name="" tvg-logo="http://cc90.one/AUWM" group-title="Series | Netflix", Round 6: 2° Temporada: 1; Pão e loteria
+#EXTINF:-1 tvg-name="" tvg-logo="[http://cc90.one/AUWM](https://image.tmdb.org/t/p/w342/eZ5U6zoQ0IpokyVWRvm2BJQLG53.jpg)" group-title="Series | Netflix", Round 6: 2° Temporada: 1; Pão e loteria
 https://watch.brplayer.cc/stream/bTN1OC8xMC9jYWRjNWVjNjRiZTk0ZjNlNjBjOGQzZTVjYzBjNjA1MS83MjBwLzcyMHAubTN1OD9pZD0yMzUyNQ==?s=1&id=23525&cache=1
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/08/27/19/55/1504668.jpg" group-title="TERROR", APARTAMENTO 212: A Infestação
