@@ -199,7 +199,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CANAIS: FILMES 24 HORAS", RUNTIME COMEDIA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9vTsBZy.png" group-title="CANAIS: RELIGIOSOS", RBC TV
-http://rbc.directRÁDIOSS.com:1935/rbc/smil:rbc.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://rbc.directRÁDIOS.com:1935/rbc/smil:rbc.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c44a8bd6e3634b22e307678c4f21d127.webp" group-title="CANAIS: RELIGIOSOS", RIT TV Ao Vivo
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/90kb4L2.png" group-title="CANAIS: VARIEDADES", RTV CANAL 38
@@ -209,7 +209,7 @@ https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/96ed4934fbcf5351314bfabfd78a976c.webp" group-title="CANAIS: VARIEDADES", REDE MINAS MG - Belo Horizonte
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w89976065_b2771072.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://imgur.com/n4RVl9W.png" group-title="CANAIS: VARIEDADES", REDE UTV CANAIS SP - Descalvado
-https://utvcdn.acessaRÁDIOSS.com.br/utvcdn/utvcdn.stream/chunklist_w1885837510.m3u8
+https://utvcdn.acessaRÁDIOS.com.br/utvcdn/utvcdn.stream/chunklist_w1885837510.m3u8
 
 #EXTINF:-1 tvg-id="https://tv0800.xyz/" tvg-logo="https://tvsd.com.br/logo-dark.png" group-title="CANAIS SBT", SBT GO
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist.m3u8
@@ -249,7 +249,7 @@ https://tvCANAIS-stream.ebc.com.br/chunks.m3u8
 #EXTINF:-1 tvg-id="https://supertvaovivo.com/" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/tela-viva-tv-150x150.jpg" group-title="CANAIS: DESENHOS | FILMES | SERIADOS | VARIEDADES", TELA VIVA TV
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1609777683.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CEvLASJ.png" group-title="CANAIS: VARIEDADES", TVE ES
-http://rbc.directRÁDIOSS.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+http://rbc.directRÁDIOS.com:1935/rbc/smil:rbc.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/396e2fb0d045414e3b916d4c9a00f602.jpg" group-title="CANAIS: FILMES | VARIEDADES", TV DESTAK
 http://wse01.logicahost.com.br:1935/pascoal/_definst_/pascoal/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="CANAIS: CURIOSIDADES", TV MISTÉRIOS
@@ -349,11 +349,11 @@ https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FNPcGnl.png" group-title="CANAIS: VARIEDADES", TV A7 CALDAS NOVAS
 https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1Nf2kbP.png" group-title="CANAIS: VARIEDADES", TV SUL BAHIA
-https://a.cdni.live/RÁDIOSSmultimidia/RÁDIOSSmultimidia/chunklist_w1711981393.m3u8
+https://a.cdni.live/RÁDIOSmultimidia/RÁDIOSmultimidia/chunklist_w1711981393.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99952bc10e0b9a0eeb6f47cbf054a87e.webp" group-title="CANAIS: VARIEDADES", TV MAIS CANAIS SP - Jundiaí
 https://stmv1.paineltv.net/tvmaisCANAIS/tvmaisCANAIS/chunklist_w644956320.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bQSP2oQ.png" group-title="CANAIS: VARIEDADES", TV LIBERDADE
-https://srv1.paineldevideo.com/liberdadeRÁDIOSSetv/liberdadeRÁDIOSSetv/playlist.m3u8
+https://srv1.paineldevideo.com/liberdadeRÁDIOSetv/liberdadeRÁDIOSetv/playlist.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6ce69330aca40349e3bc55daab6ab12a.webp" group-title="CANAIS: VARIEDADES", TV ALIANÇA CATARINENSE SC - São Bento do Sul
 https://video05.logicahost.com.br/lifesctv/lifesctv/chunklist_w1716450756.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f42f76db35b114255012a25cbe113942.webp"" group-title="CANAIS: VARIEDADES", TV NORDESTE CE - Fortaleza
@@ -1114,14 +1114,6 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://stream3.camara.gov.br/tv2/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="CANAIS: NOTÍCIAS", TV Câmara 3 | CANAIS
 https://stream3.camara.gov.br/tv2/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title="CANAIS: RÁDIOSs", Alpha FM | Goiânia
-https://ice.fabricahost.com.br/alphafm1021
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="CANAIS: RÁDIOSs", BandNews FM | Goiânia
-https://5a57bda70564a.streamlock.net/bandnewsgo/bandnewsgo.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="CANAIS: RÁDIOSs", Cultura do Pará | CANAIS
-https://www.portalcultura.com.br/playerhtml/funtelpa/RÁDIOSS_funtelpa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DPsqixB.png" group-title="CANAIS: RÁDIOSs", RÁDIOS UFRGS | RS CANAIS
-http://RÁDIOSSaovivo.ufrgs.br:8000/stream.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rXEBYmC.png" group-title="CANAIS: VARIEDADES", AWTV | CANAIS
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="CANAIS: VARIEDADES", Band | RBA TV | PA CANAIS
@@ -1158,7 +1150,7 @@ https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 http://wz3.dnip.com.br/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VZaj5Oc.png" group-title="CANAIS: VARIEDADES", Primer TV | CANAIS
 http://200.194.238.229:8383/live/primer/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RDekR7e.png" group-title="CANAIS: VARIEDADES", Record | TV Conquista | MT CANAIS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RDekR7e.png" group-title="CANAIS RECORD", Record | TV Conquista | MT CANAIS
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTWxRSp.png" group-title="CANAIS: VARIEDADES", Rede CANAIS | TBO | Mato Grosso
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
@@ -1169,7 +1161,7 @@ https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="CANAIS: VARIEDADES", Rede TV | TV Arapuan | PB CANAIS
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0HK61zq.png" group-title="CANAIS: VARIEDADES", Rede UTV | CANAIS
-https://utvsoultv.acessaRÁDIOSS.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8
+https://utvsoultv.acessaRÁDIOS.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS SBT", SBT | Bem TV | Tangará da Serra | MT
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS SBT", SBT | TV Cidade Verde | Piauí
@@ -1275,18 +1267,6 @@ https://watch.brplayer.cc/stream/bTN1OC8xMC82NDZkMGMzYjY1YzEyMmY5ZGQ5MzFjYjlmOTR
 https://watch.brplayer.cc/stream/bTN1OC8xMC82MDI2N2JhYzY3MzJjN2E4MWVjODExY2M1YzljMDg1OS83MjBwLzcyMHAubTN1OD9pZD0yMzUzMQ==?s=1&id=23531&cache=1
 #EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/qZH5NZPA2N9ykpDd0dOQTmVJiVR.jpg" group-title="SÉRIES", Round 6: 2° Temporada; 7. Amigos ou Inimigos?
 https://watch.brplayer.cc/stream/bTN1OC8xMC80MTllNDQxMGRhMTUyYzc0ZDcyNzI3MDI4M2NiOTRjZS83MjBwLzcyMHAubTN1OD9pZD0yMzUzMg==?s=1&id=23532&cache=1
-
-############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ##############
-#EXTINF:-1 tvg-logo="https://www.acheRÁDIOSS.com.br/_next/image/?url=https%3A%2F%2Fwww.acheRÁDIOSS.com.br%2Fmedia%2Fimagens%2F101-fm-macae.jpg&w=256&q=75" group-title="RÁDIOS", FM 101
-http://nl.digitalrm.pt:8012/stream
-#EXTINF:-1 tvg-logo="https://static.tudoRÁDIOSS.com/ins/w:90/plain/https://tudoRÁDIOSS.com/img/uploads/RÁDIOSS/RÁDIOSS_1049riodasostras.png" group-title="RÁDIOS", 104.9 FM ENERGIA
-https://servidor35.brlogic.com:8192/live
-#EXTINF:-1 tvg-logo="https://static.tudoRÁDIOSS.com/ins/w:90/plain/https://tudoRÁDIOSS.com/img/uploads/RÁDIOSS/651470ff96ffb.png" group-title="RÁDIOS", FM O DIA
-https://wz7.servidoresCANAIS.com:8274/stream
-#EXTINF:-1 tvg-logo="https://img.RÁDIOSS.com.br/RÁDIOSS/lg/RÁDIOSS14174_1578911830.png" group-title="RÁDIOS", RÁDIO NOVO RIO 87.9 FM
-http://192.99.79.240:8019/stream
-#EXTINF:-1 tvg-logo="https://redehits.fm/wp-content/uploads/2024/03/Logo-Perfil.png" group-title="RÁDIOS", HITS FM 106,9
-https://wz7.servidoresCANAIS.com:9984/stream?1711233278253
 
 ############## FILMES ############## FILMES ############## FILMES ############## FILMES ############## FILMES ############## FILMES ############## FILMES ############## FILMES ##############
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/08/27/19/55/1504668.jpg" group-title="TERROR", APARTAMENTO 212: A Infestação
@@ -2579,3 +2559,24 @@ http://cdn.adultiptv.net/bigass.m3u8
 http://cdn.adultiptv.net/bigdick.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX", AdultIPTV.net Peitos Grandes (720p)
 http://cdn.adultiptv.net/bigtits.m3u8
+
+############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ##############
+
+#EXTINF:-1 tvg-logo="https://www.acheRÁDIOS.com.br/_next/image/?url=https%3A%2F%2Fwww.acheRÁDIOS.com.br%2Fmedia%2Fimagens%2F101-fm-macae.jpg&w=256&q=75" group-title="RÁDIOS", FM 101 | RJ
+http://nl.digitalrm.pt:8012/stream
+#EXTINF:-1 tvg-logo="https://static.tudoRÁDIOS.com/ins/w:90/plain/https://tudoRÁDIOS.com/img/uploads/RÁDIOS/RÁDIOS_1049riodasostras.png" group-title="RÁDIOS", 104.9 FM ENERGIA | RJ
+https://servidor35.brlogic.com:8192/live
+#EXTINF:-1 tvg-logo="https://static.tudoRÁDIOS.com/ins/w:90/plain/https://tudoRÁDIOS.com/img/uploads/RÁDIOS/651470ff96ffb.png" group-title="RÁDIOS", FM O DIA | RJ
+https://wz7.servidoresCANAIS.com:8274/stream
+#EXTINF:-1 tvg-logo="https://img.RÁDIOS.com.br/RÁDIOS/lg/RÁDIOS14174_1578911830.png" group-title="RÁDIOS", RÁDIO NOVO RIO 87.9 FM | RJ
+http://192.99.79.240:8019/stream
+#EXTINF:-1 tvg-logo="https://redehits.fm/wp-content/uploads/2024/03/Logo-Perfil.png" group-title="RÁDIOS", HITS FM 106,9 | RJ
+https://wz7.servidoresCANAIS.com:9984/stream?1711233278253
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title="RÁDIOS", Alpha FM | Goiânia
+https://ice.fabricahost.com.br/alphafm1021
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIOS", BandNews FM | Goiânia
+https://5a57bda70564a.streamlock.net/bandnewsgo/bandnewsgo.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="RÁDIOS", Cultura do Pará
+https://www.portalcultura.com.br/playerhtml/funtelpa/RÁDIOS_funtelpa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DPsqixB.png" group-title="RÁDIOS", RÁDIOS UFRGS | RS
+http://RÁDIOSaovivo.ufrgs.br:8000/stream.mp3
