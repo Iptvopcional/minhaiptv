@@ -5,7 +5,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc0007
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="CANAIS: INFANTIS", ANIME E GEEK
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2022/06/amazon.png" group-title="CANAIS: VARIEDADES", AMAZON SAT
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+https://amazonsat.CANAISstream.com.br/hls/amazonsat/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Band_logo_2018.png" group-title="CANAIS: VARIEDADES", BAND SP INTERIOR
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
@@ -15,7 +15,7 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2009673231.m3u8
 https://stmv1.srvif.com/canal29/canal29/chunklist_w1550228250.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="CANAIS: ENTRETENIMENTO", BET TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/brasiloeste.png" group-title="CANAIS: VARIEDADES", BRASIL OESTE (MT)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CANAISoeste.png" group-title="CANAIS: VARIEDADES", CANAIS OESTE (MT)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="CANAIS: FILMES 24 HORAS", CINE COMÉDIA
@@ -40,10 +40,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="CANAIS: FILMES 24 HORAS", CINE CLÁSSICOS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="https://combrasiltv.com.br/" tvg-logo="https://3.bp.blogspot.com/-3-qGjUB7_K0/XWnV3jUTPfI/AAAAAAAABoU/KxHJ ExkQAAc0sBd_3u62yCA04XfFpQWkACLcBGAs/s320/Screenshot_2019-08-30-23-03-37.png" group-title="CANAIS: VARIEDADES", COM BRASIL
+#EXTINF:-1 tvg-id="https://comCANAIStv.com.br/" tvg-logo="https://3.bp.blogspot.com/-3-qGjUB7_K0/XWnV3jUTPfI/AAAAAAAABoU/KxHJ ExkQAAc0sBd_3u62yCA04XfFpQWkACLcBGAs/s320/Screenshot_2019-08-30-23-03-37.png" group-title="CANAIS: VARIEDADES", COM CANAIS
 https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w467414107.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: VARIEDADES", CANAL 25 JUNDIAÍ
-https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+https://stream01.msolutionCANAIS.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/28210d4e070cd9ecede7cdd61383ec9c.jpg" group-title="CANAIS: VARIEDADES", CANAL TV RIO
 https://cdn.live.br1.jmvstream.com/w/AVJ-15127/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-id="https://www.olhosnatv.com.br/" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CANAIS: VARIEDADES", CNT SP
@@ -66,7 +66,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-id="ext" group-title="CANAIS: HUMOR", COMÉDIA CENTRAL SOUTH PARK (720p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/84998832d7465ef731fc0e141e6c5efa.webp" group-title="CANAIS: VARIEDADES", CENTRAL TV BRASIL PR-Curitiba
+#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/84998832d7465ef731fc0e141e6c5efa.webp" group-title="CANAIS: VARIEDADES", CENTRAL TV CANAIS PR-Curitiba
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w89325004.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/canal29.jpg" group-title="CANAIS: VARIEDADES", CANAL 29 - WEBTV
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
@@ -89,7 +89,7 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=65e4a7cf-0b18-4 b0a-97d2-7eadc239c740&deviceLat=-22.4545&deviceLon=-41.9492&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=BR&sid=ee3cb387-3d81-11eb-8d41-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="CANAIS: FILMES 24 HORAS", FILMES AÇÃO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/3cc5f47146e7d714b7ba66b930d4acda.png" group-title="CANAIS: FILMES 24 HORAS", FILMES SUSPENSOS
+#EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/3cc5f47146e7d714b7ba66b930d4acda.png" group-title="CANAIS: FILMES 24 HORAS", FILMES SUSPENSES
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://images.iptvmate.net/tvglogo/c9760ad5aef24dc18bc9d49895d31f79.png" group-title="CANAIS: FILMES 24 HORAS", FILMES NACIONAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -199,7 +199,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CANAIS: FILMES 24 HORAS", RUNTIME COMEDIA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9vTsBZy.png" group-title="CANAIS: RELIGIOSOS", RBC TV
-http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://rbc.directRÁDIOSS.com:1935/rbc/smil:rbc.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c44a8bd6e3634b22e307678c4f21d127.webp" group-title="CANAIS: RELIGIOSOS", RIT TV Ao Vivo
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/90kb4L2.png" group-title="CANAIS: VARIEDADES", RTV CANAL 38
@@ -208,8 +208,8 @@ https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
 https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/96ed4934fbcf5351314bfabfd78a976c.webp" group-title="CANAIS: VARIEDADES", REDE MINAS MG - Belo Horizonte
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w89976065_b2771072.m3u8
-#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://imgur.com/n4RVl9W.png" group-title="CANAIS: VARIEDADES", REDE UTV BRASIL SP - Descalvado
-https://utvcdn.acessaradios.com.br/utvcdn/utvcdn.stream/chunklist_w1885837510.m3u8
+#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://imgur.com/n4RVl9W.png" group-title="CANAIS: VARIEDADES", REDE UTV CANAIS SP - Descalvado
+https://utvcdn.acessaRÁDIOSS.com.br/utvcdn/utvcdn.stream/chunklist_w1885837510.m3u8
 
 #EXTINF:-1 tvg-id="https://tv0800.xyz/" tvg-logo="https://tvsd.com.br/logo-dark.png" group-title="CANAIS SBT", SBT GO
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist.m3u8
@@ -244,12 +244,12 @@ http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/
 https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://1.bp.blogspot.com/-prllIM4jwE8/X2-G2FwMizI/AAAAAAADXE/75oV-qj3jR8eH5jfjLgDRMxmdcUVJ-nkgCPcBGAYYCw/s0/TV%2BJAPI.png" group-title="CANAIS: CLÁSSICOS | FILMES | SERIADOS | VARIEDADES", TV JAPI
 https://stmv1.paineltv.net/tvjapi/tvjapi/chunklist_w430347253.m3u8
-#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/041a53eb1b2c6c9d65151c102342544b.webp" group-title="CANAIS: VARIEDADES", TV BRASIL DF - Brasília
-https://tvbrasil-stream.ebc.com.br/chunks.m3u8
+#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/041a53eb1b2c6c9d65151c102342544b.webp" group-title="CANAIS: VARIEDADES", TV CANAIS DF - Brasília
+https://tvCANAIS-stream.ebc.com.br/chunks.m3u8
 #EXTINF:-1 tvg-id="https://supertvaovivo.com/" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/tela-viva-tv-150x150.jpg" group-title="CANAIS: DESENHOS | FILMES | SERIADOS | VARIEDADES", TELA VIVA TV
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1609777683.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CEvLASJ.png" group-title="CANAIS: VARIEDADES", TVE ES
-http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+http://rbc.directRÁDIOSS.com:1935/rbc/smil:rbc.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/396e2fb0d045414e3b916d4c9a00f602.jpg" group-title="CANAIS: FILMES | VARIEDADES", TV DESTAK
 http://wse01.logicahost.com.br:1935/pascoal/_definst_/pascoal/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="CANAIS: CURIOSIDADES", TV MISTÉRIOS
@@ -349,11 +349,11 @@ https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FNPcGnl.png" group-title="CANAIS: VARIEDADES", TV A7 CALDAS NOVAS
 https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1Nf2kbP.png" group-title="CANAIS: VARIEDADES", TV SUL BAHIA
-https://a.cdni.live/radiomultimidia/radiomultimidia/chunklist_w1711981393.m3u8
-#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99952bc10e0b9a0eeb6f47cbf054a87e.webp" group-title="CANAIS: VARIEDADES", TV MAIS BRASIL SP - Jundiaí
-https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist_w644956320.m3u8
+https://a.cdni.live/RÁDIOSSmultimidia/RÁDIOSSmultimidia/chunklist_w1711981393.m3u8
+#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99952bc10e0b9a0eeb6f47cbf054a87e.webp" group-title="CANAIS: VARIEDADES", TV MAIS CANAIS SP - Jundiaí
+https://stmv1.paineltv.net/tvmaisCANAIS/tvmaisCANAIS/chunklist_w644956320.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bQSP2oQ.png" group-title="CANAIS: VARIEDADES", TV LIBERDADE
-https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
+https://srv1.paineldevideo.com/liberdadeRÁDIOSSetv/liberdadeRÁDIOSSetv/playlist.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6ce69330aca40349e3bc55daab6ab12a.webp" group-title="CANAIS: VARIEDADES", TV ALIANÇA CATARINENSE SC - São Bento do Sul
 https://video05.logicahost.com.br/lifesctv/lifesctv/chunklist_w1716450756.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f42f76db35b114255012a25cbe113942.webp"" group-title="CANAIS: VARIEDADES", TV NORDESTE CE - Fortaleza
@@ -387,7 +387,7 @@ https://video03.logicahost.com.br/tvsaobernardo/tvsaobernardo/chunklist_w1615947
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/060dffc84216523aea0a7f765ec52285.webp" group-title="CANAIS: VARIEDADES", TV DIÁRIO DO SERTAO PB-Cajazeiras
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/chunklist_w1927803429.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5hzyZO1.png" group-title="CANAIS: VARIEDADES", TV ITAPETININGA
-https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+https://stream01.msolutionCANAIS.com.br/hls/tvitape/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6KHGXbM.png" group-title="CANAIS: VARIEDADES", TCM 10
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Klwjy9d.png" group-title="CANAIS: VARIEDADES", TV RIO MADEIRA
@@ -416,8 +416,8 @@ https://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist.m3u8
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w1992804748.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vq7j49p.png" group-title="CANAIS: VARIEDADES", TV INTERATIVA
 http://srv2.zcast.com.br/tvinterativa/tvinterativa/playlist-480p.m3u8
-#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5f33f7ec5deba04ed06cb0aa82bda5fa.webp" group-title="CANAIS: VARIEDADES", TVN BRASIL DF - Brasília
-https://5a2b083e9f360.streamlock.net/tvnbrasil/tvnbrasil.sdp/chunklist_w857422466.m3u8
+#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5f33f7ec5deba04ed06cb0aa82bda5fa.webp" group-title="CANAIS: VARIEDADES", TVN CANAIS DF - Brasília
+https://5a2b083e9f360.streamlock.net/tvnCANAIS/tvnCANAIS.sdp/chunklist_w857422466.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BTfw3EI.png" group-title="CANAIS: VARIEDADES", TV GUARAPARI
 http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rLGrmCU.png" group-title="CANAIS: VARIEDADES", TV SUL DE MINAS
@@ -442,7 +442,7 @@ https://video05.logicahost.com.br/allegrowebtv/allegrowebtv/chunklist_w158148001
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://imgur.com/hFkrSZD.png" group-title="CANAIS: VARIEDADES", UTV PR - Londrina
 https://video05.logicahost.com.br/utvtv/utvtv/chunklist_w323582028.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Dx6Yqy.png" group-title="CANAIS: VARIEDADES", UNISUL TV
-https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=4792034880553908000
+https://sitetv.CANAISstream.com.br/hls/sitetv/index.m3u8?token=4792034880553908000
 
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png" group-title="CANAIS: VARIEDADES", VINTAGE TV SP - Cotia
 https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w1811945893.m3u8
@@ -456,765 +456,765 @@ https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w1024616718.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/274cc93fe150f046c1d083edaac1a60f.jpg" group-title="CANAIS: INFANTIS", 3ABN KIDS : Internacional
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
-########### Brasil: anime e tokusatsu ########### Brasil: anime e tokusatsu ########### Brasil: anime e tokusatsu ########### Brasil: anime e tokusatsu ########### Brasil: anime e tokusatsu ########### Brasil: anime e tokusatsu ########### Brasil: anime e tokusatsu ################
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Anime | Pluto TV Brasil
+########### CANAIS ########### CANAIS ########### CANAIS ########### CANAIS ########### CANAIS ########### CANAIS ########### CANAIS ################
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Anime | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Anime | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Anime | Pluto TV CANAIS ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Anime Ação | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Anime Ação | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Anime Ação | link 2
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Anime Ação | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Beyblade | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Beyblade | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Beyblade | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Beyblade | Pluto TV CANAIS | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Boruto | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Boruto | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656f389c3944b60008e5bdab/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Boruto | Pluto TV Brasil - link 2
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Boruto | Pluto TV CANAIS - link 2
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656f389c3944b60008e5bdab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/646663b01593940008990a57/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Captain Tsubasa | Super Campeões | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/646663b01593940008990a57/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Captain Tsubasa | Super Campeões | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/646663b01593940008990a57/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Captain Tsubasa | Super Campeões | link 2 | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/646663b01593940008990a57/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Captain Tsubasa | Super Campeões | link 2 | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Death Note | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Death Note | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Death Note | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Death Note | Pluto TV CANAIS ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Hunter x Hunter | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Hunter x Hunter | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65d9167818036500080e8780/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Hunter x Hunter | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Hunter x Hunter | Pluto TV CANAIS ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65d9167818036500080e8780/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Hunter x Hunter | Pluto TV Brasil ~ link 3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Hunter x Hunter | Pluto TV CANAIS ~ link 3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65d9167818036500080e8780/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66b26681d2d50d00083abe8b/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", InuYasha | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66b26681d2d50d00083abe8b/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", InuYasha | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66b26681d2d50d00083abe8b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66c7982f6838ee00085f0d24/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", JoJo's Bizarre Adventure | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66c7982f6838ee00085f0d24/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", JoJo's Bizarre Adventure | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66c7982f6838ee00085f0d24/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Naruto | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Naruto | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Naruto | link 2 | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Naruto | link 2 | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Naruto Shippuden | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Naruto Shippuden | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c92f965580090008084968/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Naruto Shippuden | link 2 | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Naruto Shippuden | link 2 | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c92f965580090008084968/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", One Piece | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", One Piece | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 CANAIShttps://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Super Onze | Brasil: infanto-juvenis
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Super Onze | CANAIS: INFANTO-JUVENIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988c2750108d00072e2686/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Super Onze | link 2 | Brasil: infanto-juvenis
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Super Onze | link 2 | CANAIS: INFANTO-JUVENIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988c2750108d00072e2686/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Tokusato | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Tokusato | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Tokusato | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Tokusato | Pluto TV CANAIS ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Tokusato | Pluto TV Brasil ~ link 3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Tokusato | Pluto TV CANAIS ~ link 3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63988a50be012600070f5db3/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Yu-Gi-Oh! | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63988a50be012600070f5db3/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Yu-Gi-Oh! | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988a50be012600070f5db3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63988a50be012600070f5db3/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Yu-Gi-Oh! | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63988a50be012600070f5db3/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Yu-Gi-Oh! | Pluto TV CANAIS ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988a50be012600070f5db3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63988a50be012600070f5db3/colorLogoPNG.png" group-title="CANAIS: anime e tokusatsu", Yu-Gi-Oh! | Pluto TV Brasil ~ link 3
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63988a50be012600070f5db3/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Yu-Gi-Oh! | Pluto TV CANAIS ~ link 3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63988a50be012600070f5db3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="CANAIS: cinema", Adrenalina Freezone | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="CANAIS: CINEMA", Adrenalina Freezone | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="CANAIS: cinema", Adrenalina Freezone | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="CANAIS: CINEMA", Adrenalina Freezone | Pluto TV CANAIS ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="CANAIS: cinema", Adrenalina Freezone | Pluto TV Brasil ~ link 3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="CANAIS: CINEMA", Adrenalina Freezone | Pluto TV CANAIS ~ link 3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="CANAIS: cinema", Cine Clássicos | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="CANAIS: CINEMA", Cine Clássicos | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="CANAIS: cinema", Cine Clássicos | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="CANAIS: CINEMA", Cine Clássicos | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="CANAIS: cinema", Cine Comédia | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="CANAIS: CINEMA", Cine Comédia | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="CANAIS: cinema", Cine Comédia | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="CANAIS: CINEMA", Cine Comédia | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8??deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="CANAIS: cinema", Cine Comédia Romântica | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="CANAIS: CINEMA", Cine Comédia Romântica | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="CANAIS: cinema", Cine Comédia Romântica | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="CANAIS: CINEMA", Cine Comédia Romântica | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="CANAIS: cinema", Cine Crime | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="CANAIS: CINEMA", Cine Crime | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="CANAIS: cinema", Cine Crime | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="CANAIS: CINEMA", Cine Crime | Pluto TV CANAIS | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="CANAIS: cinema", Cine Drama | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="CANAIS: CINEMA", Cine Drama | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="CANAIS: cinema", Cine Drama | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="CANAIS: CINEMA", Cine Drama | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="CANAIS: cinema", Cine Família | Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="CANAIS: CINEMA", Cine Família | CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="CANAIS: cinema", Cine Família | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="CANAIS: CINEMA", Cine Família | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG.png" group-title="CANAIS: cinema", Cine Inspiração | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG.png" group-title="CANAIS: CINEMA", Cine Inspiração | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa991b1f09e020007e78626/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG.png" group-title="CANAIS: cinema", Cine Inspiração | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG.png" group-title="CANAIS: CINEMA", Cine Inspiração | Pluto TV CANAIS | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa991b1f09e020007e78626/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="CANAIS: cinema", Cine Romance | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="CANAIS: CINEMA", Cine Romance | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="CANAIS: cinema", Cine Romance | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="CANAIS: CINEMA", Cine Romance | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS: cinema", Cine Sucessos | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS: CINEMA", Cine Sucessos | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS: cinema", Cine Sucessos | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS: CINEMA", Cine Sucessos | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="CANAIS: cinema", Cine Terror | Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="CANAIS: CINEMA", Cine Terror | CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="CANAIS: cinema", Cine Terror | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="CANAIS: CINEMA", Cine Terror | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="CANAIS: cinema", CineMonde | Soul TV Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="CANAIS: CINEMA", CineMonde | Soul TV CANAIS
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="CANAIS: cinema", DarkFlix HD | Soul TV Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="CANAIS: CINEMA", DarkFlix HD | Soul TV CANAIS
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="CANAIS: cinema", Ficção Científica | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="CANAIS: CINEMA", Ficção Científica | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="CANAIS: cinema", Ficção Científica | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="CANAIS: CINEMA", Ficção Científica | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="CANAIS: cinema", Filmelier | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="CANAIS: CINEMA", Filmelier | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="CANAIS: cinema", Filmelier | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="CANAIS: CINEMA", Filmelier | Pluto TV CANAIS | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="CANAIS: cinema", Filmes Ação | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="CANAIS: CINEMA", Filmes Ação | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="CANAIS: cinema", Filmes Ação | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="CANAIS: CINEMA", Filmes Ação | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="CANAIS: cinema", Filmes Nacionais | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="CANAIS: CINEMA", Filmes Nacionais | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="CANAIS: cinema", Filmes Nacionais | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="CANAIS: CINEMA", Filmes Nacionais | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="CANAIS: cinema", Filmes Suspense | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="CANAIS: CINEMA", Filmes Suspense | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="CANAIS: cinema", Filmes Suspense | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="CANAIS: CINEMA", Filmes Suspense | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DF6CIfC.png" group-title="CANAIS: cinema", MovieSphere | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DF6CIfC.png" group-title="CANAIS: CINEMA", MovieSphere | CANAIS
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="CANAIS: cinema", MyTime Movie Network | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="CANAIS: CINEMA", MyTime Movie Network | CANAIS
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS: cinema", RunTime | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS: CINEMA", RunTime | CANAIS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS: cinema", RunTime Ação | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS: CINEMA", RunTime Ação | CANAIS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS: cinema", RunTime Ação | Brasil ~ link 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS: CINEMA", RunTime Ação | CANAIS ~ link 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6128
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS: cinema", RunTime CinEspanto | Suspense e Terror | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS: CINEMA", RunTime CinEspanto | Suspense e Terror | CANAIS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS: cinema", RunTime Comédia | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS: CINEMA", RunTime Comédia | CANAIS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS: cinema", RunTime Crime | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS: CINEMA", RunTime Crime | CANAIS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS: cinema", RunTime Família | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS: CINEMA", RunTime Família | CANAIS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS: cinema", RunTime Romance | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS: CINEMA", RunTime Romance | CANAIS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="CANAIS: cinema", RunTime TV e Filmes | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="CANAIS: CINEMA", RunTime TV e Filmes | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="CANAIS: cinema", RunTime TV e Filmes | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png" group-title="CANAIS: CINEMA", RunTime TV e Filmes | Pluto TV CANAIS | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="CANAIS: cinema", Soul Cine Clube | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="CANAIS: CINEMA", Soul Cine Clube | CANAIS
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="CANAIS: cristianismo", Novo Tempo | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="CANAIS: CRISTIANISMO", Novo Tempo | CANAIS
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H6oHlis.png" group-title="CANAIS: cristianismo", Rede Gospel | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H6oHlis.png" group-title="CANAIS: CRISTIANISMO", Rede Gospel | CANAIS
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLfsyx7.png" group-title="CANAIS: cristianismo", Rede Mundial | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLfsyx7.png" group-title="CANAIS: CRISTIANISMO", Rede Mundial | CANAIS
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rNizzxd.png" group-title="CANAIS: cristianismo", Rede Super | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rNizzxd.png" group-title="CANAIS: CRISTIANISMO", Rede Super | CANAIS
 https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="CANAIS: cristianismo", Rede Vida | Brasil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="CANAIS: CRISTIANISMO", Rede Vida | CANAIS
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f35Nxu2.png" group-title="CANAIS: cristianismo", SBN Global
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f35Nxu2.png" group-title="CANAIS: CRISTIANISMO", SBN Global
 https://acesso.ecast.site:3500/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tEQn90j.png" group-title="CANAIS: cristianismo", Tenda TV | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tEQn90j.png" group-title="CANAIS: CRISTIANISMO", Tenda TV | CANAIS
 https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="CANAIS: cristianismo", TV Aparecida | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="CANAIS: CRISTIANISMO", TV Aparecida | CANAIS
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png" group-title="CANAIS: cristianismo", TV Aparecida | PUC TV Goiás
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png" group-title="CANAIS: CRISTIANISMO", TV Aparecida | PUC TV Goiás
 https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvmanabrasil.com/wp-content/uploads/2023/05/LOGO_TV_MANA_BRASIL_V4-396x108-1.png" group-title="CANAIS: cristianismo", TV Maná | Brasil
-https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OYtftmG.png" group-title="CANAIS: cristianismo", TV Mão Amiga | Brasil
+#EXTINF:-1 tvg-logo="https://tvmanaCANAIS.com/wp-content/uploads/2023/05/LOGO_TV_MANA_CANAIS_V4-396x108-1.png" group-title="CANAIS: CRISTIANISMO", TV Maná | CANAIS
+https://w1.manasat.com/tvmana-CANAIS/smil:tvmana-CANAIS.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OYtftmG.png" group-title="CANAIS: CRISTIANISMO", TV Mão Amiga | CANAIS
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H5zWaCa.png" group-title="CANAIS: cristianismo", TV Pai Eterno | GO Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H5zWaCa.png" group-title="CANAIS: CRISTIANISMO", TV Pai Eterno | GO CANAIS
 https://video09.logicahost.com.br/paieterno/paieterno/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6UoUybZ.png" group-title="CANAIS: cristianismo", TV Verdade | Brasil e Filipinas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6UoUybZ.png" group-title="CANAIS: CRISTIANISMO", TV Verdade | CANAIS e Filipinas
 https://acesso.ecast.site:3104/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title="CANAIS: educativos e documentários", Animais | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", Animais | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title="CANAIS: educativos e documentários", Animais | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", Animais | Pluto TV CANAIS | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="CANAIS: educativos e documentários", Documentários | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", Documentários | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="CANAIS: educativos e documentários", Documentários | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", Documentários | Pluto TV CANAIS | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/664df5221dc48600087592b1/colorLogoPNG.png" group-title="CANAIS: educativos e documentários", Manual do Mundo | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/664df5221dc48600087592b1/colorLogoPNG.png" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", Manual do Mundo | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/664df5221dc48600087592b1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/colorLogoPNG.png" group-title="CANAIS: educativos e documentários", Mistérios sem Solução | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/colorLogoPNG.png" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", Mistérios sem Solução | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b5c5a064163d0007b2efe6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/colorLogoPNG.png" group-title="CANAIS: educativos e documentários", Mistérios sem Solução | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/colorLogoPNG.png" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", Mistérios sem Solução | Pluto TV CANAIS | link 2
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b5c5a064163d0007b2efe6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="CANAIS: educativos e documentários", Natureza | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", Natureza | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="CANAIS: educativos e documentários", Natureza | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", Natureza | Pluto TV CANAIS ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dUdZVhT.png" group-title="CANAIS: educativos e documentários", Phoenix TV | Soul TV Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dUdZVhT.png" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", Phoenix TV | Soul TV CANAIS
 http://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="CANAIS: educativos e documentários", Smithsonian Channel | legendado | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", Smithsonian Channel | legendado | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="CANAIS: educativos e documentários", Smithsonian Channel | link 2 | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", Smithsonian Channel | link 2 | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/WAZB0H8e-u5ypkyl_lol08jLETezqqNbtIaafgp7O5m_WtpSb8OVXqmNO0_GW2Q8UFXdXB2E1w=s400-c-k-c0x00ffffff-no-rj" group-title="CANAIS: educativos e documentários", Space Today TV | Brasil
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/WAZB0H8e-u5ypkyl_lol08jLETezqqNbtIaafgp7O5m_WtpSb8OVXqmNO0_GW2Q8UFXdXB2E1w=s400-c-k-c0x00ffffff-no-rj" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", Space Today TV | CANAIS
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png" group-title="CANAIS: educativos e documentários", Rede Minas | Brasil
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", Rede Minas | CANAIS
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="CANAIS: educativos e documentários", Turbo | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", Turbo | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="CANAIS: educativos e documentários", Turbo | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", Turbo | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/faZEzAh.png" group-title="CANAIS: educativos e documentários", TV Brasil Web
-https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="CANAIS: educativos e documentários", TV Brasil | RBA TV | Rio do Sul | SC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/faZEzAh.png" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", TV CANAIS Web
+https://tvCANAIS-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", TV CANAIS | RBA TV | Rio do Sul | SC
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg" group-title="CANAIS: educativos e documentários", TV Brasil | TVE ~ RS
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", TV CANAIS | TVE ~ RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="CANAIS: educativos e documentários", TV Cultura | São Paulo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", TV Cultura | São Paulo
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r18rHyH.png" group-title="CANAIS: educativos e documentários", TV Cultura | Catve | PR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r18rHyH.png" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", TV Cultura | Catve | PR
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/colorLogoPNG.png" group-title="CANAIS: educativos e documentários", TV Cultura | episódios | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/colorLogoPNG.png" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", TV Cultura | episódios | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/77Vszxq.png" group-title="CANAIS: educativos e documentários", TV Escola | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/77Vszxq.png" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", TV Escola | CANAIS
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cJdj9OP.png" group-title="CANAIS: educativos e documentários", Universidade da Pessoa | Soul TV Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJdj9OP.png" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", Universidade da Pessoa | Soul TV CANAIS
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0oUtwJz.png" group-title="CANAIS: educativos e documentários", XR Health Brasil | Soul TV Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0oUtwJz.png" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", XR Health CANAIS | Soul TV CANAIS
 http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64df7ab4dfa32400083c517b/colorLogoPNG.png" group-title="CANAIS: esportes e e-sports", DAZN Combat - inglês e português | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64df7ab4dfa32400083c517b/colorLogoPNG.png" group-title="CANAIS: ESPORTES E E-SPORTS", DAZN Combat - inglês e português | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64df7ab4dfa32400083c517b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64df7ab4dfa32400083c517b/colorLogoPNG.png" group-title="CANAIS: esportes e e-sports", DAZN Combat - inglês e português | Pluto TV Brasil - link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64df7ab4dfa32400083c517b/colorLogoPNG.png" group-title="CANAIS: ESPORTES E E-SPORTS", DAZN Combat - inglês e português | Pluto TV CANAIS - link 2
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64df7ab4dfa32400083c517b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="CANAIS: esportes e e-sports", Esportes | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="CANAIS: ESPORTES E E-SPORTS", Esportes | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="CANAIS: esportes e e-sports", Esportes | link 2 | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="CANAIS: ESPORTES E E-SPORTS", Esportes | link 2 | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/64c815e8a1c6130008fef928/colorLogoPNG.png" group-title="CANAIS: esportes e e-sports", Gaming Ubisoft | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/64c815e8a1c6130008fef928/colorLogoPNG.png" group-title="CANAIS: ESPORTES E E-SPORTS", Gaming Ubisoft | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c815e8a1c6130008fef928livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/64c815e8a1c6130008fef928/colorLogoPNG.png" group-title="CANAIS: esportes e e-sports", Gaming Ubisoft | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/64c815e8a1c6130008fef928/colorLogoPNG.png" group-title="CANAIS: ESPORTES E E-SPORTS", Gaming Ubisoft | Pluto TV CANAIS ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c815e8a1c6130008fef928livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/64c815e8a1c6130008fef928/colorLogoPNG.png" group-title="CANAIS: esportes e e-sports", Gaming Ubisoft | Pluto TV Brasil ~ link 3
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/64c815e8a1c6130008fef928/colorLogoPNG.png" group-title="CANAIS: ESPORTES E E-SPORTS", Gaming Ubisoft | Pluto TV CANAIS ~ link 3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c815e8a1c6130008fef928livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65a6818c7bdc8d0008457b21/colorLogoPNG.png" group-title="CANAIS: esportes e e-sports", MAVTV Brasil | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65a6818c7bdc8d0008457b21/colorLogoPNG.png" group-title="CANAIS: ESPORTES E E-SPORTS", MAVTV CANAIS | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65a6818c7bdc8d0008457b21/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65a6818c7bdc8d0008457b21/colorLogoPNG.png" group-title="CANAIS: esportes e e-sports", MAVTV Brasil | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65a6818c7bdc8d0008457b21/colorLogoPNG.png" group-title="CANAIS: ESPORTES E E-SPORTS", MAVTV CANAIS | Pluto TV CANAIS ~ link 2
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a6818c7bdc8d0008457b21/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65a6818c7bdc8d0008457b21/colorLogoPNG.png" group-title="CANAIS: esportes e e-sports", MAVTV Brasil | Pluto TV Brasil ~ link 3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65a6818c7bdc8d0008457b21/colorLogoPNG.png" group-title="CANAIS: ESPORTES E E-SPORTS", MAVTV CANAIS | Pluto TV CANAIS ~ link 3
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65a6818c7bdc8d0008457b21/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="CANAIS: esportes e e-sports", Motorvision | Brasil 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="CANAIS: ESPORTES E E-SPORTS", Motorvision | CANAIS 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="CANAIS: esportes e e-sports", Motorvision | Brasil 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="CANAIS: ESPORTES E E-SPORTS", Motorvision | CANAIS 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64f6180130ab3300083d896b/colorLogoPNG.png" group-title="CANAIS: esportes e e-sports", PFL MMA | em inglês | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64f6180130ab3300083d896b/colorLogoPNG.png" group-title="CANAIS: ESPORTES E E-SPORTS", PFL MMA | em inglês | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64f6180130ab3300083d896b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64f6180130ab3300083d896b/colorLogoPNG.png" group-title="CANAIS: esportes e e-sports", PFL MMA | em inglês | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64f6180130ab3300083d896b/colorLogoPNG.png" group-title="CANAIS: ESPORTES E E-SPORTS", PFL MMA | em inglês | Pluto TV CANAIS | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64f6180130ab3300083d896b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kySWaiL.png" group-title="CANAIS: esportes e e-sports", Ponte Preta | Campinas SP | Soul TV Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kySWaiL.png" group-title="CANAIS: ESPORTES E E-SPORTS", Ponte Preta | Campinas SP | Soul TV CANAIS
 https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FStHrVv.png" group-title="CANAIS: esportes e e-sports", Sport Club Internacional | Porto Alegre RS | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FStHrVv.png" group-title="CANAIS: ESPORTES E E-SPORTS", Sport Club Internacional | Porto Alegre RS | CANAIS
 https://clubeinternacionalcod.akamaized.net/internacional/internacional/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="CANAIS: esportes e e-sports", World Poker Tour | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="CANAIS: ESPORTES E E-SPORTS", World Poker Tour | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="CANAIS: esportes e e-sports", World Poker Tour | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="CANAIS: ESPORTES E E-SPORTS", World Poker Tour | Pluto TV CANAIS | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZO2qtTH.png" group-title="CANAIS: humor; novelas e séries", 011 News | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZO2qtTH.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", 011 News | CANAIS
 https://011news.akamaized.net/011news/011news/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="CANAIS: humor; novelas e séries", Assombrações | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Assombrações | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="CANAIS: humor; novelas e séries", Assombrações | link 2 | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Assombrações | link 2 | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="CANAIS: humor; novelas e séries", BET | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", BET | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="CANAIS: humor; novelas e séries", BET | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", BET | Pluto TV CANAIS ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="CANAIS: humor; novelas e séries", Comédia | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Comédia | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="CANAIS: humor; novelas e séries", Comédia | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Comédia | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="CANAIS: humor; novelas e séries", Comedy Central | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Comedy Central | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="CANAIS: humor; novelas e séries", Comedy Central | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Comedy Central | Pluto TV CANAIS | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="CANAIS: humor; novelas e séries", FailArmy | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", FailArmy | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="CANAIS: humor; novelas e séries", FailArmy | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", FailArmy | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="CANAIS: humor; novelas e séries", Investigação | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Investigação | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="CANAIS: humor; novelas e séries", Investigação | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Investigação | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZO2qtTH.png" group-title="CANAIS: humor; novelas e séries", Jovem Pan News | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZO2qtTH.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Jovem Pan News | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f72/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZO2qtTH.png" group-title="CANAIS: humor; novelas e séries", Jovem Pan News | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZO2qtTH.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Jovem Pan News | Pluto TV CANAIS | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f72/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="CANAIS: humor; novelas e séries", Retrô | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Retrô | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="CANAIS: humor; novelas e séries", Retrô | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Retrô | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png" group-title="CANAIS: humor; novelas e séries", Séries Ação | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Séries Ação | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474ab1da51cb80008bfb5f4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png" group-title="CANAIS: humor; novelas e séries", Séries Ação | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Séries Ação | Pluto TV CANAIS | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474ab1da51cb80008bfb5f4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png" group-title="CANAIS: humor; novelas e séries", Séries Criminais | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Séries Criminais | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474ab5cdc7a760008745008/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png" group-title="CANAIS: humor; novelas e séries", Séries Criminais | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Séries Criminais | Pluto TV CANAIS ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474ab5cdc7a760008745008/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png" group-title="CANAIS: humor; novelas e séries", Séries Criminais | Pluto TV Brasil ~ link 3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Séries Criminais | Pluto TV CANAIS ~ link 3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474ab5cdc7a760008745008/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png" group-title="CANAIS: humor; novelas e séries", Séries de Comédia | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Séries de Comédia | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/655e5bc94261ca000810cb17/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png" group-title="Brasil: humor; novelas e séries", Séries de Comédia | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Séries de Comédia | Pluto TV CANAIS ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/655e5bc94261ca000810cb17/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png" group-title="Brasil: humor; novelas e séries", Séries de Comédia | Pluto TV Brasil ~ link 3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Séries de Comédia | Pluto TV CANAIS ~ link 3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5bc94261ca000810cb17/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65f060d84e01740008d7421f/colorLogoPNG.png" group-title="Brasil: humor; novelas e séries", Séries Drama | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65f060d84e01740008d7421f/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Séries Drama | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65f060d84e01740008d7421f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65f060d84e01740008d7421f/colorLogoPNG.png" group-title="Brasil: humor; novelas e séries", Séries Drama | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65f060d84e01740008d7421f/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Séries Drama | Pluto TV CANAIS ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65f060d84e01740008d7421f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65f060d84e01740008d7421f/colorLogoPNG.png" group-title="Brasil: humor; novelas e séries", Séries Drama | Pluto TV Brasil ~ link 3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65f060d84e01740008d7421f/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Séries Drama | Pluto TV CANAIS ~ link 3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65f060d84e01740008d7421f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png" group-title="Brasil: humor; novelas e séries", Séries Sci-Fi | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Séries Sci-Fi | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63d2ba2f60bc8f0008981a0e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png" group-title="Brasil: humor; novelas e séries", Séries Sci-Fi | link 2 | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Séries Sci-Fi | link 2 | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63d2ba2f60bc8f0008981a0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="Brasil: humor; novelas e séries", The Pet Collective | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", The Pet Collective | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="Brasil: humor; novelas e séries", The Pet Collective | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", The Pet Collective | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/crseFhh.png" group-title="Brasil: humor; novelas e séries", TVI Ficção | Portugal
+#EXTINF:-1 tvg-logo="https://i.imgur.com/crseFhh.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", TVI Ficção | Portugal
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Baby Shark | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Baby Shark | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63da6bcd60bc8f0008a5d364/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Baby Shark | link 2 | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Baby Shark | link 2 | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63da6bcd60bc8f0008a5d364/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Babyfirst | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Babyfirst | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Babyfirst | link 2 | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Babyfirst | link 2 | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Bob Esponja | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Bob Esponja | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Bob Esponja | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Bob Esponja | Pluto TV CANAIS ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64e501eec630a900088ed0f8/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Clube do Terror | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64e501eec630a900088ed0f8/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Clube do Terror | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64e501eec630a900088ed0f8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64e501eec630a900088ed0f8/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Clube do Terror | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64e501eec630a900088ed0f8/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Clube do Terror | Pluto TV CANAIS ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64e501eec630a900088ed0f8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Cocoricó | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Cocoricó | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Cocoricó | link 2 | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Cocoricó | link 2 | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Geek e Tech | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Geek e Tech | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Geek e Tech | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Geek e Tech | Pluto TV CANAIS | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", iCarly | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", iCarly | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", iCarly | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", iCarly | Pluto TV CANAIS | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Junior | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Junior | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Junior | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Junior | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Kids | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Kids | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Kids | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Kids | Pluto TV CANAIS | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Moranguinho | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Moranguinho | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba189c111bc0008ff59c5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Moranguinho | link 2 | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Moranguinho | link 2 | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba189c111bc0008ff59c5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Nick Jr. Club | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Nick Jr. Club | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Nick Jr. Club | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Nick Jr. Club | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Nickelodeon | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Nickelodeon | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645951c0e94c38000802d2cb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Nickelodeon | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Nickelodeon | Pluto TV CANAIS | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645951c0e94c38000802d2cb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Nickelodeon | Pluto TV Brasil | link 3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Nickelodeon | Pluto TV CANAIS | link 3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645951c0e94c38000802d2cb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Nickelodeon Clássico | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Nickelodeon Clássico | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Nickelodeon Clássico | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Nickelodeon Clássico | Pluto TV CANAIS ~ link 2
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Nickelodeon Clássico | Pluto TV Brasil ~ link 3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Nickelodeon Clássico | Pluto TV CANAIS ~ link 3
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", NickTeen | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", NickTeen | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", NickTeen | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", NickTeen | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", O Reino Infantil | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", O Reino Infantil | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", O Reino Infantil | link 2
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", O Reino Infantil | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Oggy e as Baratas Tontas | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Oggy e as Baratas Tontas | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221bafdc6e110007b50270/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Oggy e as Baratas Tontas | link 2
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Oggy e as Baratas Tontas | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221bafdc6e110007b50270/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Os Padrinhos Mágicos | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Os Padrinhos Mágicos | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Os Padrinhos Mágicos | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Os Padrinhos Mágicos | Pluto TV CANAIS | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Tartarugas Ninja | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Tartarugas Ninja | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Tartarugas Ninja | link 2 | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Tartarugas Ninja | link 2 | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64e50055286f6b000838c067/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Teletubbies | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64e50055286f6b000838c067/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Teletubbies | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64e50055286f6b000838c067/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64e50055286f6b000838c067/colorLogoPNG.png" group-title="Brasil: infanto-juvenis", Teletubbies | link 2 | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64e50055286f6b000838c067/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Teletubbies | link 2 | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64e50055286f6b000838c067/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="Brasil: infanto-juvenis", Toon Googles TG Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="CANAIS: INFANTO-JUVENIS", Toon Googles TG CANAIS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="Brasil: infanto-juvenis", Toon Googles TG Brasil 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="CANAIS: INFANTO-JUVENIS", Toon Googles TG CANAIS 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=465
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="Brasil: infanto-juvenis", Toon Googles TG Brasil 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="CANAIS: INFANTO-JUVENIS", Toon Googles TG CANAIS 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1296
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="Brasil: infanto-juvenis", Toon Googles TG Brasil | RunTime
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="CANAIS: INFANTO-JUVENIS", Toon Googles TG CANAIS | RunTime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJHRcfo.png" group-title="Brasil: infanto-juvenis", Turma da Mônica | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJHRcfo.png" group-title="CANAIS: INFANTO-JUVENIS", Turma da Mônica | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJHRcfo.png" group-title="Brasil: infanto-juvenis", Turma da Mônica | Pluto TV BR link 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJHRcfo.png" group-title="CANAIS: INFANTO-JUVENIS", Turma da Mônica | Pluto TV BR link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_CERTP_PNG__MOAFOfq.png" group-title="Brasil: infanto-juvenis", TV R | Brasil
+#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_CERTP_PNG__MOAFOfq.png" group-title="CANAIS: INFANTO-JUVENIS", TV R | CANAIS
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Acumuladores Obsessivos | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Acumuladores Obsessivos | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a4b4261ca00083aa99e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Acumuladores Obsessivos | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Acumuladores Obsessivos | Pluto TV CANAIS ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a4b4261ca00083aa99e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Acumuladores Obsessivos | Pluto TV Brasil ~ link 3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Acumuladores Obsessivos | Pluto TV CANAIS ~ link 3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656e2a4b4261ca00083aa99e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://www.andreiagrezzana.com.br/public/69934-2024-01-05.png" group-title="Brasil: lifestyle e realities", Andreia Grezzana TV | Soul TV Brasil
+#EXTINF:-1 tvg-logo="https://www.andreiagrezzana.com.br/public/69934-2024-01-05.png" group-title="CANAIS: LIFESTYLE E REALITIES", Andreia Grezzana TV | Soul TV CANAIS
 https://video01.soultv.com.br/andreiagrezzana/andreiagrezzana/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://assimeportugal.com/wp-content/uploads/2020/10/lg-assim-01.png" group-title="Brasil: lifestyle e realities", Assim é Portugal | Brasil
+#EXTINF:-1 tvg-logo="https://assimeportugal.com/wp-content/uploads/2020/10/lg-assim-01.png" group-title="CANAIS: LIFESTYLE E REALITIES", Assim é Portugal | CANAIS
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V4pVaA9.png" group-title="Brasil: lifestyle e realities", Astral TV | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V4pVaA9.png" group-title="CANAIS: LIFESTYLE E REALITIES", Astral TV | CANAIS
 https://isaocorp.cloudecast.com/astraltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logo_Reduz.png" group-title="Brasil: lifestyle e realities", Bem Melhor | Soul TV
+#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logo_Reduz.png" group-title="CANAIS: LIFESTYLE E REALITIES", Bem Melhor | Soul TV
 https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e2a10954b020008ed167c/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Caçadores de OVNIs | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e2a10954b020008ed167c/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Caçadores de OVNIs | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a10954b020008ed167c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e2a10954b020008ed167c/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Caçadores de OVNIs | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e2a10954b020008ed167c/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Caçadores de OVNIs | Pluto TV CANAIS ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a10954b020008ed167c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e2a10954b020008ed167c/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Caçadores de OVNIs | Pluto TV Brasil ~ link 3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e2a10954b020008ed167c/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Caçadores de OVNIs | Pluto TV CANAIS ~ link 3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656e2a10954b020008ed167c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Cozinha | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Cozinha | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef23020a5ac0007e5e8ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Cozinha | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Cozinha | Pluto TV CANAIS ~ link 2
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef23020a5ac0007e5e8ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Cozinha | Pluto TV Brasil ~ link 3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Cozinha | Pluto TV CANAIS ~ link 3
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef23020a5ac0007e5e8ea/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Curiosidade | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Curiosidade | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474aadc8e3c0a0008b98493/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Curiosidade | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Curiosidade | Pluto TV CANAIS ~ link 2
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aadc8e3c0a0008b98493/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Curiosidade | Pluto TV Brasil ~ link 3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Curiosidade | Pluto TV CANAIS ~ link 3
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474aadc8e3c0a0008b98493/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Detetives Médicos | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Detetives Médicos | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638df93ae2f2a3000737c168/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Detetives Médicos | link 2 | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Detetives Médicos | link 2 | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638df93ae2f2a3000737c168/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/662156805a31f70013dba21c/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", DiaTV | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/662156805a31f70013dba21c/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", DiaTV | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/662156805a31f70013dba21c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/662156805a31f70013dba21c/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", DiaTV | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/662156805a31f70013dba21c/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", DiaTV | Pluto TV CANAIS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/662156805a31f70013dba21c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Estado Paranormal | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Estado Paranormal | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a81954b020008ed17a4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Estado Paranormal | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Estado Paranormal | Pluto TV CANAIS ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a81954b020008ed17a4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Estado Paranormal | Pluto TV Brasil ~ link 3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Estado Paranormal | Pluto TV CANAIS ~ link 3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656e2a81954b020008ed17a4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Investigação | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Investigação | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Investigação | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Investigação | Pluto TV CANAIS | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Investigação | Pluto TV Brasil | link 3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Investigação | Pluto TV CANAIS | link 3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", KFood | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", KFood | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", KFood | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", KFood | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", MasterChef | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", MasterChef | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", MasterChef | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", MasterChef | Pluto TV CANAIS ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", MasterChef Brasil | RunTime TV
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", MasterChef CANAIS | RunTime TV
 https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Minha Obsessão Favorita | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Minha Obsessão Favorita | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61843f5e491af10007f7eefa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Minha Obsessão Favorita | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Minha Obsessão Favorita | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61843f5e491af10007f7eefa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Mistérios | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Mistérios | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Mistérios | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Mistérios | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Mistérios sem Solução | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Mistérios sem Solução | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b5c5a064163d0007b2efe6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Mistérios sem Solução | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Mistérios sem Solução | Pluto TV CANAIS | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b5c5a064163d0007b2efe6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", MTV | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", MTV | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", MTV | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", MTV | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", MTV Are you the One? | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", MTV Are you the One? | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", MTV Are you the One? | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", MTV Are you the One? | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", MTV Drag | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", MTV Drag | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645111f1d8436e00081bb2bd/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", MTV Drag | link 2 | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", MTV Drag | link 2 | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645111f1d8436e00081bb2bd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", MTV Catfish | Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", MTV Catfish | CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626c2a3502d84a0007cec817/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", MTV Catfish | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", MTV Catfish | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626c2a3502d84a0007cec817/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", MTV Com o Ex | Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", MTV Com o Ex | CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", MTV Com o Ex | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", MTV Com o Ex | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", MTV Jovens e Mães | Teen Mom | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", MTV Jovens e Mães | Teen Mom | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620fdc7d8a36fc000710e3ba/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", MTV Jovens e Mães | Teen Mom | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", MTV Jovens e Mães | Teen Mom | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620fdc7d8a36fc000710e3ba/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", MTV Shore | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", MTV Shore | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563b8ddc0007134aeb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", MTV Shore | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", MTV Shore | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563b8ddc0007134aeb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64ad7394798def00087b2bfe/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Negócio Fechado | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64ad7394798def00087b2bfe/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Negócio Fechado | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ad7394798def00087b2bfe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64ad7394798def00087b2bfe/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Negócio Fechado | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64ad7394798def00087b2bfe/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Negócio Fechado | Pluto TV CANAIS | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ad7394798def00087b2bfe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", O encantador de cães | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", O encantador de cães | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", O encantador de cães | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", O encantador de cães | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Os arquivos do FBI | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Os arquivos do FBI | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d12a82e8ac50007c269c3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9bGTRlb.png" group-title="Brasil: lifestyle e realities", Pet Lovers | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9bGTRlb.png" group-title="CANAIS: LIFESTYLE E REALITIES", Pet Lovers | CANAIS
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Pronto-Socorro: histórias de emergência | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Pronto-Socorro: histórias de emergência | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Pronto-Socorro: histórias de emergência | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Pronto-Socorro: histórias de emergência | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6647c0b91050b60008390de4/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Shark Tank | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6647c0b91050b60008390de4/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Shark Tank | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6647c0b91050b60008390de4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JnHVIgo.png" group-title="Brasil: lifestyle e realities", Tastemade | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JnHVIgo.png" group-title="CANAIS: LIFESTYLE E REALITIES", Tastemade | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JnHVIgo.png" group-title="Brasil: lifestyle e realities", Tastemade | link 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JnHVIgo.png" group-title="CANAIS: LIFESTYLE E REALITIES", Tastemade | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/453JQfl.png" group-title="Brasil: lifestyle e realities", Trace Brazuca | Xiaomi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/453JQfl.png" group-title="CANAIS: LIFESTYLE E REALITIES", Trace Brazuca | Xiaomi
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3Aal0o2.png" group-title="Brasil: lifestyle e realities", U Miss TV | Soul TV Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Aal0o2.png" group-title="CANAIS: LIFESTYLE E REALITIES", U Miss TV | Soul TV CANAIS
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x5HC6wy.png" group-title="Brasil: lifestyle e realities", Viajando pelo Brasil | Soul TV Brasil
-https://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Viagens | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x5HC6wy.png" group-title="CANAIS: LIFESTYLE E REALITIES", Viajando pelo CANAIS | Soul TV CANAIS
+https://video01.soultv.com.br/viajandopeloCANAIS/viajandopeloCANAIS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Viagens | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d432d612e50007e56133/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Viagens | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Viagens | Pluto TV CANAIS ~ link 2
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d432d612e50007e56133/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Viagens | Pluto TV Brasil ~ link 3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Viagens | Pluto TV CANAIS ~ link 3
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d432d612e50007e56133/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Vida Real | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Vida Real | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png" group-title="Brasil: lifestyle e realities", Vida Real | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png" group-title="CANAIS: LIFESTYLE E REALITIES", Vida Real | Pluto TV CANAIS | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png" group-title="Brasil: maratona de ficção", Being Mary Jane | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", Being Mary Jane | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png" group-title="Brasil: maratona de ficção", Being Mary Jane | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", Being Mary Jane | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Brasil: maratona de ficção", CSI Miami | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", CSI Miami | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Brasil: maratona de ficção", CSI Miami | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", CSI Miami | Pluto TV CANAIS | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="Brasil: maratona de ficção", Kenan e Kel | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", Kenan e Kel | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="Brasil: maratona de ficção", Kenan e Kel | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", Kenan e Kel | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="Brasil: maratona de ficção", MacGyver | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", MacGyver | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="Brasil: maratona de ficção", MacGyver | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", MacGyver | Pluto TV CANAIS | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Brasil: maratona de ficção", NCIS | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", NCIS | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Brasil: maratona de ficção", NCIS | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", NCIS | Pluto TV CANAIS | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png" group-title="Brasil: maratona de ficção", O homem que veio do céu | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", O homem que veio do céu | Pluto TV CANAIS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png" group-title="Brasil: maratona de ficção", O homem que veio do céu | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", O homem que veio do céu | Pluto TV CANAIS | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png" group-title="Brasil: maratona de ficção", Rookie Blue | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", Rookie Blue | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png" group-title="Brasil: maratona de ficção", Rookie Blue | Pluto TV Brasil | link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", Rookie Blue | Pluto TV CANAIS | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Brasil: maratona de ficção", South Park | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", South Park | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Brasil: maratona de ficção", South Park | Pluto TV Brasil - link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", South Park | Pluto TV CANAIS - link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Brasil: maratona de ficção", South Park | Pluto TV Brasil - link 3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", South Park | Pluto TV CANAIS - link 3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png" group-title="Brasil: maratona de ficção", South Park Coleção Cartman | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", South Park Coleção Cartman | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df71008b24c80008f04281/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png" group-title="Brasil: maratona de ficção", South Park Coleção Cartman | Pluto TV Brasil - link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", South Park Coleção Cartman | Pluto TV CANAIS - link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df71008b24c80008f04281/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png" group-title="Brasil: maratona de ficção", South Park Coleção Cartman | Pluto TV Brasil - link 3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", South Park Coleção Cartman | Pluto TV CANAIS - link 3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65df71008b24c80008f04281/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df704366eec8000898e32f/colorLogoPNG.png" group-title="Brasil: maratona de ficção", South Park Coleção Kenny | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df704366eec8000898e32f/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", South Park Coleção Kenny | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df704366eec8000898e32f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df704366eec8000898e32f/colorLogoPNG.png" group-title="Brasil: maratona de ficção", South Park Coleção Kenny | Pluto TV Brasil - link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df704366eec8000898e32f/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", South Park Coleção Kenny | Pluto TV CANAIS - link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df704366eec8000898e32f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png" group-title="Brasil: maratona de ficção", South Park Coleção Kenny | Pluto TV Brasil - link 3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", South Park Coleção Kenny | Pluto TV CANAIS - link 3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65df71008b24c80008f04281/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df713dec9fda0008b7a81d/colorLogoPNG.png" group-title="Brasil: maratona de ficção", South Park Coleção Kyle | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df713dec9fda0008b7a81d/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", South Park Coleção Kyle | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df713dec9fda0008b7a81d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df713dec9fda0008b7a81d/colorLogoPNG.png" group-title="Brasil: maratona de ficção", South Park Coleção Kyle | Pluto TV Brasil - link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df713dec9fda0008b7a81d/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", South Park Coleção Kyle | Pluto TV CANAIS - link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df713dec9fda0008b7a81d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df713dec9fda0008b7a81d/colorLogoPNG.png" group-title="Brasil: maratona de ficção", South Park Coleção Kyle | Pluto TV Brasil - link 3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df713dec9fda0008b7a81d/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", South Park Coleção Kyle | Pluto TV CANAIS - link 3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65df713dec9fda0008b7a81d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoPNG.png" group-title="Brasil: maratona de ficção", South Park Coleção Stan | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", South Park Coleção Stan | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df70b0f7f0af0008c3b316/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoPNG.png" group-title="Brasil: maratona de ficção", South Park Coleção Stan | Pluto TV Brasil - link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", South Park Coleção Stan | Pluto TV CANAIS - link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df70b0f7f0af0008c3b316/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoPNG.png" group-title="Brasil: maratona de ficção", South Park Coleção Stan | Pluto TV Brasil - link 3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", South Park Coleção Stan | Pluto TV CANAIS - link 3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65df70b0f7f0af0008c3b316/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="Brasil: maratona de ficção", Younger | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", Younger | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="Brasil: maratona de ficção", Younger | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="CANAIS: MARATONA DE FICÇÃO", Younger | Pluto TV CANAIS ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UaQXbL1.png" group-title="Brasil: notícias", ARTV Canal Parlamento | Portugal
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UaQXbL1.png" group-title="CANAIS: NOTÍCIAS", ARTV Canal Parlamento | Portugal
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Brasil: notícias", CNN Brasil | Soul TV
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/LOGO_REDONDO_100X100_FUNDO_PRETO_54DyE4h.png" group-title="Brasil: notícias", Desaparecidos RS | Soul TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="CANAIS: NOTÍCIAS", CNN CANAIS | Soul TV
+https://video01.soultv.com.br/cnnCANAIS/cnnCANAIS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/LOGO_REDONDO_100X100_FUNDO_PRETO_54DyE4h.png" group-title="CANAIS: NOTÍCIAS", Desaparecidos RS | Soul TV
 https://video01.soultv.com.br/desaparecidosrs/desaparecidosrs/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="Brasil: notícias", Euronews | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="CANAIS: NOTÍCIAS", Euronews | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="Brasil: notícias", Euronews | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="CANAIS: NOTÍCIAS", Euronews | Pluto TV CANAIS ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="CANAIS RECORD", Record News | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="CANAIS RECORD", Record News | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="CANAIS RECORD", Record News | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="CANAIS RECORD", Record News | Pluto TV CANAIS ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="CANAIS RECORD", Record News | RunTime Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="CANAIS RECORD", Record News | RunTime CANAIS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UyRDotD.png" group-title="Brasil: notícias", TV Alego | GO Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UyRDotD.png" group-title="CANAIS: NOTÍCIAS", TV Alego | GO CANAIS
 https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SyzEjqx.png" group-title="Brasil: notícias", TV ALMG | MG Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SyzEjqx.png" group-title="CANAIS: NOTÍCIAS", TV ALMG | MG CANAIS
 https://streaming.almg.gov.br/live/tvalmg.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil: notícias", TV Câmara | Brasil
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="CANAIS: NOTÍCIAS", TV Câmara | CANAIS
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil: notícias", TV Câmara 2 | Brasil
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="CANAIS: NOTÍCIAS", TV Câmara 2 | CANAIS
 https://stream3.camara.gov.br/tv2/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Brasil: notícias", TV Câmara 3 | Brasil
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="CANAIS: NOTÍCIAS", TV Câmara 3 | CANAIS
 https://stream3.camara.gov.br/tv2/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title="Brasil: rádios", Alpha FM | Goiânia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title="CANAIS: RÁDIOSs", Alpha FM | Goiânia
 https://ice.fabricahost.com.br/alphafm1021
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Brasil: rádios", BandNews FM | Goiânia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="CANAIS: RÁDIOSs", BandNews FM | Goiânia
 https://5a57bda70564a.streamlock.net/bandnewsgo/bandnewsgo.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="Brasil: rádios", Cultura do Pará | Brasil
-https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DPsqixB.png" group-title="Brasil: rádios", Rádio UFRGS | RS Brasil
-http://radioaovivo.ufrgs.br:8000/stream.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rXEBYmC.png" group-title="Brasil: variedades", AWTV | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="CANAIS: RÁDIOSs", Cultura do Pará | CANAIS
+https://www.portalcultura.com.br/playerhtml/funtelpa/RÁDIOSS_funtelpa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DPsqixB.png" group-title="CANAIS: RÁDIOSs", RÁDIOS UFRGS | RS CANAIS
+http://RÁDIOSSaovivo.ufrgs.br:8000/stream.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rXEBYmC.png" group-title="CANAIS: VARIEDADES", AWTV | CANAIS
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Brasil: variedades", Band | RBA TV | PA Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="CANAIS: VARIEDADES", Band | RBA TV | PA CANAIS
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kG2br4g.png" group-title="Brasil: variedades", Bem Mais TV | RJ | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kG2br4g.png" group-title="CANAIS: VARIEDADES", Bem Mais TV | RJ | CANAIS
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yhPMFEr.png" group-title="Brasil: variedades", BR Super TV | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yhPMFEr.png" group-title="CANAIS: VARIEDADES", BR Super TV | CANAIS
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sFG3dSr.png" group-title="Brasil: variedades", Canal Plural | São José dos Campos | SP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sFG3dSr.png" group-title="CANAIS: VARIEDADES", Canal Plural | São José dos Campos | SP
 https://stmv2.samcast.com.br/osc6197/osc6197/playlist_w1376166006.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" group-title="Brasil: variedades", Canal UOL | Pluto TV Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" group-title="CANAIS: VARIEDADES", Canal UOL | Pluto TV CANAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" group-title="Brasil: variedades", Canal UOL | Pluto TV Brasil ~ link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" group-title="CANAIS: VARIEDADES", Canal UOL | Pluto TV CANAIS ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LNLVIwF.png" group-title="Brasil: variedades", Central TV Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LNLVIwF.png" group-title="CANAIS: VARIEDADES", Central TV CANAIS
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://coletiva.net/sites/coletiva/assets/images/coletiva_tv.png" group-title="Brasil: variedades", Coletiva TV | Brasil
+#EXTINF:-1 tvg-logo="https://coletiva.net/sites/coletiva/assets/images/coletiva_tv.png" group-title="CANAIS: VARIEDADES", Coletiva TV | CANAIS
 https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png" group-title="Brasil: variedades", Com Brasil
+#EXTINF:-1 tvg-logo="https://comCANAIStv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png" group-title="CANAIS: VARIEDADES", Com CANAIS
 https://br5093.streamingdevideo.com.br/abc/abc/master.m3u8
-#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/9046/cabecalho-9046-20230725105112.png" group-title="Brasil: variedades", D+ TV | Brasil
+#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/9046/cabecalho-9046-20230725105112.png" group-title="CANAIS: VARIEDADES", D+ TV | CANAIS
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1vnp5N1.png" group-title="Brasil: variedades", Demand Africa | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1vnp5N1.png" group-title="CANAIS: VARIEDADES", Demand Africa | CANAIS
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZcHrNoa.png" group-title="Brasil: variedades", ISTV | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZcHrNoa.png" group-title="CANAIS: VARIEDADES", ISTV | CANAIS
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/colorLogoPNG.png" group-title="Brasil: variedades", New Brasil | Pluto TV BR
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/colorLogoPNG.png" group-title="CANAIS: VARIEDADES", New CANAIS | Pluto TV BR
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645a99282858cb0008ea8378/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/colorLogoPNG.png" group-title="Brasil: variedades", New Brasil | Pluto TV BR - link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/colorLogoPNG.png" group-title="CANAIS: VARIEDADES", New CANAIS | Pluto TV BR - link 2
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645a99282858cb0008ea8378/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="Brasil: variedades", NGT SP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="CANAIS: VARIEDADES", NGT SP
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Brasil: variedades", Nova Era TV | Lages SC Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="CANAIS: VARIEDADES", Nova Era TV | Lages SC CANAIS
 http://wz3.dnip.com.br/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VZaj5Oc.png" group-title="Brasil: variedades", Primer TV | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZaj5Oc.png" group-title="CANAIS: VARIEDADES", Primer TV | CANAIS
 http://200.194.238.229:8383/live/primer/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RDekR7e.png" group-title="Brasil: variedades", Record | TV Conquista | MT Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RDekR7e.png" group-title="CANAIS: VARIEDADES", Record | TV Conquista | MT CANAIS
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YTWxRSp.png" group-title="Brasil: variedades", Rede Brasil | TBO | Mato Grosso
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YTWxRSp.png" group-title="CANAIS: VARIEDADES", Rede CANAIS | TBO | Mato Grosso
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1JqP03l.png" group-title="Brasil: variedades", Rede SPTV | SP Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1JqP03l.png" group-title="CANAIS: VARIEDADES", Rede SPTV | SP CANAIS
 https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Brasil: variedades", Rede TV | PR Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="CANAIS: VARIEDADES", Rede TV | PR CANAIS
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Brasil: variedades", Rede TV | TV Arapuan | PB Brasil
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="CANAIS: VARIEDADES", Rede TV | TV Arapuan | PB CANAIS
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0HK61zq.png" group-title="Brasil: variedades", Rede UTV | Brasil
-https://utvsoultv.acessaradios.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0HK61zq.png" group-title="CANAIS: VARIEDADES", Rede UTV | CANAIS
+https://utvsoultv.acessaRÁDIOSS.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS SBT", SBT | Bem TV | Tangará da Serra | MT
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS SBT", SBT | TV Cidade Verde | Piauí
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS SBT", SBT | TV Guajará | Tailândia | PA
 https://video05.logicahost.com.br/tvguajara/tvguajara/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xXS3GTp.png" group-title="Brasil: variedades", SIC | Portugal
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xXS3GTp.png" group-title="CANAIS: VARIEDADES", SIC | Portugal
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gSSGWXx.png" group-title="Brasil: variedades", Sol Brasil
-https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LuvJMBp.png" group-title="Brasil: variedades", Top Mix TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gSSGWXx.png" group-title="CANAIS: VARIEDADES", Sol CANAIS
+https://video01.soultv.com.br/solCANAIS/solCANAIS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LuvJMBp.png" group-title="CANAIS: VARIEDADES", Top Mix TV
 https://video03.logicahost.com.br/topmixtv/topmixtv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zcrcwhy.png" group-title="Brasil: variedades", TV A Folha | Palmas PR Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zcrcwhy.png" group-title="CANAIS: VARIEDADES", TV A Folha | Palmas PR CANAIS
 https://video01.logicahost.com.br/tvafolha/tvafolha/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V9jVgsc.png" group-title="Brasil: variedades", TV Brasil Central | Goiás
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V9jVgsc.png" group-title="CANAIS: VARIEDADES", TV CANAIS Central | Goiás
 https://tbc.zoeweb.tv/tbc/tbc/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6aTV1bY.png" group-title="Brasil: variedades", TV CNB
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6aTV1bY.png" group-title="CANAIS: VARIEDADES", TV CNB
 https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PMSiLyy.png" group-title="Brasil: variedades", TV Galega | Blumenau SC Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMSiLyy.png" group-title="CANAIS: VARIEDADES", TV Galega | Blumenau SC CANAIS
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PMSiLyy.png" group-title="Brasil: variedades", TV Galega | Blumenau SC Brasil - link 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMSiLyy.png" group-title="CANAIS: VARIEDADES", TV Galega | Blumenau SC CANAIS - link 2
 https://cdn.live.br1.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LYKZr34.png" group-title="Brasil: variedades", TV Gramado | RS Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LYKZr34.png" group-title="CANAIS: VARIEDADES", TV Gramado | RS CANAIS
 https://isaocorp.cloudecast.com/tvgramado/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6LgJvM3.png" group-title="Brasil: variedades", TV Grande Natal | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6LgJvM3.png" group-title="CANAIS: VARIEDADES", TV Grande Natal | CANAIS
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/9178/cabecalho-9178-20230313135359.png" group-title="Brasil: variedades", TV Marchetti
+#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/9178/cabecalho-9178-20230313135359.png" group-title="CANAIS: VARIEDADES", TV Marchetti
 https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="Brasil: variedades", TV MAX Rio | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="CANAIS: VARIEDADES", TV MAX Rio | CANAIS
 https://5cf4a2c2512a2.streamlock.net:443/tvmax/tvmax/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EhJNGIy.png" group-title="Brasil: variedades", TV Metrópole | Caucaia CE Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EhJNGIy.png" group-title="CANAIS: VARIEDADES", TV Metrópole | Caucaia CE CANAIS
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlu9pzj.png" group-title="Brasil: variedades", TV MilAgro
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlu9pzj.png" group-title="CANAIS: VARIEDADES", TV MilAgro
 https://video01.soultv.com.br/tvmilagro/tvmilagro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wPhNMMS.png" group-title="Brasil: variedades", TV Mon | Montenegro RS Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wPhNMMS.png" group-title="CANAIS: VARIEDADES", TV Mon | Montenegro RS CANAIS
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lSuo08k.png" group-title="Brasil: variedades", TV Nova Nordeste | Grande Recife PE Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lSuo08k.png" group-title="CANAIS: VARIEDADES", TV Nova Nordeste | Grande Recife PE CANAIS
 https://acesso.ecast.site:3675/live/novatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6nQrkR6.png" group-title="Brasil: variedades", TV Santa Cecília | SP Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6nQrkR6.png" group-title="CANAIS: VARIEDADES", TV Santa Cecília | SP CANAIS
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.União.de.Televisão.png" group-title="Brasil: variedades", TV União | Natal | Brasil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.União.de.Televisão.png" group-title="CANAIS: VARIEDADES", TV União | Natal | CANAIS
 https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8
-#EXTINF:-1 tvg-logo="https://zettafibra.com.br/wp-content/uploads/2021/06/tvwtjminas.png" group-title="Brasil: variedades", WTJ TV | MG Brasil
+#EXTINF:-1 tvg-logo="https://zettafibra.com.br/wp-content/uploads/2021/06/tvwtjminas.png" group-title="CANAIS: VARIEDADES", WTJ TV | MG CANAIS
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gNt3xcI.png" group-title="Brasil: variedades", Zoom
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gNt3xcI.png" group-title="CANAIS: VARIEDADES", Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="CANAIS: 24 HORAS", AS PANTERAS
@@ -1276,24 +1276,24 @@ https://watch.brplayer.cc/stream/bTN1OC8xMC82MDI2N2JhYzY3MzJjN2E4MWVjODExY2M1Yzl
 #EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/qZH5NZPA2N9ykpDd0dOQTmVJiVR.jpg" group-title="SÉRIES", Round 6: 2° Temporada; 7. Amigos ou Inimigos?
 https://watch.brplayer.cc/stream/bTN1OC8xMC80MTllNDQxMGRhMTUyYzc0ZDcyNzI3MDI4M2NiOTRjZS83MjBwLzcyMHAubTN1OD9pZD0yMzUzMg==?s=1&id=23532&cache=1
 
-############## RÁDIO ############## RÁDIO ############## RÁDIO ############## RÁDIO ############## RÁDIO ############## RÁDIO ############## RÁDIO ############## RÁDIO ##############
-#EXTINF:-1 tvg-logo="https://www.acheradios.com.br/_next/image/?url=https%3A%2F%2Fwww.acheradios.com.br%2Fmedia%2Fimagens%2F101-fm-macae.jpg&w=256&q=75" group-title="RÁDIO", FM 101
+############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ##############
+#EXTINF:-1 tvg-logo="https://www.acheRÁDIOSS.com.br/_next/image/?url=https%3A%2F%2Fwww.acheRÁDIOSS.com.br%2Fmedia%2Fimagens%2F101-fm-macae.jpg&w=256&q=75" group-title="RÁDIOS", FM 101
 http://nl.digitalrm.pt:8012/stream
-#EXTINF:-1 tvg-logo="https://static.tudoradio.com/ins/w:90/plain/https://tudoradio.com/img/uploads/radios/radio_1049riodasostras.png" group-title="RÁDIO", 104.9 FM ENERGIA
+#EXTINF:-1 tvg-logo="https://static.tudoRÁDIOSS.com/ins/w:90/plain/https://tudoRÁDIOSS.com/img/uploads/RÁDIOSS/RÁDIOSS_1049riodasostras.png" group-title="RÁDIOS", 104.9 FM ENERGIA
 https://servidor35.brlogic.com:8192/live
-#EXTINF:-1 tvg-logo="https://static.tudoradio.com/ins/w:90/plain/https://tudoradio.com/img/uploads/radios/651470ff96ffb.png" group-title="RÁDIO", FM O DIA
-https://wz7.servidoresbrasil.com:8274/stream
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio14174_1578911830.png" group-title="RÁDIO", RÁDIO NOVO RIO 87.9 FM
+#EXTINF:-1 tvg-logo="https://static.tudoRÁDIOSS.com/ins/w:90/plain/https://tudoRÁDIOSS.com/img/uploads/RÁDIOSS/651470ff96ffb.png" group-title="RÁDIOS", FM O DIA
+https://wz7.servidoresCANAIS.com:8274/stream
+#EXTINF:-1 tvg-logo="https://img.RÁDIOSS.com.br/RÁDIOSS/lg/RÁDIOSS14174_1578911830.png" group-title="RÁDIOS", RÁDIO NOVO RIO 87.9 FM
 http://192.99.79.240:8019/stream
-#EXTINF:-1 tvg-logo="https://redehits.fm/wp-content/uploads/2024/03/Logo-Perfil.png" group-title="RÁDIO", HITS FM 106,9
-https://wz7.servidoresbrasil.com:9984/stream?1711233278253
+#EXTINF:-1 tvg-logo="https://redehits.fm/wp-content/uploads/2024/03/Logo-Perfil.png" group-title="RÁDIOS", HITS FM 106,9
+https://wz7.servidoresCANAIS.com:9984/stream?1711233278253
 
 ############## FILMES ############## FILMES ############## FILMES ############## FILMES ############## FILMES ############## FILMES ############## FILMES ############## FILMES ##############
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/08/27/19/55/1504668.jpg" group-title="TERROR", APARTAMENTO 212: A Infestação
 https://lh3.googleusercontent.com/YsVPOiy90bbordh4Jp6A1z41EikrRqD-ehJ_DHXE0KbZmz_vWEtJvpWAI0UNa3dwHex81MiD3nXm8fAry9ssKQNlXEtMaT8hgyoiYzWnluj2V91yXEo5mbv4c8c2jhnOY-2Fw6Ccvss=m22
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/92/61/33/20208868.jpg" group-title="FANTASIA | MUSICAL", A FANTÁSTICA FÁBRICA DE CHOCOLATE - Willy Wonka e a Fábrica de Chocolate (1971)
 https://lh3.googleusercontent.com/l9YmWBrRDMCunn7Hq9bFpB-2fftPHGtS_oUBULFyBDiYObED6PHoblpLYAFLL_tJJsDt8hFBR_sVQa8bRFGI16pZckY_4lA84QLwWk5sjv7hWLjOJf87ZoE206QdENJNABDSgzlH1YX1IZrP9Nd XFC_z7seXoym6c4Q2ETOr5hwsH87yFQ3MKC-2gxKYecneb9M1dVpn5x5HscFFRDEP40j05MFZHhcir-tzrF2wGI5cUNAI7BtdpxQy7TeWjjzkxeObl7oFHtNgPoyQStlUwAzBBzOHrGLbuBJMvk4d20dQl_oTPK-sgrt5pK0uQdXSBw2UZYKx 6lJB0-pJiM28TEmEPv1Md84LfrssdpHrd3O1OKK6OmvwBCvmF2NrEp9WVFd0dCW8wFfTKJhlobT_VhXJC5v54CLBG23cXVKOCR0I2T6C8jxnb5aE5cIVi-_mq4KHPPEsqe-G6NvqGMar6T3cfqI_phvtzdhxv2X5tfKvSMmOGp5MYb9bDEmmh 0g-RInFEFibEPE4iNBpg1TAIYkZn3Agr4yOhSrcQlAH-XkVXnfn2gboH5uWiLteoJOBYbQjfh7wTTz3-FBIPyR3bMSa AwXaY4-Ugh3dW6WdpG6eUB4MXU7LS5eWRWc4QpfVURP5VYMpsgRwCZF7E8LgpK8noEZgI9vYXA=s250-k-rw-no-m18
-#EXTINF:-1 tvg-id="https://www.bitchute.com/" tvg-logo="https://image.tmdb.org/t/p/original//AoLzLn8Z5akd1zHfBcrIiF2MdPw.jpg" group-title="SUSPENSO", AMNÉSIA (2000)
+#EXTINF:-1 tvg-id="https://www.bitchute.com/" tvg-logo="https://image.tmdb.org/t/p/original//AoLzLn8Z5akd1zHfBcrIiF2MdPw.jpg" group-title="SUSPENSE", AMNÉSIA (2000)
 https://zggg98sgwbg1gh.bitchute.com/P2tQxCZbN8Pf/EmnCTbJHPEsy.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A50Ngq9lh9aCTGHC6kttrppHNoF.jpg" group-title="AÇÃO | AVENTURA | CRIME", AVES DE RAPINA: ARLEQUINA E SUA EMANCIPACAO FANTABULOSA (2020)
 https://is.gd/Arlequina
@@ -1303,9 +1303,9 @@ https://video.wixstatic.com/video/834009_4c37082d84bb4594b93446e497ab16d9/720p/m
 https://a-delivery49.mxcontent.net/v/37053ea3fca1ac472f6c4380661f3fae.mp4?s=d0nRVun3MZ01C3wkRQOjUw&e=1717544130&_t=1717526175
 #EXTINF:-1 tvg-id="https://supertela.vg/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/house-elm-lake_pt/house-elm-lake_pt_200x300.jpg" group-title="TERROR", A MALDIÇÃO DA CASA DO LAGO (2017)
 https://workerproxy.warezcdn.workers.dev/?url=https://cloclo53.cloud.mail.ru/weblink/view/1TLR/cAXpWY8P7
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/pWFo72g7YIcc5ADZT9b6LzP6T6K.jpg" group-title="SUSPENSO | TERROR", A DEUSA DA VINGANÇA (2017)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/pWFo72g7YIcc5ADZT9b6LzP6T6K.jpg" group-title="SUSPENSE | TERROR", A DEUSA DA VINGANÇA (2017)
 https://video.wixstatic.com/video/834009_af347f6639b8425691592a4371b8a60a/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/lVVv2ULxGrzxtXHVIkFIXoMWgCb.jpg" group-title="SUSPENSO | TERROR", APRISIONADOS (2017)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/lVVv2ULxGrzxtXHVIkFIXoMWgCb.jpg" group-title="SUSPENSE | TERROR", APRISIONADOS (2017)
 https://video.wixstatic.com/video/834009_4f3919c40f3f42d78e0cf9b0fcfdd909/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/5DUGK2WvnyiBJwKOYhTR9FHx2Mh.jpg" group-title="F. CIENTÍFICA | SUSPENSE | TERROR", ANIQUILAÇÃO (2018)
 https://video.wixstatic.com/video/834009_544a11bcabc645a994bcb62bb1e5346f/480p/mp4/file.mp4
@@ -1317,7 +1317,7 @@ https://video.wixstatic.com/video/834009_ee54712299d5437d9422822670dc49ca/480p/m
 https://lh3.googleusercontent.com/DaaR_Q5ThQQ83G58zfJ8oOVAElRhLaNRDgn5ydQwgsOtK39z-ihg5YCHhVtxk-RTZ00OYkckcQ424WXQll_l7Ztg1BrrLWLL_fBX0Y79LACCbJfnoWoKrghzs7SZx4dhfFnSgD1oXQ=m22
 #EXTINF:-1 tvg-logo="https://superflixfilmes.net/wp-content/uploads/2021/09/fV5kUiiazJ90KmPYcXyc6tyknku-200x300.jpg" group-title="SUSPENSE | TERROR", A CASA DO MEDO
 https://lh3.googleusercontent.com/IWGiVJ1hQUzs4-ElU16SS_hzO-0uLOWsRSeD-AnBv-2Rxr_bMsA065TUQGdEOxWD4t7O9-69zAs7N3NnL48qeUMT39qQ9WCrlWIlxXtGe3vxkLQqsaBzdSMtkVrsCZ0LQG4HBOV7=m22
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/w342/qMbD0M7kTcftXQWk4FuwKSZr6Qo.jpg" group-title="SUSPENSO | TERROR", A CRIATURA SOMBRIA (2017)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/w342/qMbD0M7kTcftXQWk4FuwKSZr6Qo.jpg" group-title="SUSPENSE | TERROR", A CRIATURA SOMBRIA (2017)
 https://video.wixstatic.com/video/834009_388986fb4cc6437b99f4dadbf8d3cbf0/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/w150_and_h225_bestv2/piSpzW9vjUejGDnLDkuhu8F0ate.jpg" group-title="COMÉDIA | TERROR", A CABANA DA MORTE (2018)
 https://video.wixstatic.com/video/834009_010d6c16f01c47d081801c32d40f64c5/720p/mp4/file.mp4
@@ -1329,7 +1329,7 @@ https://video.wixstatic.com/video/834009_9a6876f414d64781b2b40e7d301ad2d6/720p/m
 https://video.wixstatic.com/video/834009_49495cedd6104f3eb4a50c75cf2d8020/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/zRjwHqHG36ZZ96PAuDNFWwaFVQy.jpg" group-title="SUSPENSE | TERROR", A VISITA (2015)
 https://video.wixstatic.com/video/834009_4a5f954a227c4aa9a64ef2dd320bc04e/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//iUVaF7WNmnPH7FeqxccgRlA0MZU.jpg" group-title="SUSPENSO | TERROR", A MALDIÇÃO DA SEREIA (2019)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//iUVaF7WNmnPH7FeqxccgRlA0MZU.jpg" group-title="SUSPENSE | TERROR", A MALDIÇÃO DA SEREIA (2019)
 https://video.wixstatic.com/video/834009_f708f42cce18480c88a024c121da455d/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/xVx3I0a4o3nb8aJymcqafCD4y5o.jpg" group-title="COMÉDIA | MISTÉRIO | TERROR", A MORTE TE DÁ PARABÉNS (2017) 720p
 https://video.wixstatic.com/video/834009_9fc7fbac7b6a4a5099a0c62f1af19cb0/720p/mp4/file.mp4
@@ -1339,29 +1339,29 @@ http://archive.org/download/0.doc/Rodrigo%20Machado/3.doc.mp4
 https://video.wixstatic.com/video/834009_04b9d76ea06946dca208736cecfb2329/360p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//quZnHOVKVbFR7IdXBI9J0ONb7Jk.jpg" group-title="DRAMA | POLICIAL | SUSPENSE", ASSASSINATO NO EXPRESSO DO ORIENTE (2017)
 https://video.wixstatic.com/video/834009_c0b7acb654ef4cb89b2bfd09b45c9d64/480p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/fz3RPQPquiyb4xi0isCIf6lIx7F.jpg" group-title="DRAMA | POLICIAL | SUSPENSO", A QUALQUER CUSTO (2017)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/fz3RPQPquiyb4xi0isCIf6lIx7F.jpg" group-title="DRAMA | POLICIAL | SUSPENSE", A QUALQUER CUSTO (2017)
 https://video.wixstatic.com/video/834009_1b5cb31ae8f8441d90d23b7a12474f3b/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/vverWoOxH00f4jM9hrd6oPGW0EE.jpg" group-title="DRAMA | SUSPENSO", A ARQUEIRA (2017)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/vverWoOxH00f4jM9hrd6oPGW0EE.jpg" group-title="DRAMA | SUSPENSE", A ARQUEIRA (2017)
 https://video.wixstatic.com/video/834009_45045880559247f690abaa9363b77d8c/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/qXknhDC48eVkn5dtJYtCxT6CBJo.jpg" group-title="DRAMA | POLICIAL | SUSPENSO", ACUSADA (2018)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/qXknhDC48eVkn5dtJYtCxT6CBJo.jpg" group-title="DRAMA | POLICIAL | SUSPENSE", ACUSADA (2018)
 https://video.wixstatic.com/video/834009_f38fe773ec904370b242b83b76d6a46e/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/tl2HXoLuxii1KjTd72QC3x0sU06.jpg" group-title="AÇÃO | COMÉDIA | SUSPENSE", ATRAÇÃO VIOLENTA (2017)
 https://video.wixstatic.com/video/834009_0008ed0767d2417cafb8ba7846a6c7d8/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/ochcUJTPQSfU5fDMA21y4xoDzeX.jpg" group-title="F. CIENTÍFICA | SUSPENSO | TERROR", ÁREA 51 (2015)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/ochcUJTPQSfU5fDMA21y4xoDzeX.jpg" group-title="F. CIENTÍFICA | SUSPENSE | TERROR", ÁREA 51 (2015)
 https://video.wixstatic.com/video/834009_e18685a53df54307803d8821fe253f3b/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/e0YXb5MVLeHAZC8HNg5Qro8ULNy.jpg" group-title="DRAMA | SUSPENSE | TERROR", A SÍNDROME DE BERLIN (2017)
 https://video.wixstatic.com/video/834009_a7de98fc08e347b7bbb6ae312ba80ba0/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/lVVv2ULxGrzxtXHVIkFIXoMWgCb.jpg" group-title="SUSPENSO | TERROR", APRISIONADOS (2017)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/lVVv2ULxGrzxtXHVIkFIXoMWgCb.jpg" group-title="SUSPENSE | TERROR", APRISIONADOS (2017)
 https://video.wixstatic.com/video/834009_4f3919c40f3f42d78e0cf9b0fcfdd909/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://imgdb.link/uploads/2018/03/a-inundacao.jpg" group-title="AÇÃO | F. CIENTÍFICA | SUSPENSE", A INUNDAÇÃO (2017)
 https://video.wixstatic.com/video/834009_b4b52455449f43faac4980b97b4eeb09/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://assistirfilmesonlinehd.me/wp-content/uploads/2019/10/kWRI8Ew9RyJweGJycUfnaO6RtVY-213x300.jpg" group-title="DRAMA | POLICIAL | SUSPENSO", ALVO TRIPLO (2017)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://assistirfilmesonlinehd.me/wp-content/uploads/2019/10/kWRI8Ew9RyJweGJycUfnaO6RtVY-213x300.jpg" group-title="DRAMA | POLICIAL | SUSPENSE", ALVO TRIPLO (2017)
 https://video.wixstatic.com/video/834009_a1c2c13c5aa1474c8f2f0d71a1cffd75/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//ukFaBeiDfQfD2ccyJH7cfmlK7Ep.jpg" group-title="AÇÃO | SUSPENSE", AMEAÇA EXPLOSIVA (2016)
 https://video.wixstatic.com/video/834009_c46e049448134338991d4175ef0a5b1b/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/woPYFGKwVULILbO7q44HmsNY0kO.jpg" group-title="AÇÃO | POLICIAL | SUSPENSE", ANÔNIMO (2021)
 https://video.wixstatic.com/video/834009_9667644fba604b1e86ab5164c16cbce6/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://www.suatela.com/home" tvg-logo="https://image.tmdb.org/t/p/original/g0yhg61JGBjoWlqj9Lus3XiQA3i.jpg" group-title="SUSPENSO", A ROSA VENENOSA (2019)
+#EXTINF:-1 tvg-id="https://www.suatela.com/home" tvg-logo="https://image.tmdb.org/t/p/original/g0yhg61JGBjoWlqj9Lus3XiQA3i.jpg" group-title="SUSPENSE", A ROSA VENENOSA (2019)
 https://video.wixstatic.com/video/da787a_9d207b1d686e4faa8067aaa929406edd/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/hnz5wRqeYKlugGbC7RZxC7DAiED.jpg" group-title="AÇÃO | AVENTURA | COMÉDIA", AMOR E MONSTROS (2020)
 https://video.wixstatic.com/video/834009_65d595980ebc4db5bc1423174e3bc0d0/720p/mp4/file.mp4
@@ -1385,7 +1385,7 @@ https://seed151.bitchute.com/DayJajJlKyQk/zGl9RPXNJDX2.mp4
 https://seed151.bitchute.com/DayJajJlKyQk/IgxR1BmH0qeW.mp4
 #EXTINF:-1 tvg-id="https://www.suatela.com/home" tvg-logo="https://image.tmdb.org/t/p/w150_and_h225_bestv2/5OGaYVCQbSEx3sAip1SMh9rDSxk.jpg" group-title="SUSPENSE", A PRIMEIRA CHEGADA (2018)
 https://video.wixstatic.com/video/db47f8_dd93f5460b6c4b78b00220d2f8e3be26/480p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://www.suatela.com/home" tvg-logo="https://image.tmdb.org/t/p/w342/7msVvX5oon0mgfaDvT6jtsVFrEz.jpg" group-title="SUSPENSO", ATRAÇÃO OBSESSIVA (2018)
+#EXTINF:-1 tvg-id="https://www.suatela.com/home" tvg-logo="https://image.tmdb.org/t/p/w342/7msVvX5oon0mgfaDvT6jtsVFrEz.jpg" group-title="SUSPENSE", ATRAÇÃO OBSESSIVA (2018)
 https://video.wixstatic.com/video/a07189_1f3c2f9a50bb4a7ea3c3629940b642f3/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://www.bitchute.com/" tvg-logo="https://i.pinimg.com/736x/da/21/d3/da21d38a2ec6a229685527a14c5376e0.jpg" group-title="AÇÃO", A ÚLTIMA CAÇADORA (2021)
 https://seed163.bitchute.com/Km2HxyvUDtHt/bjRdJ1PbK8Rj.mp4
@@ -1397,7 +1397,7 @@ https://video.wixstatic.com/video/834009_3402debb89794d26a82dbdedd553be32/720p/m
 https://video.wixstatic.com/video/db47f8_3df809f3aa5a4fb0ad414fa71a8fdccc/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://suatela.net/home" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/encounter_pt/encounter_pt_200x300.jpg" group-title="SUSPENSE | TERROR", AMERICAN POLTERGEIST - POSSUIDOS (2016) 1h 22min
 https://video.wixstatic.com/video/db47f8_680db124f0824365a1562859feaa4202/360p/mp4/file.mp4
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CRIME | DRAMA | POLICIAL | SUSPENSO", AS VIÚVAS - CAM
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CRIME | DRAMA | POLICIAL | SUSPENSE", AS VIÚVAS - CAM
 https://lh3.googleusercontent.com/l-2IdPQRxxQVvo6A_ToKseaiQjbpUvARdPKUpGv2gw5ty-bq1I7saQKEicfo9fSdyeOCbwJFSjVesvVyIUdc9QkdG5Qqz06XPds_ga2fveCvAaYlGPbQowuoCPhRpw7hD1xAp132cw=m18
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AVENTURA | COMÉDIA | DRAMA", A PRINCESA EA PLEBEIA
 https://lh3.googleusercontent.com/w_vzi40JL6EDzFQ-XJZDhItvTgzxuAMrHgUVPVC-vC7WSZUk95hg50WEK1j_XtLxDlsJIjwgkHRhPW3Nt5Q9BF7zB5SVLdPt31wi3QAR1YID1QWA9JaCSvt8EcQoKNG6NLjcB_oSlA=m22
@@ -1423,7 +1423,7 @@ https://goo.gl/sSvuZV
 https://goo.gl/mpEdJa
 #EXTINF:-1 tvg-logo="https://goo.gl/MgPwhr" group-title="DRAMA", AMADOR (2018)
 https://goo.gl/zHXdV6
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/beastly_pt/beastly_pt_200x300.jpg" group-title="DRAMA | FANTASIA | ROMANCE", A FERA (2011)
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/beastly_pt/beastly_pt_200x300.jpg" group-title="DRAMA | FANTASIA | ROMANCE", A FERA (2011)
 https://play.prod.gcp.vix.services/beastly_pt/beastly_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/lySW4nkzn7durlfx47yFHxJ6921.jpg" group-title="CRIME | DRAMA", A FERA (2017)
 https://video.wixstatic.com/video/db47f8_14f015de103d489189e90987fb55de55/480p/mp4/file.mp4
@@ -1443,15 +1443,15 @@ http://6da15e7a4d.spbmebel-pro.cf/deregodego/lastdance/filmcucu/2/ltm4c0s4qm4ryv
 https://video.wixstatic.com/video/9283ac_d068573a31c84e7a9a2404ae4f6fb768/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://filmessgratis.net/wp-content/uploads/2022/08/blWUQPSyv4vWJ8S8MS9lU9BD9Mf-200x300.jpg" group-title="SUSPENSE | TERROR", ATÉ A MORTE: SOBREVIVER É A MELHOR VINGANÇA (2021)
 http://9da15e7a4d.meshmixer.cf/deregodego/lastdance/filmcucu/1/4t34m0rt3sbrvv3rmlhrv1ngc4DUB.mp4
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/prodigy_pt/prodigy_pt_200x300.jpg" group-title="CRIME | SUSPENSE", A FLORESTA DO GELO (2014)
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/prodigy_pt/prodigy_pt_200x300.jpg" group-title="CRIME | SUSPENSE", A FLORESTA DO GELO (2014)
 https://play.prod.gcp.vix.services/ice-forest_pt/ice-forest_pt_1-1/play_v2_hls_720p.m3u8
 #EXTINF:-1 tvg-id="https://supertela.me/" tvg-logo="https://image.tmdb.org/t/p/w342/3w12S7LKkabx7pddQzsR3PY30m.jpg" group-title="AÇÃO | SUSPENSE", AGENTE DAS SOMBRAS (2022)
 http://8da15e7a4d.creditmanagement.cf/deregodego/novosup/filmcucu/new1/4gnt3d4s0brasDUB.mp4
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/percepcao-medo_pt/percepcao-medo_pt_200x300.jpg" group-title="NACIONAL | SUSPENSO | TERROR", A PERCEPÇÃO DO MEDO (2016)
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/percepcao-medo_pt/percepcao-medo_pt_200x300.jpg" group-title="NACIONAL | SUSPENSE | TERROR", A PERCEPÇÃO DO MEDO (2016)
 https://play.prod.gcp.vix.services/percepcao-medo_pt/percepcao-medo_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/library-suicides_pt/library-suicides_pt_200x300.jpg" group-title="SUSPENSO", ARMADILHA MORTAL (2016) 1h 29min.
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/library-suicides_pt/library-suicides_pt_200x300.jpg" group-title="SUSPENSE", ARMADILHA MORTAL (2016) 1h 29min.
 https://play.prod.gcp.vix.services/library-suicides_pt/library-suicides_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/precipice_pt/precipice_pt_200x300.jpg" group-title="DRAMA | POLICIAL | SUSPENSE", A VINGANÇA PERFEITA (2018) 1h 30min.
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/precipice_pt/precipice_pt_200x300.jpg" group-title="DRAMA | POLICIAL | SUSPENSE", A VINGANÇA PERFEITA (2018) 1h 30min.
 https://play.prod.gcp.vix.services/terminal_pt/terminal_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="" group-title="DRAMA", A ESPERA DE UM MILAGRE
 https://video.wixstatic.com/video/db47f8_6f7b0dd1696c4ad8a18fc3b2a0462b54/720p/mp4/file.mp4
@@ -1463,7 +1463,7 @@ https://video.wixstatic.com/video/db47f8_21e967e270b1444ba557d0ba6d7cae36/720p/m
 http://7da15e7a4d.farpasmaster.shop/deregodego/lastdance/filmcucu/2/4tr4v3sd4m1nh4j4n3l4DUB.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://pobreflix.org/wp-content/uploads/2023/07/q2SPbWtkYdB7k5YZlJ6J4vjr1yO-150x150.jpg" group-title="CRIME | MISTÉRIO | SUSPENSE", A ÚLTIMA FONTE (2023)
 http://8da15e7a4d.farpasmaster.shop/deregodego/lastdance/filmcucu/3/4ult1m4f0nt3DUB.mp4
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://pobreflix.org/wp-content/uploads/2021/09/nYf6MDUJCeeS73biahFNK3vcoOI-200x300.jpg" group-title="SUSPENSO", A ANFITRIÃ (2023)
+#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://pobreflix.org/wp-content/uploads/2021/09/nYf6MDUJCeeS73biahFNK3vcoOI-200x300.jpg" group-title="SUSPENSE", A ANFITRIÃ (2023)
 http://6da15e7a4d.farpasmaster.shop/deregodego/newhasta/filmcucu/1/44nf1tr14DUB.mp4
 #EXTINF:-1 tvg-id="https://supertela.day/" tvg-logo="https://image.tmdb.org/t/p/w400//k3IgF9W8ZD6BBdz2bljQAHydFCe.jpg" group-title="MISTÉRIO | SUSPENSE | TERROR", A MALDIÇÃO: DESPERTAR DOS MORTOS (2021)
 https://watch.brplayer.site/stream/MDRROVBxT0tHODV6VEp5MmEvRWx1dlhhSzlwNk56OG5BMGxDZ05hR1ZVeFBQWkhqcS9JRWtCNlN2NUlPaUdyOEwxSmR1dSs4Qnc0NU9zc05aMXZabkE9PQ==
@@ -1478,7 +1478,7 @@ https://is.gd/BadBoysParaSempr
 https://is.gd/Bloodshot2020
 #EXTINF:-1 tvg-id="https://www.vix.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/byzantium-2012_pt/byzantium-2012_pt_200x300.jpg" group-title="DRAMA | FANTASIA | TERROR", BYZANTIUM (2012)
 https://play.pongalo.com/byzantium-2012_pt/byzantium-2012_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://imgdb.link/uploads/2018/02/boneco-de-neve.png" group-title="DRAMA | POLICIAL | SUSPENSO | TERROR", BONECO DE NEVE (2017)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://imgdb.link/uploads/2018/02/boneco-de-neve.png" group-title="DRAMA | POLICIAL | SUSPENSE | TERROR", BONECO DE NEVE (2017)
 https://video.wixstatic.com/video/834009_771eeba3926344729d7c5312391c9d80/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/w185/18JeOCuDpVbocIbioIrGrO2A5aq.jpg" group-title="COMÉDIA | TERROR", BOO 2! O HALLOWEEN DE MADEA (2017)
 https://video.wixstatic.com/video/834009_35e4af6512c0424c8e84296f76ef802d/720p/mp4/file.mp4
@@ -1496,11 +1496,11 @@ https://video.wixstatic.com/video/834009_f8ceb18d0b864c2f8f06b898fb5b5a7c/720p/m
 https://www.googleapis.com/drive/v3/files/1_VZnvg8dpFA5ZlJNQDk2zv08id68dPFc?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
 #EXTINF:-1 tvg-id="https://gofilmes.me/s/" tvg-logo="https://image.tmdb.org/t/p/w780/qcquSEEdkKeXDmyKvrAKWznk2Cs.jpg" group-title="AÇÃO | AVENTURA", BEN-HUR (2016) 123min
 https://video.wixstatic.com/video/834009_bd7a5c3b64c441e8b7df7866e8ccf3b5/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/on-the-doll_pt/on-the-doll_pt_200x300.jpg" group-title="CRIME | DRAMA | SUSPENSE", BONECAS INOCENTES (2007) 1h 42min
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/on-the-doll_pt/on-the-doll_pt_200x300.jpg" group-title="CRIME | DRAMA | SUSPENSE", BONECAS INOCENTES (2007) 1h 42min
 https://play.prod.gcp.vix.services/on-the-doll_pt/on-the-doll_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="https://supertela.me/" tvg-logo="https://image.tmdb.org/t/p/w400//iGZX91hIqM9Uu0KGhd4MUaJ0Rtm.jpg" group-title="AÇÃO | CRIME | DRAMA | SUSPENSE", BATMAN: O CAVALEIRO DAS TREVAS 02h 32min 16/07/2008
 https://jeru2.s3.us-central-1.wasabisys.com/cdn2/cavaleirotrevas-dub-480p.mp4
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video128/v4/d1/71/5d/d1715dce-1d5e-583f-1146-42cc0e3a7717/contsched.xdvvptaj.lsr/268x0w.jpg" group-title="AÇÃO | CRIME | DRAMA | SUSPENSO", BATMAN: O CAVALEIRO DAS TREVAS RESSURGE (2012) 02h 45min
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video128/v4/d1/71/5d/d1715dce-1d5e-583f-1146-42cc0e3a7717/contsched.xdvvptaj.lsr/268x0w.jpg" group-title="AÇÃO | CRIME | DRAMA | SUSPENSE", BATMAN: O CAVALEIRO DAS TREVAS RESSURGE (2012) 02h 45min
 https://jeru2.s3.us-central-1.wasabisys.com/cdn2/cavaleiroressurge-dub-480p.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://ultraflix.org/wp-content/uploads/2022/08/3VFI3zbuNhXzx7dIbYdmvBLekyB-200x300.jpg" group-title="AÇÃO | CRIME | DRAMA | SUSPENSE", BATMAN (2022)
 https://video.wixstatic.com/video/b00560_76c510c417d746bb98155a7a30578a68/720p/mp4/file.mp4
@@ -1510,7 +1510,7 @@ https://goo.gl/rmvKhZ
 https://prussixf3.s3.us-central-1.wasabisys.com/cdn13/ACutAbove.2022.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://pobreflix.org/wp-content/uploads/2023/07/iTGBHdL12QEpLyRVlykDuiYxzAG-200x300.jpg" group-title="DRAMA | SUSPENSE", BIRD BOX BARCELONA (2023)
 http://7da15e7a4d.farpasmaster.shop/deregodego/lastdance/filmcucu/3/b1rdb0xb4rc3l0n4DUB.mp4
-#EXTINF:-1 tvg-id="https://supertela.day/" tvg-logo="https://image.tmdb.org/t/p/w400//asG1vxzBWed6vOwrHq1USW7HETT.jpg" group-title="SUSPENSO | TERROR", BLIND WALTERS "ÁGUAS CEGAS" (2023)
+#EXTINF:-1 tvg-id="https://supertela.day/" tvg-logo="https://image.tmdb.org/t/p/w400//asG1vxzBWed6vOwrHq1USW7HETT.jpg" group-title="SUSPENSE | TERROR", BLIND WALTERS "ÁGUAS CEGAS" (2023)
 https://watch.brplayer.site/stream/ellJaU1NZHRYV2czVGMwWDJBMVdpMWkvV2p1Ym9wV2c4YWNjWEZpUEpaWERUMDVhMWFTb0YyL3BGbEYwUmxDeVd6M0tYemhEclFTTTZxR2lRRTdjUXc9PQ==
 #EXTINF:-1 tvg-id="https://supertela.day/" tvg-logo="https://image.tmdb.org/t/p/w400//1IByydtR2GOvf6esVdrgp13Yve9.jpg" group-title="TERROR", ESPANCADO ATÉ A MORTE "ESPANCADO ATÉ A MORTE" (2023)
 https://watch.brplayer.site/stream/YUFray9qcDNmZnQyeEdzNzU0UHpyTVJTNEEtTZWhkZHVQMkNta1RaV014dzFYMnZMaVgwUC81dDk2MCtYeXU2dkN5MG9SdURaN1pPUFJDK3pDNSt1TkE9PQ==
@@ -1531,21 +1531,21 @@ https://video.wixstatic.com/video/834009_9220c5ef6c7b4501816c34be442074b6/480p/m
 https://video.wixstatic.com/video/834009_a677cb365e074bd4b3e294305301f000/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//yknPZEvBdg429Ny26lZCoRnF3Re.jpg" group-title="SUSPENSE | TERROR", CONTINUE ASSISTINDO (2018)
 https://video.wixstatic.com/video/834009_0f609fa3ef874425b7c63364c81fe405/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/o3DVBrlCv4wp1tibgWhxZ5bLmsz.jpg" group-title="DRAMA | F. CIENTÍFICA | SUSPENSO", CALMARIA (2019)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/o3DVBrlCv4wp1tibgWhxZ5bLmsz.jpg" group-title="DRAMA | F. CIENTÍFICA | SUSPENSE", CALMARIA (2019)
 https://video.wixstatic.com/video/834009_f44c4c83693c42deabdf09f2c111ac90/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/p1WwFPliT9jG63YlEz8E5v3fsGQ.jpg" group-title="AÇÃO | SUSPENSE", CENTRO DE TRAUMA (2019)
 https://video.wixstatic.com/video/834009_16feada5e5e14db08eff7a6a90afa569/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/3VPZYf1UEiXcwHqySBqQYT3dHmc.jpg" group-title="SUSPENSO | TERROR", CEMITÉRIO MALDITO (2019)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/3VPZYf1UEiXcwHqySBqQYT3dHmc.jpg" group-title="SUSPENSE | TERROR", CEMITÉRIO MALDITO (2019)
 https://video.wixstatic.com/video/834009_2aab4f9b4def42bab54556e5c6712e90/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/cTtrFUxMKUX4ZGfMfydym2AZQba.jpg" group-title="FANTASIA | TERROR", CEMITÉRIO MALDITO: A ORIGEM (2023)
 http://8da15e7a4d.farpasmaster.shop/deregodego/newhasta/filmcucu/1/c3m1t3r10m4ldt04r1g3mDUB.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/ezHANaEtKOdwoY0NnDtxAwJQx6d.jpg" group-title="AÇÃO | SUSPENSE", CLOSE (2019)
 https://video.wixstatic.com/video/834009_f43042f64ba24d70b26dbd86883bb37e/480p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/bus-driver_pt/bus-driver_pt_200x300.jpg" group-title="AÇÃO | CRIME | SUSPENSO", CAMINHO DA MORTE (2016) 1h 10min
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/bus-driver_pt/bus-driver_pt_200x300.jpg" group-title="AÇÃO | CRIME | SUSPENSE", CAMINHO DA MORTE (2016) 1h 10min
 https://play.prod.gcp.vix.services/bus-driver_pt/bus-driver_pt_1-1/play_hls_720p.m3u8
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/q67ptsqjWgY3bbKVljvCOkcp6tJ.jpg" group-title="COMÉDIA", CORRENDO ATRÁS DE UM PAI (2018)
 https://video.wixstatic.com/video/834009_d5d92977707842b6899ad811fb3ce6ed/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//pZMF8sgY4dId5EHCs3GTNtQ9NRE.jpg" group-title="DRAMA | POLICIAL | SUSPENSO", CRIMINOSOS DE NOVEMBRO (2017)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//pZMF8sgY4dId5EHCs3GTNtQ9NRE.jpg" group-title="DRAMA | POLICIAL | SUSPENSE", CRIMINOSOS DE NOVEMBRO (2017)
 https://video.wixstatic.com/video/834009_da060bc3f771444c9634e0522c307d6d/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//500tYZ6zeW7HAkjMtq4sWCO7SXn.jpg" group-title="DRAMA | POLICIAL | SUSPENSE", CONFRONTO NO PAVILHÃO 99 (2018)
 https://video.wixstatic.com/video/834009_173b15e4ad114a6ba50d6b0cb1cfac62/720p/mp4/file.mp4
@@ -1561,17 +1561,17 @@ http://joao-1-us.mainbkonline.shop:80/movie/0ey85arr/ao1z1ayd/86288.mp4
 https://seed200.bitchute.com/sjwe9KN3jgME/bPlPjPLzPHY.mp4
 #EXTINF:-1 tvg-id="https://www.bitchute.com/" tvg-logo="https://image.tmdb.org/t/p/w185/pm1sZsTjZ5e9buaxlbk4jYOjjUA.jpg" group-title="AÇÃO | CRIME", CRUZANDO A LINHA (2021)
 https://seed122.bitchute.com/SXLutSwJ7rhx/36GF8z2GTYgL.mp4
-#EXTINF:-1 tvg-id="https://www.suatela.com/home" tvg-logo="https://image.tmdb.org/t/p/w342/zwZvQ8JzvSAwyko80r3rS73zumv.jpg" group-title="SUSPENSO | TERROR", CANIBAIS (2015)
+#EXTINF:-1 tvg-id="https://www.suatela.com/home" tvg-logo="https://image.tmdb.org/t/p/w342/zwZvQ8JzvSAwyko80r3rS73zumv.jpg" group-title="SUSPENSE | TERROR", CANIBAIS (2015)
 https://video.wixstatic.com/video/9283ac_bbe93d76c9aa41e7aba6ca08e922f668/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/fields-of-dead_pt/fields-of-dead_pt_200x300.jpg" group-title="SUSPENSE | TERROR", CAMPO DOS MORTOS (2014) 1h 24min
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/fields-of-dead_pt/fields-of-dead_pt_200x300.jpg" group-title="SUSPENSE | TERROR", CAMPO DOS MORTOS (2014) 1h 24min
 https://play.prod.gcp.vix.services/campos-dos-mortos_pt/campos-dos-mortos_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/bleeding-heart_pt/bleeding-heart_pt_200x300.jpg" group-title="DRAMA | SUSPENSO", CORAÇÃO SANGRENTO (2015) 1h 20min
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/bleeding-heart_pt/bleeding-heart_pt_200x300.jpg" group-title="DRAMA | SUSPENSE", CORAÇÃO SANGRENTO (2015) 1h 20min
 https://play.prod.gcp.vix.services/bleeding-heart_pt/bleeding-heart_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="https://tv.kinopop.com/" tvg-logo="https://tv.kinopop.com/img/thumbnail.php?url=https://cdn046.fractalmedia.es/thumb/iO5VfITk1F_w640.jpg&w=200&p=1" group-title="TERROR", CADÁVERES - A REUNIÃO DOS MORTOS
 https://cdn035.fractalmedia.es/hls_adaptive/1a81e00ff882941441fb4ff2916be154/iO5VfITk1F/720/index.m3u8
 #EXTINF:-1 tvg-id="https://tv.kinopop.com/" tvg-logo="https://tv.kinopop.com/img/thumbnail.php?url=https://cdn030.fractalmedia.es/thumb/PS7M8OG21W_w640.jpg&w=200&p=1" group-title="TERROR", CONTATOS ALIENÍGENAS
 https://cdn035.fractalmedia.es/hls_adaptive/1a81e00ff882941441fb4ff2916be154/PS7M8OG21W/720/index.m3u8
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/old-37_pt/old-37_pt_200x300.jpg" group-title="CRIME | TERROR", CHAMADA MORTAL (2015)
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/old-37_pt/old-37_pt_200x300.jpg" group-title="CRIME | TERROR", CHAMADA MORTAL (2015)
 https://play.prod.gcp.vix.services/old-37_pt/old-37_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://superfilmesonline.pro/wp-content/uploads/2022/10/Convite-Maldito-2022-214x300.jpg" group-title="TERROR", CONVITE MALDITO (2022)
 http://9da15e7a4d.surattaxihire.ga:8880/deregodego/lastdance/filmcucu/2/cnv1t3m4ld1t0DUB.mp4
@@ -1579,7 +1579,7 @@ http://9da15e7a4d.surattaxihire.ga:8880/deregodego/lastdance/filmcucu/2/cnv1t3m4
 https://video.wixstatic.com/video/db47f8_6488f25b3cf04ecd911e5dc61137f3c4/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/aYN8rACVHAASPMvt6r0UU5TmJMu.jpg" group-title="COMÉDIA | NACIONAL", CASA DA MÃE JOANA 2 (2017)
 https://video.wixstatic.com/video/db47f8_3ef236d5e81a4d59881b847776289869/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/unknown-caller_pt/unknown-caller_pt_200x300.jpg" group-title="CRIME | SUSPENSO", CHAMADA NÃO IDENTIFICADA (2014)
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/unknown-caller_pt/unknown-caller_pt_200x300.jpg" group-title="CRIME | SUSPENSE", CHAMADA NÃO IDENTIFICADA (2014)
 https://play.prod.gcp.vix.services/unknown-caller_pt/unknown-caller_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="https://supertela.me/" tvg-logo="https://image.tmdb.org/t/p/w342/yXodDzwiVvHjTWU7HUbJXV9pqS9.jpg" group-title="AVENTURA | COMÉDIA", CROCODILO DUNDEE (1986)
 https://qatarinho2.s3.us-central-1.wasabisys.com/classicos/CrocodiloDundee.1886.mp4
@@ -1591,17 +1591,17 @@ https://qatarinho2.s3.us-central-1.wasabisys.com/classicos/CrocodiloDundee.3.200
 https://video.wixstatic.com/video/db47f8_8724618f386245839a82c69accbccb5f/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://supertela.me/" tvg-logo="https://image.tmdb.org/t/p/w400//zd5AwX7hWNcSnceDuT5dAh1mVap.jpg" group-title="AÇÃO | SUSPENSE", CELULAR UM GRITO DE SOCORRO (2004) 01h 34min
 https://jeru2.s3.us-central-1.wasabisys.com/cdn12/CelularUmGritoDeSocorro.2004.mp4
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://www.papodecinema.com.br/wp-content/uploads/2022/12/20221206-cubo-a-caixa-do-medo-papo-de-cinema-cartaz.jpeg" group-title="SUSPENSE | TERROR", CUBO: A CAIXA DO MEDO (2021)
+#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://www.papodeCINEMA.com.br/wp-content/uploads/2022/12/20221206-cubo-a-caixa-do-medo-papo-de-CINEMA-cartaz.jpeg" group-title="SUSPENSE | TERROR", CUBO: A CAIXA DO MEDO (2021)
 http://6da15e7a4d.farpasmaster.shop/deregodego/lastdance/filmcucu/1/cb04c4x4d0m3d0DUB.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/210/083/21008319_20130525050352928.jpg" group-title="TERROR", CHRISTINE: O CARRO ASSASSINO (1983)
 https://video.wixstatic.com/video/9283ac_aa9462e3b7c9421bbedec6e4c38440ff/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://topflix.vc/images/poster/330490/472248564.jpg" group-title="CRIME | DRAMA | SUSPENSE", CRIME NA RODOVIA PARAÍSO (2022)
 http://8da15e7a4d.farpasmaster.shop/deregodego/lastdance/filmcucu/1/cr1m3n4r0d0v14pr41s0DUB.mp4
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/condado-macabro_pt/condado-macabro_pt_200x300.jpg" group-title="TERROR", CONDADO MACABRO (2015)
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/condado-macabro_pt/condado-macabro_pt_200x300.jpg" group-title="TERROR", CONDADO MACABRO (2015)
 https://play.prod.gcp.vix.services/condado-macabro_pt/condado-macabro_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w400//2FKm87VF8VKkIFJtRoPsWiux4sr.jpg" group-title="CRIME | DRAMA | SUSPENSE", CAMALEÕES (2023)
 http://7da15e7a4d.farpasmaster.shop/deregodego/newhasta/filmcucu/1/c4m4l30sDUB.mp4
-#EXTINF:-1 tvg-id="https://www.tokyvideo.com/" tvg-logo="https://www.filmesonlinehdgratis.com.br/_imagens/colheita-sombria.jpg" group-title="MISTÉRIO | SUSPENSO | TERROR", COLHEITA SOMBRIA 2023
+#EXTINF:-1 tvg-id="https://www.tokyvideo.com/" tvg-logo="https://www.filmesonlinehdgratis.com.br/_imagens/colheita-sombria.jpg" group-title="MISTÉRIO | SUSPENSE | TERROR", COLHEITA SOMBRIA 2023
 https://cdn34.tokyvideo.com/videos/359/359559/mp4/d805b798e086e1b00e78d28ec3ebfc23ef2a55e442a0fc8fb308d28ad29417f8.mp4?nva=20231017014514&nvb=20231015014514&token=041d931969d8fd2f7626f
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://www.filmesonlinehdgratis.com.br/_imagens/conferencia-mortal.jpg" group-title="COMÉDIA | SUSPENSE | TERROR", CONFERÊNCIA MORTAL 2023
 http://9da15e7a4d.farpasmaster.shop/deregodego/newhasta/filmcucu/1/c0nf3r3nc14m0rt4lDUB.mp4
@@ -1618,11 +1618,11 @@ https://video.wixstatic.com/video/834009_7a619ac1048742bc9b63b7b0a4b44689/720p/m
 https://video.wixstatic.com/video/834009_97231392cd2f4465b59884c111618773/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/xygBIZm05PruPcmNjekb6aXBk6f.jpg" group-title="AÇÃO | F. CIENTÍFICA | TERROR", DO FUNDO DO MAR 2 (2018)
 https://video.wixstatic.com/video/834009_346e48b5204146028e804a406bcc9982/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/woEtadesDou5F5hVb6MgQMhk3KE.jpg" group-title="SUSPENSO | TERROR", DISTÚRBIO (2017)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/woEtadesDou5F5hVb6MgQMhk3KE.jpg" group-title="SUSPENSE | TERROR", DISTÚRBIO (2017)
 https://video.wixstatic.com/video/834009_b6ba4b17677349c6a1707b2092a763b2/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//bDuE9wvdil8rm5x3i6ZSDwFa5uh.jpg" group-title="DRAMA | TERROR", DEPOIS DO APOCALIPSE (2018)
 https://video.wixstatic.com/video/834009_74c1ea97c36040a1a61c257c29432e42/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/zHIlxwA43v32KZrgchb4nLL4H90.jpg" group-title="SUSPENSO | TERROR", DELÍRIOS DO PASSADO (2018)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/zHIlxwA43v32KZrgchb4nLL4H90.jpg" group-title="SUSPENSE | TERROR", DELÍRIOS DO PASSADO (2018)
 https://video.wixstatic.com/video/834009_28a1be7762a048eca3df6703d1e19ee1/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://imgdb.link/uploads/2018/09/doce-virginia.jpg" group-title="DRAMA | SUSPENSE", DOCE VIRGÍNIA (2017)
 https://video.wixstatic.com/video/834009_9b8fbd58212c46eb9a13388e7ed2deca/720p/mp4/file.mp4
@@ -1632,19 +1632,19 @@ https://video.wixstatic.com/video/834009_3d9c91e1eabd4e6eb1b729419fe416c2/720p/m
 https://video.wixstatic.com/video/834009_8f40ca02fb7f499183e5c3773c2ee72c/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/v2iSN5OGgvg4oNRs1HHSLgsEO7c.jpg" group-title="ROMANCE | SUSPENSE", DESEJO DO CORPO (2017)
 https://video.wixstatic.com/video/834009_f5a4e377fdc84431a65f688fcb4c906e/480p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://assistirfilmesonline.pro/wp-content/uploads/2020/12/Dominacao-214x300.jpg" group-title="SUSPENSO | TERROR", DOMINAÇÃO (2017)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://assistirfilmesonline.pro/wp-content/uploads/2020/12/Dominacao-214x300.jpg" group-title="SUSPENSE | TERROR", DOMINAÇÃO (2017)
 https://video.wixstatic.com/video/834009_882442958d7a4e0ea10fd17947b1b1e7/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://1.bp.blogspot.com/-VvdHoAvb44w/WVezaFoGQHI/AAAAAAAAKNM/U2HW6wyJoJkiU5ho2A3_BJD63VZzb_zaQCLcBGAs/s320/dggtrtrtttrtry.jpg" group-title="SUSPENSO", DRONE (2017)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://1.bp.blogspot.com/-VvdHoAvb44w/WVezaFoGQHI/AAAAAAAAKNM/U2HW6wyJoJkiU5ho2A3_BJD63VZzb_zaQCLcBGAs/s320/dggtrtrtttrtry.jpg" group-title="SUSPENSE", DRONE (2017)
 https://video.wixstatic.com/video/834009_c48ae18df1f34298b9e45816aad2bf3c/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://i0.wp.com/pobreflix.top/wp-content/uploads/2020/07/r3ueo40uVTRhIaqk0OiIvllaz9j-185x278.jpg" group-title="SUSPENSO", DESERTO EM FOGO (2020)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://i0.wp.com/pobreflix.top/wp-content/uploads/2020/07/r3ueo40uVTRhIaqk0OiIvllaz9j-185x278.jpg" group-title="SUSPENSE", DESERTO EM FOGO (2020)
 https://video.wixstatic.com/video/834009_ad0691108a6b4e3482a91835d5a1dff7/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://i0.wp.com/pobreflix.top/wp-content/uploads/2020/07/aKhM5vVQfawKqKtPZK4FZDCK7N3-185x278.jpg" group-title="POLICIAL | SUSPENSO", DINHEIRO EM JOGO (2017)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://i0.wp.com/pobreflix.top/wp-content/uploads/2020/07/aKhM5vVQfawKqKtPZK4FZDCK7N3-185x278.jpg" group-title="POLICIAL | SUSPENSE", DINHEIRO EM JOGO (2017)
 https://video.wixstatic.com/video/834009_05b355e814cf4aa49bcd49137d9df7e3/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://superflixfilmes.net/wp-content/uploads/2020/01/g0ehjmoNsgH9RmlGiAfYzN2whps-200x300.jpg" group-title="AÇÃO | AVENTURA | COMÉDIA", DEADPOOL (2016)
 https://video.wixstatic.com/video/834009_e99371391a284df5842fe25b017866e6/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://www.bitchute.com/" tvg-logo="https://image.tmdb.org/t/p/w185/s1FhMAr91WL8D5DeHOcuBELtiHJ.jpg" group-title="AÇÃO | AVENTURA", DUNA (2021)
 https://seed128.bitchute.com/P2tQxCZbN8Pf/AnVLUcN2iFxl.mp4
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/from-depths_pt/from-depths_pt_200x300.jpg" group-title="DRAMA | SUSPENSE | TERROR", DIRETO DAS PROFUNDEZAS (2020) 1h 15min
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/from-depths_pt/from-depths_pt_200x300.jpg" group-title="DRAMA | SUSPENSE | TERROR", DIRETO DAS PROFUNDEZAS (2020) 1h 15min
 https://play.prod.gcp.vix.services/from-depths_pt/from-depths_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://superfilmesonline.pro/wp-content/uploads/2022/09/Desumano-Dublado-HD-214x300.jpg" group-title="COMÉDIA | TERROR", DESUMANO (2022)
 http://7da15e7a4d.melinart.tk:8880/deregodego/lastdance/filmcucu/1/dsum4n0DUB.mp4
@@ -1656,7 +1656,7 @@ https://jeru2.s3.us-central-1.wasabisys.com/cdn11/DevoradorDeAlmas.mp4
 https://cdn031.fractalmedia.es/hls_adaptive/2e6dc31dae9c68e1299adb0e6b3887cc/2FyLzUOl9A/720/index.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://media.filmelier.com/tit/Esmoe7/poster/descida-ao-inferno_J6fER9M.jpeg" group-title="TERROR", DESCIDA AO INFERNO (2022)
 http://7da15e7a4d.farpasmaster.shop/deregodego/lastdance/filmcucu/1/d3sc1d41nf3rn0DUB.mp4
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/loft_pt/loft_pt_200x300.jpg" group-title="TERROR", DESEJOS MORTAIS (2010)
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/loft_pt/loft_pt_200x300.jpg" group-title="TERROR", DESEJOS MORTAIS (2010)
 https://play.prod.gcp.vix.services/loft_pt/loft_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w500/hiNqwEkmW1oMlbQnNKlucIzvqjn.jpg" group-title="DRAMA | SUSPENSE", DESTINOS À DERIVA (2023)
 http://9da15e7a4d.farpasmaster.shop/deregodego/newhasta/filmcucu/1/d3st1n0s4d3r1v4DUB.mp4
@@ -1675,23 +1675,23 @@ https://play.pongalo.com/counterforce_pt/counterforce_pt_1-1/play_v1_hls_720p.m3
 https://play.pongalo.com/all-mistakes-buried_pt/all-mistakes-buried_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="https://www.vix.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/police-story-2013_pt/police-story-2013_pt_200x300.jpg" group-title="AÇÃO | DRAMA | SUSPENSE", EM NOME DA LEI (2013)
 https://play.pongalo.com/police-story-2013_pt/police-story-2013_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="https://www.vix.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/female-club_pt/female-club_pt_200x300.jpg" group-title="MISTÉRIO | SUSPENSO | TERROR", EU SEI QUEM ME MATOU (2007)
+#EXTINF:-1 tvg-id="https://www.vix.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/female-club_pt/female-club_pt_200x300.jpg" group-title="MISTÉRIO | SUSPENSE | TERROR", EU SEI QUEM ME MATOU (2007)
 https://play.pongalo.com/know-killed-me_pt/know-killed-me_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//7V4WfCUWYzMcBby8e6jAwVxw2Ai.jpg" group-title="F. CIENTÍFICA | SUSPENSE | TERROR", ECLIPSE MORTAL (2000)
 https://video.wixstatic.com/video/834009_01f975f1d7bd4e79924d2d4a93db1d82/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/cF3NwZvPwYNHcoErW5H5cuzzYaE.jpg" group-title="SUSPENSO | TERROR", ENJAULADA (2016)
+#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/cF3NwZvPwYNHcoErW5H5cuzzYaE.jpg" group-title="SUSPENSE | TERROR", ENJAULADA (2016)
 https://video.wixstatic.com/video/a07189_a26bd0830add46bab609d9c656077b09/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://imgdb.link/uploads/2017/01/enjaulada.jpg" group-title="SUSPENSO | TERROR", ENJAULADA (2017)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://imgdb.link/uploads/2017/01/enjaulada.jpg" group-title="SUSPENSE | TERROR", ENJAULADA (2017)
 https://video.wixstatic.com/video/834009_fc11b7881f7a45288cc1a5dd8dac0f2f/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://filmessgratis.net/wp-content/uploads/2022/08/4bnCfbckr574xi5TiWkIZ8luWF4-1-90x135.jpg" group-title="SUSPENSE | TERROR", ENJAULADO (2021)
 http://7da15e7a4d.studiocity.cf/deregodego/lastdance/filmcucu/1/3nj4ul4d0DUB.mp4
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/woman-fifth_pt/woman-fifth_pt_200x300.jpg" group-title="DRAMA | MISTÉRIO | SUSPENSE", ESTRANHA OBSESSÃO (2011) 1h 24min
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/woman-fifth_pt/woman-fifth_pt_200x300.jpg" group-title="DRAMA | MISTÉRIO | SUSPENSE", ESTRANHA OBSESSÃO (2011) 1h 24min
 https://play.prod.gcp.vix.services/woman-fifth_pt/woman-fifth_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/w185/hnhj3goXoJdVecitQTYo2au7T0g.jpg" group-title="DRAMA | SUSPENSE | TERROR", ENCONTRO COM O PASSADO (2010)
 https://video.wixstatic.com/video/834009_fe9ff36e2b864a25b470b7c29d391faf/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/w185/m4vkaiD9KeRLUKCBIvG3jSQ9tvP.jpg" group-title="SUSPENSE | TERROR", EXORCISMOS E DEMÔNIOS (2018)
 https://video.wixstatic.com/video/834009_622df9506e37472a8649954f7b42e72d/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/w185/bedYbbNKNbQFWWJ2lHTC1rSXFUy.jpg" group-title="SUSPENSO | TERROR", ERREMENTARI: O FERREIRO E O DIABO (2018)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/w185/bedYbbNKNbQFWWJ2lHTC1rSXFUy.jpg" group-title="SUSPENSE | TERROR", ERREMENTARI: O FERREIRO E O DIABO (2018)
 https://video.wixstatic.com/video/834009_d678c2625d124bf7970cf17812b5cc7c/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/9nPnDDPrSgMw7TUrYShiZ3Ud07.jpg" group-title="F. CIENTÍFICA | SUSPENSE", EXTINÇÃO (2018)
 https://video.wixstatic.com/video/834009_1cc07bdcb3294b11bac7ab5df66fb903/720p/mp4/file.mp4
@@ -1709,22 +1709,22 @@ https://seed200.bitchute.com/VuHB0tOYQ7Gs/ZJ2wQnKbzwIJ.mp4
 https://cdn037.fractalmedia.es/hls_adaptive/24c50df65a87be157699148780230f7c/oA9ipdv4Ee/720/index.m3u8
 #EXTINF:-1 tvg-id="https://tv.kinopop.com/" tvg-logo="https://tv.kinopop.com/img/thumbnail.php?url=https://cdn043.fractalmedia.es/thumb/NxtjTQe2qZ_w640.jpg&w=200&p=1" group-title="TERROR", ENCONTRO.COM
 https://cdn037.fractalmedia.es/hls_adaptive/24c50df65a87be157699148780230f7c/NxtjTQe2qZ/720/index.m3u8
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://fonlinebr.com/wp-content/uploads/2022/11/qV5vEMXsCKakk2usQ4QLhiJa00h-150x150.jpg" group-title="SUSPENSO", EM CONFINAMENTO (2022)
+#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://fonlinebr.com/wp-content/uploads/2022/11/qV5vEMXsCKakk2usQ4QLhiJa00h-150x150.jpg" group-title="SUSPENSE", EM CONFINAMENTO (2022)
 http://6da15e7a4d.qzbbs.gq/deregodego/lastdance/filmcucu/2/crwsp4c3cnf1n4m3nt0DUB.mp4
 #EXTINF:-1 tvg-id="https://supertela.me/" tvg-logo="https://image.tmdb.org/t/p/w342/28E42Ea3Ml3cjvUMHaSqeGYXBfI.jpg" group-title="COMÉDIA | NACIONAL", ESPOSA DE ALUGUEL (2022)
 https://troy2.s3.us-central-1.wasabisys.com/cdn13/EsposadeAluguel.2022.mp4
 #EXTINF:-1 tvg-id="https://supertela.me/" tvg-logo="https://image.tmdb.org/t/p/w342/6urQ17k0Pepx8RoYVeRbwaCSVIS.jpg" group-title="AÇÃO | DRAMA | F. CIENTÍFICA | SUSPENSE | TERROR", EU SOU A LENDA (2007)
 https://video.wixstatic.com/video/db47f8_b53e539f79e2447c919ead431aeadd2f/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/troubled-waters_pt/troubled-waters_pt_200x300.jpg" group-title="MISTÉRIO", EM ÁGUAS AGITADAS (2019) 1h 19min.
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/troubled-waters_pt/troubled-waters_pt_200x300.jpg" group-title="MISTÉRIO", EM ÁGUAS AGITADAS (2019) 1h 19min.
 https://play.prod.gcp.vix.services/troubled-waters_pt/troubled-waters_pt_1-1/play_v1_hls_720p.m3u8
 
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/aqUTMmzAmNgmr55U1dezPVTQAHP.jpg" group-title="CRIME | DRAMA | SUSPENSO", FIM DA ESTRADA (2022)
+#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/aqUTMmzAmNgmr55U1dezPVTQAHP.jpg" group-title="CRIME | DRAMA | SUSPENSE", FIM DA ESTRADA (2022)
 http://10da15e7a4d.viajoteca.ga:8880/deregodego/lastdance/filmcucu/1/f1md4str4d4DUB.mp4
 #EXTINF:-1 tvg-id="https://tv.kinopop.com/" tvg-logo="https://tv.kinopop.com/img/thumbnail.php?url=https://cdn030.fractalmedia.es/thumb/7STkDjl8IV_w640.jpg&w=200&p=1" group-title="TERROR", FILHOS DA ESCURIDÃO
 https://cdn044.fractalmedia.es/hls_adaptive/3945ab0088008c419749d44eaff4df71/7STkDjl8IV/720/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AÇÃO | SUSPENSE", FÚRIA EM ALTO MAR - CAM
 https://lh3.googleusercontent.com/Gw_O-wDO4e-QWWQqEEPvm8pBMPzRAsgFw3MxwcjNHjDzuykXwNwtEOViIyoqDfDmw0lJsWq-fiMMACYShaY7R3uFnoaR6mh-JTQxaJy9rieys-Yb-kLbAn7m-mYglbE0t_IykC-zcw=m22
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/3PFEWKFqfZZoxDpJNceL6XKzsGk.jpg" group-title="SUSPENSO | TERROR", FUJA 2020
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/3PFEWKFqfZZoxDpJNceL6XKzsGk.jpg" group-title="SUSPENSE | TERROR", FUJA 2020
 https://video.wixstatic.com/video/834009_0861307605ce48ab97f53719fa9f583d/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/vRlihrNaNkEsOWIyHiYr0VLD6l0.jpg" group-title="DRAMA | SUSPENSE | TERROR", FOBIA (2018)
 https://video.wixstatic.com/video/834009_903852dcac6840099d0fe502019ee115/720p/mp4/file.mp4
@@ -1732,7 +1732,7 @@ https://video.wixstatic.com/video/834009_903852dcac6840099d0fe502019ee115/720p/m
 https://video.wixstatic.com/video/834009_62341f4ef1e14477b73d767de6ed88b6/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/kDt37orVVcJ4tbB2azkMc4nqn1U.jpg" group-title="AÇÃO | SUSPENSE", FÚRIA INCONTROLÁVEL (2020)
 https://video.wixstatic.com/video/834009_39af01e9687846b192610b4b11b78b60/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/vsvmurub7aShF1PIFJS2l2D5ArS.jpg" group-title="SUSPENSO", FRATURA (2019)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/vsvmurub7aShF1PIFJS2l2D5ArS.jpg" group-title="SUSPENSE", FRATURA (2019)
 https://video.wixstatic.com/video/834009_8ac3d923070948aabd4bffa36b611d2a/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/mytDZ2Uulslrts6O8uskJyB7Oel.jpg" group-title="SUSPENSE", FUGA DO HOSPÍCIO: A HISTÓRIA DE NELLIE BLY (2019)
 https://video.wixstatic.com/video/834009_c28184f61c834ac19227f75be810e145/720p/mp4/file.mp4
@@ -1746,7 +1746,7 @@ https://video.wixstatic.com/video/834009_1e76e5bbf7b94e938a1d9a1d488f48e3/720p/m
 https://jeru2.s3.us-central-1.wasabisys.com/cdn8/ForrestGumpOContadorDeHistorias1994.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://www.interfilmes.com/FILMES/355100/355162/fotocapa.jpg" group-title="TERROR", FUGINDO DO INFERNO 2015
 https://video.wixstatic.com/video/9283ac_1b2124935951430f9f0cc5102345fe71/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="http://suatela.net/" https://image.tmdb.org/t/p/w185/6tIhfkc52XQnxzbMYeV9XK90NTG.jpg" group-title="SUSPENSO | TERROR", FALE COMIGO (2023)
+#EXTINF:-1 tvg-id="http://suatela.net/" https://image.tmdb.org/t/p/w185/6tIhfkc52XQnxzbMYeV9XK90NTG.jpg" group-title="SUSPENSE | TERROR", FALE COMIGO (2023)
 http://6da15e7a4d.farpasmaster.shop/deregodego/newhasta/filmcucu/1/f4l3c0m1g0DUB.mp4
 #EXTINF:-1 tvg-id="https://supertela.top/" tvg-logo="https://image.tmdb.org/t/p/w400//mIodhEFZMi7szsI3uP03XIHT1xb.jpg" group-title="MISTÉRIO | SUSPENSE | TERROR", FERIADO SANGRENTO (2023)
 https://watch.brplayer.site/stream/UEtiOWVYaCtIYlYzb1JQRlVOK3NmZTdXejZMUFk1U0ZTQUN3cGxwNW9reXovbVdFb3pIYmVQQkJIVnl5QzNUeU16bTIvUGRSZHdkM1R3b0NhZHF1Tnc9PQ==
@@ -1755,11 +1755,11 @@ https://watch.brplayer.site/stream/UEtiOWVYaCtIYlYzb1JQRlVOK3NmZTdXejZMUFk1U0ZTQ
 https://video.wixstatic.com/video/834009_947fc664bb5b48a1985b15f3b45f4bfa/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://m.topflix.fm/images/poster/330490/220641229.jpg" group-title="COMÉDIA | TERROR", GAROTA INFERNAL (2009)
 https://video.wixstatic.com/video/834009_0bb864a540ef4739b7b485a929eaa042/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/hindsight_pt/hindsight_pt_200x300.jpg" group-title="MISTÉRIO | SUSPENSO | TERROR", GOLPE ARRISCADO (2008) 1h 32min
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/hindsight_pt/hindsight_pt_200x300.jpg" group-title="MISTÉRIO | SUSPENSE | TERROR", GOLPE ARRISCADO (2008) 1h 32min
 https://play.prod.gcp.vix.services/hindsight_pt/hindsight_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DRAMA", GETÚLIO
 https://lh3.googleusercontent.com/jwBDLklOWqsMDIUzYuMaTOLg46k8lzHOa54pzAfEcAyQRwwAexeoeHKLhbbxJTEyTcE=m18
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/scream-at-devil_pt/scream-at-devil_pt_200x300.jpg" group-title="DRAMA | SUSPENSE | TERROR", GRITO DE PÂNICO ( 2016) 1h 38min
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/scream-at-devil_pt/scream-at-devil_pt_200x300.jpg" group-title="DRAMA | SUSPENSE | TERROR", GRITO DE PÂNICO ( 2016) 1h 38min
 https://play.prod.gcp.vix.services/scream-at-devil_pt/scream-at-devil_pt_1-1/hls_2500.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://youcine.biz/wp-content/uploads/2021/07/gostosas-lindas-e-sexies-9977-poster-193x288.jpg" group-title="COMÉDIA | NACIONAL", GOSTOSAS, LINDAS E SEXIES 2018
 https://video.wixstatic.com/video/a07189_0b550cf4b6bd4039a2595de62274c02c/720p/mp4/file.mp4
@@ -1767,7 +1767,7 @@ https://video.wixstatic.com/video/a07189_0b550cf4b6bd4039a2595de62274c02c/720p/m
 http://10da15e7a4d.viajoteca.ga/deregodego/lastdance/filmcucu/2/gm30m4lgn0DUB.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/hu2JaD1PhkMtoYz2FjZ98snFh6r.jpg" group-title="COMÉDIA | TERROR", GAROTA MOTOCROSS (2001)
 https://video.wixstatic.com/video/9283ac_fa347905e7b443a2af155e30bcab1d9d/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/genesi-creazione-diluvio_pt/genesi-creazione-diluvio_pt_200x300.jpg" group-title="RELIGIOSO", GÊNESIS 1994 1h 30m
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/genesi-creazione-diluvio_pt/genesi-creazione-diluvio_pt_200x300.jpg" group-title="RELIGIOSO", GÊNESIS 1994 1h 30m
 https://play.prod.gcp.vix.services/genesi-creazione-diluvio_pt/genesi-creazione-diluvio_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="http://suatela.net/media/imgs/500x500.jpg" group-title="AÇÃO | AVENTURA | SUSPENSE", Godzilla e Kong: O Novo Império 2024
 https://7da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/2/g0dz1ll4xk0ng0nv01mp3r10DUB.mp4
@@ -1780,7 +1780,7 @@ https://video.wixstatic.com/video/834009_169142331e4944129f47d4ce8c8d7989/720p/m
 https://video.wixstatic.com/video/834009_de042eb996854cb787804dec102bf3dc/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//g0xdEeQwpyMQNtGrGr0i1TlgpQ4.jpg" group-title="SUSPENSE | TERROR", HISTÓRIAS ASSUSTADORAS PARA CONTAR NO ESCURO (2019)
 https://video.wixstatic.com/video/834009_f2d4e96159214f16a8c67e9be915f70b/480p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/t1G9OlLHGTPRpnFnB6NHAlOqmHI.jpg" group-title="SUSPENSO | TERROR", HUSH - A MORTE OUVE (2016)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/t1G9OlLHGTPRpnFnB6NHAlOqmHI.jpg" group-title="SUSPENSE | TERROR", HUSH - A MORTE OUVE (2016)
 https://video.wixstatic.com/video/834009_be2816ce6522488f8ef3b48f1d3de5c4/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg" group-title="AÇÃO | AVENTURA", HOMEM-ARANHA: LONGE DE CASA (2019)
 https://video.wixstatic.com/video/834009_25a420ecead747488e1950657c2ea770/720p/mp4/file.mp4
@@ -1826,7 +1826,7 @@ https://7da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/1/1nd14n4j0n3s3r
 https://lh3.googleusercontent.com/MWfgFZHJQKIsnHKfktoCZTTzIrarnbkV-wCmxJnulZ1lfsds5Iy45-Sfv-4AR52FWoJT7LXm4z2MS439JhHjukBPmG7GJLPLQuavOnBTg-kGshUy9xvI_7RP1A42LSrSPFqZc9KU7w=m22
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/9NRDebYqQNWtz91GPAgOyIYEVyw=/73x112/smart/media/movies/covers/2010/10/5ad720a68c0bbafd8b208d2ec5e37054.jpg" group-title="TERROR", JOGOS MORTAIS 7: O Final (2010)
 https://lh3.googleusercontent.com/k2BZsc0mGPB-6cIinnCBPLxSshBqtuQGX265UWQNcnE9yG6rbVY8QJRvwbwo4dYqE_-EBMuP3JlFBLJOTi2QwA4zKG9X1N4NVzSlFu85cg2J4Afuy_Qw1VD3VsdcJQGBpfmFraGDeg=m22
-#EXTINF:-1 tvg-id="https://supertela.day/" tvg-logo="https://vizer.in/content/movies/posterPt/185/39876.jpg" group-title="CRIME | SUSPENSO | TERROR", JOGOS MORTAIS X (2023)
+#EXTINF:-1 tvg-id="https://supertela.day/" tvg-logo="https://vizer.in/content/movies/posterPt/185/39876.jpg" group-title="CRIME | SUSPENSE | TERROR", JOGOS MORTAIS X (2023)
 https://watch.brplayer.site/stream/MTU2cW5LeVB6eFcydzhjWHlMVjhCTVpVY0Zzb21RMFFnOWZqUjRYM0tWbDJ3ZGg3aWhibTh5R1lwSDFGYWFlYkJuOGYrM0Nlbk0zbnpMblZ1ZW1KeEE9PQ==
 #EXTINF:-1 tvg-logo="https://flixfilmes.org/wp-content/uploads/2020/01/5j2YVF7VouLG0Ze96SEsj4DnVQM-185x278.jpg" group-title="DRAMA | FANTASIA", JUNTO COM OS DEUSES : Os Dois Mundos (2017)
 https://lh3.googleusercontent.com/jLegZAYNbQMQ_mzjcKvwgwz9jDnyMxIPZ79KLNOwZwOsSdkwDfuTiiT6cnOq5c-1b0fUJLPllrn8aSIJ8GrogDSxFn2r5ki0wabumYou9pv_9FJCigDRn6B46mt6tb_HFi0cEbduYg=m22
@@ -1834,7 +1834,7 @@ https://lh3.googleusercontent.com/jLegZAYNbQMQ_mzjcKvwgwz9jDnyMxIPZ79KLNOwZwOsSd
 https://lh3.googleusercontent.com/YtO_DRmvO294YqtvINI0Ytr15t3zGlO1Anajau5gqNymts_olhUy-CvbanTho4nYrdXYw5X3KCvL0viU119rIWelQEsLIzeaiM59gXQ7HnLTCW8aECaSFr6xIj8e93uC0AoRhWrznxVfVR6QSTb BNqGIPLaE2GqFaseKy7z4aJT3uIqDnvC1qc-PZBbIpfv36CXj9b48Y6ZOdi4GkkIZMj8wr1l_IwEX5H5tIphTjwmLLeEa0TrsrrrVPXlL6YQfe_7sMaW_GsddmMWW4XP7tPrkacSvUut1Hh3k5ArE-8IDMzyBbL9WgsJGDxLRgeY-elWNPaAu Br4yh9-r8JHFD_EJErX6EQ63pojHOC63t3JwIHzj3np88kgeODyTQPfqP6OW9QlSEWajpfjf87vcPNRX-CzRCBAEJz abXKwOFaaknz9BuOuEvDMgxRMvvGOFjElZ9LqREdrK0UihfRstW2KPyyNAb4qS1MLj52NZehcmYwGEgUMmIL55VJgyu kXVcMEsSLZBlaog2WlkNQbcVS5Ix-3ikZsWyUc8xg-251DPVcTqTNdBU4uE5G9bGyqYLMRD5DCE55dvFthVYPdh1DeG beCUvNnGBenY57R2OQb4XXvYgK3-vApxgGH5OogWFuRoIycOGmA0dN2AWYjib7Azs1rBAurQcg=s250-k-rw-no-m22
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOoERCQCGrgFHOrco7wLy6CAYfp.jpg" group-title="AÇÃO", JOHN WICK 3: Parabellum (2019)
 https://is.gd/JohnWick3Parabellum
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/920UZBy06CnEXpJpC3AeatroO3m.jpg" group-title="AÇÃO | POLICIAL | SUSPENSO", JOGO ASSASSINO (2019)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/920UZBy06CnEXpJpC3AeatroO3m.jpg" group-title="AÇÃO | POLICIAL | SUSPENSE", JOGO ASSASSINO (2019)
 https://video.wixstatic.com/video/834009_f7961d744ff24de0a08d5ad2c529a780/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//xAmbI0D90t74Xeq6K9nGeTXkd1U.jpg" group-title="AÇÃO | AVENTURA | F. CIENTÍFICA", JOGOS VORAZES (2012)
 https://video.wixstatic.com/video/834009_3e1340dc1de74b92b9a371b17ba36d5b/720p/mp4/file.mp4
@@ -1844,7 +1844,7 @@ https://video.wixstatic.com/video/834009_2c6a40b2d8644c47b4a7518438f52708/720p/m
 https://video.wixstatic.com/video/834009_862430470e1b41b6b5e639d15995b500/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://supertela.me/" tvg-logo="https://image.tmdb.org/t/p/w342/3pPZ9JhNz3VMmASVir5SMHvTDUU.jpg" group-title="AÇÃO | AVENTURA | F. CIENTÍFICA", JUMPER 2008
 https://qatarinho2.s3.us-central-1.wasabisys.com/cdn11/Jumper.mp4
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/AteINDGu2VqyI1M8mBZXYMA7Yhs.jpg" group-title="DRAMA | SUSPENSO", JOGO JUSTO (2023)
+#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/AteINDGu2VqyI1M8mBZXYMA7Yhs.jpg" group-title="DRAMA | SUSPENSE", JOGO JUSTO (2023)
 https://6da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/1/j0g0jst0DUB.mp4
 
 #EXTINF:-1 tvg-id="https://tv.kinopop.com/" tvg-logo="https://tv.kinopop.com/img/thumbnail.php?url=https://cdn035.fractalmedia.es/thumb/oSKIcxlfgs_w640.jpg&w=200&p=1" group-title="TERROR", KRAMPUS: O JUSTIÇO DO MAL
@@ -1862,11 +1862,11 @@ https://lh3.googleusercontent.com/JC78QldoLDN_va38BasMoSCQoWFbSRgPRiYfCffHh_YULn
 https://play.pongalo.com/mysterious-fighter_pt/mysterious-fighter_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="https://www.vix.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/razors-jack-ripper_pt/razors-jack-ripper_pt_200x300.jpg" group-title="FANTASIA | MISTÉRIO | TERROR", LÂMINAS DA MORTE - A Maldição De Jack, O Estripador (2016)
 https://play.prod.gcp.vix.services/razors-jack-ripper_pt/razors-jack-ripper_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//3zPJDTbYNxjZnr8KlxV3mN6tN14.jpg" group-title="F. CIENTÍFICA | SUSPENSO | TERROR", LUZES DE PHOENIX (2017)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//3zPJDTbYNxjZnr8KlxV3mN6tN14.jpg" group-title="F. CIENTÍFICA | SUSPENSE | TERROR", LUZES DE PHOENIX (2017)
 https://video.wixstatic.com/video/834009_b327b0525270473aa3f2bc2531e1dd1d/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://i0.wp.com/pobreflix.top/wp-content/uploads/2020/07/6f10Yn1vooCMhb6DrY6AvsK19Yh-185x278.jpg" group-title="AÇÃO | F. CIENTÍFICA | SUSPENSO", LÚCIA (2014)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://i0.wp.com/pobreflix.top/wp-content/uploads/2020/07/6f10Yn1vooCMhb6DrY6AvsK19Yh-185x278.jpg" group-title="AÇÃO | F. CIENTÍFICA | SUSPENSE", LÚCIA (2014)
 https://video.wixstatic.com/video/834009_41399d0d0a03468ba27ba2bc6af810b2/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/i93doagNFt4uBoHa5ZKPyVntKK.jpg" group-title="POLICIAL | SUSPENSO", LETRAS DA MORTE (2017)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/i93doagNFt4uBoHa5ZKPyVntKK.jpg" group-title="POLICIAL | SUSPENSE", LETRAS DA MORTE (2017)
 https://video.wixstatic.com/video/834009_f64b74468b9d4dec89d152906eb71110/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/yox4nyshPZkAwRchjat37fmVhQ.jpg" group-title="AÇÃO | AVENTURA | FANTASIA", LIGA DA JUSTIÇA DE ZACK SNYDER (2021)
 https://video.wixstatic.com/video/834009_6dbc0f4cc7b64f93bbfc9c08dab5846a/720p/mp4/file.mp4
@@ -1883,7 +1883,7 @@ https://6da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/2/l0udormvnt2DU
 #EXTINF:-1 tvg-id="https://supertela.me/" tvg-logo="https://image.tmdb.org/t/p/w342/vDySYjyo0tYKG9QcyF9S4q9RtVk.jpg" group-title="AÇÃO | AVENTURA | FANTASIA | SUSPENSE", LARA CROFT TOMB RAIDER: A ORIGEM DA VIDA 2003
 https://qatarinho2.s3.us-central-1.wasabisys.com/cdn11/LaraCroftTombRaiderAOrigemDaVida.2003.mp4
 
-#EXTINF:-1 tvg-id="https://www.vix.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/mortuary_pt/mortuary_pt_200x300.jpg" group-title="MISTÉRIO | SUSPENSO | TERROR", MORTUÁRIA (2005)
+#EXTINF:-1 tvg-id="https://www.vix.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/mortuary_pt/mortuary_pt_200x300.jpg" group-title="MISTÉRIO | SUSPENSE | TERROR", MORTUÁRIA (2005)
 https://play.pongalo.com/mortuary_pt/mortuary_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/motorrad_pt/motorrad_pt_200x300.jpg" group-title="AÇÃO | CRIME | TERROR", MOTORRAD (2017)
 https://video.wixstatic.com/video/db47f8_8fe3064431c94c17a5b0b075dc825eb0/360p/mp4/file.mp4
@@ -1891,7 +1891,7 @@ https://video.wixstatic.com/video/db47f8_8fe3064431c94c17a5b0b075dc825eb0/360p/m
 https://is.gd/MalevolaDonadoMal
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/momentum_pt/momentum_pt_200x300.jpg" group-title="AÇÃO | CRIME | SUSPENSE", MOMENTUM (2015)
 https://video.wixstatic.com/video/db47f8_d8baac8587384273b816d17d2b778970/480p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/w185/8Yr4gZCPGcqx4LskxEe7wlOQm43.jpg" group-title="SUSPENSO | TERROR", MÃE E PAI (2018)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/w185/8Yr4gZCPGcqx4LskxEe7wlOQm43.jpg" group-title="SUSPENSE | TERROR", MÃE E PAI (2018)
 https://video.wixstatic.com/video/834009_2a9cfffb2d6246a2a5df68ac72b52f77/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/w185/8Wn3yjTkdqHvgxY6kdkTGmoBQnn.jpg" group-title="AVENTURA | DRAMA | SUSPENSE | TERROR", MEDO PROFUNDO (2018)
 https://video.wixstatic.com/video/834009_9fce12e3ba0c4a95bea475c2c5b7b308/720p/mp4/file.mp4
@@ -1899,7 +1899,7 @@ https://video.wixstatic.com/video/834009_9fce12e3ba0c4a95bea475c2c5b7b308/720p/m
 https://video.wixstatic.com/video/834009_092c0981ddd84f84b5c43afa6f60f36b/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/w185/1HZd3P2Z4VJRRvqZlEJBD2xlqF6.jpg" group-title="TERROR", MIMIC: NÃO CONFIE NAS VOZES (2017)
 https://video.wixstatic.com/video/834009_2f45f44817064a7aaa532e2b4ff74f99/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//fzTvnA3buXsjdmjrYRDozKBFF78.jpg" group-title="DRAMA | POLICIAL | SUSPENSO", MÁFIA DIGITAL (2019)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//fzTvnA3buXsjdmjrYRDozKBFF78.jpg" group-title="DRAMA | POLICIAL | SUSPENSE", MÁFIA DIGITAL (2019)
 https://video.wixstatic.com/video/834009_8f73b498cc104fd3bd260257c1d03b23/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/fSruOTrU6rnEZbAutI7iBNry39y.jpg" group-title="AÇÃO | SUSPENSE | TERROR", MANDY: SEDE DE VINGANÇA (2018)
 https://video.wixstatic.com/video/834009_58e5c9fa8e2048d191e12570bced6ad8/480p/mp4/file.mp4
@@ -1931,7 +1931,7 @@ https://www.googleapis.com/drive/v3/files/1xU72WecIQJtx-Ms6yGDXjnqIARpE6zy5?alt=
 https://video.wixstatic.com/video/834009_575218edcfd745229e497598a378dcf6/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/s/" tvg-logo="https://image.tmdb.org/t/p/w780/qLVNZFHYUR6Li64He67SWl6BHQe.jpg" group-title="ANIMAÇÃO | AVENTURA", MOANA: UM MAR DE AVENTURAS (2017) 107min
 https://video.wixstatic.com/video/834009_10a163e4038f42089063e144536a518f/480p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/medicos-floresta_pt/medicos-floresta_pt_200x300.jpg" group-title="DOCUMENTÁRIO", MÉDICOS DA FLORESTA (2014) 1h 26min
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/medicos-floresta_pt/medicos-floresta_pt_200x300.jpg" group-title="DOCUMENTÁRIO", MÉDICOS DA FLORESTA (2014) 1h 26min
 https://play.prod.gcp.vix.services/medicos-floresta_pt/medicos-floresta_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DRAMA", MIL NOVECENTOS E OITENTA E QUATRO
 http://archive.org/download/Filme1984GeorgeOrwellDubladoConhecimentoEhPoderByN1ngGg3n/Filme%201984%20George%20Orwell%20-%20Dublado%20-%20ConhecimentoEhPoder%20-%20By%20N1ngGg3n%20.mp4
@@ -1951,7 +1951,7 @@ https://goo.gl/7NEUxb
 https://goo.gl/25Qstc
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://filmessgratis.net/wp-content/uploads/2022/11/1dGu0Ob8FwT3J0JXqEGxVAqRvMG-90x135.jpg" group-title="FANTASIA | SUSPENSE | TERROR", HOMENS: FACES DO MEDO (2022)
 https://9da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/2/m3nf4c3sd0m3d0DUB.mp4
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/prodigy_pt/prodigy_pt_200x300.jpg" group-title="DRAMA | F. CIENTÍFICA | SUSPENSE", MALIGNA (2017)
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/prodigy_pt/prodigy_pt_200x300.jpg" group-title="DRAMA | F. CIENTÍFICA | SUSPENSE", MALIGNA (2017)
 https://play.prod.gcp.vix.services/prodigy_pt/prodigy_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="https://supertela.me/" tvg-logo="https://image.tmdb.org/t/p/w342/gxr04nWw0BuGVqdFNK8W4na4FYD.jpg" group-title="AÇÃO | AVENTURA | COMÉDIA | CRIME | NACIONAL | ROMANCE", ME TIRA DA MIRA (2022)
 https://troy2.s3.us-central-1.wasabisys.com/cdn5/MeTiradaMira.2022.mp4
@@ -1973,14 +1973,14 @@ https://7da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/3/m1st3r103m4lt
 https://watch.brplayer.site/stream/WHF4NjlhT05DRGJDbUh1cjUyb2pSYU9ZaGlaelVqUUJ5dkExUnRtYTF4Uk4yMmMwejlMWGNPRWxRZDdEUm5OYllNNnVHZk1yZWE1WnRoYkdtcmxia2c9PQ==
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://www.filmesonlinegratishd.com.br/_imagens/mortal-kombat.jpg" group-title="AÇÃO | AVENTURA | FANTASIA", MORTAL KOMBAT 2021
 https://video.wixstatic.com/video/da787a_eeb70932d22c47eb8d6acc76f089d42c/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w300/uwDBPf2fD7v7rBwX6I0h3ehF7vp.jpg" group-title="SUSPENSO | TERROR", MERGULHO NOTURNO 2024
+#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w300/uwDBPf2fD7v7rBwX6I0h3ehF7vp.jpg" group-title="SUSPENSE | TERROR", MERGULHO NOTURNO 2024
 http://6da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/2/m3rgulh0n0turn0DUB.mp4
 
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185//mPhXHRudGxsXIQq1WM6oVePkFIp.jpg" group-title="DRAMA | TERROR", NANNY (2022)
 https://6da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/3/4b4b4DUB.mp4
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DRAMA | FICÇÃO | ROMANCE", NÃO ME ABANDONE JAMAIS ( 2011)
 http://archive.org/download/NaoMeAbandoneJamais2011720pDubladoAlan680/N%C3%A3o%20Me%20Abandone%20Jamais%20%282011%29%20720p%20Dublado%20-%20Alan_680.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/liJEWKOSapeT7jMUnkuXM5CUSMp.jpg" group-title="SUSPENSO | TERROR", NINGUÉM SAI VIVO (2021) 85 Min.
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/liJEWKOSapeT7jMUnkuXM5CUSMp.jpg" group-title="SUSPENSE | TERROR", NINGUÉM SAI VIVO (2021) 85 Min.
 https://video.wixstatic.com/video/de03b6_cf648042952e46d69b554171058efa04/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//9IntW8ONkQkiIKhqx8SUpiMSaOy.jpg" group-title="TERROR", NAVIO FANTASMA (2003)
 https://video.wixstatic.com/video/834009_4b59f0bba18a416ab0bb2cf3280c014f/720p/mp4/file.mp4
@@ -1988,7 +1988,7 @@ https://video.wixstatic.com/video/834009_4b59f0bba18a416ab0bb2cf3280c014f/720p/m
 https://video.wixstatic.com/video/834009_078b7263701c4ea89b730d2e93878162/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/9suBka4GwXcfocxJteUF0jsYeht.jpg" group-title="DRAMA | SUSPENSE", NANCY: EM BUSCA DE SI MESMA (2018)
 https://video.wixstatic.com/video/834009_bbfe02dc96b3416fb232eae46f983ca5/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://3.bp.blogspot.com/-vlxrvNhLHt4/WZsnsehVI2I/AAAAAAALN8/LUzDHIxbj_s1hnuOgXWSQIQprmhfHdBegCLcBGAs/s320/Estrenos-2-de-Junio-2017.jpg" group-title="DRAMA | SUSPENSO", NORMAN: CONFIE EM MIM (2017)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://3.bp.blogspot.com/-vlxrvNhLHt4/WZsnsehVI2I/AAAAAAALN8/LUzDHIxbj_s1hnuOgXWSQIQprmhfHdBegCLcBGAs/s320/Estrenos-2-de-Junio-2017.jpg" group-title="DRAMA | SUSPENSE", NORMAN: CONFIE EM MIM (2017)
 https://video.wixstatic.com/video/834009_c4b53d62493841c7b7b003ee4b9bb938/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//cPOTcTNkvmARiv8ikYZbDfUYezJ.jpg" group-title="DRAMA | GUERRA | SUSPENSE", NA MIRA DO ATIRADOR (2017)
 https://video.wixstatic.com/video/834009_66c1e343321e424ea8cf208199f023f6/720p/mp4/file.mp4
@@ -2006,15 +2006,15 @@ https://video.wixstatic.com/video/834009_1b0af581dea64951a5e14b9085b31d11/720p/m
 https://video.wixstatic.com/video/834009_89fa889ec6a04eb2829f3f4cab1ddd0e/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://superfilmesonline.pro/wp-content/uploads/2021/05/Nao-feche-os-olhos-filme-214x300.jpg" group-title="F. CIENTÍFICA | TERROR", NÃO FECHE OS OLHOS (2021)
 https://video.wixstatic.com/video/834009_bfff6bc392f94b788c00b571e3d24e4d/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/ninja-heart_pt/ninja-heart_pt_200x300.jpg" group-title="AÇÃO | SUSPENSO", NINJA: O GUERREIRO IMORTAL (2014) 1h 37min
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/ninja-heart_pt/ninja-heart_pt_200x300.jpg" group-title="AÇÃO | SUSPENSE", NINJA: O GUERREIRO IMORTAL (2014) 1h 37min
 https://play.prod.gcp.vix.services/ninja-heart_pt/ninja-heart_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/navalha-carne_pt/navalha-carne_pt_200x300.jpg" group-title="DRAMA", NAVALHA NA CARNE - Vera Fischer (1997) 1h 45min
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/navalha-carne_pt/navalha-carne_pt_200x300.jpg" group-title="DRAMA", NAVALHA NA CARNE - Vera Fischer (1997) 1h 45min
 https://play.prod.gcp.vix.services/navalha-carne_pt/navalha-carne_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DRAMA", NA QUEBRADA
 https://lh3.googleusercontent.com/jFjqSlPqPRYp61N9lf_0EsCbk_kXdfk6NBvs7hOUtA7q6hQR-T7g8wZbPtSH7YjCn7c=m18
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://filmessgratis.net/wp-content/uploads/2022/05/hwkD4byCLCWIyi6uA6Zm5XTr9WK-200x300.jpg" group-title="MISTÉRIO | TERROR", NAS GARRAS DO TERROR (2021)
 https://7da15e7a4d.misterkobe.shop/deregodego/novosup/filmcucu/new1/n4sg4rr4sd0t3rr0rDUB.mp4
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/nervo-zero_pt/nervo-zero_pt_200x300.jpg" group-title="F. CIENTÍFICA | TERROR NACIONAL", NERVO CRANIANO ZERO (2012)
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/nervo-zero_pt/nervo-zero_pt_200x300.jpg" group-title="F. CIENTÍFICA | TERROR NACIONAL", NERVO CRANIANO ZERO (2012)
 https://play.prod.gcp.vix.services/nervo-zero_pt/nervo-zero_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://pobreflix.org/wp-content/uploads/2023/08/kgND5yAax4aT4UXEXrEsZavlHDx-200x300.jpg" group-title="AÇÃO | SUSPENSE", NOITE SANGRENTA (2023)
 https://7da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/1/n0t3s4ngr3nt4DUB.mp4
@@ -2029,7 +2029,7 @@ https://8da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/1t3rr0rd4p4r3nt3
 https://lh3.googleusercontent.com/13KHPhjpo_BfFBynx37TgjwIdW80brlxEWij2-NrfL_8exVzU99QixlDUlkbdr7vtus=m18
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DRAMA", O VENDEDOR DE PASSADOS
 https://lh3.googleusercontent.com/BkPZerp-IgMDGquq4vAACYdze8ASJ2AlTYJFfvXtzivp-TzjOVofr3AB_JNLIty7Lzqd=m22
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/rescue-bus-300_pt/rescue-bus-300_pt_200x300.jpg" group-title="DRAMA | SUSPENSE", O SEQUESTRO DO ÔNIBUS 300 (2018) 1H 15min
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/rescue-bus-300_pt/rescue-bus-300_pt_200x300.jpg" group-title="DRAMA | SUSPENSE", O SEQUESTRO DO ÔNIBUS 300 (2018) 1H 15min
 https://play.prod.gcp.vix.services/rescue-bus-300_pt/rescue-bus-300_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fb/Elclan2015.jpg" group-title="COMÉDIA | MUSICAL | ROMANCE", O CLÃ (2015)
 https://goo.gl/zrCf8K
@@ -2043,7 +2043,7 @@ https://is.gd/OExterminadordoFuturoDesti
 https://play.pongalo.com/shamers-daughter-2_pt/shamers-daughter-2_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://i0.wp.com/pobreflix.top/wp-content/uploads/2020/07/mNdzxgctIds9uLDbwGGmFj7kd2F-185x278.jpg" group-title="TERROR", O HOMEM DA MEIA-NOITE 2018
 https://video.wixstatic.com/video/834009_b47af28e711448cdac9345265bdcde10/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/3oNCPCml9kfJBUw5EaB0Lk8vFqM.jpg" group-title="POLICIAL | SUSPENSO | TERROR", O SERIAL KILLER MASCARADO 2016
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/3oNCPCml9kfJBUw5EaB0Lk8vFqM.jpg" group-title="POLICIAL | SUSPENSE | TERROR", O SERIAL KILLER MASCARADO 2016
 https://video.wixstatic.com/video/834009_ba3a8a0856584d1990f54a0df809d6bf/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://www.vix.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/body-2015_pt/body-2015_pt_200x300.jpg" group-title="CRIME | SUSPENSE | TERROR", O CORPO 2015
 https://play.pongalo.com/body-2015_pt/body-2015_pt_1-1/play_v1_hls_720p.m3u8
@@ -2067,13 +2067,13 @@ https://video.wixstatic.com/video/834009_55ff325479794893b8f1463320b4e87b/720p/m
 https://video.wixstatic.com/video/834009_b5127ca32abf478981d9f2367e0aeaf8/480p/mp4/file.mp4
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SUSPENSE | TERROR", O SEGREDO DE MARROWBONE
 https://lh3.googleusercontent.com/bV5KLGRrfb6XNzfL_dHkfNd682mCIZwIEdAWV7EcKazqJ3kp6wKWUADBZ6jPxVOJtPP8dl-I_3CZMYP8hYXKJ2OUwKGEn8C6LB3cQ20wyl1LopOGqDxVQ91VgXZEILoHrKf9Zj1vzQ=m22
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/dgZ16kqpk1SdvKhjBPq1m5NLSOI.jpg" group-title="SUSPENSO | TERROR", O ÚLTIMO TREM (2008)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/dgZ16kqpk1SdvKhjBPq1m5NLSOI.jpg" group-title="SUSPENSE | TERROR", O ÚLTIMO TREM (2008)
 https://video.wixstatic.com/video/834009_b6188ff0f65a48559e7c766a586d00c4/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://imgdb.link/uploads/2018/05/o-sacrificio-do-cervo-sagrado.jpg" group-title="DRAMA | TERROR", O SACRIFÍCIO DO CERVO SAGRADO (2017)
 https://video.wixstatic.com/video/834009_b8a528cb497a492da6b8fe6f393d0a72/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/5iOkmTgzB64yBKnEjCnwylYBmNF.jpg" group-title="AÇÃO | F. CIENTÍFICA | TERROR", O FIM DO DIA (2016)
 https://video.wixstatic.com/video/834009_a9d5b1fb313d44ff9b5aebfd44823992/480p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://imgdb.link/uploads/2018/03/o-som.jpg" group-title="SUSPENSO | TERROR", O SOM (2017)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://imgdb.link/uploads/2018/03/o-som.jpg" group-title="SUSPENSE | TERROR", O SOM (2017)
 https://video.wixstatic.com/video/834009_b47af28e711448cdac9345265bdcde10/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://m.topflix.fm/images/poster/330490/12828384.jpg" group-title="SUSPENSE | TERROR", O DEMÔNIO DA RUA WILLOW (2017)
 https://video.wixstatic.com/video/834009_6dd961c7f36d41dbaaac9ce0c39eb252/720p/mp4/file.mp4
@@ -2097,11 +2097,11 @@ https://video.wixstatic.com/video/834009_ae00e813602342b9aed6710d08671dd0/480p/m
 https://video.wixstatic.com/video/834009_d14a6e42b911449f97bd76b9efbcfb6e/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/furh2TC3PKaTqFsxXtxxfxRaE4z.jpg" group-title="DRAMA | POLICIAL | SUSPENSE", O LIVRO DE HENRY (2017)
 https://video.wixstatic.com/video/834009_a6ca98432b1e4d67a3772e959d2dcfa0/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/w342/1QkR6C2qt51GzarGnk0f4Ki7bxS.jpg" group-title="SUSPENSO", O DIGNO (2017)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/w342/1QkR6C2qt51GzarGnk0f4Ki7bxS.jpg" group-title="SUSPENSE", O DIGNO (2017)
 https://video.wixstatic.com/video/834009_021c16629c6948c1af46094a778a3441/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/zxOE662Vt6111DVbct6VKyjXsoq.jpg" group-title="DRAMA | SUSPENSE", OPERAÇÃO AVALANCHE (2017)
 https://video.wixstatic.com/video/834009_b287fd80c8c846128065a50314391e8e/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/qFd7xwyooJrw370jUiwwt1Lzofr.jpg" group-title="DRAMA | POLICIAL | SUSPENSO", O JANTAR (2017)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/qFd7xwyooJrw370jUiwwt1Lzofr.jpg" group-title="DRAMA | POLICIAL | SUSPENSE", O JANTAR (2017)
 https://video.wixstatic.com/video/834009_0efa703c7dcb4f89b939f6ab3835ee64/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/w185/uvukjvh9w0dtFHacYaRL1YWzFGc.jpg" group-title="F. CIENTÍFICA | SUSPENSE", O PREDESTINADO (2015)
 https://video.wixstatic.com/video/834009_24356aac724f4dc898c38f8b27e89fdd/720p/mp4/file.mp4
@@ -2133,7 +2133,7 @@ https://seed151.bitchute.com/DayJajJlKyQk/XWZ1O9xuyZeu.mp4
 https://seed132.bitchute.com/DayJajJlKyQk/KJ5OpryWDSgr.mp4
 #EXTINF:-1 tvg-id="https://www.bitchute.com/" tvg-logo="https://image.tmdb.org/t/p/original/bM6Q3XBSa38KHWr7bcUfNKiAzD2.jpg" group-title="FANTASIA | TERROR", O MESTRE DOS DESEJOS 4 – A PROFECIA FINALMENTE SE CUMPRIU (2002)
 https://seed151.bitchute.com/DayJajJlKyQk/T68dC5fnkUep.mp4
-#EXTINF:-1 tvg-id="https://www.bitchute.com/" tvg-logo="https://assistironline.net/wp-content/uploads/elementor/thumbs/assistir- Demonios-da-Noite-1995-online-owekxj9w3mqvmjetm7edvoi8sk6g0gn8bnz4eojauw.jpg" group-title="AÇÃO | SUSPENSO | TERROR", OS DEMÔNIOS DA NOITE (1995)
+#EXTINF:-1 tvg-id="https://www.bitchute.com/" tvg-logo="https://assistironline.net/wp-content/uploads/elementor/thumbs/assistir- Demonios-da-Noite-1995-online-owekxj9w3mqvmjetm7edvoi8sk6g0gn8bnz4eojauw.jpg" group-title="AÇÃO | SUSPENSE | TERROR", OS DEMÔNIOS DA NOITE (1995)
 https://seed151.bitchute.com/DayJajJlKyQk/eZa7HA4Dkp6m.mp4
 #EXTINF:-1 tvg-id="https://www.bitchute.com/" tvg-logo="https://static-3.bitchute.com/live/cover_images/DayJajJlKyQk/0j5mQHzhqrd9afbA2T22GVyT_640x360.jpg" group-title="TERROR", O BORDEL DE SANGUE (1996)
 https://seed151.bitchute.com/DayJajJlKyQk/GN5Rfwpi3ioN.mp4
@@ -2183,7 +2183,7 @@ https://8da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/2/0m0n4st3r1oDU
 https://video.wixstatic.com/video/db47f8_83d14a2c93d44f0592c298ee775fab0b/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/qE4FZQiaQcKo9mYuqu2SwLIgbwG.jpg" group-title="COMÉDIA | SUSPENSE | TERROR", O MENU (2022)
 https://8da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/3/0m3nuDUB.mp4
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w400//7rebR6v1fgVC3RWmlY0BLQ2XEFB.jpg" group-title="SUSPENSO | TERROR", OLHOS FAMINTOS 3 01h 40min 26/09/2017
+#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w400//7rebR6v1fgVC3RWmlY0BLQ2XEFB.jpg" group-title="SUSPENSE | TERROR", OLHOS FAMINTOS 3 01h 40min 26/09/2017
 https://video.wixstatic.com/video/db47f8_16d577eba4e744cb99757474ccf71919/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w300/qD9E23xFvZ5KjTmEiYf3DuMTNlC.jpg" group-title="DRAMA | MISTÉRIO | SUSPENSE", O MILAGRE (2022)
 https://8da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/2/0m1l4gr3DUB.mp4
@@ -2197,9 +2197,9 @@ https://7da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/3/04c0rd0DUB.mp
 https://7da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/3/0d3m0n10d0sm4r3sDUB.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://megafilmeshdonline.net/wp-content/uploads/2023/10/Assistir-O-Monstro-que-Vive-em-Mim-Dublado-Online-jpg.webp" group-title="MISTÉRIO | SUSPENSE | TERROR", O MONSTRO QUE VIVE EM MIM (2023)
 https://9da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/1/0m0nstr0qv1v3m1mDUB.mp4
-#EXTINF:-1 tvg-id="https://supertela.day/" tvg-logo="https://image.tmdb.org/t/p/w400//9lcVaSYlHAwsDqU3UFtUo4xvCZ.jpg" group-title="DRAMA | SUSPENSO", O ACUSADO (2023)
+#EXTINF:-1 tvg-id="https://supertela.day/" tvg-logo="https://image.tmdb.org/t/p/w400//9lcVaSYlHAwsDqU3UFtUo4xvCZ.jpg" group-title="DRAMA | SUSPENSE", O ACUSADO (2023)
 https://watch.brplayer.site/stream/d3cra0ZXalBwVS9xRVl0NjExT1hCekFtTGxKM2QyTUczdHM5M2I4emFobThzK2kvRStiYTBiTHp6ZEJWY3g2eVo5aVFaVWZIbURmMVlkcXpTSEx4Qmc9PQ==
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/clown-doll_pt/clown-doll_pt_200x300.jpg" group-title="COMÉDIA | SUSPENSO | TERROR", O Palhaço de Green Bay (2019)
+#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/clown-doll_pt/clown-doll_pt_200x300.jpg" group-title="COMÉDIA | SUSPENSE | TERROR", O Palhaço de Green Bay (2019)
 https://9da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/2/0p4lh4c0d3gr33nb4yDUB.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://tv.kinopop.com/img/thumbnail.php?url=https://cdn045.fractalmedia.es/thumb/K6waLvUHUI_w640.jpg&w=200&p=1" group-title="COMÉDIA", OS TRAPACEIROS (2018)
 https://8da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/1/0str4p4c3r0sd0rm1u18DUB.mp4
@@ -2244,27 +2244,27 @@ https://video.wixstatic.com/video/834009_9d24d92e14474ca2ac221099731119da/480p/m
 https://is.gd/Power2020
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/16Q9zJNhIs0vQ4OIZhiy0zL08Vn.jpg" group-title="SUSPENSE | TERROR", PRISIONEIROS DO DEMÔNIO (2016)
 https://video.wixstatic.com/video/834009_7ac179142ac5462ba8a95ae46606d968/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/sfRJ6xtfaT1uUWA4YsxU3hGFJbQ.jpg" group-title="SUSPENSO | TERROR", PERIGO PRÓXIMO (2017)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/sfRJ6xtfaT1uUWA4YsxU3hGFJbQ.jpg" group-title="SUSPENSE | TERROR", PERIGO PRÓXIMO (2017)
 https://video.wixstatic.com/video/834009_76d1b27db1b44b6f9655be49cf6598a5/480p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/oj8V1BpQuvuw5TbzAQS85KKy20E.jpg" group-title="SUSPENSO | TERROR", PEDIDO DE AMIZADE (2016)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/oj8V1BpQuvuw5TbzAQS85KKy20E.jpg" group-title="SUSPENSE | TERROR", PEDIDO DE AMIZADE (2016)
 https://video.wixstatic.com/video/834009_f0d5ea4ed1b94e29bddb938a27e32055/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/3vRtrW3GROqAugfkaHnqNPeQMJ2.jpg" group-title="AÇÃO | F. CIENTÍFICA | SUSPENSE", PRISÃO ESTELAR (2018)
 https://video.wixstatic.com/video/834009_147bf3bfc7ec4383af0e728c6701102e/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/7sLbsoPKttjO7ljx6FR205vCvrN.jpg" group-title="SUSPENSE | TERROR", PIERCING (2019)
 https://video.wixstatic.com/video/834009_c891911195984964a8945f3ff95ec571/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/4gTOkZ1tePVGM115MNmxJ7pxyq.jpg" group-title="DRAMA | POLICIAL | SUSPENSO", PÁSSARO DO ORIENTE (2019)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/4gTOkZ1tePVGM115MNmxJ7pxyq.jpg" group-title="DRAMA | POLICIAL | SUSPENSE", PÁSSARO DO ORIENTE (2019)
 https://video.wixstatic.com/video/834009_8456e6073f284835af73572ead8a020a/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/7XKlDL7ViolvQFDq6XSYeJkzTcq.jpg" group-title="SUSPENSE | TERROR", PESADELO (2019)
 https://video.wixstatic.com/video/834009_ef59f375ca1f4448907c5487f9df7fdd/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/oFidx1CYA0mHERbnY26B8l42aBa.jpg" group-title="AÇÃO | SUSPENSE", PRAIA DO PARAÍSO (2019)
 https://video.wixstatic.com/video/834009_f8c2fb825c0f4414be3d05f9594c0549/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/hbo1N9W5gwPjQ4wF2aghUrMuhb6.jpg" group-title="SUSPENSO", PÂNICO NAS ALTURAS (2019)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/hbo1N9W5gwPjQ4wF2aghUrMuhb6.jpg" group-title="SUSPENSE", PÂNICO NAS ALTURAS (2019)
 https://video.wixstatic.com/video/834009_ed0c9b3d69b442a6889adb93476bafcd/480p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//jMQBRaMoktWm46uIUYKeOHWXXxe.jpg" group-title="SUSPENSO | TERROR", PÂNICO NO LAGO: O LEGADO (2018)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//jMQBRaMoktWm46uIUYKeOHWXXxe.jpg" group-title="SUSPENSE | TERROR", PÂNICO NO LAGO: O LEGADO (2018)
 https://video.wixstatic.com/video/834009_5d095e0960984c87828233cc40a589bc/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/q8CJj6zMwi53yxojscnVmhMKYKb.jpg" group-title="AÇÃO | DRAMA", PERIGO NA MONTANHA (2018)
 https://video.wixstatic.com/video/834009_79490929baec4232a301d46ca1e2c008/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://superflixfilmes.net/wp-content/uploads/2022/03/7m4E393r9kK3TYN34ETmyoZFbJ0-200x300.jpg" group-title="SUSPENSO", PEDÁGIO MORTAL
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://superflixfilmes.net/wp-content/uploads/2022/03/7m4E393r9kK3TYN34ETmyoZFbJ0-200x300.jpg" group-title="SUSPENSE", PEDÁGIO MORTAL
 https://video.wixstatic.com/video/834009_a7de98fc08e347b7bbb6ae312ba80ba0/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://megafilmeseseriesonline.com/wp-content/uploads/2018/03/patti-cake-dublado-online.jpg" group-title="DRAMA | MUSICAL", PATTI CAKES (2017)
 https://video.wixstatic.com/video/834009_79a5d9996a7641d3a3140ad4d6b53072/720p/mp4/file.mp4
@@ -2284,7 +2284,7 @@ https://9da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/2/ps1c0s3sDUB.m
 https://7da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/3/p1sc1n4nf1n1t4DUB.mp4
 #EXTINF:-1 tvg-id="https://supertela.day/" tvg-logo="https://image.tmdb.org/t/p/w400//hNt4H6rAIwj3b8SKEK1AshbFDt4.jpg" group-title="COMÉDIA | TERROR", PIRANHA (1978)
 https://watch.brplayer.site/stream/Y2tpMWFTeGtjWktQMEZkbzRLdHhERWlhdXAySXRocER2REE1U3BxNks0VkhETEhaNDJXa25ieEpId1VJdzdtamoyS0ozcDNVSzQ1TDdqdEFuTk1YWEE9PQ==
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/piranha_pt/piranha_pt_200x300.jpg" group-title="COMÉDIA | TERROR", PIRANHA 2D (2012)
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/piranha_pt/piranha_pt_200x300.jpg" group-title="COMÉDIA | TERROR", PIRANHA 2D (2012)
 https://play.prod.gcp.vix.services/piranha_pt/piranha_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://pobreflix.fm/wp-content/uploads/2022/08/1W8IGuXEUrAYHaR0wQn3MyZiQFo-200x300.jpg" group-title="SUSPENSE | TERROR", PERIGO NO RECIFE (2023)
 https://6da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/1/p3r1g0n0r3c1f3DUB.mp4
@@ -2303,7 +2303,7 @@ https://lh3.googleusercontent.com/fFhufvHsyQRzaNaQpDFMtGqE7RrWnA4Goo-Il6UHm3RW0k
 https://vdn.libreflix.org/video/canalhas/canalhas.720.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/4KYoUDKOO4sCxuE0UjpcXjdgkVG.jpg" group-title="SUSPENSE | TERROR", QUARENTENA (2009)
 https://video.wixstatic.com/video/834009_1f0294018b444978989a295d9397b093/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//iXtqWsjs4kiClTD6zLJlijFdDBY.jpg" group-title="SUSPENSO | TERROR", QUATRO HISTÓRIAS DE FANTASMAS (2020)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//iXtqWsjs4kiClTD6zLJlijFdDBY.jpg" group-title="SUSPENSE | TERROR", QUATRO HISTÓRIAS DE FANTASMAS (2020)
 https://video.wixstatic.com/video/834009_ad6b0a1f4b10459eb0627ec6b15aa088/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://tv.kinopop.com/img/thumbnail.php?url=https://cdn038.fractalmedia.es/thumb/x9651wQ5Yh_w640.jpg&w=200&p=1" group-title="DRAMA | SUSPENSE | TERROR", REGRESSÃO DO MAL (2015)
@@ -2324,13 +2324,13 @@ https://video.wixstatic.com/video/834009_21428f5abfce410fa7a08f51835e7087/720p/m
 https://video.wixstatic.com/video/834009_b5c0c65023c545588ac8acbaffb7d7d6/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//yeRW8JhHqQznEdOUe97dLWnyeEq.jpg" group-title="AÇÃO | AVENTURA | F. CIENTÍFICA", RAMPAGE: DESTRUIÇÃO TOTAL (2018)
 https://video.wixstatic.com/video/834009_f4ac6bdb1ab543c49e23c18597d677f7/480p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/black-rose_en_pt/black-rose_en_pt_200x300.jpg" group-title="AÇÃO", ROSA NEGRA (2014) 1h 23min
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/black-rose_en_pt/black-rose_en_pt_200x300.jpg" group-title="AÇÃO", ROSA NEGRA (2014) 1h 23min
 https://play.prod.gcp.vix.services/black-rose_en_pt/black-rose_en_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original//4Gzutk4mrOBPQgg9nQHu79cR7AY.jpg" group-title="DRAMA", REI CARLOS III (2018)
 https://goo.gl/WUccFB
 #EXTINF:-1 tvg-logo="https://goo.gl/mZkMoS" group-title="ANIMAÇÃO | AVENTURA", RIO 2 (2014)
 https://goo.gl/zmy2CK
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/atakan-bloody-legend_pt/atakan-bloody-legend_pt_200x300.jpg" group-title="AÇÃO | SUSPENSE | TERROR", RITUAL MALDITO (2020)
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/atakan-bloody-legend_pt/atakan-bloody-legend_pt_200x300.jpg" group-title="AÇÃO | SUSPENSE | TERROR", RITUAL MALDITO (2020)
 https://play.prod.gcp.vix.services/atakan-bloody-legend_pt/atakan-bloody-legend_pt_1-1/play_v1_hls_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://media5.picsearch.com/is?q6F0qijaH3GEkKoyl2rWvWePqU_u6JTZ_3UuSpnblR4&height=128" group-title="FANTASIA | SUSPENSE | TERROR", SOBRENATURAL : Capítulo 2 (2013)
@@ -2343,7 +2343,7 @@ https://video.wixstatic.com/video/834009_b3358f1e0eb04a9182cc0f9d15f2a44c/480p/m
 https://video.wixstatic.com/video/834009_9edcbefdd1a448f385b7bf4dd5d62944/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/vb7kc1Lnhy9gJ0N44OobfrEt54v.jpg" group-title="SUSPENSE | TERROR", STICKMAN - O PESADELO À ESPREITA (2017)
 https://video.wixstatic.com/video/834009_f75a2e9f413e48169516d4e55f5fc7ed/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/wrb3riGsU0f9z9PWca9CIMCZLfZ.jpg" group-title="SUSPENSO | TERROR", SLENDER MAN: PESADELO SEM ROSTO (2018)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/wrb3riGsU0f9z9PWca9CIMCZLfZ.jpg" group-title="SUSPENSE | TERROR", SLENDER MAN: PESADELO SEM ROSTO (2018)
 https://video.wixstatic.com/video/834009_eec51d1c09774a72ac8f741537664869/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/uHEZ4ZMziIjlAgCTQAEh9ROvtj0.jpg" group-title="AÇÃO | AVENTURA | SUSPENSE", SEM REMORSO (2021)
 https://video.wixstatic.com/video/834009_5e5dd2ab9d204c4e9d4cf1ff9c698723/720p/mp4/file.mp4
@@ -2361,15 +2361,15 @@ https://seed177.bitchute.com/P2tQxCZbN8Pf/z7a4Itn5ya6W.mp4
 https://lh3.googleusercontent.com/XUxTUDrRkiiTv4p_nKDzpheM_K4cYN9SwtUuk-_-EDU=m22
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AÇÃO | AVENTURA | COMÉDIA", SAHARA
 http://archive.org/download/luaSaara/luaSaara.MP4
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/defenseless_pt/defenseless_pt_200x300.jpg" group-title="MISTÉRIO | SUSPENSO", SEM DEFESA (1991) 1h 44min
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/defenseless_pt/defenseless_pt_200x300.jpg" group-title="MISTÉRIO | SUSPENSE", SEM DEFESA (1991) 1h 44min
 https://play.prod.gcp.vix.services/defenseless_pt/defenseless_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/old-37_pt/old-37_pt_200x300.jpg" group-title="AÇÃO | SUSPENSE | TERROR", SUBMERSOS 2016
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/old-37_pt/old-37_pt_200x300.jpg" group-title="AÇÃO | SUSPENSE | TERROR", SUBMERSOS 2016
 https://play.prod.gcp.vix.services/submerged_pt/submerged_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/no-witnesses_pt/no-witnesses_pt_200x300.jpg" group-title="CRIME", SEM TESTEMUSNHA (2021) 1h 20min.
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/no-witnesses_pt/no-witnesses_pt_200x300.jpg" group-title="CRIME", SEM TESTEMUSNHA (2021) 1h 20min.
 https://play.prod.gcp.vix.services/no-witnesses_pt/no-witnesses_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="" group-title="DRAMA", SUPERAÇÃO: O MILAGRE DA FÉ
 https://video.wixstatic.com/video/db47f8_abfc165283004c268f98a2f82cd48b18/480p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="RELIGIOSO", SANÇÃO E DALILA 1996 2h 52m
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/samson-delilah_pt/samson-delilah_pt_200x300.jpg" group-title="RELIGIOSO", SANÇÃO E DALILA 1996 2h 52m
 https://play.prod.gcp.vix.services/samson-delilah_pt/samson-delilah_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="https://supertela.day/" tvg-logo="https://image.tmdb.org/t/p/w400//pLSoVBuBa3aqFBgBY2puu3BN8of.jpg" group-title="COMÉDIA | SUSPENSE | TERROR", SLOTHERHOUSE (2023)
 https://watch.brplayer.site/stream/eXpyMWNJTTRJOEdvbzl5Z1hBNzAvZHlTbFcvbzFSVzl3SXpzNnVWVkZ3SGFNZHExSmJSeWN2bGwyM3BqSU9VcmZDQkFEYmdrKzJ1U1c0TXFZZVZpMUE9PQ==
@@ -2378,7 +2378,7 @@ https://watch.brplayer.site/stream/eXpyMWNJTTRJOEdvbzl5Z1hBNzAvZHlTbFcvbzFSVzl3S
 https://ia802803.us.archive.org/23/items/A.espia.que.sabia.de.menos.sem.cortes.2015.DUB.BaixarerieMP4.com/Te.Pego.na.Sa%C3%ADda.2017.MP4.DUB.BaixarSeriesMP4.Com.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dC6VpFRn4WUbQ0Jqm8tbZWn2jwM.jpg" group-title="SUSPENSE | TERROR", TEM ALGUÉM NA SUA CASA - Todo Mundo Tem Um Segredo Pelo Qual Morrer (2021) 96 Min.
 https://video.wixstatic.com/video/de03b6_a61db340833b4a6aafaf1c7be78696de/1080p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/shellmont-county-massacre_pt/shellmont-county-massacre_pt_200x300.jpg" group-title="TERROR", TERROR EM SHELLMONT (2019)
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/shellmont-county-massacre_pt/shellmont-county-massacre_pt_200x300.jpg" group-title="TERROR", TERROR EM SHELLMONT (2019)
 https://play.prod.gcp.vix.services/shellmont-county-massacre_pt/shellmont-county-massacre_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="https://gofilmes.me/e/" tvg-logo="https://image.tmdb.org/t/p/w342/oj5kpCoTotG54HCTgzYZ6jCUAUF.jpg" group-title="SUSPENSE", TERROR ONLINE 2016
 https://is.gd/TERRORONLINE2016
@@ -2394,7 +2394,7 @@ https://video.wixstatic.com/video/834009_eb6fdbfcf9964bc78d9fd91ebf18faf6/720p/m
 https://video.wixstatic.com/video/834009_65a12ed77b7d4ef59c5bc83481e33f3c/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//ygCQnDEqUEIamBpdQdDYnFfxvgM.jpg" group-title="AÇÃO | POLICIAL | SUSPENSE", OS ÚLTIMOS DIAS DO CRIME AMERICANO (2020)
 https://video.wixstatic.com/video/834009_161d870a913b4025a10728b05d0d3d3c/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/3rViQPcrWthMNecp5XnkKev6BzW.jpg" group-title="SUSPENSO | TERROR", TODA ARTE É PERIGOSA (2019)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/3rViQPcrWthMNecp5XnkKev6BzW.jpg" group-title="SUSPENSE | TERROR", TODA ARTE É PERIGOSA (2019)
 https://video.wixstatic.com/video/834009_7ce81ebe7c724225818601bfec3c3797/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://maxfilmes.tv/wp-content/uploads/2020/05/7sJoNicLJ9EZwetp5ucjS8qQ9g1-200x300.jpg" group-title="DRAMA | SUSPENSE", TEMPOS OBSCUROS (2017)
 https://video.wixstatic.com/video/834009_3bfb06fa8a894c27855e9d71d5843d2c/720p/mp4/file.mp4
@@ -2410,9 +2410,9 @@ https://video.wixstatic.com/video/834009_03077d2fa41d472792f74df85584fd12/720p/m
 https://video.wixstatic.com/video/db47f8_4671182ae2b347e888c6b5214bf9286d/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/open-water-3_pt/open-water-3_pt_200x300.jpg" group-title="AVENTURA | DRAMA | TERROR", TERROR PROFUNDO ( 2016) 1h 20min
 https://video.wixstatic.com/video/db47f8_a2649bf8bf3c49198c4e9aae20c2cd6d/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/the-survivor_pt/the-survivor_pt_200x300.jpg" group-title="AÇÃO | F. CIENTÍFICA | SUSPENSE", TERRA - O ÚLTIMO REFÚGIO (1998) 1h 30min
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/the-survivor_pt/the-survivor_pt_200x300.jpg" group-title="AÇÃO | F. CIENTÍFICA | SUSPENSE", TERRA - O ÚLTIMO REFÚGIO (1998) 1h 30min
 https://play.prod.gcp.vix.services/the-survivor_pt/the-survivor_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w200/cWBCMiORHEfXWf6AreeDzkczyTy.jpg" group-title="SUSPENSO | TERROR", TRANCADA (2022)
+#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w200/cWBCMiORHEfXWf6AreeDzkczyTy.jpg" group-title="SUSPENSE | TERROR", TRANCADA (2022)
 https://8da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/2/tr4nc4d4DUB.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/fd0SHLE9xQD2odct8OBxt4r7cSu.jpg" group-title="AÇÃO | AVENTURA", TUDO EM TODO LUGAR AO MESMO TEMPO (2022)
 https://9da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/1/td03mt0d0lgr4msmt3mp0DUB.mp4
@@ -2443,20 +2443,20 @@ https://7da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/1/1pct0d34mz4d3
 https://9da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/1/1m4f3st4d4rrmb4DUB.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/oBnrrPcR6W4i58Ke9uZGWpiIl4G.jpg" group-title="DRAMA", UMA LINDA VIDA (2023)
 https://8da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/2/1m4l1nd4v1d4DUB.mp4
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/fXGOLOxV0KLnzueWJPFF5tUP3Lq.jpg" group-title="SUSPENSO | TERROR", URSINHO POOH: SANGUE E MEL 2023
+#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/fXGOLOxV0KLnzueWJPFF5tUP3Lq.jpg" group-title="SUSPENSE | TERROR", URSINHO POOH: SANGUE E MEL 2023
 https://6da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/1/urs1nh0p00hs4ngu3m3lDUB.mp4
 
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/RMJw0hh1fsK_qH-zUM3Z20i8mDA=/fit-in/290x478/smart/media/movies/covers/2010/09/a7a501c4da89ba95df351148058f9882.jpg" group-title="AÇÃO | DRAMA | MISTÉRIO", VIDAS EM JOGO (1997)
 https://lh3.googleusercontent.com/wSeLmEmg4P-ORoO0uH6dFeUU0C4_zA1iyTk9sUd0BH54sGjUyEuk83lXAMfsAoB5O89dbMhUvYiBnG1JvJ_37tXxqszfc3WEkU7U5J8xrRxxxbL52FzLIGJ9Ds4Q3P0AuKOoXuyTo8Fjg94lKui mSHFsybvOGX4ZRc8BCYdKuGb133OkFANalVXqBq4wByV8QwKKJJf9gLwpKYlsa8HPMXpEh8ZgJcUDK3LbJd9vEAUtEC7qsXibcry29fBtFhItFwhH79JjOkTEfcncKDmdB5MPhEE8oaur3I5WzKB4fGBDeiD9Jj7NGflQIanAgpwSDd_Ja7ez HKyjCmdh9XqdusvAuMSrXFNHG-nM9XZ5NBgaUeZsl2wZdz9vTH0wFy6wej-2HclNVV8oiB3KnYEx2GHQmxVpj6_5QV_l8AT_k8zver8LUsB6jz4XXSCKHFXjzrU-2tn0Yz43_chdP1RhLfgYIE86MiAff_Vr20RGr2klhxMPhgWJ_RCXt1KUt rUsZtNytq1y80TshDMkozqGFsEZdrvdzwIJxxBf9B02JkRJCkWv3nunYfo3mmERVL02GFCZs6wj7pH5955YG6dXa4v- DlUGWV5XOGjDmKEdpKCTgSRbEJebBN6xwKBFFfIW01SHqtCBdqaRJtpaQgDUQRXHR-LgKHTLJw=s250-k-rw-no-m18
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://superflixfilmes.net/wp-content/uploads/2020/05/n7fD88Zdowjcvd6IkwjD8ijxQ5P-90x135.jpg" group-title="COMÉDIA", VIZINHOS 2 (2016)
 https://video.wixstatic.com/video/834009_0c5e34be32b442409544c8da13c92fb7/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/good-neighbor_pt/good-neighbor_pt_200x300.jpg" group-title="CRIME | DRAMA SUSPENSO", VIZINHO SINISTRO (2011) 1h 36min
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/good-neighbor_pt/good-neighbor_pt_200x300.jpg" group-title="CRIME | DRAMA SUSPENSE", VIZINHO SINISTRO (2011) 1h 36min
 https://play.prod.gcp.vix.services/good-neighbor_pt/good-neighbor_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="https://supertela.vg/" tvg-logo="https://image.tmdb.org/t/p/w342/ekJG2dZMOzEbKGI4PW45vc52Go8.jpg" group-title="COMÉDIA | NACIONAL", VAI QUE COLA 2: O COMEÇO (2019)
 https://be2719.rcr22.ams01.cdn112.com/hls2/01/03838/2ok2dcnv4q0j_n/index-v1-a1.m3u8?t=lXzF5DkU2lNKh84r5ENsbgSPneV692Z6S4D_B5geBXI&s=1697133888&e=43200&f=19193689&srv=24&asn=53181&sp=2000
 #EXTINF:-1 tvg-id="https://supertela.vg/" tvg-logo="https://image.tmdb.org/t/p/w342/jaXIoGMGsA1fCciQqkqIw6GmRgR.jpg" group-title="AÇÃO | COMÉDIA | NACIONAL", VAI DAR NADA (2022)
 https://858142515.tapecontent.net/radosgw/w7ay7eaBq3IJqVZ/qmtOX-b2iOBri4ji_4CT2rEPe_xNPVDfInP6RNhh3_uJ_R38JxKv7X5FmrSQuJ7B-6L47FOyi9hPkjw1eLy4KUDmrdWIK7endDMH00HMPf0mbhbDtbTjJRJKKR7Cw4LFWW4ZcDyaxyRZx4iNxb0A9HQE GZ7GNwUK5v2j3detrLLBrKwp4UAVuSuL39GLBopMH10ikyO3ZJYCSW8ImndxrVFmqgsT2Um5P-IaDibo-T3VpPMFNHyvhQhq0o6pZT5am rys_5CuYewyakNA7RpxsZT1rDdj4VZa9AeDcVmzzocL3sn3wEFSmh3zBbk/vai-dar-nada-dublado-www.encontrei.tv?stream=1
-#EXTINF:-1 tvg-id="https://www.vixbrasiltv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/vendese_pt/vendese_pt_200x300.jpg" group-title="NACIONAL | TERROR", VENDE-SE IMÓVEL (2019)
+#EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/vendese_pt/vendese_pt_200x300.jpg" group-title="NACIONAL | TERROR", VENDE-SE IMÓVEL (2019)
 https://play.prod.gcp.vix.services/vendese_pt/vendese_pt_1-1/play_v1_hls_720p.m3u8
 
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//yeHRsKOlNDsbEIALS1ve6S42Nl6.jpg" group-title="AÇÃO | SUSPENSE", WHEELMAN (2017)
@@ -2488,7 +2488,7 @@ https://video.wixstatic.com/video/834009_59f62fb9d4bc4ca1a882dbf98e7fcb1d/480p/m
 https://video.wixstatic.com/video/834009_18b22c3dc3be4905a5d38ca533496157/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YjzwuWwaC4TJMqrlEkcvAqxmC3.jpg" group-title="SUSPENSE | TERROR", 31 - A MORTE É A ÚNICA SAÍDA (2017)
 https://video.wixstatic.com/video/834009_4ae1de9fa42744b6a6f74487fbb6c487/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/q4FQOiSRhTLWulHl5Vpg37FMArH.jpg" group-title="DRAMA | POLICIAL | SUSPENSO", 1922 (2017)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/q4FQOiSRhTLWulHl5Vpg37FMArH.jpg" group-title="DRAMA | POLICIAL | SUSPENSE", 1922 (2017)
 https://video.wixstatic.com/video/834009_74e89c72dda4444cacd0272b6d846354/720p/mp4/file.mp4
 
 xxxxxxxxxxxxxxxxxxADULTOSxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
