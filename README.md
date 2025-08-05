@@ -1235,40 +1235,54 @@ https://stmv1.srvif.com/startrek/startrek/chunklist_w1289506923.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
 ############## SÉRIES ############## SÉRIES ############## SÉRIES ############## SÉRIES ############## SÉRIES ############## SÉRIES ############## SÉRIES ############## SÉRIES ##############
-#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/vMFJS9LIUUAmQ1thq4vJ7iHKwRz.jpg" group-title="SÉRIES", Round 6: 1° Temporada; 1. Batatinha Frita 1, 2, 3
+
+#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/vMFJS9LIUUAmQ1thq4vJ7iHKwRz.jpg" group-title="SÉRIES", Round 6: 1° Temporada; Episódio 1 - Batatinha Frita 1, 2, 3
 https://watch.brplayer.cc/stream/bTN1OC8xMC83ZWY1NmE2MTJkYzA3Mzg2YmIxOWMyZmI2OGQwMTViZi83MjBwLzcyMHAubTN1OD9pZD0yMzUxMg==?s=1&id=23512&cache=1
-#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/uacNwki3PqXEFk9Pal9Ng5NwwAI.jpg" group-title="SÉRIES", Round 6: 1° Temporada; 2. Inferno
+#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/uacNwki3PqXEFk9Pal9Ng5NwwAI.jpg" group-title="SÉRIES", Round 6: 1° Temporada; Episódio 2 - Inferno
 https://watch.brplayer.cc/stream/bTN1OC8xMC8wYTc0M2ZhMGRlODY5ZjI3ZjA2ZDY5NTczNDc4MTQwMS83MjBwLzcyMHAubTN1OD9pZD0yMzUxNA==?s=1&id=23514&cache=1
-#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/xNtgrNEsMXvmRQQtcFuJdbXOjmP.jpg" group-title="SÉRIES", Round 6: 1° Temporada; 3. O Homem do Guarda-chuvas
+#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/xNtgrNEsMXvmRQQtcFuJdbXOjmP.jpg" group-title="SÉRIES", Round 6: 1° Temporada; Episódio 3 - O Homem do Guarda-chuvas
 https://watch.brplayer.cc/stream/bTN1OC8xMC8yZWM0MzMyYzYyZGI5MjhmZGYxZDBiZTYxNzRkZjE0NS83MjBwLzcyMHAubTN1OD9pZD0yMzUxNg==?s=1&id=23516&cache=1
-#EXTINF:-1 tvg-id="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/9cUGOdLN4gmnf3b9ILArnJsJI8Q.jpg" group-title="SÉRIES", Round 6: 1° Temporada; 4. Fiquem Juntos
+#EXTINF:-1 tvg-id="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/9cUGOdLN4gmnf3b9ILArnJsJI8Q.jpg" group-title="SÉRIES", Round 6: 1° Temporada; Episódio 4 - Fiquem Juntos
 https://watch.brplayer.cc/stream/bTN1OC8xMC8yMzQzZjM5ZGM4MDg3NzkwZGY5ZjY0NGU4ZGRiNWUxYi83MjBwLzcyMHAubTN1OD9pZD0yMzUxNw==?s=1&id=23517&cache=1
-#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/2pE9f6drlF7y9rwUw6dh1w6jF5M.jpg" group-title="SÉRIES", Round 6: 1° Temporada; 5. Um Mundo Justo
+#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/2pE9f6drlF7y9rwUw6dh1w6jF5M.jpg" group-title="SÉRIES", Round 6: 1° Temporada; Episódio 5 - Um Mundo Justo
 https://watch.brplayer.cc/stream/bTN1OC8xMC8wNjYzYjBlY2U3MDdhY2IzYjlmZTQ3Y2QxOGNlOGY4Yi83MjBwLzcyMHAubTN1OD9pZD0yMzUxOA==?s=1&id=23518&cache=1
-#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/cohCCQzTe2ncdQczJDUsO0vzxPR.jpg" group-title="SÉRIES", Round 6: 1° Temporada; 6. Gganbu
+#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/cohCCQzTe2ncdQczJDUsO0vzxPR.jpg" group-title="SÉRIES", Round 6: 1° Temporada; Episódio 6 - Gganbu
 https://watch.brplayer.cc/stream/bTN1OC8xMC8xOWRjMTExZjQ5MmNkMzJlNjVjN2NjZTc4ZGI0ODk3Zi80ODBwLzQ4MHAubTN1OD9pZD0yMzUxOQ==?s=1&id=23519&cache=1
-#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/4pVfv4HaM5QpFJTHm19p2UI0StN.jpg" group-title="SÉRIES", Round 6: 1° Temporada; 7. VIPs
+#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/4pVfv4HaM5QpFJTHm19p2UI0StN.jpg" group-title="SÉRIES", Round 6: 1° Temporada; Episódio 7 - VIPs
 https://watch.brplayer.cc/stream/bTN1OC8xMC9jYmMzZjZmNGZjMGJlOGJlMWFjNGU4OWJkOTNjYWY2OS83MjBwLzcyMHAubTN1OD9pZD0yMzUyMA==?s=1&id=23520&cache=1
-#EXTINF:-1 tvg-id="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/lOgFVmykN9qlpAoiBSIV2lu7XCS.jpg" group-title="SÉRIES", Round 6: 1° Temporada; 8. O Líder
+#EXTINF:-1 tvg-id="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/lOgFVmykN9qlpAoiBSIV2lu7XCS.jpg" group-title="SÉRIES", Round 6: 1° Temporada; Episódio 8 - O Líder
 https://watch.brplayer.cc/stream/bTN1OC8xMC8wZDM4ZmQyNzBkNmYyOGJiMmZjNDVlYzI1NzFiNzU4ZS80ODBwLzQ4MHAubTN1OD9pZD0yMzUyMQ==?s=1&id=23521&cache=1
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/sKeQbHeEUQLyoSdopa0QXm604cz.jpg" group-title="SÉRIES", Round 6: 1° Temporada; 9. Um dia de sorte
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/sKeQbHeEUQLyoSdopa0QXm604cz.jpg" group-title="SÉRIES", Round 6: 1° Temporada; Episódio 9 - Um dia de sorte
 https://watch.brplayer.cc/stream/bTN1OC8xMC82YThjZWVlZmEyYzQyYjEwNGE2NzU0N2VmYmU3OWM5ZC83MjBwLzcyMHAubTN1OD9pZD0yMzUyMg==?s=1&id=23522&cache=1
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/tWwP30pufZhWDSxN4qxER7gMbLR.jpg" group-title="SÉRIES", Round 6: 2° Temporada; 1. Pão e loteria
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/tWwP30pufZhWDSxN4qxER7gMbLR.jpg" group-title="SÉRIES", Round 6: 2° Temporada; Episódio 1 - Pão e loteria
 https://watch.brplayer.cc/stream/bTN1OC8xMC9jYWRjNWVjNjRiZTk0ZjNlNjBjOGQzZTVjYzBjNjA1MS83MjBwLzcyMHAubTN1OD9pZD0yMzUyNQ==?s=1&id=23525&cache=1
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/6D0kAkjdYCNz3wOigChITrezNig.jpg" group-title="SÉRIES", Round 6: 2° Temporada; 2. Festa de Halloween
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/6D0kAkjdYCNz3wOigChITrezNig.jpg" group-title="SÉRIES", Round 6: 2° Temporada; Episódio 2 - Festa de Halloween
 https://watch.brplayer.cc/stream/bTN1OC8xMC8yMzU5ZjUxNzJlYzYyN2Q2M2Q1MzAwZWRhZTQxMWJiMC83MjBwLzcyMHAubTN1OD9pZD0yMzUyNw==?s=1&id=23527&cache=1
-#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/g1uO2xMXpAbtYRs9XaVo9fnuw8T.jpg" group-title="SÉRIES", Round 6: 2° Temporada; 3. 001
+#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/g1uO2xMXpAbtYRs9XaVo9fnuw8T.jpg" group-title="SÉRIES", Round 6: 2° Temporada; Episódio 3 - 001
 https://watch.brplayer.cc/stream/bTN1OC8xMC9kOWI0YTA2MjU0ZDExNGIyMTZhNmYxN2NiYWVjNzI2YS83MjBwLzcyMHAubTN1OD9pZD0yMzUyOA==?s=1&id=23528&cache=1
-#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/hU4SUCvTWVhqMyk81t4zmvQg79u.jpg" group-title="SÉRIES", Round 6: 2° Temporada; 4. Seis Pernas
+#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/hU4SUCvTWVhqMyk81t4zmvQg79u.jpg" group-title="SÉRIES", Round 6: 2° Temporada; Episódio 4 - Seis Pernas
 https://watch.brplayer.cc/stream/bTN1OC8xMC80Y2E3ZDcwZTJkNjgzYjhmNDkzMGRiZmIxYWYzNzI4Mi83MjBwLzcyMHAubTN1OD9pZD0yMzUyOQ==?s=1&id=23529&cache=1
-#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/575R0zTaCUtmLjLSsBp3hLl1DQn.jpg" group-title="SÉRIES", Round 6: 2° Temporada; 5. Mais um Jogo
+#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/575R0zTaCUtmLjLSsBp3hLl1DQn.jpg" group-title="SÉRIES", Round 6: 2° Temporada; Episódio 5 - Mais um Jogo
 https://watch.brplayer.cc/stream/bTN1OC8xMC82NDZkMGMzYjY1YzEyMmY5ZGQ5MzFjYjlmOTRhYmNkYy83MjBwLzcyMHAubTN1OD9pZD0yMzUzMA==?s=1&id=23530&cache=1
-#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/gxMiBlCPmOp5qekica0OtDeLTp7.jpg" group-title="SÉRIES", Round 6: 2° Temporada; 6. O ﻿ X
+#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/gxMiBlCPmOp5qekica0OtDeLTp7.jpg" group-title="SÉRIES", Round 6: 2° Temporada; Episódio 6 - O ﻿ X
 https://watch.brplayer.cc/stream/bTN1OC8xMC82MDI2N2JhYzY3MzJjN2E4MWVjODExY2M1YzljMDg1OS83MjBwLzcyMHAubTN1OD9pZD0yMzUzMQ==?s=1&id=23531&cache=1
-#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/qZH5NZPA2N9ykpDd0dOQTmVJiVR.jpg" group-title="SÉRIES", Round 6: 2° Temporada; 7. Amigos ou Inimigos?
+#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/qZH5NZPA2N9ykpDd0dOQTmVJiVR.jpg" group-title="SÉRIES", Round 6: 2° Temporada; Episódio 7 - Amigos ou Inimigos?
 https://watch.brplayer.cc/stream/bTN1OC8xMC80MTllNDQxMGRhMTUyYzc0ZDcyNzI3MDI4M2NiOTRjZS83MjBwLzcyMHAubTN1OD9pZD0yMzUzMg==?s=1&id=23532&cache=1
+#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/2xqny2WLuT25vwo2lSbspp09jlz.jpg" group-title="SÉRIES", Round 6: 3° Temporada; Episódio 1 - Chaves e Facas
+https://watch.brplayer.cc/stream/bTN1OC8xMC80MjU0NDMwYTEzMmNiYzJjZmIyMzVkMGZjYTM5MjI3OS83MjBwLzcyMHAubTN1OD9pZD0yNjk2MA==?s=1&id=26960&cache=1
+#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/eFlIKUPGoWMLKjvMxpfYQT5Lmcv.jpg" group-title="SÉRIES", Round 6: 3° Temporada; Episódio 2 - Noite Estrelada
+https://watch.brplayer.cc/stream/bTN1OC8xMC9lNDE1NzZjMmQ2M2VhYjk5ZTdkNzIwOTIwNDczOWNlOC83MjBwLzcyMHAubTN1OD9pZD0yNjk2MQ==?s=1&id=26961&cache=1
+#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/gd9QhGKwkoFUfRo6hosINt9UERM.jpg" group-title="SÉRIES", Round 6: 3° Temporada; Episódio 3 - Não é Culpa Sua
+https://watch.brplayer.cc/stream/bTN1OC8xMC9hNjMzNDM0MWQ4MWZiMDQ3ZmI1ZGVkYjEwMTQ4ODkxYS83MjBwLzcyMHAubTN1OD9pZD0yNjk2Mg==?s=1&id=26962&cache=1
+#EXTINF:-1 tvg-id="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/7MpBNso3Ym21Oly3HuoPgGpKxG5.jpg" group-title="SÉRIES", Round 6: 3° Temporada; Episódio 4 - 222
+https://watch.brplayer.cc/stream/bTN1OC8xMC8yYWFkOGFhN2MzZjhlNDA2NGU5ODBlOTUyOGU1MGY1My83MjBwLzcyMHAubTN1OD9pZD0yNjk2Mw==?s=1&id=26963&cache=1
+#EXTINF:-1 tvg-id="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/mYhwcWgHnQnpZMD1OuhyDiOhV73.jpg" group-title="SÉRIES", Round 6: 3° Temporada; Episódio 5 - ○△□
+https://watch.brplayer.cc/stream/bTN1OC8xMC8wZTUzZGMzYjg4NzFlY2Q4MjA3ZGY5ZGE4M2Y2ODNiNi83MjBwLzcyMHAubTN1OD9pZD0yNjk2NA==?s=1&id=26964&cache=1
+#EXTINF:-1 tvg-id="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/vzYGUdGRm1bl7WoPmhZd8bSh6gN.jpg" group-title="SÉRIES", Round 6: 3° Temporada; Episódio 6 - Humanos
+https://watch.brplayer.cc/stream/bTN1OC8xMC81OGEzZGI1ODc5NmVlNGZiZTQyYjFiY2VhMWE4ODhmZi83MjBwLzcyMHAubTN1OD9pZD0yNjk2NQ==?s=1&id=26965&cache=1
 
 ############## FILMES ############## FILMES ############## FILMES ############## FILMES ############## FILMES ############## FILMES ############## FILMES ############## FILMES ##############
+
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/08/27/19/55/1504668.jpg" group-title="TERROR", APARTAMENTO 212: A Infestação
 https://lh3.googleusercontent.com/YsVPOiy90bbordh4Jp6A1z41EikrRqD-ehJ_DHXE0KbZmz_vWEtJvpWAI0UNa3dwHex81MiD3nXm8fAry9ssKQNlXEtMaT8hgyoiYzWnluj2V91yXEo5mbv4c8c2jhnOY-2Fw6Ccvss=m22
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/92/61/33/20208868.jpg" group-title="FANTASIA | MUSICAL", A FANTÁSTICA FÁBRICA DE CHOCOLATE - Willy Wonka e a Fábrica de Chocolate (1971)
