@@ -1969,6 +1969,8 @@ https://watch.brplayer.site/stream/WHF4NjlhT05DRGJDbUh1cjUyb2pSYU9ZaGlaelVqUUJ5d
 https://video.wixstatic.com/video/da787a_eeb70932d22c47eb8d6acc76f089d42c/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w300/uwDBPf2fD7v7rBwX6I0h3ehF7vp.jpg" group-title="SUSPENSE | TERROR", MERGULHO NOTURNO 2024
 http://6da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/2/m3rgulh0n0turn0DUB.mp4
+#EXTINF:-1 tvg-id="https://goflix3.lol/home/" tvg-logo="https://image.tmdb.org/t/p/w185/reszP86ICWWrwgwoFuk6bBVdLYL.jpg" group-title="SUSPENSE", MEUS 84 m² (2025)
+https://be4235.rcr32.ams02.i8yz83pn.com/hls2/02/09522/ys4v55ybikx9_h/index-v1-a1.m3u8?t=7CIPhdp66RYbXzgLepWwjRgjyLfESW_h1kDRoQW7SIE&s=1754571862&e=10800&f=47625982&srv=52&asn=263009&sp=4000&p=
 
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185//mPhXHRudGxsXIQq1WM6oVePkFIp.jpg" group-title="DRAMA | TERROR", NANNY (2022)
 https://6da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/3/4b4b4DUB.mp4
@@ -2367,6 +2369,8 @@ https://video.wixstatic.com/video/db47f8_abfc165283004c268f98a2f82cd48b18/480p/m
 https://play.prod.gcp.vix.services/samson-delilah_pt/samson-delilah_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="https://supertela.day/" tvg-logo="https://image.tmdb.org/t/p/w400//pLSoVBuBa3aqFBgBY2puu3BN8of.jpg" group-title="COMÉDIA | SUSPENSE | TERROR", SLOTHERHOUSE (2023)
 https://watch.brplayer.site/stream/eXpyMWNJTTRJOEdvbzl5Z1hBNzAvZHlTbFcvbzFSVzl3SXpzNnVWVkZ3SGFNZHExSmJSeWN2bGwyM3BqSU9VcmZDQkFEYmdrKzJ1U1c0TXFZZVZpMUE9PQ==
+#EXTINF:-1 tvg-id="https://goflix3.lol/home/" tvg-logo="https://image.tmdb.org/t/p/w185/30fNMmjk183FbyzURlrDCmMHTgk.jpg" group-title="AVENTURA | F.CIENTÍFICA", SUPERMAN  2h 9m 2025
+https://be6721.rcr72.waw04.i8yz83pn.com/hls2/01/09466/9nl2k0nykrmo_x/index-v1-a1.m3u8?t=7xc2SFmNyxVrPMM3xuO0PrjVTlLA82DEIBEXBYLzlO4&s=1754572170&e=10800&f=47406892&srv=1065&asn=263009&sp=5500&p=
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COMÉDIA", TE PEGO NA SAIDA (2017)
 https://ia802803.us.archive.org/23/items/A.espia.que.sabia.de.menos.sem.cortes.2015.DUB.BaixarerieMP4.com/Te.Pego.na.Sa%C3%ADda.2017.MP4.DUB.BaixarSeriesMP4.Com.mp4
