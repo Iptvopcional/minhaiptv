@@ -1768,7 +1768,7 @@ https://play.prod.gcp.vix.services/genesi-creazione-diluvio_pt/genesi-creazione-
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="http://suatela.net/media/imgs/500x500.jpg" group-title="AÇÃO | AVENTURA | SUSPENSE", GODZILLA E KONG: O NOVO IMPÉRIO 2024
 https://sempra.pro/a1/out/6/5404/5404_godzilla.x.kong.the.new.empire.2024.720p.web-dl.mmatracker.h.264.m3u8
 #EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="https://br.web.img3.acsta.net/c_310_420/img/d2/c1/d2c108f1e8523f4f16fbfb539e0f3e48.png" group-title="AÇÃO | SUSPENSE", GANANCIOSOS 113min 2024
-https://sempra.pro/a1/out/6/5404/5404_godzilla.x.kong.the.new.empire.2024.720p.web-dl.mmatracker.h.264.m3u8
+https://watch.brplayer.cc/stream/bTN1OC8xMC82YjcxYzYyODI1MzAyNmEwZjU2M2JlYjVkZDc1OWQ0MS83MjBwLzcyMHAubTN1OD9pZD0yNTQxMQ==?s=1&id=25411&cache=1
 
 #EXTINF:-1 tvg-id="https://www.vix.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/the-basement_pt/the-basement_pt_200x300.jpg" group-title="SUSPENSE | TERROR", HORAS DE AGONIA 2018
 https://play.pongalo.com/the-basement_pt/the-basement_pt_1-1/play_v1_hls_720p.m3u8
@@ -1844,6 +1844,8 @@ https://video.wixstatic.com/video/834009_862430470e1b41b6b5e639d15995b500/720p/m
 https://qatarinho2.s3.us-central-1.wasabisys.com/cdn11/Jumper.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/AteINDGu2VqyI1M8mBZXYMA7Yhs.jpg" group-title="DRAMA | SUSPENSE", JOGO JUSTO (2023)
 https://6da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/1/j0g0jst0DUB.mp4
+#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w150_and_h150_bestv2/pSWohRJyjCCCtO7OC50uxzkwUvg.jpg" group-title="AÇÃO | AVENTURA |F.CIENTÍFICA", JURASSIC WORLD: RECOMEÇO 2025
+https://watch.brplayer.cc/stream/bTN1OC8xMC81N2I5YzY4MmVkMzk4MjJjZGViYjNjODBkODIzNzk0Yi83MjBwLzcyMHAubTN1OD9pZD0yODc1Mg==?s=1&id=28752&cache=1
 
 #EXTINF:-1 tvg-id="https://tv.kinopop.com/" tvg-logo="https://tv.kinopop.com/img/thumbnail.php?url=https://cdn035.fractalmedia.es/thumb/oSKIcxlfgs_w640.jpg&w=200&p=1" group-title="TERROR", KRAMPUS: O JUSTIÇO DO MAL
 https://cdn037.fractalmedia.es/hls_adaptive/24c50df65a87be157699148780230f7c/oSKIcxlfgs/720/index.m3u8
@@ -2199,7 +2201,7 @@ https://7da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/3/0d3m0n10d0sm4
 https://9da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/1/0m0nstr0qv1v3m1mDUB.mp4
 #EXTINF:-1 tvg-id="https://supertela.day/" tvg-logo="https://image.tmdb.org/t/p/w400//9lcVaSYlHAwsDqU3UFtUo4xvCZ.jpg" group-title="DRAMA | SUSPENSE", O ACUSADO (2023)
 https://watch.brplayer.site/stream/d3cra0ZXalBwVS9xRVl0NjExT1hCekFtTGxKM2QyTUczdHM5M2I4emFobThzK2kvRStiYTBiTHp6ZEJWY3g2eVo5aVFaVWZIbURmMVlkcXpTSEx4Qmc9PQ==
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/clown-doll_pt/clown-doll_pt_200x300.jpg" group-title="COMÉDIA | SUSPENSE | TERROR", O Palhaço de Green Bay (2019)
+#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/clown-doll_pt/clown-doll_pt_200x300.jpg" group-title="COMÉDIA | SUSPENSE | TERROR", O PALHAÇO de Green Bay (2019)
 https://9da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/2/0p4lh4c0d3gr33nb4yDUB.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://tv.kinopop.com/img/thumbnail.php?url=https://cdn045.fractalmedia.es/thumb/K6waLvUHUI_w640.jpg&w=200&p=1" group-title="COMÉDIA", OS TRAPACEIROS (2018)
 https://8da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/1/0str4p4c3r0sd0rm1u18DUB.mp4
@@ -2215,12 +2217,14 @@ https://6da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/1/0c0l3t1v0DUB.m
 http://6da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/2/0sr3j3t4d0sDUB.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w300/A5uyxQxMVuCDD6lgHVUFC79EH0X.jpg" group-title="AÇÃO | COMÉDIA", O SUPER AGENTE MAKEY 2020
 http://9da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/1/0spr4g3nt3m4k3yDUB.mp4
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://br.web.img3.acsta.net/c_310_420/img/93/bd/93bdb90f34a8697e768a8e7fbbae3467.jpeg" group-title="CRIME | DRAMA | SUSPENSE", O Entregador 2024
+#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://br.web.img3.acsta.net/c_310_420/img/93/bd/93bdb90f34a8697e768a8e7fbbae3467.jpeg" group-title="CRIME | DRAMA | SUSPENSE", O ENTREGADOR 2024
 https://7da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/2/03ntr3g4d0rDUB.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://media.filmelier.com/tit/tIlfwq/poster/o-pranto-do-mal_9sm2eFw.jpeg" group-title="TERROR", O Pranto do Mal, 2024
 https://8da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/0pr4nt0d0m4lDUB.mp4
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://br.web.img3.acsta.net/c_310_420/img/0f/a8/0fa8e22881a0a91ce440bfff00f8c2a7.jpg" group-title="MISTÉRIO | TERROR", Oddity - Objetos Obscuros, 1 de fevereiro de 2025
+#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://br.web.img3.acsta.net/c_310_420/img/0f/a8/0fa8e22881a0a91ce440bfff00f8c2a7.jpg" group-title="MISTÉRIO | TERROR", ODDITY - OBJETOS OBSCUROS, 1 de fevereiro de 2025
 https://7da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/0dd1ty0bjt0bscur0DUB.mp4
+#EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="http://cc90.one/PIS4" group-title="AÇÃO | SUSPENSE", OPERAÇÃO VINGANÇA 2025
+https://8da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/0p3r4c40v1ng4nc4DUB.mp4
 
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://br.web.img2.acsta.net/c_310_420/img/6b/ea/6beac990070ef019623145592b64d981.jpg" group-title="DRAMA | SUSPENSE | TERROR", Presença, 3 de abril de 2025
 https://8da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/pr3s3nc4DUB.mp4
@@ -2373,8 +2377,8 @@ https://video.wixstatic.com/video/db47f8_abfc165283004c268f98a2f82cd48b18/480p/m
 https://play.prod.gcp.vix.services/samson-delilah_pt/samson-delilah_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="https://supertela.day/" tvg-logo="https://image.tmdb.org/t/p/w400//pLSoVBuBa3aqFBgBY2puu3BN8of.jpg" group-title="COMÉDIA | SUSPENSE | TERROR", SLOTHERHOUSE (2023)
 https://watch.brplayer.site/stream/eXpyMWNJTTRJOEdvbzl5Z1hBNzAvZHlTbFcvbzFSVzl3SXpzNnVWVkZ3SGFNZHExSmJSeWN2bGwyM3BqSU9VcmZDQkFEYmdrKzJ1U1c0TXFZZVZpMUE9PQ==
-#EXTINF:-1 tvg-id="https://goflix3.lol/home/" tvg-logo="https://image.tmdb.org/t/p/w185/30fNMmjk183FbyzURlrDCmMHTgk.jpg" group-title="AVENTURA | F.CIENTÍFICA", SUPERMAN  2h 9m 2025
-https://be6721.rcr72.waw04.i8yz83pn.com/hls2/01/09466/9nl2k0nykrmo_x/index-v1-a1.m3u8?t=7xc2SFmNyxVrPMM3xuO0PrjVTlLA82DEIBEXBYLzlO4&s=1754572170&e=10800&f=47406892&srv=1065&asn=263009&sp=5500&p=
+#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w150_and_h225_bestv2/cFWf7khqYRxHI9vLdf9XQKBPoYw.jpg" group-title="TERROR", SALA ESCURA 2024
+https://watch.brplayer.cc/stream/bTN1OC8xMC8yYThlZmEyODkwMjVhNzRjZTUwY2FlOWU5MmUwZWRiMi83MjBwLzcyMHAubTN1OD9pZD0yODY4OQ==?s=1&id=28689&cache=1
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COMÉDIA", TE PEGO NA SAIDA (2017)
 https://ia802803.us.archive.org/23/items/A.espia.que.sabia.de.menos.sem.cortes.2015.DUB.BaixarerieMP4.com/Te.Pego.na.Sa%C3%ADda.2017.MP4.DUB.BaixarSeriesMP4.Com.mp4
