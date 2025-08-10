@@ -1744,6 +1744,8 @@ https://video.wixstatic.com/video/9283ac_1b2124935951430f9f0cc5102345fe71/720p/m
 http://6da15e7a4d.farpasmaster.shop/deregodego/newhasta/filmcucu/1/f4l3c0m1g0DUB.mp4
 #EXTINF:-1 tvg-id="https://supertela.top/" tvg-logo="https://image.tmdb.org/t/p/w400//mIodhEFZMi7szsI3uP03XIHT1xb.jpg" group-title="MISTÉRIO | SUSPENSE | TERROR", FERIADO SANGRENTO (2023)
 https://watch.brplayer.site/stream/UEtiOWVYaCtIYlYzb1JQRlVOK3NmZTdXejZMUFk1U0ZTQUN3cGxwNW9reXovbVdFb3pIYmVQQkJIVnl5QzNUeU16bTIvUGRSZHdkM1R3b0NhZHF1Tnc9PQ==
+#EXTINF:-1 tvg-id="https://topflix.video/" tvg-logo="https://topflix.video/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iKFmBYbs91VJfgSReSMydEcNu3fEUH8Dm5RJhDUSdcTTZqsTOAkvIV6dOY9aY2Z3wQ.webp?w=370&h=556" group-title="AVENTURA | DRAMA", FEIOS 1hr 42 min 2024
+https://sempra.pro/a1/out/6/7477/7477_feios.2024.1080p.web-dl.eac3.aac.dual.5.1.m3u8
 
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/8EXWz4TM3FRuxuJ5j0SBkQ1dR0P.jpg" group-title="AÇÃO | COMÉDIA | POLICIAL", GRINGO - VIVO OU MORTO (2018)
 https://video.wixstatic.com/video/834009_947fc664bb5b48a1985b15f3b45f4bfa/480p/mp4/file.mp4
@@ -1763,8 +1765,10 @@ http://10da15e7a4d.viajoteca.ga/deregodego/lastdance/filmcucu/2/gm30m4lgn0DUB.mp
 https://video.wixstatic.com/video/9283ac_fa347905e7b443a2af155e30bcab1d9d/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://www.vixCANAIStv.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/genesi-creazione-diluvio_pt/genesi-creazione-diluvio_pt_200x300.jpg" group-title="RELIGIOSO", GÊNESIS 1994 1h 30m
 https://play.prod.gcp.vix.services/genesi-creazione-diluvio_pt/genesi-creazione-diluvio_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="http://suatela.net/media/imgs/500x500.jpg" group-title="AÇÃO | AVENTURA | SUSPENSE", Godzilla e Kong: O Novo Império 2024
-https://7da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/2/g0dz1ll4xk0ng0nv01mp3r10DUB.mp4
+#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="http://suatela.net/media/imgs/500x500.jpg" group-title="AÇÃO | AVENTURA | SUSPENSE", GODZILLA E KONG: O NOVO IMPÉRIO 2024
+https://sempra.pro/a1/out/6/5404/5404_godzilla.x.kong.the.new.empire.2024.720p.web-dl.mmatracker.h.264.m3u8
+#EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="https://br.web.img3.acsta.net/c_310_420/img/d2/c1/d2c108f1e8523f4f16fbfb539e0f3e48.png" group-title="AÇÃO | SUSPENSE", GANANCIOSOS 113min 2024
+https://sempra.pro/a1/out/6/5404/5404_godzilla.x.kong.the.new.empire.2024.720p.web-dl.mmatracker.h.264.m3u8
 
 #EXTINF:-1 tvg-id="https://www.vix.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/the-basement_pt/the-basement_pt_200x300.jpg" group-title="SUSPENSE | TERROR", HORAS DE AGONIA 2018
 https://play.pongalo.com/the-basement_pt/the-basement_pt_1-1/play_v1_hls_720p.m3u8
