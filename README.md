@@ -1281,6 +1281,19 @@ https://watch.brplayer.cc/stream/bTN1OC8xMC8wZTUzZGMzYjg4NzFlY2Q4MjA3ZGY5ZGE4M2Y
 #EXTINF:-1 tvg-id="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/vzYGUdGRm1bl7WoPmhZd8bSh6gN.jpg" group-title="SÉRIES", Round 6: 3° Temporada; Episódio 6 - Humanos
 https://watch.brplayer.cc/stream/bTN1OC8xMC81OGEzZGI1ODc5NmVlNGZiZTQyYjFiY2VhMWE4ODhmZi83MjBwLzcyMHAubTN1OD9pZD0yNjk2NQ==?s=1&id=26965&cache=1
 
+#EXTINF:-1 tvg-id="https://noveflix.vip/" tvg-logo="https://noveflix.vip/wp-content/uploads/2025/06/4oDFJSrlvhO09ggCLKbf1zOXBX2-210x300.jpg" group-title="SÉRIES", SOBREVIVENTES: 1° Temporada; Episódio 1
+https://cdn-novflix.com/storagePSN/SERIES/SOBREVIVENTES/SOBREVIVENTES1x01.mp4
+#EXTINF:-1 tvg-id="https://noveflix.vip/" tvg-logo="https://noveflix.vip/wp-content/uploads/2025/06/4oDFJSrlvhO09ggCLKbf1zOXBX2-210x300.jpg" group-title="SÉRIES", SOBREVIVENTES: 1° Temporada; Episódio 2
+https://cdn-novflix.com/storagePSN/SERIES/SOBREVIVENTES/SOBREVIVENTES1x02.mp4
+#EXTINF:-1 tvg-id="https://noveflix.vip/" tvg-logo="https://noveflix.vip/wp-content/uploads/2025/06/4oDFJSrlvhO09ggCLKbf1zOXBX2-210x300.jpg" group-title="SÉRIES", SOBREVIVENTES: 1° Temporada; Episódio 3
+https://cdn-novflix.com/storagePSN/SERIES/SOBREVIVENTES/SOBREVIVENTES1x03.mp4
+#EXTINF:-1 tvg-id="https://noveflix.vip/" tvg-logo="https://noveflix.vip/wp-content/uploads/2025/06/4oDFJSrlvhO09ggCLKbf1zOXBX2-210x300.jpg" group-title="SÉRIES", SOBREVIVENTES: 1° Temporada; Episódio 4
+https://cdn-novflix.com/storagePSN/SERIES/SOBREVIVENTES/SOBREVIVENTES1x04.mp4
+#EXTINF:-1 tvg-id="https://noveflix.vip/" tvg-logo="https://noveflix.vip/wp-content/uploads/2025/06/4oDFJSrlvhO09ggCLKbf1zOXBX2-210x300.jpg" group-title="SÉRIES", SOBREVIVENTES: 1° Temporada; Episódio 5
+https://cdn-novflix.com/storagePSN/SERIES/SOBREVIVENTES/SOBREVIVENTES1x05.mp4
+#EXTINF:-1 tvg-id="https://noveflix.vip/" tvg-logo="https://noveflix.vip/wp-content/uploads/2025/06/4oDFJSrlvhO09ggCLKbf1zOXBX2-210x300.jpg" group-title="SÉRIES", SOBREVIVENTES: 1° Temporada; Episódio 6
+https://cdn-novflix.com/storagePSN/SERIES/SOBREVIVENTES/SOBREVIVENTES1x06.mp4
+
 ############## FILMES ############## FILMES ############## FILMES ############## FILMES ############## FILMES ############## FILMES ############## FILMES ############## FILMES ##############
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/08/27/19/55/1504668.jpg" group-title="TERROR", APARTAMENTO 212: A Infestação
@@ -2292,6 +2305,8 @@ https://watch.brplayer.site/stream/Y2tpMWFTeGtjWktQMEZkbzRLdHhERWlhdXAySXRocER2R
 https://play.prod.gcp.vix.services/piranha_pt/piranha_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://pobreflix.fm/wp-content/uploads/2022/08/1W8IGuXEUrAYHaR0wQn3MyZiQFo-200x300.jpg" group-title="SUSPENSE | TERROR", PERIGO NO RECIFE (2023)
 https://6da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/1/p3r1g0n0r3c1f3DUB.mp4
+#EXTINF:-1 tvg-id="https://noveflix.vip/" tvg-logo="https://noveflix.vip/wp-content/uploads/2025/07/620FhRxTk7e9GBXwtYv8Wk3DRJf-200x300.jpg" group-title="AVENTURA | DRAMA", PERDIDO NA MONTANHA 2025
+https://cdn-novflix.com/storagePSN/FILMES/PERDINONAMONTANHA.mp4
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ANIMAÇÃO", PATRULHA CANINA 01 - OS FILHOTES E O TESOURO PIRATA
 https://lh3.googleusercontent.com/ES4Jz7rZ1ZEFFrBKWXsrH0pafYWRD5v5VRNuyjndPAylR4OWCg0I5ykbxOW2xhZINPnqvOGvfw=m18
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ANIMAÇÃO", PATRULHA CANINA 02- OS FILHOTES E O TESOURO PIRATA
@@ -2451,6 +2466,8 @@ https://9da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/1/1m4f3st4d4rrm
 https://8da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/2/1m4l1nd4v1d4DUB.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/fXGOLOxV0KLnzueWJPFF5tUP3Lq.jpg" group-title="SUSPENSE | TERROR", URSINHO POOH: SANGUE E MEL 2023
 https://6da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/1/urs1nh0p00hs4ngu3m3lDUB.mp4
+#EXTINF:-1 tvg-id="https://noveflix.vip/" tvg-logo="https://noveflix.vip/wp-content/uploads/2025/07/7QWMSU9S30Y0I9eaRYkMUx9a0es-200x300.jpg" group-title="DRAMA | SUSPENSE | TERROR", UMA MULHER COMUM 2025
+https://cdn-novflix.com/storagePSN/FILMES/UMAMULHERCOMUM.mp4
 
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/RMJw0hh1fsK_qH-zUM3Z20i8mDA=/fit-in/290x478/smart/media/movies/covers/2010/09/a7a501c4da89ba95df351148058f9882.jpg" group-title="AÇÃO | DRAMA | MISTÉRIO", VIDAS EM JOGO (1997)
 https://lh3.googleusercontent.com/wSeLmEmg4P-ORoO0uH6dFeUU0C4_zA1iyTk9sUd0BH54sGjUyEuk83lXAMfsAoB5O89dbMhUvYiBnG1JvJ_37tXxqszfc3WEkU7U5J8xrRxxxbL52FzLIGJ9Ds4Q3P0AuKOoXuyTo8Fjg94lKui mSHFsybvOGX4ZRc8BCYdKuGb133OkFANalVXqBq4wByV8QwKKJJf9gLwpKYlsa8HPMXpEh8ZgJcUDK3LbJd9vEAUtEC7qsXibcry29fBtFhItFwhH79JjOkTEfcncKDmdB5MPhEE8oaur3I5WzKB4fGBDeiD9Jj7NGflQIanAgpwSDd_Ja7ez HKyjCmdh9XqdusvAuMSrXFNHG-nM9XZ5NBgaUeZsl2wZdz9vTH0wFy6wej-2HclNVV8oiB3KnYEx2GHQmxVpj6_5QV_l8AT_k8zver8LUsB6jz4XXSCKHFXjzrU-2tn0Yz43_chdP1RhLfgYIE86MiAff_Vr20RGr2klhxMPhgWJ_RCXt1KUt rUsZtNytq1y80TshDMkozqGFsEZdrvdzwIJxxBf9B02JkRJCkWv3nunYfo3mmERVL02GFCZs6wj7pH5955YG6dXa4v- DlUGWV5XOGjDmKEdpKCTgSRbEJebBN6xwKBFFfIW01SHqtCBdqaRJtpaQgDUQRXHR-LgKHTLJw=s250-k-rw-no-m18
