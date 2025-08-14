@@ -1519,8 +1519,8 @@ https://prussixf3.s3.us-central-1.wasabisys.com/cdn13/ACutAbove.2022.mp4
 http://7da15e7a4d.farpasmaster.shop/deregodego/lastdance/filmcucu/3/b1rdb0xb4rc3l0n4DUB.mp4
 #EXTINF:-1 tvg-id="https://supertela.day/" tvg-logo="https://image.tmdb.org/t/p/w400//asG1vxzBWed6vOwrHq1USW7HETT.jpg" group-title="SUSPENSE | TERROR", BLIND WALTERS "ÁGUAS CEGAS" (2023)
 https://watch.brplayer.site/stream/ellJaU1NZHRYV2czVGMwWDJBMVdpMWkvV2p1Ym9wV2c4YWNjWEZpUEpaWERUMDVhMWFTb0YyL3BGbEYwUmxDeVd6M0tYemhEclFTTTZxR2lRRTdjUXc9PQ==
-#EXTINF:-1 tvg-id="https://supertela.day/" tvg-logo="https://image.tmdb.org/t/p/w400//1IByydtR2GOvf6esVdrgp13Yve9.jpg" group-title="TERROR", ESPANCADO ATÉ A MORTE "ESPANCADO ATÉ A MORTE" (2023)
-https://watch.brplayer.site/stream/YUFray9qcDNmZnQyeEdzNzU0UHpyTVJTNEEtTZWhkZHVQMkNta1RaV014dzFYMnZMaVgwUC81dDk2MCtYeXU2dkN5MG9SdURaN1pPUFJDK3pDNSt1TkE9PQ==
+#EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="http://cc90.one/PGC0" group-title="SUSPENSE", BRICK 2025
+https://8da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/br1ckDUB.mp4
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ANIMAÇÃO | AVENTURA | COMÉDIA", CHRISTOPHER ROBIN
 https://lh3.googleusercontent.com/V1jodOPNkHqwuEj8aYmx7N2UXDw4d0-k1duVo1puuVu9Hbb6M_XDo9tAXtbXY587rWAqKp8yYf-SXipeoWsp4rI0E_-H8ZT4t8Cc3GSEWe1PjkTFIhGcNaSR5CsBBy_kyjCDeklS-w=m22
@@ -1612,6 +1612,8 @@ http://7da15e7a4d.farpasmaster.shop/deregodego/newhasta/filmcucu/1/c4m4l30sDUB.m
 https://cdn34.tokyvideo.com/videos/359/359559/mp4/d805b798e086e1b00e78d28ec3ebfc23ef2a55e442a0fc8fb308d28ad29417f8.mp4?nva=20231017014514&nvb=20231015014514&token=041d931969d8fd2f7626f
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://www.filmesonlinehdgratis.com.br/_imagens/conferencia-mortal.jpg" group-title="COMÉDIA | SUSPENSE | TERROR", CONFERÊNCIA MORTAL 2023
 http://9da15e7a4d.farpasmaster.shop/deregodego/newhasta/filmcucu/1/c0nf3r3nc14m0rt4lDUB.mp4
+#EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="http://cc90.one/PDA8" group-title="AÇÃO | COMÉDIA | SUSPENSE", CHEFES DE ESTADO 2025
+https://8da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/ch3f3sdst4d0DUB.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiMUDeDBH4s1dbtbcnmasAtgssZ.jpg" group-title="AVENTURA | COMÉDIA", DOLITTLE (2020)
 https://is.gd/Dolittle
@@ -1988,8 +1990,10 @@ https://watch.brplayer.site/stream/WHF4NjlhT05DRGJDbUh1cjUyb2pSYU9ZaGlaelVqUUJ5d
 https://video.wixstatic.com/video/da787a_eeb70932d22c47eb8d6acc76f089d42c/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w300/uwDBPf2fD7v7rBwX6I0h3ehF7vp.jpg" group-title="SUSPENSE | TERROR", MERGULHO NOTURNO 2024
 http://6da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/2/m3rgulh0n0turn0DUB.mp4
-#EXTINF:-1 tvg-id="https://goflix3.lol/home/" tvg-logo="https://image.tmdb.org/t/p/w185/reszP86ICWWrwgwoFuk6bBVdLYL.jpg" group-title="SUSPENSE", MEUS 84 m² (2025)
-https://be4235.rcr32.ams02.i8yz83pn.com/hls2/02/09522/ys4v55ybikx9_h/index-v1-a1.m3u8?t=7CIPhdp66RYbXzgLepWwjRgjyLfESW_h1kDRoQW7SIE&s=1754571862&e=10800&f=47625982&srv=52&asn=263009&sp=4000&p=
+#EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="http://cc90.one/PGY8" group-title="COMÉDIA | DRAMA", MADEA E O CASAMENTO NAS BAHAMAS 2025
+https://8da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/m4d4c4s3m3nt0b4h4m4sDUB.mp4
+#EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="http://cc90.one/PJI5" group-title="DRAMA | SUSPENSE", MEUS 84 M² 2025
+https://8da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/m3us84m2DUB.mp4
 
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185//mPhXHRudGxsXIQq1WM6oVePkFIp.jpg" group-title="DRAMA | TERROR", NANNY (2022)
 https://6da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/3/4b4b4DUB.mp4
@@ -2238,6 +2242,10 @@ https://8da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/0pr4nt0d0m4lDUB.
 https://7da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/0dd1ty0bjt0bscur0DUB.mp4
 #EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="http://cc90.one/PIS4" group-title="AÇÃO | SUSPENSE", OPERAÇÃO VINGANÇA 2025
 https://8da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/0p3r4c40v1ng4nc4DUB.mp4
+#EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="http://cc90.one/PGZ0" group-title="AÇÃO | COMÉDIA | CRIME", OS BAD BOAS 2025
+https://7da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/0sb4db04sDUB.mp4
+#EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="http://cc90.one/OYR4" group-title="AVENTURA | COMÉDIA", O ESQUEMA FENÍCIO 2025
+https://7da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/03smq3m4f3n1c10DUB.mp4
 
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://br.web.img2.acsta.net/c_310_420/img/6b/ea/6beac990070ef019623145592b64d981.jpg" group-title="DRAMA | SUSPENSE | TERROR", Presença, 3 de abril de 2025
 https://8da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/pr3s3nc4DUB.mp4
@@ -2307,6 +2315,8 @@ https://play.prod.gcp.vix.services/piranha_pt/piranha_pt_1-1/play_v1_hls_720p.m3
 https://6da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/1/p3r1g0n0r3c1f3DUB.mp4
 #EXTINF:-1 tvg-id="https://noveflix.vip/" tvg-logo="https://noveflix.vip/wp-content/uploads/2025/07/620FhRxTk7e9GBXwtYv8Wk3DRJf-200x300.jpg" group-title="AVENTURA | DRAMA", PERDIDO NA MONTANHA 2025
 https://cdn-novflix.com/storagePSN/FILMES/PERDINONAMONTANHA.mp4
+#EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="http://cc90.one/PJH9" group-title="COMÉDIA", FAMÍLIA, PERO NO MUCHO 2025
+https://7da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/f4m1l14p3r0n0mch0DUB.mp4
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ANIMAÇÃO", PATRULHA CANINA 01 - OS FILHOTES E O TESOURO PIRATA
 https://lh3.googleusercontent.com/ES4Jz7rZ1ZEFFrBKWXsrH0pafYWRD5v5VRNuyjndPAylR4OWCg0I5ykbxOW2xhZINPnqvOGvfw=m18
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ANIMAÇÃO", PATRULHA CANINA 02- OS FILHOTES E O TESOURO PIRATA
@@ -2441,6 +2451,8 @@ https://9da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/1/td03mt0d0lgr4
 http://8da15e7a4d.farpasmaster.shop/deregodego/lastdance/filmcucu/2/th3pw3rhrr0rn4scur1d4oDUB.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://media.fstatic.com/H2b9MeD8SYzKcjF2Y176T8iffTg=/210x312/smart/filters:format(webp)/media/movies/covers/2024/02/cats_NTaxJJ3.jpg" group-title="SUSPENSE | TERROR", Turno Maldito 2023
 https://9da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/2/turn0m4ld1t0DUB.mp4
+#EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="http://cc90.one/PDC3" group-title="AÇÃO | FANTASIA", THE OLD GUARD 2 2025
+https://7da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/th30ldgur4d2DUB.mp4
 
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://br.web.img3.acsta.net/c_310_420/img/a7/cb/a7cb1f5c2ca43af0fbbea82e3c5ba1d5.jpg" group-title="COMÉDIA", Um Dia Daqueles, 3 de abril de 2025
 https://8da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/1d14d4qu3l3sDUB.mp4
@@ -2605,13 +2617,13 @@ http://cdn.adultiptv.net/bigtits.m3u8
 
 ############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ##############
 
-#EXTINF:-1 tvg-logo="https://www.acheRÁDIOS.com.br/_next/image/?url=https%3A%2F%2Fwww.acheRÁDIOS.com.br%2Fmedia%2Fimagens%2F101-fm-macae.jpg&w=256&q=75" group-title="RÁDIOS", FM 101 | RJ
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio24_1456141262.jpg" group-title="RÁDIOS", Rádio 101 FM Macaé / RJ - Brasi
 http://nl.digitalrm.pt:8012/stream
-#EXTINF:-1 tvg-logo="https://static.tudoRÁDIOS.com/ins/w:90/plain/https://tudoRÁDIOS.com/img/uploads/RÁDIOS/RÁDIOS_1049riodasostras.png" group-title="RÁDIOS", 104.9 FM ENERGIA | RJ
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio13199_1744219705.jpg" group-title="RÁDIOS", Rádio Energia 104.9 FM Rio das Ostras / RJ - Brasil
 https://servidor35.brlogic.com:8192/live
 #EXTINF:-1 tvg-logo="https://static.tudoRÁDIOS.com/ins/w:90/plain/https://tudoRÁDIOS.com/img/uploads/RÁDIOS/651470ff96ffb.png" group-title="RÁDIOS", FM O DIA | RJ
 https://wz7.servidoresCANAIS.com:8274/stream
-#EXTINF:-1 tvg-logo="https://img.RÁDIOS.com.br/RÁDIOS/lg/RÁDIOS14174_1578911830.png" group-title="RÁDIOS", RÁDIO NOVO RIO 87.9 FM | RJ
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio14174_1578911830.png" group-title="RÁDIOS", Rádio Novo Rio 87.9 FM Rio das Ostras / RJ - Brasi
 http://192.99.79.240:8019/stream
 #EXTINF:-1 tvg-logo="https://redehits.fm/wp-content/uploads/2024/03/Logo-Perfil.png" group-title="RÁDIOS", HITS FM 106,9 | RJ
 https://wz7.servidoresCANAIS.com:9984/stream?1711233278253
