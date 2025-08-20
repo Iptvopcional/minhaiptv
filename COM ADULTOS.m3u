@@ -80,6 +80,8 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-id="https://globoplay.globo.com/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: VARIEDADES", GLOBO AO VIVO
 https://live-01.edge-forte-caw-rj.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1mb3J0ZS1jYXctcmoudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzU1NzgyNzI1LCJpYXQiOjE3NTU2OTYzMjUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiOGFmZjg5Y2UtOGQ0YS00OTBmLWE3Y2UtZjVhYzZmNjFhZDczIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1jYWIvcGxheWxpc3QubTN1OCJ9.tQoEFu0zEV8MvhfK_A1bOEHXugvEQzSQbW7ZBqgXJ9rNZ-1Spf9DuaNP_CbBgUADxFWOj8rQ8G0yzGNPUI9EIVVr0snviuDPH73pOEKwojrZJwbb5a3ll11w_br4cG5r4CFOBSvNV-_hVBOy2ub6Vzl0AcYZGuibyhSTsKlNEEhajdTHogfXR_FH_NPnSn01QFzaqK_Jei71AbyqjyJcb_lXHJP5l-gBUTz3s6lSQuUcda9_PTfd6KP0U4RMcAHn3BERajKlypI-XUQlOPS4adC1o-6YLxBWl9NGdIyZnA2QGXhHiqO6qaLFRFSZNZEUPu0_azUFfWc-JPhZT5R9sw/live/f(i=2)/globo-cab/globo-cab-audio_1=96000-video=2262976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR Globo SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: VARIEDADES", GLOBO SP HD
+http://fortv.cc:8080/0n8u9R/169324/21020
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="CANAIS: DOCUMENTARIOS", INVESTIGAÇÃO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=65e4a7cf-0b18-4 b0a-97d2-7eadc239c740&deviceLat=-22.4545&deviceLon=-41.9492&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=BR&sid=314cc8b4-3e56-11eb-a7eb-0242ac110002&userId=&serverSideAds=tru
@@ -2429,4 +2431,4 @@ https://5a57bda70564a.streamlock.net/bandnewsgo/bandnewsgo.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="RÁDIOS", Cultura do Pará
 https://www.portalcultura.com.br/playerhtml/funtelpa/RÁDIOS_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DPsqixB.png" group-title="RÁDIOS", RÁDIOS UFRGS | RS
-http://RÁDIOSaovivo.ufrgs.br:8000/stream.mp3 
+http://RÁDIOSaovivo.ufrgs.br:8000/stream.mp3
