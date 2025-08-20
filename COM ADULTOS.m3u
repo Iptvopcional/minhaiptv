@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="BR: AMC HD" tvg-logo="http://cc90.one/WGS" group-title="CANAIS: FILMES | SÉRIES", AMC HD
-http://fortv.cc:8080/0n8u9R/169324/164938
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="CANAIS: INFANTIS", ANIME
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=65e4a7cf-0b18-4 b0a-97d2-7eadc239c740&deviceLat=-22.4545&deviceLon=-41.9492&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=BR&sid=5d23ee15-3e52-11eb-b866-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="CANAIS: INFANTIS", ANIME E GEEK
@@ -58,8 +56,6 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w286941207.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png" group-title="CANAIS: ENTRETENIMENTO", DIFF'RENT STROKES ARNOLD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN" tvg-logo="http://cc90.one/JYP4" group-title="CANAIS: ESPORTES", ESPN
-http://fortv.cc:8080/0n8u9R/169324/164948
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/42174cd70ddce777c49b24aea7730341.png" group-title="CANAIS: RELIGIOSOS", EVANGELHO VERMELHO
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 
@@ -79,21 +75,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd0
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=65e4a7cf-0b18-4 b0a-97d2-7eadc239c740&deviceLat=-22.4545&deviceLon=-41.9492&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=BR&sid=787d788c-3e55-11eb-a8d7-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="CANAIS: FILMES", FILME GOSPEL TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7p5Xgv.jpg" group-title="CANAIS: FILMES | SÉRIES", GOSPEL FILMES TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: VARIEDADES", GLOBO HD
-http://fortv.cc:8080/0n8u9R/169324/164943
-#EXTINF:-1 tvg-id="" tvg-name="BR Globo SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: VARIEDADES" GLOBO SP HD
-http://fortv.cc:8080/0n8u9R/169324/21020
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: VARIEDADES", GLOBO AO VIVO
-https://live-01.edge-forte-caw-rj.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1mb3J0ZS1jYXctcmoudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzU1NjA5NDM1LCJpYXQiOjE3NTU1MjMwMzUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiOGFmZjg5Y2UtOGQ0YS00OTBmLWE3Y2UtZjVhYzZmNjFhZDczIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1jYWIvcGxheWxpc3QubTN1OCJ9.tiyY2FFWCuQbE672cbLhoETK7ItXbKX71CQ0kpRu2NsKjsM011pgVyJX69nU_8sE3riyYtFu4Qfw_pG5qAZrC1d45PzNGQBpqNCDgHDxXjSkhyMZvN0BYKCOyuADD06DTIpeg_VGdTMB4pNkw3rc5xwtEEX1zRK6TO7ar8kVwguzb7cNfINUTE0p9ax8x3lIBau4gUBcwk-bjjG7h9r0DdbGyFq51DzQNP-_4O61sEZzbmm5QrYpbXcAENhPwsIXvmLQgIJ7DD8Tmz_MDq4Hurcm40bpWwrEokbIpjYIC8xAo1U1oGnSPQV5_migwsxxhY8jn5z9XqDWGj-3q2qUTw/live/f(i=2)/globo-cab/globo-cab-audio_1=96000-video=3442944.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO MINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: VARIEDADES", GLOBO MINAS HD
-http://fortv.cc:8080/0n8u9R/169324/164944
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: VARIEDADES", GLOBO HD PORTUGAL
-http://fortv.cc:8080/0n8u9R/169324/164824
-
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO HD" tvg-logo="http://cc90.one/JYS0" group-title="CANAIS: FILMES | SÉRIES", HBO HD
-http://fortv.cc:8080/0n8u9R/169324/164950
+#EXTINF:-1 tvg-id="https://globoplay.globo.com/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: VARIEDADES", GLOBO AO VIVO
+https://live-01.edge-forte-caw-rj.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1mb3J0ZS1jYXctcmoudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzU1NzgyNzI1LCJpYXQiOjE3NTU2OTYzMjUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiOGFmZjg5Y2UtOGQ0YS00OTBmLWE3Y2UtZjVhYzZmNjFhZDczIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1jYWIvcGxheWxpc3QubTN1OCJ9.tQoEFu0zEV8MvhfK_A1bOEHXugvEQzSQbW7ZBqgXJ9rNZ-1Spf9DuaNP_CbBgUADxFWOj8rQ8G0yzGNPUI9EIVVr0snviuDPH73pOEKwojrZJwbb5a3ll11w_br4cG5r4CFOBSvNV-_hVBOy2ub6Vzl0AcYZGuibyhSTsKlNEEhajdTHogfXR_FH_NPnSn01QFzaqK_Jei71AbyqjyJcb_lXHJP5l-gBUTz3s6lSQuUcda9_PTfd6KP0U4RMcAHn3BERajKlypI-XUQlOPS4adC1o-6YLxBWl9NGdIyZnA2QGXhHiqO6qaLFRFSZNZEUPu0_azUFfWc-JPhZT5R9sw/live/f(i=2)/globo-cab/globo-cab-audio_1=96000-video=2262976.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="CANAIS: DOCUMENTARIOS", INVESTIGAÇÃO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=65e4a7cf-0b18-4 b0a-97d2-7eadc239c740&deviceLat=-22.4545&deviceLon=-41.9492&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=BR&sid=314cc8b4-3e56-11eb-a7eb-0242ac110002&userId=&serverSideAds=tru
@@ -183,8 +169,6 @@ https://vdo1.audiostream.com.br:3010/live/soutvlive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Vxo3Lc.png" group-title="CANAIS: VARIEDADES", SANDEGI TV
 https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BR: TNT SERIES HD" tvg-logo="http://cc90.one/APL" group-title="CANAIS: FILMES | SÉRIES", TNT SERIES HD
-http://fortv.cc:8080/0n8u9R/169324/164958
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="CANAIS: FILMES 24 HORAS", TV ADRENALINA FREEZONE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="ext" group-title="CANAIS: HUMOR", O COLETIVO DE ANIMAIS (720p)
@@ -1337,7 +1321,7 @@ https://lh3.googleusercontent.com/V1jodOPNkHqwuEj8aYmx7N2UXDw4d0-k1duVo1puuVu9Hb
 https://lh3.googleusercontent.com/wJjyFlvIdn6W1FrbKAfvCvWC-jEyY4JxQpI7U-uwWxgH2KJN2kckVhcpZ5O493fN5fsxr_8K26T-PxGphU-buNi7saGPDzPmswcxMo5gdpSqKSdV4ECNdK6c2HA7sWzc2zt4zfdIb_c=m22
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi_webp/0ZoCwh9AP3w/movieposter.webp" group-title="DRAMA | SUSPENSE", CORPO FECHADO (2000) 106 Min.
 http://content.uplynk.com/acde39d6f5554d52a64f1aa3e4244e00.m3u8
-#EXTINF:-1 tvg-id="https://www.vix.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/bone-snatcher_pt/bone-snatcher_pt_200x300.jpg" group-title="F.CIENTÍFICA | TERROR", CAÇADOR DE OSSOS (2003)
+#EXTINF:-1 tvg-id="https://www.vix.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/bone-snatcher_pt/bone-snatcher_pt_200x300.jpg" group-title="F. CIENTÍFICA | TERROR", CAÇADOR DE OSSOS (2003)
 https://play.pongalo.com/bone-snatcher_pt/bone-snatcher_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg" group-title="DRAMA", CORINGA (2019)
 https://is.gd/Coringa2019
@@ -1668,7 +1652,7 @@ https://video.wixstatic.com/video/834009_862430470e1b41b6b5e639d15995b500/720p/m
 https://qatarinho2.s3.us-central-1.wasabisys.com/cdn11/Jumper.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/AteINDGu2VqyI1M8mBZXYMA7Yhs.jpg" group-title="DRAMA | SUSPENSE", JOGO JUSTO (2023)
 https://6da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/1/j0g0jst0DUB.mp4
-#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w150_and_h150_bestv2/pSWohRJyjCCCtO7OC50uxzkwUvg.jpg" group-title="AÇÃO | AVENTURA |F.CIENTÍFICA", JURASSIC WORLD: RECOMEÇO 2025
+#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w150_and_h150_bestv2/pSWohRJyjCCCtO7OC50uxzkwUvg.jpg" group-title="AÇÃO | AVENTURA |F. CIENTÍFICA", JURASSIC WORLD: RECOMEÇO 2025
 https://watch.brplayer.cc/stream/bTN1OC8xMC81N2I5YzY4MmVkMzk4MjJjZGViYjNjODBkODIzNzk0Yi83MjBwLzcyMHAubTN1OD9pZD0yODc1Mg==?s=1&id=28752&cache=1
 
 #EXTINF:-1 tvg-id="https://tv.kinopop.com/" tvg-logo="https://tv.kinopop.com/img/thumbnail.php?url=https://cdn035.fractalmedia.es/thumb/oSKIcxlfgs_w640.jpg&w=200&p=1" group-title="TERROR", KRAMPUS: O JUSTIÇO DO MAL
@@ -1793,7 +1777,7 @@ https://7da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/1/m0rt34ov3r4oD
 https://7da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/3/m4f14m4mm4drptn3cr1m1n0s4DUB.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://pobreflix.org/wp-content/uploads/2023/07/7qXL4ShmMzgQ8IuBkjkTHu88iiT-90x135.jpg" group-title="SUSPENSE", MISTÉRIO EM ALTO MAR (2023)
 https://7da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/3/m1st3r103m4lt0m4rDUB.mp4
-#EXTINF:-1 tvg-id="https://supertela.day/" tvg-logo="https://image.tmdb.org/t/p/w400//1o0jJYxgF7IJKdYNlDWgxomt2ft.jpg" group-title="AÇÃO | AVENTURA | F.CIENTÍFICA | TERROR", MEGALODON: THE FFRENZY (2023)
+#EXTINF:-1 tvg-id="https://supertela.day/" tvg-logo="https://image.tmdb.org/t/p/w400//1o0jJYxgF7IJKdYNlDWgxomt2ft.jpg" group-title="AÇÃO | AVENTURA | F. CIENTÍFICA | TERROR", MEGALODON: THE FFRENZY (2023)
 https://watch.brplayer.site/stream/WHF4NjlhT05DRGJDbUh1cjUyb2pSYU9ZaGlaelVqUUJ5dkExUnRtYTF4Uk4yMmMwejlMWGNPRWxRZDdEUm5OYllNNnVHZk1yZWE1WnRoYkdtcmxia2c9PQ==
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://www.filmesonlinegratishd.com.br/_imagens/mortal-kombat.jpg" group-title="AÇÃO | AVENTURA | FANTASIA", MORTAL KOMBAT 2021
 https://video.wixstatic.com/video/da787a_eeb70932d22c47eb8d6acc76f089d42c/720p/mp4/file.mp4
@@ -1848,7 +1832,7 @@ https://play.prod.gcp.vix.services/nervo-zero_pt/nervo-zero_pt_1-1/play_v1_hls_7
 https://7da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/1/n0t3s4ngr3nt4DUB.mp4
 #EXTINF:-1 tvg-id="https://supertela.day/" tvg-logo="https://image.tmdb.org/t/p/w400//yyIYih3OGJBGzf1V8kPs3goDWTx.jpg" group-title="DRAMA | SUSPENSE | TERROR", NASCIMENTO/RENASCIMENTO (2023) Uma técnica de necrotério reanimado com sucesso O corpo de uma menina,mas para mantê-la respirando,ela precisará colher materiais biológicos de mulheres grávidas.
 https://watch.brplayer.site/stream/M0YxbDlMcmJUZXB6S2JETTh1aWpWMmVMVW8rYkhuTzFJOGFoejBtR0R2NDZUblpSQlQ0NjVCS1dPSlhRQmtjSDB1eThnWlJqd1ZEK0NJQ3IxZDdsWWc9PQ==
-#EXTINF:-1 tvg-id="https://supertela.day/" tvg-logo="https://image.tmdb.org/t/p/w400//uG98VLsuTttoQzltwQtdNocObmX.jpg" group-title="F.CIENTÍFICA | SUSPENSE | TERROR", NINGUÉM VAI TE SALVAR (2023)
+#EXTINF:-1 tvg-id="https://supertela.day/" tvg-logo="https://image.tmdb.org/t/p/w400//uG98VLsuTttoQzltwQtdNocObmX.jpg" group-title="F. CIENTÍFICA | SUSPENSE | TERROR", NINGUÉM VAI TE SALVAR (2023)
 https://be2719.rcr22.ams01.cdn112.com/hls2/01/04699/nlmkibxk2oy7_h/index-v1-a1.m3u8?t=loLe4RvxM5MctK1nfwZNtE1Pb1V4EB4T4MxK7prU1MQ&s=1697140521&e=43200&f=23496398&srv=26&asn=53181&sp=2000
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/6c/Novocaine_2025.webp/250px-Novocaine_2025.webp.png" group-title="AÇÃO | COMÉDIA | SUSPENSE", Novocaína: À Prova de Dor 110min 2025
 https://8da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/1t3rr0rd4p4r3nt3sDUB.mp4
@@ -2213,7 +2197,7 @@ https://play.prod.gcp.vix.services/samson-delilah_pt/samson-delilah_pt_1-1/play_
 https://watch.brplayer.site/stream/eXpyMWNJTTRJOEdvbzl5Z1hBNzAvZHlTbFcvbzFSVzl3SXpzNnVWVkZ3SGFNZHExSmJSeWN2bGwyM3BqSU9VcmZDQkFEYmdrKzJ1U1c0TXFZZVZpMUE9PQ==
 #EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w150_and_h225_bestv2/cFWf7khqYRxHI9vLdf9XQKBPoYw.jpg" group-title="TERROR", SALA ESCURA 2024
 https://watch.brplayer.cc/stream/bTN1OC8xMC8yYThlZmEyODkwMjVhNzRjZTUwY2FlOWU5MmUwZWRiMi83MjBwLzcyMHAubTN1OD9pZD0yODY4OQ==?s=1&id=28689&cache=1
-#EXTINF:-1 tvg-id="https://goflix3.lol/home/" tvg-logo="https://image.tmdb.org/t/p/w185/30fNMmjk183FbyzURlrDCmMHTgk.jpg" group-title="AVENTURA | F.CIENTÍFICA", SUPERMAN 2025
+#EXTINF:-1 tvg-id="https://goflix3.lol/home/" tvg-logo="https://image.tmdb.org/t/p/w185/30fNMmjk183FbyzURlrDCmMHTgk.jpg" group-title="AVENTURA | F. CIENTÍFICA", SUPERMAN 2025
 https://be6721.rcr72.waw04.i8yz83pn.com/hls2/06/09680/o6dxkukbrfn3_x/index-v1-a1.m3u8?t=cIPyXVzfpud-KNn1kfCL9aJFHsL-j9AE4RM8DKnSZLk&s=1755519541&e=10800&f=48560044&srv=1055&asn=263009&sp=5500&p=
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COMÉDIA", TE PEGO NA SAIDA (2017)
