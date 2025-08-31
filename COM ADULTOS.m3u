@@ -1030,7 +1030,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df
 #EXTINF:-1 tvg-id="ext" group-title="CANAIS: 24 HORAS", TURMA DA MÔNICA (720p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-############## SÉRIES ############## SÉRIES ############## SÉRIES ############## SÉRIES ############## SÉRIES ############## SÉRIES ############## SÉRIES ############## SÉRIES ##############
+xxxxxxxxxxxxxxxxxx SÉRIES xxxxxxxxxxxxxxxxxx SÉRIES xxxxxxxxxxxxxxxxxx SÉRIES xxxxxxxxxxxxxxxxxx SÉRIES xxxxxxxxxxxxxxxxxx SÉRIES xxxxxxxxxxxxxxxxxx SÉRIES xxxxxxxxxxxxxxxxxx SÉRIES xxxxxxxxxxxxxxxxxx SÉRIES xxxxxxxxxxxxxxxxxx
 
 #EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/vMFJS9LIUUAmQ1thq4vJ7iHKwRz.jpg" group-title="SÉRIES", Round 6: 1° Temporada; Episódio 1 - Batatinha Frita 1, 2, 3
 https://watch.brplayer.cc/stream/bTN1OC8xMC83ZWY1NmE2MTJkYzA3Mzg2YmIxOWMyZmI2OGQwMTViZi83MjBwLzcyMHAubTN1OD9pZD0yMzUxMg==?s=1&id=23512&cache=1
@@ -1090,7 +1090,7 @@ https://cdn-novflix.com/storagePSN/SERIES/SOBREVIVENTES/SOBREVIVENTES1x05.mp4
 #EXTINF:-1 tvg-id="https://noveflix.vip/" tvg-logo="https://noveflix.vip/wp-content/uploads/2025/06/4oDFJSrlvhO09ggCLKbf1zOXBX2-210x300.jpg" group-title="SÉRIES", SOBREVIVENTES: 1° Temporada; Episódio 6
 https://cdn-novflix.com/storagePSN/SERIES/SOBREVIVENTES/SOBREVIVENTES1x06.mp4
 
-############## FILMES ############## FILMES ############## FILMES ############## FILMES ############## FILMES ############## FILMES ############## FILMES ############## FILMES ##############
+xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/08/27/19/55/1504668.jpg" group-title="TERROR", APARTAMENTO 212: A Infestação
 https://lh3.googleusercontent.com/YsVPOiy90bbordh4Jp6A1z41EikrRqD-ehJ_DHXE0KbZmz_vWEtJvpWAI0UNa3dwHex81MiD3nXm8fAry9ssKQNlXEtMaT8hgyoiYzWnluj2V91yXEo5mbv4c8c2jhnOY-2Fw6Ccvss=m22
@@ -1274,6 +1274,8 @@ https://watch.brplayer.site/stream/MDRROVBxT0tHODV6VEp5MmEvRWx1dlhhSzlwNk56OG5BM
 https://watch.brplayer.cc/stream/bTN1OC8xMC85NTY1ZDk3NWU5NTJlYzIxYWU4MTMxZTA1MTMwMDM2Yy83MjBwLzcyMHAubTN1OD9pZD0xMzQxNg==?s=1&id=13416&cache=1
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://media.filmelier.com//images/tit/28458/poster/the-wasp94039.webp" group-title="DRAMA | SUSPENSE", A Vespa, 2024
 https://8da15e7a4d.maisdetudozao.site/deregodego/newhasta/filmcucu/3/4v3sp4DUB.mp4
+#EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="https://media.filmelier.com//images/tit/112607/poster/dirty-angels57165.webp" group-title="AÇÃO | DRAMA | SUSPENSE", ANJOS DO DESERTO 2024
+https://8da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/4nj0sd0d3s3rt0DUB.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTKl7J5OWnsZSTRiKPIvPx4ngBG.jpg" group-title="AÇÃO", BAD BOYS PARA SEMPRE (2020)
 https://is.gd/BadBoysParaSempr
@@ -1473,6 +1475,8 @@ http://6da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/2/d14r10d4m1nh4v4
 https://6da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/1/dur0d34tu4rDUB.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://i.topflix.vc/testme/dle2/posts/2024-05/3yTdtbtjlczr3fSoZWUcPkkaZSi.jpg" group-title="AÇÃO | COMÉDIA", Duro de Atuar 2 2024
 https://9da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/2/dur0d4tu4r2DUB.mp4
+#EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://topflix.fit/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iJlHmaBderUXuAjWwBEQUQjtncLyF-iTMZ6Bz3W8ORFcb9AowgcWY_H88wGAYLGnIg.webp?w=370&h=556" group-title="AÇÃO", DOU SHI
+https://sempra.pro/a1/out/6/4700/4700_dou.shi.2022.1080p.webrip.dublado.m3u8
 
 #EXTINF:-1 tvg-id="https://www.vix.com/tv/on-demand" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/counterforce_pt/counterforce_pt_200x300.jpg" group-title="AÇÃO | DRAMA", ESQUADRÃO DA MORTE (1988)
 https://play.pongalo.com/counterforce_pt/counterforce_pt_1-1/play_v1_hls_720p.m3u8
@@ -2040,7 +2044,7 @@ http://6da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/2/0sr3j3t4d0sDUB.
 http://9da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/1/0spr4g3nt3m4k3yDUB.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://br.web.img3.acsta.net/c_310_420/img/93/bd/93bdb90f34a8697e768a8e7fbbae3467.jpeg" group-title="CRIME | DRAMA | SUSPENSE", O ENTREGADOR 2024
 https://7da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/2/03ntr3g4d0rDUB.mp4
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://media.filmelier.com/tit/tIlfwq/poster/o-pranto-do-mal_9sm2eFw.jpeg" group-title="TERROR", O Pranto do Mal, 2024
+#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://media.filmelier.com/tit/tIlfwq/poster/o-pranto-do-mal_9sm2eFw.jpeg" group-title="TERROR", O PRANTO DO MAL, 2024
 https://8da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/0pr4nt0d0m4lDUB.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://br.web.img3.acsta.net/c_310_420/img/0f/a8/0fa8e22881a0a91ce440bfff00f8c2a7.jpg" group-title="MISTÉRIO | TERROR", ODDITY - OBJETOS OBSCUROS, 1 de fevereiro de 2025
 https://7da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/0dd1ty0bjt0bscur0DUB.mp4
@@ -2050,8 +2054,12 @@ https://8da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/0p3r4c40v1ng4nc4
 https://7da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/0sb4db04sDUB.mp4
 #EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="http://cc90.one/OYR4" group-title="AVENTURA | COMÉDIA", O ESQUEMA FENÍCIO 2025
 https://7da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/03smq3m4f3n1c10DUB.mp4
+#EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://topflix.fit/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iFfccM0GwMxy_iAkH-LiQnlpXZNHMpifUk2NALB4-6tkx9pNqf5IiFsU5Oe4y2iitg.webp?w=370&h=556" group-title="AÇÃO | COMÉDIA", O AGENTE FAIXA-PRETA 2024
+https://sempra.pro/a1/out/6/7480/7480_o.agente.faixa-preta.2024.1080p.web-dl.eac3.aac.dual.5.1.m3u8
+#EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w500/6XXXXSH4jU6W2qba9SLlKTlT6ak.jpg" group-title="MISTÉRIO | SUSPENSE | TERROR", O PALHAÇO NO MILHARAL 2025
+https://7da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/0p4lh4c0n0m1lh4r4lDUB.mp4
 
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://br.web.img2.acsta.net/c_310_420/img/6b/ea/6beac990070ef019623145592b64d981.jpg" group-title="DRAMA | SUSPENSE | TERROR", Presença, 3 de abril de 2025
+#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://br.web.img2.acsta.net/c_310_420/img/6b/ea/6beac990070ef019623145592b64d981.jpg" group-title="DRAMA | SUSPENSE | TERROR", PRESENÇA, 3 de abril de 2025
 https://8da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/pr3s3nc4DUB.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/kYIPV5vcZOKWiKleJCmZvHAjnBk.jpg" group-title="DRAMA", PAIXÃO SUFOCANTE (2022)
 https://9da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/1/p41x4osfc4nt3DUB.mp4
@@ -2334,7 +2342,7 @@ https://video.wixstatic.com/video/834009_4ae1de9fa42744b6a6f74487fbb6c487/720p/m
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/q4FQOiSRhTLWulHl5Vpg37FMArH.jpg" group-title="DRAMA | POLICIAL | SUSPENSE", 1922 (2017)
 https://video.wixstatic.com/video/834009_74e89c72dda4444cacd0272b6d846354/720p/mp4/file.mp4
 
-xxxxxxxxxxxxxxxxxxADULTOSxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxx ADULTOS xxxxxxxxxxxxxxxxxx ADULTOS xxxxxxxxxxxxxxxxxx ADULTOS xxxxxxxxxxxxxxxxxx ADULTOS xxxxxxxxxxxxxxxxxx ADULTOS xxxxxxxxxxxxxxxxxx
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX", AdultIPTV.net Anal (720p)
 http://cdn.adultiptv.net/anal.m3u8
@@ -2423,7 +2431,7 @@ http://cdn.adultiptv.net/bigdick.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX", AdultIPTV.net Peitos Grandes (720p)
 http://cdn.adultiptv.net/bigtits.m3u8
 
-############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ############## RÁDIOS ##############
+xxxxxxxxxxxxxxxxxx RÁDIOS xxxxxxxxxxxxxxxxxx RÁDIOS xxxxxxxxxxxxxxxxxx RÁDIOS xxxxxxxxxxxxxxxxxx RÁDIOS xxxxxxxxxxxxxxxxxx RÁDIOS xxxxxxxxxxxxxxxxxx RÁDIOS xxxxxxxxxxxxxxxxxx
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio24_1456141262.jpg" group-title="RÁDIOS", Rádio 101 FM Macaé / RJ - Brasil
 http://nl.digitalrm.pt:8012/stream
