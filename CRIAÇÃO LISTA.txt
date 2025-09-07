@@ -1,0 +1,55 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx SUATELA xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+		 
+#EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="https://media.filmelier.com//images/tit/112607/poster/dirty-angels57165.webp" group-title="AÇÃO | DRAMA | SUSPENSE", ANJOS DO DESERTO 2024
+
+#EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w500/6XXXXSH4jU6W2qba9SLlKTlT6ak.jpg" group-title="MISTÉRIO | SUSPENSE | TERROR", O PALHAÇO NO MILHARAL 2025
+
+#EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="" group-title="COMÉDIA | TERROR", 
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TOPFLIX xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+#EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://topflix.studio/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iLGA4dezwLcoRPfeciL4LIKm_Q8gc-JkCOoUt_DnZKftBiMWm4zYKZG1bK_NK4aDhQ.webp?w=370&h=556" group-title="AÇÃO | TERROR", MATADORES DE CANIBAIS 2017
+
+#EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://topflix.fit/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iJlHmaBderUXuAjWwBEQUQjtncLyF-iTMZ6Bz3W8ORFcb9AowgcWY_H88wGAYLGnIg.webp?w=370&h=556" group-title="AÇÃO", DOU SHI
+
+#EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="" group-title="COMÉDIA | TERROR", 
+
+
+#EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="" group-title="COMÉDIA | TERROR", 
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx GOFILMESHD xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+														   
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/w342/5y6tiGVEEcasVfIJKzT0VVTj9Yq.jpg" group-title="AÇÃO | COMÉDIA | SUSPENSE", Motorista de Fuga
+Eenie Meanie (2025)
+
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/w342/yKQjrwgEkPOGel3JKT2neJzu0jh.jpg" group-title="AÇÃO | AVENTURA | SUSPENSE", MISSÃO: IMPOSSÍVEL - O ACERTO FINAL
+MISSION: IMPOSSIBLE - THE FINAL RECKONING (2025)
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx CPLAY SÉREIES & NOVELAS xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+														 
+#EXTINF:-1 tvg-id="https://cplay.live/" tvg-logo="" group-title="COMÉDIA | TERROR", 
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx MEGAFLIX xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+#EXTINF:-1 tvg-id="https://megaflix.lat/" tvg-logo="" group-title="COMÉDIA | TERROR", 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx DAILYMOTION xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+#EXTINF:-1 tvg-id="https://www.dailymotion.com/br" tvg-logo="" group-title="COMÉDIA | TERROR", 
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx piratetv xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+#EXTINF:-1 tvg-id="https://piratetv.pro/" tvg-logo="" group-title="", 
+
+#EXTINF:-1 tvg-id="https://piratetv.pro/" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204.1v/assets/images/canais/A&E.png" group-title="CANAIS | FILMES | SÉRIES", A&E
+
+#EXTINF:-1 tvg-id="https://piratetv.pro/" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204.1v/assets/images/canais/Premiere.png" group-title="CANAIS: ESPORTESS", PREMIERE
+
+#EXTINF:-1 tvg-id="https://piratetv.pro/" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204.1v/assets/images/canais/Globo%20RJ.png" group-title="CANAIS: VARIEDADES", GLOBO RJ
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COMÉDIA | TERROR", 
