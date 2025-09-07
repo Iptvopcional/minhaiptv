@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="https://piratetv.pro/" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204.1v/assets/images/canais/A&E.png" group-title="CANAIS | FILMES | SÉRIES", A&E
+https://cloud-usa-user76689874-sv01-stream.s27-usa-cloudfront-net.online/secret_key/bc0e130ff24513476179aed3472adf09.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="CANAIS: INFANTIS", ANIME
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=65e4a7cf-0b18-4 b0a-97d2-7eadc239c740&deviceLat=-22.4545&deviceLon=-41.9492&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=BR&sid=5d23ee15-3e52-11eb-b866-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="CANAIS: INFANTIS", ANIME E GEEK
@@ -78,8 +80,11 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7p5Xgv.jpg" group-title="CANAIS: FILMES | SÉRIES", GOSPEL FILMES TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-id="https://piratetv.pro/" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204.1v/assets/images/canais/Globo%20RJ.png" group-title="CANAIS: VARIEDADES", GLOBO RJ
+https://cloud-usa-user76689874-sv01-stream.s27-usa-cloudfront-net.online/secret_key/57a83412bcbc69d3da68dbe1743d9811.m3u8
 #EXTINF:-1 tvg-id="https://globoplay.globo.com/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: VARIEDADES", GLOBO AO VIVO
-https://live-cm-ah-24-29.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMjQtMjkudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzU3MDM1NjI3LCJpYXQiOjE3NTY5NDkyMjcsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiOGFmZjg5Y2UtOGQ0YS00OTBmLWE3Y2UtZjVhYzZmNjFhZDczIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1jYWIvcGxheWxpc3QubTN1OCJ9.AYYVqHYWc03Kwsv4VcD7htpyZ7AbqRII8rrak9fuySEYG6Hyi7U0LjzWf7KoFTwRWiBufEuVd0ahOEdfmKlZsVDSd9Xf_eBDsJi0hn2b4LPZnRCgKl0R_Dcqgmmt27LESk_QlbMzlbhW7DeKhwlMny-L1nu-kzuNV-KcP1_6T-Lo8c3R3DA2UFVD653ZYLPwenkZgKs7iYT2ojr-PT3EeWeL6OTzYS7gt0cg-N8n_dhM_p2eOyhWPafI1d2jaurl_UR8fG90k3BNQvK4KSmNIH4hO-ycK1YuIOlroi2ef0qKTxERbUMJFYziWJteNYl0Ncwq52OObWjw81tuXjRoVg/live/f(i=2)/globo-cab/globo-cab-audio_1=96000-video=3442944.m3u8#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="CANAIS: INFANTIS", JUNIOR
+https://live-01.edge-forte-caw-rj.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1mb3J0ZS1jYXctcmoudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzU3Mjg4NDIyLCJpYXQiOjE3NTcyMDIwMjIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiOGFmZjg5Y2UtOGQ0YS00OTBmLWE3Y2UtZjVhYzZmNjFhZDczIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1jYWIvcGxheWxpc3QubTN1OCJ9.AFREAam06HJm0CWUY7ca07t1gnVDJv40u-UhVZ5rNla0Fs-ky26NcN_Hd7zTeLD08AxyF497QqWe67MTplPPGxIhMipP8VTQGJ2YHNIUuzqsfhrDTU7m4OXDnaqSZzFmCiDR0S5m-mUYsptSaxujDKv0j4HIZ3j6yZ15iGw0RK0fdET9qCM2ahRLC6vsyTfAVodEUaKveNTccnGxzsQYqV-iPEPWAM3mJLU-_PB9jOrMSIDC8u4Wm0-FRxt-wMzmccx9PHMQO3OB30fg_JkkAcLBAQnPVQaYj4OidCedQE63MJ1g_EzWnNb7LWkUQweZ7DkFBMO1EGgeibZNOq3SqQ/live/f(i=2)/globo-cab/globo-cab-audio_1=96000-video=3442944.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="CANAIS: INFANTIS", JUNIOR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=65e4a7cf-0b18-4 b0a-97d2-7eadc239c740&deviceLat=-22.4545&deviceLon=-41.9492&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=BR&sid=11be1981-3e57-11eb-b132-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="CANAIS: INFANTIS", JUNIOR
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -115,6 +120,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e17
 #EXTINF:-1 tvg-logo="https://topcanais.com/wp-content/uploads/2019/07/tvnovotempo-561x316.jpg" group-title="CANAIS: RELIGIOSOS", NOVO TEMPO
 http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
 
+#EXTINF:-1 tvg-id="https://piratetv.pro/" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204.1v/assets/images/canais/Premiere.png" group-title="CANAIS: ESPORTESS", PREMIERE
+https://cloud-usa-user76689874-sv01-stream.s27-usa-cloudfront-net.online/secret_key/51e75cb8e9d5e80c59251dfefee1498a.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="CANAIS: HUMOR", PLUTO TV COMÉDIA (720p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-id="https://television-live.com/pt/tvi/brazil/" tvg-logo="https://television-live.com/uploads/posts/ecrherhehcetg.png" group-title="CANAIS: NOTÍCIAS", PORTAL GUARÁ
@@ -124,15 +131,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd
 #EXTINF:-1 tvg-logo="https://imgur.com/wqOAIgT.png" group-title="CANAIS: VARIEDADES", PLANO TV
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oxdCoblnnJg/YTDkXEX3igI/AAAAAAAAFPk/XqnzIaBL9q08kr8U1vVqxLRqWqggiEWhgCPcBGAYYCw/s200/RECORD%2BTV.webp" group-title="CANAIS RECORD", GRAVAR TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oxdCoblnnJg/YTDkXEX3igI/AAAAAAAAFPk/XqnzIaBL9q08kr8U1vVqxLRqWqggiEWhgCPcBGAYYCw/s200/RECORD%2BTV.webp" group-title="CANAIS: VARIEDADES", GRAVAR TV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-id="http://detran-br.com/" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/Design-sem-nome-13.jpg" group-title="CANAIS RECORD", RECORD TV SP
+#EXTINF:-1 tvg-id="http://detran-br.com/" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/Design-sem-nome-13.jpg" group-title="CANAIS: VARIEDADES", RECORD TV SP
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
-#EXTINF:-1 tvg-id="https://supertvaovivo.com/" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/Design-sem-nome-13.jpg" group-title="CANAIS RECORD", RECORD TV MT
+#EXTINF:-1 tvg-id="https://supertvaovivo.com/" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/Design-sem-nome-13.jpg" group-title="CANAIS: VARIEDADES", RECORD TV MT
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.ndmais.com.br/2019/02/news-logo.png" group-title="CANAIS RECORD", RECORDE NOTÍCIAS
+#EXTINF:-1 tvg-logo="https://static.ndmais.com.br/2019/02/news-logo.png" group-title="CANAIS: VARIEDADES", RECORDE NOTÍCIAS
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w2069646116.m3u8
-#EXTINF:-1 tvg-id="https://supertvaovivo.com/" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/07/record-news.jpg" group-title="CANAIS RECORD", RECORD NEWS ES
+#EXTINF:-1 tvg-id="https://supertvaovivo.com/" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/07/record-news.jpg" group-title="CANAIS: VARIEDADES", RECORD NEWS ES
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1868079881.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/iqWnub9.png" group-title="CANAIS: RELIGIOSOS", REDE GOSPEL
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
@@ -153,6 +160,8 @@ https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/96ed4934fbcf5351314bfabfd78a976c.webp" group-title="CANAIS: VARIEDADES", REDE MINAS MG - Belo Horizonte
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w89976065_b2771072.m3u8
 
+#EXTINF:-1 tvg-id="https://www.sbt.com.br/ao-vivo" tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.webp" group-title="CANAIS: VARIEDADES", SBT AO VIVO
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1757224941/ei/jcu8aPOfJ6W59cYP-7Gs0QU/ip/2804:30fc:1e:1db0:e95c:a5cd:28c9:43f/id/ABVQXgr2LW4.7/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-4vguxcg-bg0l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/bui/AY1jyLPPH6p-P4W2Hg2oAKVLLV3OV5XFlJ-qRqz6N6gqvEZUSdASnQ-xOM2wXOXeKo7sdHhMX23OULDI/spc/l3OVKTduXvNQILENWjWIxiok3oo8afRIS4da0AletDf98A4W6CX6el6swn3Qt7oF9Lo/vprv/1/playlist_type/DVR/initcwndbps/1793750/met/1757203342,/mh/mT/mm/44/mn/sn-4vguxcg-bg0l/ms/lva/mv/m/mvi/2/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565682,51580968/mt/1757202771/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAKlNlznQravWDR9x6Wm3dfJ9h2psC9EG7ujKrYGeTl6OAiEA6ktAxNNF6pu-HowlcEvUfCsPyafRfUsgkRnDuaNlIIw%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgAyqvAgmMwsODWvo6CMJcDiqmda_LUUcadobBhch9KkICIQCEB6IcwNgx_WwtVsKLFCJ2_4_-OBWAPiIqwmfADH7ahA%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BR: SBT HD" tvg-logo="https://images.vexels.com/media/users/3/139794/isolated/preview/63948c2cace761d17096170684e4d193-brazil-round-flag-by-vexels.png" group-title="CANAIS: VARIEDADES", SBT HD
 http://fortv.cc:8080/0n8u9R/169324/20978
 #EXTINF:-1 tvg-id="https://tv0800.xyz/" tvg-logo="https://tvsd.com.br/logo-dark.png" group-title="CANAIS: VARIEDADES", SBT GO
@@ -912,11 +921,11 @@ https://video01.soultv.com.br/desaparecidosrs/desaparecidosrs/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="CANAIS: NOTÍCIAS", Euronews | Pluto TV ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="CANAIS RECORD", Record News | Pluto TV
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="CANAIS: VARIEDADES", Record News | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="CANAIS RECORD", Record News | Pluto TV ~ link 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="CANAIS: VARIEDADES", Record News | Pluto TV ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="CANAIS RECORD", Record News | RunTime
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="CANAIS: VARIEDADES", Record News | RunTime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UyRDotD.png" group-title="CANAIS: NOTÍCIAS", TV Alego | GO
 https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/master.m3u8
@@ -962,7 +971,7 @@ https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 http://wz3.dnip.com.br/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VZaj5Oc.png" group-title="CANAIS: VARIEDADES", Primer TV
 http://200.194.238.229:8383/live/primer/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RDekR7e.png" group-title="CANAIS RECORD", Record | TV Conquista | MT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RDekR7e.png" group-title="CANAIS: VARIEDADES", Record | TV Conquista | MT
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JqP03l.png" group-title="CANAIS: VARIEDADES", Rede SPTV | SP
 https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
@@ -1703,8 +1712,8 @@ https://video.wixstatic.com/video/834009_66c1e343321e424ea8cf208199f023f6/720p/m
 http://joao-1-us.mainbkonline.shop:80/movie/0ey85arr/ao1z1ayd/89807.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//hm7lld1oe5N775gWN2l67u0QOdc.jpg" group-title="AÇÃO | SUSPENSE", NO LIMITE (2017)
 https://video.wixstatic.com/video/834009_5ba8805545e24a35817b85ca54730c01/720p/mp4/file.mp4
-#EXTINF:-1 tvg-logo="https://i.assistir.app/t/p/w342/usYgDPofNJ9E1QiEfdKhyBXLRLM.jpg" group-title="AÇÃO", NO LIMITE 2018
-https://goo.gl/3rYPoN
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://i.assistir.app/t/p/w342/usYgDPofNJ9E1QiEfdKhyBXLRLM.jpg" group-title="AÇÃO", NO LIMITE 2018
+https://download1323.mediafire.com/fvgvpsrqqpzgZYEE5derPuFIaQNbJBArZ2oYVbTSFSfUpvxUQtbghe4iVFBokunEMv2CHT037DZRHeJjmDzZxRX23_b7L14o2ErX1jb7xmHOYTpScayu_8p2c-iy02t-tuzz75YfGqNdVoFdDlWLurluNCRtUyggxJ6_V-kcNAk/ea2rmsen52xy6ce/No.Limite-HD.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://imgdb.link/uploads/2017/01/no-topo-do-poder.jpg" group-title="DRAMA", NO TOPO DO PODER (2016)
 https://video.wixstatic.com/video/834009_18b7a02f2ad44607b3f4ef6c164028ca/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/wfbzIfgszbgSnUTdW66jMInZ9Im.jpg" group-title="DRAMA | POLICIAL | SUSPENSE", NEM UM PASSO EM FALSO (2021)
