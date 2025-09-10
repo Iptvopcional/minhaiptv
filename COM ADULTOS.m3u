@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/8/84/AMC_HD.png/revision/latest/scale-to-width-down/639?cb=20140901200608" group-title="CANAIS: FILMES | SÉRIES", AMC HD
+http://fortv.cc:8080/0n8u9R/169324/164938
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="CANAIS: INFANTIS", ANIME
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=65e4a7cf-0b18-4 b0a-97d2-7eadc239c740&deviceLat=-22.4545&deviceLon=-41.9492&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=BR&sid=5d23ee15-3e52-11eb-b866-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="CANAIS: INFANTIS", ANIME E GEEK
@@ -80,6 +82,18 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-id="https://globoplay.globo.com/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: VARIEDADES", GLOBO AO VIVO
 https://live-cm-ah-21-08.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMjEtMDgudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzU3NDY3NjM0LCJpYXQiOjE3NTczODEyMzQsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiOGFmZjg5Y2UtOGQ0YS00OTBmLWE3Y2UtZjVhYzZmNjFhZDczIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1jYWIvcGxheWxpc3QubTN1OCJ9.yRh77-MY1pAXqA4wBO-vmSHdVwcfvAJ9Dr4DKO28HObcSmLizENh3mM1ZH_of-wW_ma2kluVxWfcH_7AddHnz74sYzNmmFZg3y2JYdbIwc900yCmyYSpeVB1W9chcYh6gdY-b7v6wrMT8nZqR5MFzf_7UoxGUOx1zP6ER5pZjmrKh7SSgde-GUucN-hYwNv9msrSndxWUdleR-KzBp8GS8SGqbUJQ3pBVyohZcwVpTP2cscB7aiU8g8rMDbNM2hQW_ge-KhJRf9oGxFvHWvH_xPhOUZ0tCNgU5ilDyU-VIFtORP7-90dP87Fegg9YF9IBTyhPm6IziyxGbBD7C42XA/live/f(i=2)/globo-cab/globo-cab-audio_1=96000-video=3442944.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: VARIEDADES", GLOBO SP HD
+http://fortv.cc:8080/0n8u9R/169324/21020
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: VARIEDADES", GLOBO HD
+http://fortv.cc:8080/0n8u9R/169324/164943
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: VARIEDADES", GLOBO MINAS HD
+http://fortv.cc:8080/0n8u9R/169324/164944
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: VARIEDADES", GLOBO HD PORTUGAL
+http://fortv.cc:8080/0n8u9R/169324/164824
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="CANAIS: FILMES | SÉRIES", HBO HD
+http://fortv.cc:8080/0n8u9R/169324/164950
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="CANAIS: INFANTIS", JUNIOR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=65e4a7cf-0b18-4 b0a-97d2-7eadc239c740&deviceLat=-22.4545&deviceLon=-41.9492&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=BR&sid=11be1981-3e57-11eb-b132-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="CANAIS: INFANTIS", JUNIOR
@@ -116,8 +130,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e17
 #EXTINF:-1 tvg-logo="https://topcanais.com/wp-content/uploads/2019/07/tvnovotempo-561x316.jpg" group-title="CANAIS: RELIGIOSOS", NOVO TEMPO
 http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="CANAIS: HUMOR", PLUTO TV COMÉDIA (720p)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-id="https://television-live.com/pt/tvi/brazil/" tvg-logo="https://television-live.com/uploads/posts/ecrherhehcetg.png" group-title="CANAIS: NOTÍCIAS", PORTAL GUARÁ
 https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist_w1169761581.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="CANAIS: CURIOSIDADES", PRONTO-SOCORRO: HISTÓRIAS DE EMERGÊNCIA
@@ -154,9 +166,7 @@ https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/96ed4934fbcf5351314bfabfd78a976c.webp" group-title="CANAIS: VARIEDADES", REDE MINAS MG - Belo Horizonte
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w89976065_b2771072.m3u8
 
-#EXTINF:-1 tvg-id="https://www.sbt.com.br/ao-vivo" tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.webp" group-title="CANAIS: VARIEDADES", SBT AO VIVO
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1757224941/ei/jcu8aPOfJ6W59cYP-7Gs0QU/ip/2804:30fc:1e:1db0:e95c:a5cd:28c9:43f/id/ABVQXgr2LW4.7/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-4vguxcg-bg0l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/bui/AY1jyLPPH6p-P4W2Hg2oAKVLLV3OV5XFlJ-qRqz6N6gqvEZUSdASnQ-xOM2wXOXeKo7sdHhMX23OULDI/spc/l3OVKTduXvNQILENWjWIxiok3oo8afRIS4da0AletDf98A4W6CX6el6swn3Qt7oF9Lo/vprv/1/playlist_type/DVR/initcwndbps/1793750/met/1757203342,/mh/mT/mm/44/mn/sn-4vguxcg-bg0l/ms/lva/mv/m/mvi/2/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565682,51580968/mt/1757202771/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAKlNlznQravWDR9x6Wm3dfJ9h2psC9EG7ujKrYGeTl6OAiEA6ktAxNNF6pu-HowlcEvUfCsPyafRfUsgkRnDuaNlIIw%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgAyqvAgmMwsODWvo6CMJcDiqmda_LUUcadobBhch9KkICIQCEB6IcwNgx_WwtVsKLFCJ2_4_-OBWAPiIqwmfADH7ahA%3D%3D/playlist/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR: SBT HD" tvg-logo="https://images.vexels.com/media/users/3/139794/isolated/preview/63948c2cace761d17096170684e4d193-brazil-round-flag-by-vexels.png" group-title="CANAIS: VARIEDADES", SBT HD
+#EXTINF:-1 tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.webp" group-title="CANAIS: VARIEDADES", SBT HD
 http://fortv.cc:8080/0n8u9R/169324/20978
 #EXTINF:-1 tvg-id="https://tv0800.xyz/" tvg-logo="https://tvsd.com.br/logo-dark.png" group-title="CANAIS: VARIEDADES", SBT GO
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist.m3u8
@@ -185,8 +195,6 @@ https://video01.kshost.com.br/lourdes52007/lourdes52007/playlist-480p.m3u8
 https://tvCANAIS-stream.ebc.com.br/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="CANAIS: CURIOSIDADES", TV MISTÉRIOS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="CANAIS: HUMOR", TV COMÉDIA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png" group-title="CANAIS: ESTILO DE VIDA", TASTEMADE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="CANAIS: INFANTIS", TOKUSATO
@@ -567,10 +575,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d1512c
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", BET | Pluto TV ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Comédia | Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Comédia | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Comedy Central | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="CANAIS: HUMOR; NOVELAS E SÉRIES", Comedy Central | Pluto TV | link 2
