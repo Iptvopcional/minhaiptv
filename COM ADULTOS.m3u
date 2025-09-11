@@ -81,7 +81,7 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7p5Xgv.jpg" group-title="CANAIS: FILMES | SÉRIES", GOSPEL FILMES TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-id="https://globoplay.globo.com/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: VARIEDADES", GLOBO AO VIVO
-https://live-cm-ah-21-08.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMjEtMDgudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzU3NDY3NjM0LCJpYXQiOjE3NTczODEyMzQsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiOGFmZjg5Y2UtOGQ0YS00OTBmLWE3Y2UtZjVhYzZmNjFhZDczIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1jYWIvcGxheWxpc3QubTN1OCJ9.yRh77-MY1pAXqA4wBO-vmSHdVwcfvAJ9Dr4DKO28HObcSmLizENh3mM1ZH_of-wW_ma2kluVxWfcH_7AddHnz74sYzNmmFZg3y2JYdbIwc900yCmyYSpeVB1W9chcYh6gdY-b7v6wrMT8nZqR5MFzf_7UoxGUOx1zP6ER5pZjmrKh7SSgde-GUucN-hYwNv9msrSndxWUdleR-KzBp8GS8SGqbUJQ3pBVyohZcwVpTP2cscB7aiU8g8rMDbNM2hQW_ge-KhJRf9oGxFvHWvH_xPhOUZ0tCNgU5ilDyU-VIFtORP7-90dP87Fegg9YF9IBTyhPm6IziyxGbBD7C42XA/live/f(i=2)/globo-cab/globo-cab-audio_1=96000-video=3442944.m3u8
+https://live-cm-ah-21-37.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMjEtMzcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzU3NzE2NDY1LCJpYXQiOjE3NTc2MzAwNjUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiOGFmZjg5Y2UtOGQ0YS00OTBmLWE3Y2UtZjVhYzZmNjFhZDczIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1jYWIvcGxheWxpc3QubTN1OCJ9.vTPcIGXA4v32D9S5xcOyHlmnKiCsYeNMQwIgQH2YlaDLIs4K-HxcxSQbbaNhk1RTD1bnvDHOGo8XsjlZG_3pWBVDcWFHlI7cETXPEPGiEkE2BViTYP10qwq2aEmU8xwcYcfgckXiVpR2ja0rDLt9VYS5jN08CXwIfT06IVrIBYQZTFfRQGYMIiXjW9Qa62WtwqEbgn2I6ORJ_ypnVXmUsdwFE2zkJyAPfH__PGuXOpLXpFW74S1MofHv7ZxBpJ6zknLwsXKSuTcRWMisJKg3O8QhEFXnjtCMFfbPoMMZpwjfIn-eUhOhA8Xy4mmVsngrdJBtOvtHKBrGrqO-cES6lA/live/f(i=2)/globo-cab/globo-cab-audio_1=96000-video=3442944.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: VARIEDADES", GLOBO SP HD
 http://fortv.cc:8080/0n8u9R/169324/21020
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: VARIEDADES", GLOBO HD
@@ -1197,10 +1197,8 @@ https://video.wixstatic.com/video/db47f8_680db124f0824365a1562859feaa4202/360p/m
 https://lh3.googleusercontent.com/l-2IdPQRxxQVvo6A_ToKseaiQjbpUvARdPKUpGv2gw5ty-bq1I7saQKEicfo9fSdyeOCbwJFSjVesvVyIUdc9QkdG5Qqz06XPds_ga2fveCvAaYlGPbQowuoCPhRpw7hD1xAp132cw=m18
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AVENTURA | COMÉDIA | DRAMA", A PRINCESA EA PLEBEIA
 https://lh3.googleusercontent.com/w_vzi40JL6EDzFQ-XJZDhItvTgzxuAMrHgUVPVC-vC7WSZUk95hg50WEK1j_XtLxDlsJIjwgkHRhPW3Nt5Q9BF7zB5SVLdPt31wi3QAR1YID1QWA9JaCSvt8EcQoKNG6NLjcB_oSlA=m22
-#EXTINF:-1 tvg-id="https://suatela.net/home" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/texas-killing-fields_pt/texas-killing-fields_pt_200x300.jpg" group-title="DRAMA", AMOR DOENTIO (2021) 1h 22min
-https://8da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/2/4m0rd03nt1oDUB.mp4
-#EXTINF:-1 tvg-id="https://megaflix.lat/" tvg-logo="https://image.tmdb.org/t/p/w185/17fqc7EvBTAvc0xqrOwjgiuLa3p.jpg" group-title="DRAMA | MISTÉRIO | SUSPENSE", A MALDIÇÃO DE ROSE 2020
-https://etojdo3yv1iw.ovaltinecdn.com/hls2/01/02189/auzziqmkh4w9_l/index-v1-a1.m3u8?t=aA00cTcq69fGJztppgECmLu7wW0NNkY8D2M4ajR97zM&s=1756990487&e=129600&f=10948143&srv=qa5GnaqEzKfm&i=0.4&sp=500&p1=qa5GnaqEzKfm&p2=qa5GnaqEzKfm&asn=263009
+#EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/texas-killing-fields_pt/texas-killing-fields_pt_200x300.jpg" group-title="DRAMA", AMOR DOENTIO (2021) 1h 22min
+https://sempra.pro/a1/out/6/6318/6318_amor-doentio-2021-1080p-web-dl-dual.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://seriesflix.top/wp-content/uploads/2018/02/1.jpg" group-title="COMÉDIA", APOSENTADORIA VOLUNTÁRIA 2018
 https://video.wixstatic.com/video/a07189_812aca840e4f49dda5243659b1b08811/720p/mp4/file.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/nFPnUV" group-title="COMÉDIA | FICÇÃO", A REPARTIÇÃO DO TEMPO 2018
@@ -1217,12 +1215,12 @@ https://861476182.tapecontent.net/radosgw/p8aqydPYxZHr2z9/Cs6MmrhTs8fzyJm-AuL6L5
 http://7da15e7a4d.farpasmaster.shop/deregodego/lastdance/filmcucu/2/4f3r4DUB.mp4
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://image.tmdb.org/t/p/w185/bSqpOGzaKBdGkBLmcm1JJIVryYy.jpg" group-title="SUSPENSE", A MÁQUINA INFERNAL (2022)
 https://sempra.pro/a1/out/6/6355/6355_the-infernal-machine-2022-1080p-web-dl-dual-5.1.m3u8
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/k2Uvqj0oiwjEprdIL6YDt06v7UQ.jpg" group-title="COMÉDIA | DRAMA | ROMANCE", A PIOR PESSOA DO MUNDO (2021)
-http://9da15e7a4d.inttrk1eu.ga:8880/deregodego/lastdance/filmcucu/1/4p10rp3ss04d0mnd0DUB.mp4
+#EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://image.tmdb.org/t/p/w185/k2Uvqj0oiwjEprdIL6YDt06v7UQ.jpg" group-title="COMÉDIA | DRAMA | ROMANCE", A PIOR PESSOA DO MUNDO (2021)
+https://sempra.pro/a1/out/6/6536/6536_a-pior-pessoa-do-mundo-2022-1080p-bluray-dual-5.1.m3u8
 #EXTINF:-1 tvg-id="https://filmessgratis.net/" tvg-logo="https://filmessgratis.net/wp-content/uploads/2022/10/o57VVZImE6RcZAffPepZyuwNLKs-200x300.jpg" group-title="TERROR", A MATRIARCA (2022)
 http://8da15e7a4d.corequal.tk/deregodego/lastdance/filmcucu/2/4m4tr1rc4DUB.mp4
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://filmessgratis.net/wp-content/uploads/2022/11/gVFwfzPXfUcRI3mpb6rSX1LYtMj-90x135.jpg" group-title="DRAMA", A ÚLTIMA COISA MARY VIU (2021)
-http://6da15e7a4d.spbmebel-pro.cf/deregodego/lastdance/filmcucu/2/ltm4c0s4qm4ryv1uDUB.mp4
+#EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://filmessgratis.net/wp-content/uploads/2022/11/gVFwfzPXfUcRI3mpb6rSX1LYtMj-90x135.jpg" group-title="DRAMA", A ÚLTIMA COISA MARY VIU (2021)
+https://sempra.pro/a1/out/6/6209/6209_a-ultima-coisa-que-mary-viu-2021-1080p-bluray-dual.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://www.interfilmes.com/FILMES/16300/16328/fotocapa.jpg" group-title="TERROR", ALMAS DESESPERADAS (2005)
 https://video.wixstatic.com/video/9283ac_d068573a31c84e7a9a2404ae4f6fb768/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://filmessgratis.net/wp-content/uploads/2022/08/blWUQPSyv4vWJ8S8MS9lU9BD9Mf-200x300.jpg" group-title="SUSPENSE | TERROR", ATÉ A MORTE: SOBREVIVER É A MELHOR VINGANÇA (2021)
@@ -1231,8 +1229,12 @@ https://sempra.pro/a1/out/6/6479/6479_ate-a-morte-sobreviver-e-a-melhor-vinganca
 https://video.wixstatic.com/video/db47f8_6f7b0dd1696c4ad8a18fc3b2a0462b54/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/210/284/21028484_20130814221511175.jpg" group-title="SUSPENSE | TERROR", ARRASTE-ME PARA O INFERNO (2009)
 https://video.wixstatic.com/video/db47f8_21e967e270b1444ba557d0ba6d7cae36/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://pobreflix.org/wp-content/uploads/2022/02/lQHfOaggM8xjvgGvZHpFPYXduRE-150x150.jpg" group-title="DRAMA", ATRAVÉS DA MINHA JANELA (2022)
-http://7da15e7a4d.farpasmaster.shop/deregodego/lastdance/filmcucu/2/4tr4v3sd4m1nh4j4n3l4DUB.mp4
+#EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://pobreflix.org/wp-content/uploads/2022/02/lQHfOaggM8xjvgGvZHpFPYXduRE-150x150.jpg" group-title="DRAMA | COMÉDIA", ATRAVÉS DA MINHA JANELA 2022
+https://sempra.pro/a1/out/6/6934/6934_atraves-da-minha-janela-2022-1080p-web-dl-dual-5.1.
+#EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://topflix.studio/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iLxVIZC2x15PNO2lAoGaqfmsQ6Zyyae3o7m1-0XafMiMTysVPxY82WvUzIzd11IEww.webp?w=370&h=556" group-title="DRAMA | COMÉDIA", ATRAVÉS DA MINHA JANELA: ALÉM-MAR 2023
+https://sempra.pro/a1/out/6/5288/5288_atraves-da-minha-janela-alem-mar-2023-1080p-web-dl-dual-5.1.m3u8
+#EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://topflix.studio/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iMQGt4ui9_x1WgQrid53Q7yv8lciDz6id_YEmtgy4AsWHyYHZkflVyApqlMLexFhCA.webp?w=370&h=556" group-title="DRAMA | COMÉDIA", ATRAVÉS DA MINHA JANELA 3: OLHOS NOS OLHOS 2024
+https://sempra.pro/a1/out/6/4181/4181_atraves.da.minha.janela.olhos.nos.olhos.2024.1080p.web-dl.dual.5.1.m3u8
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://pobreflix.org/wp-content/uploads/2023/07/q2SPbWtkYdB7k5YZlJ6J4vjr1yO-150x150.jpg" group-title="CRIME | MISTÉRIO | SUSPENSE", A ÚLTIMA FONTE (2023)
 https://sempra.pro/a1/out/6/5112/5112_a-ultima-fonte-2023-1080p-web-dl-dual-5.1.m3u8
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://pobreflix.org/wp-content/uploads/2021/09/nYf6MDUJCeeS73biahFNK3vcoOI-200x300.jpg" group-title="SUSPENSE", A ANFITRIÃ (2023)
@@ -1274,8 +1276,6 @@ https://o0qje32q6j2zjwd.ovaltinecdn.com/hls2/01/00174/vtp260zcz965_,l,n,.urlset/
 https://jeru2.s3.us-central-1.wasabisys.com/cdn2/cavaleiroressurge-dub-480p.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://ultraflix.org/wp-content/uploads/2022/08/3VFI3zbuNhXzx7dIbYdmvBLekyB-200x300.jpg" group-title="AÇÃO | CRIME | DRAMA | SUSPENSE", BATMAN (2022)
 https://video.wixstatic.com/video/b00560_76c510c417d746bb98155a7a30578a68/720p/mp4/file.mp4
-#EXTINF:-1 tvg-logo="https://assistironline.net/wp-content/uploads/elementor/thumbs/assistir-Bye-Bye-Jaqueline-2016-online-owcwq9sc8dxcdphdww6kc2ygskcfc3rc0pgslzyjeg.jpg" group-title="DRAMA", TCHAU, JAQUELINE (2018)
-https://goo.gl/rmvKhZ
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://pobreflix.org/wp-content/uploads/2023/07/iTGBHdL12QEpLyRVlykDuiYxzAG-200x300.jpg" group-title="DRAMA | SUSPENSE", BIRD BOX BARCELONA (2023)
 https://sempra.pro/a1/out/old/6/2777/2777_dub.m3u8
 #EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="http://cc90.one/PGC0" group-title="SUSPENSE", BRICK 2025
@@ -1386,16 +1386,14 @@ https://seed128.bitchute.com/P2tQxCZbN8Pf/AnVLUcN2iFxl.mp4
 https://sempra.pro/a1/out/old/6/1806/1806_67890543desumano_dub.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://topflix.app/wp-content/uploads/2022/02/Destinos-Aterrorizantes-%E2%80%93-No-Caminho-do-Medo-203x300.jpeg" group-title="TERROR", DESTINOS ATERRORIZANTES – No Caminho do Medo (2022)
 http://9da15e7a4d.melinart.tk:8880/deregodego/lastdance/filmcucu/1/dst1n0s4t3rr0r1z4nt3sn0cmnh0d0m3d0DUB.mp4
-#EXTINF:-1 tvg-id="https://tv.kinopop.com/" tvg-logo="https://tv.kinopop.com/img/thumbnail.php?url=https://cdn043.fractalmedia.es/thumb/2FyLzUOl9A_w640.jpg&w=200&p=1" group-title="COMÉDIA", DUPLA CONFUSÃO
-https://cdn031.fractalmedia.es/hls_adaptive/2e6dc31dae9c68e1299adb0e6b3887cc/2FyLzUOl9A/720/index.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://media.filmelier.com/tit/Esmoe7/poster/descida-ao-inferno_J6fER9M.jpeg" group-title="TERROR", DESCIDA AO INFERNO (2022)
 http://7da15e7a4d.farpasmaster.shop/deregodego/lastdance/filmcucu/1/d3sc1d41nf3rn0DUB.mp4
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://image.tmdb.org/t/p/w500/hiNqwEkmW1oMlbQnNKlucIzvqjn.jpg" group-title="DRAMA | SUSPENSE", DESTINOS À DERIVA (2023)
 https://sempra.pro/a1/out/6/4602/4602_destinos.a.deriva.2023.1080p.web-dl.dual5.1.m3u8
-#EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://image.tmdb.org/t/p/w92/o5tWAiHfxEvu2z1qkJKU4gW1uPY.jpg" group-title="COMÉDIA | TERROR", DEZESSEIS FACADAS (2023)
-https://cdn63.ntcdn.stream/a1/out/6/4527/4527_dezesseis.facadas.2023.1080p.web-dl.dual.5.14.ts?md5=XxKCPNAqXjzkIzR1HzsgdA&expires=1757466838&ref=https://topflix.studio/
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w300/aIVu5nMOCNZvOYs3Uhv8TnLvcYk.jpg" group-title="COMÉDIA | DRAMA", DIÁRIO DA MINHA VAGINA 2024
-http://6da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/2/d14r10d4m1nh4v4g1n4DUB.mp4
+#EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://image.tmdb.org/t/p/w92/o5tWAiHfxEvu2z1qkJKU4gW1uPY.jpg" group-title="COMÉDIA | TERROR", DEZESSEIS FACADAS (2023)
+https://sempra.pro/a1/out/6/4527/4527_dezesseis.facadas.2023.1080p.web-dl.dual.5.1.m3u8
+#EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://image.tmdb.org/t/p/w300/aIVu5nMOCNZvOYs3Uhv8TnLvcYk.jpg" group-title="COMÉDIA | DRAMA", DIÁRIO DA MINHA VAGINA 2024
+https://sempra.pro/a1/out/6/4650/4650_comando.la-diario.da.minha.vagina.2023.1080p.web-dl.dual.2.0.m3u8
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://i.topflix.vc/testme/dle2/posts/2024-05/3yTdtbtjlczr3fSoZWUcPkkaZSi.jpg" group-title="AÇÃO | COMÉDIA", Duro de Atuar 2 2024
 https://sempra.pro/a1/out/6/5744/5744_duro.de.atuar.2.2024.1080p.web-dl.dual.5.1.m3u8
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://topflix.fit/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iJlHmaBderUXuAjWwBEQUQjtncLyF-iTMZ6Bz3W8ORFcb9AowgcWY_H88wGAYLGnIg.webp?w=370&h=556" group-title="AÇÃO", DOU SHI
@@ -1431,8 +1429,6 @@ https://seed200.bitchute.com/VuHB0tOYQ7Gs/ZJ2wQnKbzwIJ.mp4
 https://cdn037.fractalmedia.es/hls_adaptive/24c50df65a87be157699148780230f7c/oA9ipdv4Ee/720/index.m3u8
 #EXTINF:-1 tvg-id="https://tv.kinopop.com/" tvg-logo="https://tv.kinopop.com/img/thumbnail.php?url=https://cdn043.fractalmedia.es/thumb/NxtjTQe2qZ_w640.jpg&w=200&p=1" group-title="TERROR", ENCONTRO.COM
 https://cdn037.fractalmedia.es/hls_adaptive/24c50df65a87be157699148780230f7c/NxtjTQe2qZ/720/index.m3u8
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://fonlinebr.com/wp-content/uploads/2022/11/qV5vEMXsCKakk2usQ4QLhiJa00h-150x150.jpg" group-title="SUSPENSE", EM CONFINAMENTO (2022)
-http://6da15e7a4d.qzbbs.gq/deregodego/lastdance/filmcucu/2/crwsp4c3cnf1n4m3nt0DUB.mp4
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://image.tmdb.org/t/p/w342/28E42Ea3Ml3cjvUMHaSqeGYXBfI.jpg" group-title="COMÉDIA | NACIONAL", ESPOSA DE ALUGUEL (2022)
 https://sempra.pro/a1/out/6/6311/6311_someone.borrowed.2022.portuguese.1080p.webrip.x264-vxt.m3u8
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://image.tmdb.org/t/p/w342/6urQ17k0Pepx8RoYVeRbwaCSVIS.jpg" group-title="AÇÃO | DRAMA | F. CIENTÍFICA | SUSPENSE | TERROR", EU SOU A LENDA (2007)
@@ -1480,7 +1476,7 @@ https://lh3.googleusercontent.com/jwBDLklOWqsMDIUzYuMaTOLg46k8lzHOa54pzAfEcAyQRw
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://youcine.biz/wp-content/uploads/2021/07/gostosas-lindas-e-sexies-9977-poster-193x288.jpg" group-title="COMÉDIA | NACIONAL", GOSTOSAS, LINDAS E SEXIES 2018
 https://video.wixstatic.com/video/a07189_0b550cf4b6bd4039a2595de62274c02c/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://filmessgratis.net/wp-content/uploads/2022/11/pNbExNsfqTs8pXJs05yBRW0nNHg-90x135.jpg" group-title="MISTÉRIO | TERROR", GÊMEO MALIGNO (2022): O mal que só uma mãe poderia amar.
-http://10da15e7a4d.viajoteca.ga/deregodego/lastdance/filmcucu/2/gm30m4lgn0DUB.mp4
+https://sempra.pro/a1/out/6/6215/6215_gemeo-maligno-2022-1080p-bluray-dual-5.1.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="http://suatela.net/media/imgs/500x500.jpg" group-title="AÇÃO | AVENTURA | SUSPENSE", GODZILLA E KONG: O NOVO IMPÉRIO 2024
 https://sempra.pro/a1/out/6/5404/5404_godzilla.x.kong.the.new.empire.2024.720p.web-dl.mmatracker.h.264.m3u8
 #EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="https://br.web.img3.acsta.net/c_310_420/img/d2/c1/d2c108f1e8523f4f16fbfb539e0f3e48.png" group-title="AÇÃO | SUSPENSE", GANANCIOSOS 113min 2024
@@ -1499,7 +1495,7 @@ https://video.wixstatic.com/video/834009_25a420ecead747488e1950657c2ea770/720p/m
 #EXTINF:-1 tvg-logo="http2.mlstatic.com/dvd-hancock-will-smith-lacrado-original-D_NQ_NP_810310-MLB27974873602_082018-F.jpg" group-title="AÇÃO | FANTASIA", HANCOCK (2008)
 https://www.googleapis.com/drive/v3/files/1Ra6U8YF2jtxSZ-wQt4ks4xOY3yzgFIeO?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
 #EXTINF:-1 tvg-id="https://filmessgratis.net/" tvg-logo="https://filmessgratis.net/wp-content/uploads/2022/11/uUwIfpIxPUQnETRRqb17lzBWj84-200x300.jpg" group-title="MISTÉRIO | TERROR", HERANÇA MALDITA (2022)
-https://8da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/2/h3r4nc4m4ld1t4DUB.mp4
+https://sempra.pro/a1/out/6/6175/6175_heranca-maldita-2021-720p-web-dl-dual.m3u8
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://topflix.studio/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZYVaIhXHL4HZwYYY14hR3QiC2jr1l_yclRD-kkm3M6AI.webp?w=370&h=556" group-title="SUSPENSE | TERROR", HALLOWEEN 2018
 https://sempra.pro/a1/out/old/6/1250/1250_halloween-2018.m3u8
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://filmessgratis.net/wp-content/uploads/2021/10/pOvVhi4BvcqK3dcouVahDA7Oyun-200x300.jpg" group-title="SUSPENSE | TERROR", HALLOWEEN KILLS: O TERROR CONTINUA 2021
@@ -1548,8 +1544,8 @@ https://video.wixstatic.com/video/834009_2c6a40b2d8644c47b4a7518438f52708/720p/m
 https://video.wixstatic.com/video/834009_862430470e1b41b6b5e639d15995b500/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://image.tmdb.org/t/p/w342/3pPZ9JhNz3VMmASVir5SMHvTDUU.jpg" group-title="AÇÃO | AVENTURA | F. CIENTÍFICA", JUMPER 2008
 https://sempra.pro/a1/out/6/10661/10661_jumper-www.thepiratefilmes.com-totti9.m3u8
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/AteINDGu2VqyI1M8mBZXYMA7Yhs.jpg" group-title="DRAMA | SUSPENSE", JOGO JUSTO (2023)
-https://6da15e7a4d.misterkobe.shop/deregodego/newhasta/filmcucu/1/j0g0jst0DUB.mp4
+#EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://image.tmdb.org/t/p/w185/AteINDGu2VqyI1M8mBZXYMA7Yhs.jpg" group-title="DRAMA | SUSPENSE", JOGO JUSTO (2023)
+https://sempra.pro/a1/out/6/4529/4529_jogo.justo.2023.1080p-web-dl-dual.5.1.m3u8
 #EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w150_and_h150_bestv2/pSWohRJyjCCCtO7OC50uxzkwUvg.jpg" group-title="AÇÃO | AVENTURA | F. CIENTÍFICA", JURASSIC WORLD: RECOMEÇO 2025
 https://watch.brplayer.cc/stream/bTN1OC8xMC81N2I5YzY4MmVkMzk4MjJjZGViYjNjODBkODIzNzk0Yi83MjBwLzcyMHAubTN1OD9pZD0yODc1Mg==?s=1&id=28752&cache=1
 
@@ -1645,16 +1641,12 @@ https://goo.gl/7NEUxb
 https://goo.gl/25Qstc
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://image.tmdb.org/t/p/w342/s3NoPF6LAKDl3KUGkZsYPX9ionc.jpg" group-title="COMÉDIA | SUSPENSE", MINTA PARA MIM (2022)
 https://sempra.pro/a1/out/6/6348/6348_minta-para-mim-2022-1080p-web-dl-dual-5.1.m3u8
-#EXTINF:-1 tvg-id="https://tv.kinopop.com/" tvg-logo="https://tv.kinopop.com/img/thumbnail.php?url=https://cdn035.fractalmedia.es/thumb/HCn7hzwJXN_w640.jpg&w=200&p=1" group-title="COMÉDIA", MEU TRABALHO É UM PARTO
-https://cdn035.fractalmedia.es/hls_adaptive/1a81e00ff882941441fb4ff2916be154/HCn7hzwJXN/720/index.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="" group-title="DRAMA", MILAGRE NA CELA 7
-https://8da15e7a4d.misterkobe.shop/deregodego/novosup/filmcucu/2/m1lgr3n4c3l4st3DUB.mp4
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w300/w9QODeryktRQktmfZuxGNinna7M.jpg" group-title="DRAMA", MORTE AO VERÃO (2021)
-https://7da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/1/m0rt34ov3r4oDUB.mp4
+https://sempra.pro/a1/out/old/6/1391/1391_41023698milagre-na-cela-7.m3u8
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://www.filmeb.com.br/sites/default/files/styles/imagem_230xx/public/cartazes/mafia_mamma_-_de_repente_criminosa_poster_filme_b.jpg?itok=HiTJ167e" group-title="COMÉDIA | CRIME", MAFIA MAMMA: DE REPENTE CRIMINOSA (2023)
 https://sempra.pro/a1/out/6/5249/5249_mafia-mamma-de-repente-criminosa-2023-1080p-bluray-dual-5.1.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://pobreflix.org/wp-content/uploads/2023/07/7qXL4ShmMzgQ8IuBkjkTHu88iiT-90x135.jpg" group-title="SUSPENSE", MISTÉRIO EM ALTO MAR (2023)
-https://7da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/3/m1st3r103m4lt0m4rDUB.mp4
+https://sempra.pro/a1/out/6/5089/5089_misterio.em.alto.mar.2022.1080p.web-dl.dual.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://www.filmesonlinegratishd.com.br/_imagens/mortal-kombat.jpg" group-title="AÇÃO | AVENTURA | FANTASIA", MORTAL KOMBAT 2021
 https://video.wixstatic.com/video/da787a_eeb70932d22c47eb8d6acc76f089d42c/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="http://cc90.one/PGY8" group-title="COMÉDIA | DRAMA", MADEA E O CASAMENTO NAS BAHAMAS 2025
@@ -1700,8 +1692,6 @@ https://video.wixstatic.com/video/834009_89fa889ec6a04eb2829f3f4cab1ddd0e/720p/m
 https://video.wixstatic.com/video/834009_bfff6bc392f94b788c00b571e3d24e4d/720p/mp4/file.mp4
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DRAMA", NA QUEBRADA
 https://lh3.googleusercontent.com/jFjqSlPqPRYp61N9lf_0EsCbk_kXdfk6NBvs7hOUtA7q6hQR-T7g8wZbPtSH7YjCn7c=m18
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://filmessgratis.net/wp-content/uploads/2022/05/hwkD4byCLCWIyi6uA6Zm5XTr9WK-200x300.jpg" group-title="MISTÉRIO | TERROR", NAS GARRAS DO TERROR (2021)
-https://7da15e7a4d.misterkobe.shop/deregodego/novosup/filmcucu/new1/n4sg4rr4sd0t3rr0rDUB.mp4
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://pobreflix.org/wp-content/uploads/2023/08/kgND5yAax4aT4UXEXrEsZavlHDx-200x300.jpg" group-title="AÇÃO | SUSPENSE", NOITE SANGRENTA (2023)
 https://sempra.pro/a1/out/6/4735/4735_comando.la-noite-sangrenta-2023-1080p-web-dl-dual-5.1.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/6c/Novocaine_2025.webp/250px-Novocaine_2025.webp.png" group-title="AÇÃO | COMÉDIA | SUSPENSE", Novocaína: À Prova de Dor 110min 2025
@@ -1713,8 +1703,6 @@ https://lh3.googleusercontent.com/13KHPhjpo_BfFBynx37TgjwIdW80brlxEWij2-NrfL_8ex
 https://lh3.googleusercontent.com/BkPZerp-IgMDGquq4vAACYdze8ASJ2AlTYJFfvXtzivp-TzjOVofr3AB_JNLIty7Lzqd=m22
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fb/Elclan2015.jpg" group-title="COMÉDIA | MUSICAL | ROMANCE", O CLÃ (2015)
 https://goo.gl/zrCf8K
-#EXTINF:-1 tvg-id="https://megaflix.lat/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/awaken-shadowman_pt/awaken-shadowman_pt_200x300.jpg" group-title="MISTÉRIO | TERROR", O DESPERTAR DAS SOMBRAS (2017)
-https://goqp5vk8ekuqh.ovaltinecdn.com/hls2/01/00153/wcrivxveghz5_l/index-v1-a1.m3u8?t=BuhP_JxucPLSieIqRRqWtGldgbT1madRlxqDNUw1_h8&s=1756667525&e=129600&f=769990&srv=nVSJnQ3bucx9&i=0.4&sp=500&p1=nVSJnQ3bucx9&p2=nVSJnQ3bucx9&asn=263009
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/w=140,h=150,fit=crop,q=90,format=auto/sadako-kayako_pt/sadako-kayako_pt_200x300.jpg" group-title="TERROR", O CHAMADO VS. O GRITO (2016)
 https://video.wixstatic.com/video/db47f8_4a9a348057344d1ba07e91e98e15c2c6/480p/mp4/file.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HsG5V6ZpKYgfwbFqXEYONbqtTt.jpg" group-title="AÇÃO", O EXTERMINADOR DO FUTURO: Destino Sombrio (2019)
@@ -1834,17 +1822,17 @@ https://sempra.pro/a1/out/6/6328/6328_o-telefone-do-sr.-harrigan-2022-1080p-web-
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://vizer.tv/content/movies/posterPt/185/38689.jpg" group-title="TERROR", O MEME DO MAL (2022)
 https://7da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/2/0m3m3d0m4lDUB.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w92/pL6onRNBIrYnIADtlt0h84RpzVE.jpg" group-title="SUSPENSE", O BAILE DAS LOUCAS (2021)
-https://8da15e7a4d.misterkobe.shop/deregodego/newsthg/filmcucu/newac/obail4dslkasDUB.mp4
+https://sempra.pro/a1/out/6/7388/7388_o-baile-das-loucas-2021-1080p-web-dl-dual-5.1.m3u8
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://image.tmdb.org/t/p/w185/9scjnoZYrkNaOmIlpI1hm9LOMJL.jpg" group-title="CRIME | DRAMA | MISTÉRIO", O PERFUMISTA (2022)
 https://sempra.pro/a1/out/6/6375/6375_o-perfumista-2022-1080p-web-dl-dual-5.1.m3u8
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://image.tmdb.org/t/p/w185/8JmNl927pzilMKGLs8u4wv7wGEJ.jpg" group-title="CRIME | DRAMA | SUSPENSE", O CULPADO (2021)
 https://sempra.pro/a1/out/6/7292/7292_o-culpado-2021-1080p-web-dl-dual-5.1.m3u8
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://image.tmdb.org/t/p/w185/mqCLGi2YxlqwWeGN7NRILYQOhm.jpg" group-title="AÇÃO | AVENTURA | FANTASIA", O HOMEM DO NORTE (2022)
 https://sempra.pro/a1/out/6/6645/6645_o-homem-do-norte-2022-1080p-bluray-dual-5.1.m3u8
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/p4SEXbaIbQl9adB0qGlnEzLMahq.jpg" group-title="DRAMA | HISTÓRIA", O ACONTECIMENTO (2021)
-https://7da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/1/0cnt3c1m3nt0DUB.mp4
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/b6AJO7VKq0c63zjyS1nFJXIcfZw.jpg" group-title="COMÉDIA", O BOM DOUTOR (2019)
-https://7da15e7a4d.misterkobe.shop/deregodego/novosup/filmcucu/2/0bmdtrDUB.mp4
+#EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://image.tmdb.org/t/p/w185/p4SEXbaIbQl9adB0qGlnEzLMahq.jpg" group-title="DRAMA | HISTÓRIA", O ACONTECIMENTO (2021)
+https://sempra.pro/a1/out/6/6503/6503_o-acontecimento-2021-720p-web-dl-dual.m3u8
+#EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://image.tmdb.org/t/p/w185/b6AJO7VKq0c63zjyS1nFJXIcfZw.jpg" group-title="COMÉDIA", O BOM DOUTOR (2019)
+https://sempra.pro/a1/out/6/7049/7049_o-bom-doutor-2020-1080p-web-dl-dual.m3u8
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://filmessgratis.net/wp-content/uploads/2022/08/uRdpVgEufzYNVnDPTXEjt0mpD99-90x135.jpg" group-title="SUSPENSE | TERROR", ÓRFÃ 2: A ORIGEM (2022): Sempre ouve algo errado com Esther.
 https://sempra.pro/a1/out/6/6255/6255_orfa-2-a-origem-2022-1080p-bluray-dual-5.1.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://filmessgratis.net/wp-content/uploads/2022/10/o-monasterio-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd-90x135.jpg" group-title="TERROR", O MONASTÉRIO (2022)
@@ -1855,8 +1843,8 @@ https://video.wixstatic.com/video/db47f8_83d14a2c93d44f0592c298ee775fab0b/720p/m
 https://sempra.pro/a1/out/6/5967/5967_o-menu-2022-1080p-web-dl-dual-5.1.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w400//7rebR6v1fgVC3RWmlY0BLQ2XEFB.jpg" group-title="SUSPENSE | TERROR", OLHOS FAMINTOS 3 01h 40min 26/09/2017
 https://video.wixstatic.com/video/db47f8_16d577eba4e744cb99757474ccf71919/480p/mp4/file.mp4
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w300/qD9E23xFvZ5KjTmEiYf3DuMTNlC.jpg" group-title="DRAMA | MISTÉRIO | SUSPENSE", O MILAGRE (2022)
-https://8da15e7a4d.misterkobe.shop/deregodego/lastdance/filmcucu/2/0m1l4gr3DUB.mp4
+#EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://image.tmdb.org/t/p/w300/qD9E23xFvZ5KjTmEiYf3DuMTNlC.jpg" group-title="DRAMA | MISTÉRIO | SUSPENSE", O MILAGRE (2022)
+https://sempra.pro/a1/out/6/6135/6135_o-milagre-2022-1080p-web-dl-dual-5.1.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d2/Os_Dez_Mandamentos_%282016%29.jpg" group-title="RELIGIOSO", OS DEZ MANDAMENTOS: O FILME (2016)
 https://video.wixstatic.com/video/db47f8_6c7c4757db044a778222c08baa598532/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://pobreflix.org/wp-content/uploads/2023/06/xKWAZSjfr8dHyewirbR9NMeTz9j-150x150.jpg" group-title="AÇÃO | DRAMA | TERROR", O GRANDE TSUNAMI (2021)
