@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/8/84/AMC_HD.png/revision/latest/scale-to-width-down/639?cb=20140901200608" group-title="CANAIS: FILMES | SÉRIES", AMC HD
-http://fortv.cc:8080/0n8u9R/169324/164938
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="CANAIS: INFANTIS", ANIME
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=65e4a7cf-0b18-4 b0a-97d2-7eadc239c740&deviceLat=-22.4545&deviceLon=-41.9492&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=BR&sid=5d23ee15-3e52-11eb-b866-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="CANAIS: INFANTIS", ANIME E GEEK
@@ -12,6 +10,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b800084986
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CANAISoeste.png" group-title="CANAIS: VARIEDADES", OESTE (MT)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 
+#EXTINF:-1 tvg-id="https://piratatvs.com/" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.9on8TDwZDqvqQKZxlzaIGwHaCU?pid=Api&P=0&h=180" group-title="CANAIS: FILMES 24 HORAS", CINEMAX AO VIVO ONLINE 24 HORAS
+https://cloud-usa-user76689866-sv02-stream.s27-usa-cloudfront-net.online/secret_key/1fba86e32a2002f202dc39d79792b23d.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="CANAIS: FILMES 24 HORAS", CINE COMÉDIA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=65e4a7cf-0b18-4 b0a-97d2-7eadc239c740&deviceLat=-22.4545&deviceLon=-41.9492&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=BR&sid=76f4446c-3d7e-11eb-b866-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="CANAIS: FILMES 24 HORAS", CINE COMÉDIA
@@ -80,19 +80,13 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7p5Xgv.jpg" group-title="CANAIS: FILMES | SÉRIES", GOSPEL FILMES TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-id="https://piratatvs.com/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: VARIEDADES", GLOBO RJ AO VIVO ONLINE 24 HORAS
+https://cloud-usa-user76689866-sv02-stream.s27-usa-cloudfront-net.online/secret_key/1f5ae444144c68768c7c9f894ca5bd68.m3u8
 #EXTINF:-1 tvg-id="https://globoplay.globo.com/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: VARIEDADES", GLOBO AO VIVO
 https://live-cm-ah-21-08.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMjEtMDgudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzU4MTY4MDk1LCJpYXQiOjE3NTgxNDY0OTUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiOGFmZjg5Y2UtOGQ0YS00OTBmLWE3Y2UtZjVhYzZmNjFhZDczIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1jYWIvcGxheWxpc3QubTN1OCJ9.m4uAeH7YyZUP2mOShqKYGVqhc6lvTHK53IzSnOzzUAI0Qrq3UOaIgop3wUiKu3Qdhn5z9JWIp33tkDeyq_HIhVhDog4kLzcElACJNC3TyUOHy52erIwY4iZQK_xnY5Bv0Kr8pPNawV7imUL44973yGyQYY4-Nx7IKeA6md3jcNsT_OrvG18Ya4X2wITcEWWEH1FTdWHXr07Awx4sssnyuzDST41ArQnlxscMyYVRyNOy_6LPqfe4gw69YPsOn9W0xA42Nru9dBl3TyyeSIapFXDvFBO5bHA5gqycgDDhEKrHlviSGRfOV0ZOUOjmX64rzs9yssPwamw1AXfYt8LSDA/live/f(i=2)/globo-cab/globo-cab-audio_1=96000-video=2262976.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: VARIEDADES", GLOBO SP HD
-http://fortv.cc:8080/0n8u9R/169324/21020
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: VARIEDADES", GLOBO HD
-http://fortv.cc:8080/0n8u9R/169324/164943
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: VARIEDADES", GLOBO MINAS HD
-http://fortv.cc:8080/0n8u9R/169324/164944
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: VARIEDADES", GLOBO HD PORTUGAL
-http://fortv.cc:8080/0n8u9R/169324/164824
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="CANAIS: FILMES | SÉRIES", HBO HD
-http://fortv.cc:8080/0n8u9R/169324/164950
+#EXTINF:-1 tvg-id="https://piratatvs.com/" tvg-logo="https://piratatvs.com/wp-content/uploads/2022/04/hboplus-768x432.png" group-title="CANAIS: FILMES 24 HORAS", HBO PLUS AO VIVO ONLINE 24 HORAS
+https://cloud-usa-user76689866-sv02-stream.s27-usa-cloudfront-net.online/secret_key/49ad84ca9540c733da42c9a3a5bc62c8.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="CANAIS: INFANTIS", JUNIOR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=65e4a7cf-0b18-4 b0a-97d2-7eadc239c740&deviceLat=-22.4545&deviceLon=-41.9492&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=BR&sid=11be1981-3e57-11eb-b132-0242ac110002&userId=&serverSideAds=true
@@ -116,6 +110,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8c
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-logo="https://imgur.com/FioVeSb.png" group-title="CANAIS: VARIEDADES", MASTER TV PR
 http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="https://piratatvs.com/" tvg-logo="https://piratatvs.com/wp-content/uploads/2022/04/megapix-768x432.png" group-title="CANAIS: FILMES 24 HORAS", MEGAPIX AO VIVO ONLINE 24 HORAS
+https://cloud-usa-user76689866-sv02-stream.s27-usa-cloudfront-net.online/secret_key/53b2bfa68876d0ef4271a38d726e21db.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="CANAIS: INFANTIS", NICK CLÁSSICO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=65e4a7cf-0b18-4 b0a-97d2-7eadc239c740&deviceLat=-22.4545&deviceLon=-41.9492&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=BR&sid=1b7cbeea-3e3b-11eb-a113-0242ac110002&userId=&serverSideAds=true
@@ -139,7 +135,11 @@ https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oxdCoblnnJg/YTDkXEX3igI/AAAAAAAAFPk/XqnzIaBL9q08kr8U1vVqxLRqWqggiEWhgCPcBGAYYCw/s200/RECORD%2BTV.webp" group-title="CANAIS: VARIEDADES", GRAVAR TV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-id="http://detran-br.com/" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/Design-sem-nome-13.jpg" group-title="CANAIS: VARIEDADES", RECORD TV SP
+#EXTINF:-1 tvg-id="https://piratatvs.com/" tvg-logo="http://i1.r7.com/data/files/2C95/948F/35B7/7306/0135/BC63/3B30/08E3/record_700x525.jpg" group-title="CANAIS: VARIEDADES", RECORD AO VIVO ONLINE 24 HORAS
+https://cloud-usa-user76689866-sv02-stream.s27-usa-cloudfront-net.online/secret_key/5b9445b3d8682b46339161145fadf0f2.m3u8
+#EXTINF:-1 tvg-id="https://meteflix.pro/" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.4Z8Ru4iEFCeei6oUcD6fTQHaFj?pid=Api&P=0&h=180" group-title="CANAIS: VARIEDADES", RECORD
+https://cloud-usa-user76689866-sv02-stream.s27-usa-cloudfront-net.online/secret_key/5b9445b3d8682b46339161145fadf0f2.m3u8
+#EXTINF:-1 tvg-id="http://detran-br.com/" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/Design-sem-nome-13.jpg" group-title="CANAIS: VARIEDADES", RECORD TV
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 #EXTINF:-1 tvg-id="https://supertvaovivo.com/" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/Design-sem-nome-13.jpg" group-title="CANAIS: VARIEDADES", RECORD TV MT
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
