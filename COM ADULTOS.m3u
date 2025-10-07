@@ -297,6 +297,164 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
 xxxxxxxxxxxxxxxxxx LISTA IPTV-BRASIL-2025 xxxxxxxxxxxxxxxxxx LISTA IPTV-BRASIL-2025 xxxxxxxxxxxxxxxxxx LISTA IPTV-BRASIL-2025 xxxxxxxxxxxxxxxxxx LISTA IPTV-BRASIL-2025 xxxxxxxxxxxxxxxxxx LISTA IPTV-BRASIL-2025 xxxxxxxxxxxxxxxxxx LISTA IPTV-BRASIL-2025 xxxxxxxxxxxxxxxxxx
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS:: VARIEDADES", BR: Globo RJ
+http://lunar.pm:8080/ALVIN/9gJbtWskzsJS/120662
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/73crmZ.png" group-title="CANAIS: ESPORTES", SPORTV 2 SD
+http://saga10.pro:80/345715/562156/2909006
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/CaPuNh.png" group-title="CANAIS: ESPORTES", SPORTV 3 FHD
+http://saga10.pro:80/345715/562156/2909007
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/CaPuNh.png" group-title="CANAIS: ESPORTES", SPORTV 3 HD
+http://saga10.pro:80/345715/562156/2909008
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/CaPuNh.png" group-title="CANAIS: ESPORTES", SPORTV 3 SD
+http://saga10.pro:80/345715/562156/2909009
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/A6RGQN.png" group-title="CANAIS: ESPORTES", SPORTV FHD
+http://saga10.pro:80/345715/562156/2909010
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/A6RGQN.png" group-title="CANAIS: ESPORTES", SPORTV HD
+http://saga10.pro:80/345715/562156/2909011
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/A6RGQN.png" group-title="CANAIS: ESPORTES", SPORTV SD
+http://saga10.pro:80/345715/562156/2909012
+
+#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/jbsMeh.png" group-title="CANAIS: ESPORTES", PREMIERE 2 FHD
+http://saga10.pro:80/345715/562156/2909015
+
+#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/jbsMeh.png" group-title="CANAIS: ESPORTES", PREMIERE 2 HD
+http://saga10.pro:80/345715/562156/2909016
+
+#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/jbsMeh.png" group-title="CANAIS: ESPORTES", PREMIERE 2 SD
+http://saga10.pro:80/345715/562156/2909017
+
+#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/kNe8YK.png" group-title="CANAIS: ESPORTES", PREMIERE 3 HD
+http://saga10.pro:80/345715/562156/2909019
+
+#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/kNe8YK.png" group-title="CANAIS: ESPORTES", PREMIERE 3 SD
+http://saga10.pro:80/345715/562156/2909020
+
+#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dxZgq6.png" group-title="CANAIS: ESPORTES", PREMIERE 4 FHD
+http://saga10.pro:80/345715/562156/2909021
+
+#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dxZgq6.png" group-title="CANAIS: ESPORTES", PREMIERE 4 HD
+http://saga10.pro:80/345715/562156/2909022
+
+#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dxZgq6.png" group-title="CANAIS: ESPORTES", PREMIERE 4 SD
+http://saga10.pro:80/345715/562156/2909023
+
+#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/y7gI6S.png" group-title="CANAIS: ESPORTES", PREMIERE 5 FHD
+http://saga10.pro:80/345715/562156/2909024
+
+#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/y7gI6S.png" group-title="CANAIS: ESPORTES", PREMIERE 5 HD
+http://saga10.pro:80/345715/562156/2909025
+
+#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/y7gI6S.png" group-title="CANAIS: ESPORTES", PREMIERE 5 SD
+http://saga10.pro:80/345715/562156/2909026
+
+#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/0RQIRP.png" group-title="CANAIS: ESPORTES", PREMIERE 6 FHD
+http://saga10.pro:80/345715/562156/2909027
+
+#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/0RQIRP.png" group-title="CANAIS: ESPORTES", PREMIERE 6 HD
+http://saga10.pro:80/345715/562156/2909028
+
+#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/0RQIRP.png" group-title="CANAIS: ESPORTES", PREMIERE 6 SD
+http://saga10.pro:80/345715/562156/2909029
+
+#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/YJbbQ6.png" group-title="CANAIS: ESPORTES", PREMIERE 7 FHD
+http://saga10.pro:80/345715/562156/2909030
+
+#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/YJbbQ6.png" group-title="CANAIS: ESPORTES", PREMIERE 7 HD
+http://saga10.pro:80/345715/562156/2909031
+
+#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/YJbbQ6.png" group-title="CANAIS: ESPORTES", PREMIERE 7 SD
+http://saga10.pro:80/345715/562156/2909032
+
+#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS: ESPORTES", PREMIERE CLUBES FHD
+http://saga10.pro:80/345715/562156/2909035
+
+#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS: ESPORTES", PREMIERE CLUBES HD
+http://saga10.pro:80/345715/562156/2909036
+
+#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS: ESPORTES", PREMIERE CLUBES SD
+http://saga10.pro:80/345715/562156/2909037
+
+#EXTINF:-1 tvg-logo="https://imgur.com/8Vr6580.png" group-title="CANAIS: FILMES 24 HORAS", FILMES AÇÃO
+http://saga10.pro:80/345715/562156/393029
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/7rKF8E.png" group-title="CANAIS: FILMES 24 HORAS", HBO 2 SD
+http://saga10.pro:80/345715/562156/1263046
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/8617/2gpz5i.png" group-title="CANAIS: FILMES 24 HORAS", HBO FAMILY FHD
+http://saga10.pro:80/345715/562156/1263051
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/8617/2gpz5i.png" group-title="CANAIS: FILMES 24 HORAS", HBO FAMILY HD
+http://saga10.pro:80/345715/562156/1263050
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/8617/2gpz5i.png" group-title="CANAIS: FILMES 24 HORAS", HBO FAMILY SD
+http://saga10.pro:80/345715/562156/1263049
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/Cv1K2x.png" group-title="CANAIS: FILMES 24 HORAS", HBO FHD
+http://saga10.pro:80/345715/562156/1263045
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/Cv1K2x.png" group-title="CANAIS: FILMES 24 HORAS", HBO HD
+http://saga10.pro:80/345715/562156/1263044
+
+#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/AQoYT1.png" group-title="CANAIS: FILMES 24 HORAS", HBO MUNDI FHD
+http://saga10.pro:80/345715/562156/1263054
+
+#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/AQoYT1.png" group-title="CANAIS: FILMES 24 HORAS", HBO MUNDI HD
+http://saga10.pro:80/345715/562156/1263053
+
+#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/AQoYT1.png" group-title="CANAIS: FILMES 24 HORAS", HBO MUNDI SD
+http://saga10.pro:80/345715/562156/1263052
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/zBI36X.png" group-title="CANAIS: FILMES 24 HORAS", HBO POP FHD
+http://saga10.pro:80/345715/562156/1263057
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/zBI36X.png" group-title="CANAIS: FILMES 24 HORAS", HBO POP HD
+http://saga10.pro:80/345715/562156/1263056
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/zBI36X.png" group-title="CANAIS: FILMES 24 HORAS", HBO POP SD
+http://saga10.pro:80/345715/562156/1263055
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/Cv1K2x.png" group-title="CANAIS: FILMES 24 HORAS", HBO SD
+http://saga10.pro:80/345715/562156/1263043
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/B16iIp.png" group-title="CANAIS: FILMES 24 HORAS", HBO SIGNATURE FHD
+http://saga10.pro:80/345715/562156/1263060
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/B16iIp.png" group-title="CANAIS: FILMES 24 HORAS", HBO SIGNATURE HD
+http://saga10.pro:80/345715/562156/1263059
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/B16iIp.png" group-title="CANAIS: FILMES 24 HORAS", HBO SIGNATURE SD
+http://saga10.pro:80/345715/562156/1263058
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/dack3P.png" group-title="CANAIS: FILMES 24 HORAS", HBO XTREME FHD
+http://saga10.pro:80/345715/562156/1263063
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/dack3P.png" group-title="CANAIS: FILMES 24 HORAS", HBO XTREME HD
+http://saga10.pro:80/345715/562156/1263062
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/dack3P.png" group-title="CANAIS: FILMES 24 HORAS", HBO XTREME SD
+http://saga10.pro:80/345715/562156/1263061
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/3IBU8y.png" group-title="CANAIS: FILMES 24 HORAS", HBO+ FHD
+http://saga10.pro:80/345715/562156/1263066
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/3IBU8y.png" group-title="CANAIS: FILMES 24 HORAS", HBO+ HD
+http://saga10.pro:80/345715/562156/1263065
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/3IBU8y.png" group-title="CANAIS: FILMES 24 HORAS", HBO+ SD
+http://saga10.pro:80/345715/562156/1263064
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/7rKF8E.png" group-title="CANAIS: FILMES 24 HORAS", HBO 2 FHD
+http://saga10.pro:80/345715/562156/1263048
+
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/7rKF8E.png" group-title="CANAIS: FILMES 24 HORAS", HBO 2 HD
+http://saga10.pro:80/345715/562156/1263047
 
 xxxxxxxxxxxxxxxxxx LISTA DE TERCEIROS xxxxxxxxxxxxxxxxxx LISTA DE TERCEIROS xxxxxxxxxxxxxxxxxx LISTA DE TERCEIROS xxxxxxxxxxxxxxxxxx LISTA DE TERCEIROS xxxxxxxxxxxxxxxxxx LISTA DE TERCEIROS xxxxxxxxxxxxxxxxxx LISTA DE TERCEIROS xxxxxxxxxxxxxxxxxx LISTA DE TERCEIROS xxxxxxxxxxxxxxxxxx
 
