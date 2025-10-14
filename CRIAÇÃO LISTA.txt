@@ -1,0 +1,64 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx SUATELA xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+		 
+#EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="https://topflix.movie/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35Zoeb4VaL9hlzDU9mCiN03s8jALtU3tN5HShWmM-p21DvSZX7PAeFoqK0901yJyYDsxHdCUYMBQdhJtpclQOPXpQ.webp?w=370&h=556" group-title="MISTÉRIO | TERROR", A HORA DO VAMPIRO 2024
+
+#EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w500/yknXRPGfIMmRbWVUxfPuLyCcx7h.jpg" group-title="TERROR", FAÇA ELA VOLTAR 2025
+
+#EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="https://media.filmelier.com/tit/114048/thumb/covera.webp" group-title="COMÉDIA | DRAMA", SACRAMENTO 2025
+
+#EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="https://media.filmelier.com/tit/113148/thumb/covera.webp" group-title="TERROR", JUNTOS 2025
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx TOPFLIX xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+#EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://topflix.studio/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iGuOlOY2bImdSJe6iPWIijl-udO56YZvdiC9bx1THl0ucqzgYt3Q-NdPVsbTzSAKuQ.webp?w=370&h=556" group-title="TERROR", DESCULPA, MAS VOU TE MATAR 2020
+
+#EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://topflix.studio/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZYVaIhXHL4HZwYYY14hR3QlXTV0wKR5G46jUeQ8zPv7I.webp?w=370&h=556" group-title="COMÉDIA", UM SALÃO DO BARULHO 2004
+
+#EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://topflix.studio/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35Zoeb4VaL9hlzDU9mCiN03s3qOgPCzKJtSLdMfC_PsSO666kH9Olt-jHwkIReqRWrUgZX6hT6sPCTG70ydaXtyaw.webp?w=370&h=556" group-title="DRAMA | SUSPENSE", MANÍACO DO PARQUE 2024
+
+#EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://topflix.studio/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35Zoeb4VaL9hlzDU9mCiN03s-bR9Yeg9xoaTPPhURnxCwwmS1ZAhBYMZRKWeGe8Q7D1ERCmu9CGrBL2LK9FY3jRyA.webp?w=370&h=556" group-title="AÇÃO | TERROR", LONGLEGS - VÍNCULO MORTAL 2024
+
+#EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://topflix.studio/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iKv8z7d0Y2qxEAY8k5zP2gWA9SLxGgKkVlTN-5rSgZUHzk3iO2NaMg3ea8_6AwrSkw.webp?w=370&h=556" group-title="AVENTURA | TERROR", PULAU 2023
+
+#EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://topflix.studio/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iJyMBXeLEKRxD44J9AszAYIHrjvk-aFHfYa7C31fE8f93eXk9h8T9rftS04deMncLw.webp?w=370&h=556" group-title="AÇÃO | TERROR", A MÁFIA DOS VAMPIROS 2017
+
+#EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://topflix.studio/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35Zoeb4VaL9hlzDU9mCiN03s3CzYBNHfsbU7nxA359SUZb6z5fTcu1Y1cyW84_DXc2o5DMGX1e1lD1gqzNfC3-Z-w.webp?w=370&h=556" group-title="AÇÃO | SUSPENSE", INVASÃO ZUMBI 2: PENÍNSULA 2020
+
+#EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://topflix.studio/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZYVaIhXHL4HZwYYY14hR3QmTY-nyldPQGEAsKnXWmVYY.webp?w=370&h=556" group-title="COMÉDIA | TERROR", O ATAQUE DOS ZUMBIS BÁVAROS 2016
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx GOFILMESHD > TEMPORÁRIO xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+														   
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/w342/5y6tiGVEEcasVfIJKzT0VVTj9Yq.jpg" group-title="AÇÃO | COMÉDIA | SUSPENSE", Motorista de Fuga
+Eenie Meanie (2025)
+
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/w342/yKQjrwgEkPOGel3JKT2neJzu0jh.jpg" group-title="AÇÃO | AVENTURA | SUSPENSE", MISSÃO: IMPOSSÍVEL - O ACERTO FINAL
+MISSION: IMPOSSIBLE - THE FINAL RECKONING (2025)
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx CPLAY SÉREIES & NOVELAS xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+														 
+#EXTINF:-1 tvg-id="https://cplay.live/" tvg-logo="" group-title="COMÉDIA | TERROR", 
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx MEGAFLIX > TEMPORÁRIO xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+#EXTINF:-1 tvg-id="https://megaflix.lat/" tvg-logo="" group-title="COMÉDIA | TERROR", 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COMÉDIA | DRAMA", 
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.9on8TDwZDqvqQKZxlzaIGwHaCU?pid=Api&P=0&h=180" group-title="CANAIS: FILMES 24 HORAS", CINEMAX AO VIVO ONLINE 24 HORAS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://piratatvs.com/wp-content/uploads/2022/04/hboplus-768x432.png" group-title="CANAIS: FILMES 24 HORAS", HBO PLUS AO VIVO ONLINE 24 HORAS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://piratatvs.com/wp-content/uploads/2022/04/megapix-768x432.png" group-title="CANAIS: FILMES 24 HORAS", MEGAPIX AO VIVO ONLINE 24 HORAS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.4Z8Ru4iEFCeei6oUcD6fTQHaFj?pid=Api&P=0&h=180" group-title="CANAIS: VARIEDADES", RECORD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%204.1v/assets/images/canais/Globo%20RJ.png" group-title="CANAIS: VARIEDADES", GLOBO RJ
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="COMÉDIA | TERROR", 
