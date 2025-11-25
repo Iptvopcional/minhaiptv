@@ -78,7 +78,9 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7p5Xgv.jpg" group-title="CANAIS: FILMES | SÉRIES", GOSPEL FILMES TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1 tvg-id="https://globoplay.globo.com/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: VARIEDADES", GLOBO AO VIVO
+#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/ATM" group-title="CANAIS: GLOBO", GLOBO INTER TV ALTO LITORAL [HD]
+http://79.127.137.186:8080/auth/407.m3u8?token=PnpNxGc0_4I2jWPssvF7I9Gu6mFP4ho9uTqlTy_NCWbxIV_YCHaXfY8gQSN4rNtY54-PlMVqkXCuFA8jnq1aOa11mz0KiXp7eImcbRZkC2A2G1uhTDevNZDhYhPxyZulMIwWPaJ3D1-POYIjTG508POXJ1sZvvLE5pm75JBJzRHB6WjUGyEyx_-KsKPf-Zlhr7xxRZOyJrYyR-jMRHb5iveyJYzIcBoDNEOqeidCZpGwdQaKsl6mSLWE39vxLP5gqMxdbk75ay4wq-DDcm0zIEJMeqjNnAvZnQlgzYp4VZLh__wzLcfgHaBgh9RClpCSOXfrGDwuI-gt2WURNYEuvtL2kge9V5oCF6_xbcjTkhTOIcDt6WfMtRVPIcRP5KDB0fw9VdnWIdgy4ncnVYGuojwiO9zTpKrZW6DumlKY0lXAkuB3MEEoc3dsMWoOLOiuNkwMtRy7U_A6dyN0o9PbJDsK4SIECdYvCEfnw2KSsHV3HIEOJ_Fbb9lGW8NeS8UeeIEMBE3dwOcewPv5bolQ8KN64gEsFuUzWZrsv6n026urmqASbENE71MB9JJvC9fJuB_0fS0N2-wdqf9eUPRWlA
+#EXTINF:-1 tvg-id="https://globoplay.globo.com/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: GLOBO", GLOBO AO VIVO
 https://live-01.edge-forte-caw-rj.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1mb3J0ZS1jYXctcmoudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzY0MDE0MTgyLCJpYXQiOjE3NjM5OTI1ODIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiOGFmZjg5Y2UtOGQ0YS00OTBmLWE3Y2UtZjVhYzZmNjFhZDczIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1jYWIvcGxheWxpc3QubTN1OCJ9.ulkIDt2vKVh48IoVReG4OCvch-UdQ6H3LKWuobq_fAyuhequbWhmQFbhJGaQPX6xn5nor-U4s_WGA6UYOKGCJA3teQ-RHAAbGiPLyhQfbHxrWkR5EK27BJgxpB3D_bJMs37-GNHCH1V3yot_OCbC6gY7iJG7iA42nwODN_3JWg6k25JDvOXPYAloB6iQZDB4Qt6Yq42E6Dxgs3kLdCTj9p4bbzknLEnVHS7hkFptuUqZwIN-H_UjFa5E_GAXW1HmHemgDGY9dtULoKNax9XiEkIjaleVlEOUQRe6ZL4-XPiBPPEJj7zA1h-iDLGQVAowUiQpOWVg9_9gpJLOGI675Q/live/f(i=2)/globo-cab/globo-cab-audio_1=96000-video=2262976.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="CANAIS: INFANTIS", JUNIOR
@@ -126,13 +128,13 @@ https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oxdCoblnnJg/YTDkXEX3igI/AAAAAAAAFPk/XqnzIaBL9q08kr8U1vVqxLRqWqggiEWhgCPcBGAYYCw/s200/RECORD%2BTV.webp" group-title="CANAIS: VARIEDADES", GRAVAR TV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-id="http://detran-br.com/" tvg-logo="http://i1.r7.com/data/files/2C95/948F/35B7/7306/0135/BC63/3B30/08E3/record_700x525.jpg" group-title="CANAIS: VARIEDADES", RECORD TV
+#EXTINF:-1 tvg-id="http://detran-br.com/" tvg-logo="http://i1.r7.com/data/files/2C95/948F/35B7/7306/0135/BC63/3B30/08E3/record_700x525.jpg" group-title="CANAIS: RECORD", RECORD TV
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
-#EXTINF:-1 tvg-id="https://supertvaovivo.com/" tvg-logo="http://i1.r7.com/data/files/2C95/948F/35B7/7306/0135/BC63/3B30/08E3/record_700x525.jpg" group-title="CANAIS: VARIEDADES", RECORD TV MT
+#EXTINF:-1 tvg-id="https://supertvaovivo.com/" tvg-logo="http://i1.r7.com/data/files/2C95/948F/35B7/7306/0135/BC63/3B30/08E3/record_700x525.jpg" group-title="CANAIS: RECORD", RECORD TV MT
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.ndmais.com.br/2019/02/news-logo.png" group-title="CANAIS: VARIEDADES", RECORDE NOTÍCIAS
+#EXTINF:-1 tvg-logo="https://static.ndmais.com.br/2019/02/news-logo.png" group-title="CANAIS: RECORD", RECORD NOTÍCIAS
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w2069646116.m3u8
-#EXTINF:-1 tvg-id="https://supertvaovivo.com/" tvg-logo="https://static.ndmais.com.br/2019/02/news-logo.png" group-title="CANAIS: VARIEDADES", RECORD NEWS ES
+#EXTINF:-1 tvg-id="https://supertvaovivo.com/" tvg-logo="https://static.ndmais.com.br/2019/02/news-logo.png" group-title="CANAIS: RECORD", RECORD NEWS ES
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1868079881.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/iqWnub9.png" group-title="CANAIS: RELIGIOSOS", REDE GOSPEL
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
@@ -2602,8 +2604,17 @@ http://89.222.120.69:8080/vauth/339730.mp4?token=2c5izQjTHLBIYx7HCa5NKWO9jxRAhI8
 #EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QLF9" group-title="SUSPENSE | TERROR", ESTRADA FLORESTAL 825 (2025)
 http://89.222.120.69:8080/vauth/339715.mp4?token=2c5izQjTHLBIYx7HCa5NKRGhnqmEPsmGanXYsrxO9TJ8dVx0ieS6w6anvwZ5SnUw8wGJLsC39wYyFQuutqKyYaeQRD2WOa60xUmOqR3FF-vqBgrKN3Y1XRx5CdsIVchCW9HUrX4FhLoDmI6mxJQ9aPRCav84GLY3XsDtV6Pe7XS7-J0Frf0WJz8gEx5aIfOuqFiaeWgaaP7TqnLsxvA64EIBIf0KpMjTirS6QPosKtLGdigM3AMcwFExzLHGFGloa9fsaQf-lL6nhrxKfDhyp8FG_sE4LeFF_MctAvleNirf2YJEtxldAt6D1G5d2PJn1Ci_eDIiT-lVU5kDZngg6gP5PYYQti0WeVG2PP25zUYZo2zVOrRoKpeC8EdqYLJ0Hf3Y6qDFEq2GDY0Va_maf9bVkibCgR2VRqJvQUlnTaRl8hazZ_qHrRuNGDYSSCYArWRqf52lqYWiAra_ffXyE8OvLNdYYeStBElF2Th41d0-tlB2yLta7wL0IEPdTxoLC53u8bmuxTCgUEHZ994YCAS-K7l0KnOq3tk1efx_RB3cVtHXMNGvTKQ7oyjfCtw-dGy-bNid5uA_9HZEvy-zCU2m0gNGuaGVxjQGIYyV5YM
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QKB7" group-title="FANTASIA | F. CIENTÍFICA | MISTÉRIO | SUSPENSE | TERROR", VERDADE OU DESAFIO 2017
-http://89.222.120.69:8080/vauth/338791.mp4?token=bCrEYZg74P9DZRMkxzaF2lsW3fSp7hHJgjP9EcZ_5MDls7aD2bjLfQOu7BtPG4luAIO6HWExwiRXNJV-Cd7UVJ7PW9ZgD40PGg3lmrHy57R-2zF5SVwUsmnJbC3K_Ra8Qlm85tMZSbRbeIutv9Uu-U0ulbuwNqd2I9NWLtewg5fA_d5fR5-XW3538ZFiaroaxpOpbRAw0rCyZfWFWRbuQWuX9XNtJFI7lXBH4vTyBtWdSj9X80hbrARE1wxj11kuAsakYxpDT69wqFXFRsvgWJJ_IYAdCAtkcoDuv_kyfWws0L9UKPn1U3PolWeJgbJk7IbIyb3zZTUpP0mSurspU8-nYhAO36JhacMBncOvV34J3QpYtHtG3nqf1wwKfQKy1ykrWhKhBfoYZgDvC3kil7R8yKCuWVdoElecVMlQaWe8lZZJrUJ_49oOrBkd9Rh_GA2Q1Rl5gYIsU2gRkcH7_1h9hzYtgbxLaB9bNCuPHWVINDwMFj6wJEURHJUoXuxbzfev-HKY-KjOybfZtVhRowAjJocInnHTp_YWCK5MEuxTYJ77MsF2jRDoODJkuBAeAV8fsEMMqBS_0CRoZAQMM1bFUyUdEbikv3P8tG-qu-A
+#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QKB7" group-title="F. CIENTÍFICA | FANTASIA | MISTÉRIO | SUSPENSE | TERROR", VERDADE OU DESAFIO 2017
+http://89.222.120.80:8080/vauth/338791.mp4?token=bCrEYZg74P9DZRMkxzaF2lsW3fSp7hHJgjP9EcZ_5MA1h3SVDHf4eLVYXOrS9Kniul6y8TICdbtr2vQtuuytp14iXMZbbhjZhQXmdlkTG9a3MpAID2pTb8B7cebMzvLjmx1ihPR1koSDchNia9HhzLVd2p_yKsqt4Xu20EEIy75JmNM0qNDnLbHsZcfv9tILOv6ymuyl8BclXL5Alm3wcYs8zUj0ilDWhyj8rENnlRpRnkWXf0sk-o6b5scSG_Uo34tyUFdpandfvry6FszqX-y3oPBm7OHsNiybxQW5HTDo9JGlEaqt2LrdXZ5d3eqMfffjQp3bSoqJRutqjTj5Vf73sncLNfab2zg1e2y1ldUFB3zbsaM_bTj6zQllQpW8ISIl3yvz8KQK8CtxgmqR6NJFtkt4Zsww-6SLI4dIYBrbyEkkQvG8nMtKzNRyeDZLdc7bYDGMR9ojb86ezdrq0EBNEczY4SmQhvi3-pZNec0wKH6c2yIzEGxZ7-n-Qdt3VDah3_Rdu1x3bJk1M9SEbez0BB5D865w1AkCRNr98c7cOd0BTeeCvpqYYqseX7a5rHduqkWyZ7rQg7QyDMOoWAqyckAp0BYybtsqgzuXZBg
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QPW6" group-title="SUSPENSE", REFÉNS DA TERRA 2023
+http://89.222.120.80:8080/vauth/342866.mp4?token=MrDCFe8gTOqHWW3VLlYfO7B1GWK84ea4F6XK3hNeW17gYKIw5ggzCwMwsOjuI2_PWDkZ0_ANOmB-ZUdsqt8IshE8KR6GcQvHa61qO3-rWiKWgVpXmOOYciH_d1Ou6XxC0DmpbbvIjPpZb1ZZkZhYIUeUbDPgMl_jxsVvettjNLrvqwMStwcsivn7FX7XXdeRVAI8yvpMBrNPnjA0Ooprgu4IOuThmmNb8UiRZpvZj3-oSI9_t1F4ZwlEfYUnyV7ymIIrn_ZgDZxEhos7klorNPSdS6wACnrQFter6Bw7VxHGGdx3QseOIZ6-3olH_Vu8r82wOUcr_Mesbhct9fAux5C41ctCcPsYgm_h_aS5xvQtPiFUCbYaocJdoCY2jWoqjSQuL8GlZGdaYw4Wu6FvclX0_Rsh0ktV3JSrPaRQY-yMIOJevbe8B5oOuUSGfefBR9o2KHfO3WdUOxDufYS033QSVbmjQdZ7J2Bv1EwB1qK0KlBqp1pqZEv-ISVtFvXpvejiirVExzTOPwl9UjsnxhQt9sIEpb5i3btCaKCc3FU7DVjoycza_UsrlU8nRbRBQKflqyQafVsjSBjzyd309_4SPgszSRgcR1sb8gE6um4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QPX2" group-title="SUSPENSE", A MÃO QUE BALANÇA O BERÇO 2025
+http://89.222.120.80:8080/vauth/342872.mp4?token=MrDCFe8gTOqHWW3VLlYfO56bpcbuPRawei1UXz6ed064KPQGS9CYmFiG9OtH8bl-lgmYErKTuRrt1e6insBOoVqgpF0OhoL5LJTd_0YFA_yOHWOFLiBgHbgo6tty_qXG7eGnYgKt_E3HJxypIhxA8w2ZcVQa0sUwItCetgGAzslLUAPur5AU5nV5XTg0q8miReJncE6aZxxkUgCbb6vKIcb--KIiA66j1kz8QX0x8NYoKMLs5mnUkfsYiarB2YWWw5Pv4HW4RFOp4MeEwNHjgR4s_s-3nTqKjZtdBGBo_NAHYH8iXhRtYDPV4HiVeD8geuuTeXy_zuOLJbs75TMVTc5isbOdcPCBVFFqgziNvpFWSJcOgMwnwSGTTubncUwSf28XrfGl7WDoJ1M8jL-oTE9QHqC356gUXN6vk6ch5dOe4sBb8cEofVByjcuk1xsopz32h7tn0Kmkx5mXZX-fliLWvRgA3sEQjnQoFsocZAbCUi4lW4XffQHNGhFf8CRz-g5aACEOt5Otg-PVjWG8E5hERQGwoL5EP6funJXtdB-zttNqX3_rumgUEUx1viArM9K6cnEycbPjPQKRdb83D5LNrKm-osUejzpBz4JnZKk
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QLE2" group-title="DRAMA | SUSPENSE | TERROR", NÃO ESTOU SOZINHA 2024
+http://89.222.120.80:8080/vauth/339698.mp4?token=2c5izQjTHLBIYx7HCa5NKSk8QdFaqDsJPzmzR4plOL5wgYmNiQHRkp4G9SuURF3L-LTCdPWc9PdNQ3STWXDP4wiKiM0z51t1uHNgOV0VkH44Smu7fTstWBe_ojyQ43MewgtEOMauwkpbtF75rPsTA9zNnNZ0hOsJ0e5AlQxIHF8vQF8B3OTbzKTIhiGFU1F17jYfWr4Bt_mVT3jjqVGy3bODQEdJRuZgKKzf6UjoTF4yt1TXBIdVKTPyh1CmyIarc3FdIyvng3h7BrXKjujDok0VQLzSEFhjwmtFhRyc2Is23gJWcosJ4qrEJ9WdAzlCy5wCl8oFpbUm6t9gfMpVp68QleuuQu04JYGuCs1aMhoa9uNNHjI1sBv_L0x5ALmqYdqbBjY3wIRZAnnhQD3y26Q1t2kbzBY_7Xc2mGMob8zz7JoaGt_uH2m8_wtZ1mVZStgxf7d81iWCsyQqxrka0_MfMORjKkItAansPFaaJMRjiG0aiDcV1lymfaMp6nHq5ce4fUMw9-m17ZeXhDlnZSDHcQXXosKbvKIG1A1pTAqEszKz_Ib0u5ibmC3Rkkr8LySPvEnGWGAN7MZtg7LXt8Ttb1Vkbb4vjhMvJblrKgE
 
 xxxxxxxxxxxxxxxxxx ADULTOS xxxxxxxxxxxxxxxxxx ADULTOS xxxxxxxxxxxxxxxxxx ADULTOS xxxxxxxxxxxxxxxxxx ADULTOS xxxxxxxxxxxxxxxxxx ADULTOS xxxxxxxxxxxxxxxxxx
 
