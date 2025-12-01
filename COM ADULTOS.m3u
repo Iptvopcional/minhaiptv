@@ -48,11 +48,11 @@ https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="CANAIS: FILMES", DARKFLIX HD
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+https://video01.soultv.com.br/darkflix/darkflix/chunklist_w57974927.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo = "https://4.bp.blogspot.com/-zHuPwjiAKGE/XRkKjt01upI/AAAAAAABQI/HybWWCewenYDsoPCXR88ouSYMOu2N9wiwCPcBGAYYCw/s320/Screenshot_2019-06-30-15-40-20.png" group-title="CANAIS: VARIEDADES", DIÁRIO DO SERTÃO PB - Cajazeiras
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/chunklist_w175419384.m3u8
-#EXTINF:-1 tvg-id="https://television-live.com/pt/tvi/brazil/" tvg-logo="https://television-live.com/uploads/posts/twegsdgsdgsdg.jpg" group-title="CANAIS: ENTRETENIMENTO", D+TV - DEMAISTV
-https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w286941207.m3u8
+#EXTINF:-1 tvg-id="https://televisao.tv/ tvg-logo="https://television-live.com/uploads/posts/twegsdgsdgsdg.jpg" group-title="CANAIS: ENTRETENIMENTO", D+TV - DEMAISTV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8?hls_ctx=ph1r5cy8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png" group-title="CANAIS: ENTRETENIMENTO", DIFF'RENT STROKES ARNOLD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -115,8 +115,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc0007
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="CANAIS: CURIOSIDADES", NATUREZA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://topcanais.com/wp-content/uploads/2019/07/tvnovotempo-561x316.jpg" group-title="CANAIS: RELIGIOSOS", NOVO TEMPO
-http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
-
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b878000_slspa.m3u8
 #EXTINF:-1 tvg-id="https://television-live.com/pt/tvi/brazil/" tvg-logo="https://television-live.com/uploads/posts/ecrherhehcetg.png" group-title="CANAIS: NOTÍCIAS", PORTAL GUARÁ
 https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist_w1169761581.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="CANAIS: CURIOSIDADES", PRONTO-SOCORRO: HISTÓRIAS DE EMERGÊNCIA
@@ -138,16 +137,12 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1868079881.m3u8
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="CANAIS: ENTRETENIMENTO", RETRÔ
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CWrvz7r.png" group-title="CANAIS: INFANTIS", DESENHO ANIMADO RETRO
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CANAIS: FILMES 24 HORAS", RUNTIME
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=66b9a14e2839b8c1dafbc777691e8c4b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CANAIS: FILMES 24 HORAS", RUNTIME AÇAO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CANAIS: FILMES 24 HORAS", RUNTIME COMEDIA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c44a8bd6e3634b22e307678c4f21d127.webp" group-title="CANAIS: RELIGIOSOS", RIT TV Ao Vivo
-https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/90kb4L2.png" group-title="CANAIS: VARIEDADES", RTV CANAL 38
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/96ed4934fbcf5351314bfabfd78a976c.webp" group-title="CANAIS: VARIEDADES", REDE MINAS MG - Belo Horizonte
@@ -161,8 +156,8 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist.m
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w914842736.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS: VARIEDADES", SBT | TV Cidade Verde | Piauí
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS: VARIEDADES", SBT | Bem TV | Tangará da Serra | MT
-https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.webp" group-title="CANAIS: VARIEDADES", SBT AO VIVO
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1764646956/ei/zAsuabKFJaqJ1sQP8MeN-QQ/ip/2804:30fc:1e:3c20:1d40:9896:5150:98f4/id/ABVQXgr2LW4.7/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-4vguxcg-bg0l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/bui/AdEuB5ToTx79ntEg2RSdVdGQspZN2wY2vWShYshkA3Xs07DiMcdQP99ARLQFyyqUuZpJxEgN9beDmqq5/spc/6b0G_KZc13Tu-Z4TE9RvyA__vN9Cenkq--LOBzcDBe9njn7B-OdZjwEF6SDauw/vprv/1/playlist_type/DVR/cps/0/initcwndbps/2025000/met/1764625357,/mh/mT/mm/44/mn/sn-4vguxcg-bg0l/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/52/rms/lva,lva/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51552689,51565115,51565682,51580968/mt/1764624995/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAKmNHo19uYYhfbGxLxfwiLbaVSxQErNyssQPWQgfd3k0AiEAjw13X9rEsG4OOc6C6eC3rMiY-MgE8mjxLvbndwTXb08%3D/lsparams/hls_chunk_host,cps,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRAIgCX7LSgPZsaXV_6Z-f4m20GQR_kRGUAFmTPu_VJ-hSDACIBQpVV21SJK5teJCeDkh22kY11aF94zsYHGdSUc3sthb/playlist/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS: VARIEDADES", SBT | TV Guajará | Tailândia | PA
 https://video05.logicahost.com.br/tvguajara/tvguajara/master.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c0e655688a14b616d690908fe663ffb.webp" group-title="CANAIS: VARIEDADES", SOU TV RS - Gravataí
