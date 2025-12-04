@@ -78,6 +78,8 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7p5Xgv.jpg" group-title="CANAIS: FILMES | SÉRIES", GOSPEL FILMES TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/" group-title="CANAIS: VARIEDADES", GLOBO
+http://200.77.176.130:8000/udp/224.0.0.1:49152
 #EXTINF:-1 tvg-id="https://globoplay.globo.com/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS: VARIEDADES", GLOBO AO VIVO
 https://live-01.edge-forte-caw-rj.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1mb3J0ZS1jYXctcmoudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzY0Nzk2MTUyLCJpYXQiOjE3NjQ3NzQ1NTIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiOGFmZjg5Y2UtOGQ0YS00OTBmLWE3Y2UtZjVhYzZmNjFhZDczIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1jYWIvcGxheWxpc3QubTN1OCJ9.B9-6o9oPsY7us5Am4QgD47xJhAW0TWD5Ehr9FhTZ2ZMPzGFZEUo1EVQEqo3aNLSEahSIFMA5T7zuNiTzsLXTU3bbHsTYtGDdIpat2ZTFKpQOwQwoFZMcHAdQ1EZS7sYpkPMLEKr9J1LI9vtA7gXxZrqeArXgJoqjQ51zahRFP1SlcV1DrtR1KN4p546AQluEotyNMZVQDrAqS2sRBKIoH7PY1mn3_issJPtXffEqOTrf8kTzSUh8GnU_Q2CABP8Vj8aHfkQjz20WepJ-Z2yJ34uS0NSIgeuDikaLB2MgYDAgjyDjtOR7_AdKRZIgLdRlvWmlABtDoRfXmWtVFhdMaQ/live/f(i=2)/globo-cab/globo-cab-audio_1=96000-video=1476992.m3u8
 
@@ -123,6 +125,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd
 #EXTINF:-1 tvg-logo="https://imgur.com/wqOAIgT.png" group-title="CANAIS: VARIEDADES", PLANO TV
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://i1.r7.com/data/files/2C95/948F/35B7/7306/0135/BC63/3B30/08E3/record_700x525.jpg" group-title="CANAIS: VARIEDADES", RECORD
+http://200.77.176.130:8000/udp/224.0.0.4:49152
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oxdCoblnnJg/YTDkXEX3igI/AAAAAAAAFPk/XqnzIaBL9q08kr8U1vVqxLRqWqggiEWhgCPcBGAYYCw/s200/RECORD%2BTV.webp" group-title="CANAIS: VARIEDADES", GRAVAR TV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-id="http://detran-br.com/" tvg-logo="http://i1.r7.com/data/files/2C95/948F/35B7/7306/0135/BC63/3B30/08E3/record_700x525.jpg" group-title="CANAIS: VARIEDADES", RECORD TV
@@ -171,16 +175,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-B-o81LylntA/XY0lOf7XKsI/AAAAAAAAACBA/QcJwI gbNIBwSaUu52mHlS9ytv9AWUIgLQCLcBGAsYHQ/s320/Screenshot_2019-09-26-17-51-19.png" group-title="CANAIS: FILMES | VARIEDADES", TV OMINDARÉ
 https://video01.kshost.com.br/lourdes52007/lourdes52007/playlist-480p.m3u8
-#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/041a53eb1b2c6c9d65151c102342544b.webp" group-title="CANAIS: VARIEDADES", TV DF - Brasília
-https://tvCANAIS-stream.ebc.com.br/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="CANAIS: CURIOSIDADES", TV MISTÉRIOS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png" group-title="CANAIS: ESTILO DE VIDA", TASTEMADE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="CANAIS: INFANTIS", TOKUSATO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3c98bd1a061f04f8f2ef85528cd6b253.png" group-title="CANAIS: VARIEDADES", TV SANTA CECÍLIA
-http://flash1.crossdigital.com.br/2063/2063/chunklist.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/29bd5af93095d92009a3090c0b978a60.png" group-title="CANAIS: VARIEDADES", TV DIÁRIO DO SERTÃO PB - Cajazeiras
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/chunklist_w935505143.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/eb46b5bc2171a19fd86ccf78aba5f7b3.jpg" group-title="CANAIS: VARIEDADES", TV UFG
@@ -189,14 +189,10 @@ http://flash.softhost.com.br:1935/ufg/tvufgweb/live.m3u8
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/uYL8YCF.png" group-title="CANAIS: VARIEDADES", TV UFG HD
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w1120468120_b1544100_sleng.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-id="https://www.olhosnatv.com.br/?m=1" tvg-logo="http://cc90.one/AHA" group-title="CANAIS: VARIEDADES", TELEVISÃO GAZETA MA (TV Alternativa)
-https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1240852215.m3u8
 #EXTINF:-1 tvg-id="https://www.olhosnatv.com.br/?m=1" tvg-logo="http://cc90.one/AHA" group-title="CANAIS: VARIEDADES", TELEVISÃO GAZETA PA (TV Grão Pará)
 https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w1625878121.m3u8
 #EXTINF:-1 tvg-logo="https://www.terceiroanjo.com/static/img/logo-terceiro.png" group-title="CANAIS: RELIGIOSOS", TV TERCEIRO ANJO
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8
-#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/73446e4c3d76c771646dbb44843ff733.webp" group-title="CANAIS: VARIEDADES", TV OSASCO SP - Osasco
-https://streamserver.streamingdevideo.com.br/8074/8074/chunklist_w1873811518.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: RELIGIOSOS", TV UNIVERSAL
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/5401/logo_face-5401-20200128165042.jpg" group-title="CANAIS: VARIEDADES", TV CLUBE WEB
@@ -213,24 +209,24 @@ https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="CANAIS: VARIEDADES", TV PARANÁ TURISMO PR - Curitiba
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/DPXwC9p.png" group-title="CANAIS: VARIEDADES", TV CHROMA
-https://5c483b9d1019c.streamlock.net:443/8054/8054/playlist.
+#EXTINF:-1 tvg-id="https://www.tvchroma.com.br/" tvg-logo="https://pa-str.srvsite.com/arquivos/7197/cabecalho-7197-20240825174302.png" group-title="CANAIS: VARIEDADES", TV CHROMA
+https://5c483b9d1019c.streamlock.net/8054/8054/chunklist_w1638070109.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Vj7VjrB.png" group-title="CANAIS: VARIEDADES", TV VICOSA
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/nsoM2Rv.png" group-title="CANAIS: VARIEDADES", TV Thathi
-https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
+#EXTINF:-1 tvg-id="https://www.cxtvlive.com/" tvg-logo="https://imgur.com/nsoM2Rv.png" group-title="CANAIS: VARIEDADES", TV THATHI CAMPINAS AO VIVO
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/chunklist_w439682470.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2f221ef07c8762196cd782faaee34626.webp" group-title="CANAIS: VARIEDADES", TV DO POVO RO - JiParaná
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/chunklist_w1574443515.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d7fd8759b2598a188c00fd4980c4ceb.webp" group-title="CANAIS: VARIEDADES", TV SETE LAGOAS MG-Sete Lagoas
 https://video04.logicahost.com.br/santiagoproducoes/santiagoproducoes/chunklist_w2033956157.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4o6Xeee.png" group-title="CANAIS: VARIEDADES", TV COM DF
 https://5b7f3c45ab7c2.streamlock.net:443/8008/smil:8008.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/423124d5c6c21ef24553145ac0701e1e.webp" group-title="CANAIS: VARIEDADES", TVC RIO RJ - Rio de Janeiro
+#EXTINF:-1 tvg-id="https://www.cxtvlive.com/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/423124d5c6c21ef24553145ac0701e1e.webp" group-title="CANAIS: VARIEDADES", TVC RIO RJ - Rio de Janeiro
 https://video05.logicahost.com.br/comunitariario/comunitariario/chunklist_w501801036.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Rlz2Mvg.png" group-title="CANAIS: VARIEDADES", TV COM SANTOS
-https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/xX8eqFj.png" group-title="CANAIS: VARIEDADES", TV ALTERNATIVA
-https://stmv1.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:-1 tvg-id="https://www.cxtvlive.com/" tvg-logo="https://i.imgur.com/Rlz2Mvg.png" group-title="CANAIS: VARIEDADES", TVCOM SANTOS AO VIVO
+https://video01.logicahost.com.br/tvcomsantos/tvcomsantos/chunklist_w224607587.m3u8
+#EXTINF:-1 tvg-id="https://www.soultv.com.br/" tvg-logo="https://imgur.com/xX8eqFj.png" group-title="CANAIS: VARIEDADES", TV ALTERNATIVA
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8?hls_ctx=h51yyhcc
 #EXTINF:-1 tvg-logo="https://imgur.com/NOEr7gX.png" group-title="CANAIS: VARIEDADES", TV GRAO PARA
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Pv95YP8.png" group-title="CANAIS: VARIEDADES", TV DO POVO
@@ -247,8 +243,6 @@ https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/chunklist_w1927803429
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Klwjy9d.png" group-title="CANAIS: VARIEDADES", TV RIO MADEIRA
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/vOgUR4M.png" group-title="CANAIS: VARIEDADES", TV BOQUEIRAO
-https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dyqS3ET.png" group-title="CANAIS: VARIEDADES", TV SOL COMUNIDADE
 http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0a461c7b42c873e2b9643b3a4082dc87.webp" group-title="CANAIS: VARIEDADES", TV ONIX SP - São Carlos
@@ -257,8 +251,8 @@ https://tv02.zas.media:1936/tvonix/tvonix/chunklist_w684240460.m3u8
 https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w502273574.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IQWmGHN.png" group-title="CANAIS: VARIEDADES", TV CANDIDES
 https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
-#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a866d989c5bdf80ebf3d8cc759d8e13b.webp" group-title="CANAIS: VARIEDADES", TV CARAGUA SP - Caraguatatuba
-https://stmv5.samcast.com.br/cesarvieira8491/cesarvieira8491/chunklist_w1234181934.m3u8
+#EXTINF:-1 tvg-id="https://www.caraguatv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a866d989c5bdf80ebf3d8cc759d8e13b.webp" group-title="CANAIS: VARIEDADES", TV CARAGUA SP
+https://stmv5.samcast.com.br/cesarvieira8491/cesarvieira8491/playlist.m3u8?hls_ctx=i32l4r44
 #EXTINF:-1 tvg-logo="https://imgur.com/fmGNohE.png" group-title="CANAIS: VARIEDADES", TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/L2ib2Mg.png" group-title="CANAIS: VARIEDADES", TV OMINDARE
@@ -267,35 +261,23 @@ https://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist.m3u8
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w1992804748.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rLGrmCU.png" group-title="CANAIS: VARIEDADES", TV SUL DE MINAS
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
-#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/167fb2c4fe0c7401c3f26447702b2730.webp" group-title="CANAIS: VARIEDADES", TV CAMARA SP - Mogi das Cruzes
-https://tv02.zas.media:1936/cmmc/cmmc/chunklist_w866693997.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/F66Mq8p.png" group-title="CANAIS: VARIEDADES", TV MAIS MARICA
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FWYjaed.png" group-title="CANAIS: VARIEDADES", TV GRANDE NATAL
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hBw3n2j.png" group-title="CANAIS: VARIEDADES", TV CN AGITOS
-http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
-#EXTINF:-1 tvg-id="https://allegrowebtv.com.br/" tvg-logo="https://allegrowebtv.com.br/gallery_gen/13a06f20fe8dbf05111d4cd51d867825_346x346_fit.png" group-title="CANAIS: VARIEDADES", TV ALLEGRO
-https://video05.logicahost.com.br/allegrowebtv/allegrowebtv/chunklist_w1581480011.m3u8
+https://s1.tvr.ovh/cnagitos/cnagitos/chunklist_w223189952.m3u8
 
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://imgur.com/hFkrSZD.png" group-title="CANAIS: VARIEDADES", UTV PR - Londrina
-https://video05.logicahost.com.br/utvtv/utvtv/chunklist_w323582028.m3u8
+https://video05.logicahost.com.br/utvtv/utvtv/chunklist_w612288830.m3u8
 
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png" group-title="CANAIS: VARIEDADES", VINTAGE TV SP - Cotia
 https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w1811945893.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/274cc93fe150f046c1d083edaac1a60f.jpg" group-title="CANAIS: INFANTIS", 3ABN KIDS : Internacional
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
-xxxxxxxxxxxxxxxxxx LISTA IPTV-BRASIL-2025 xxxxxxxxxxxxxxxxxx LISTA IPTV-BRASIL-2025 xxxxxxxxxxxxxxxxxx LISTA IPTV-BRASIL-2025 xxxxxxxxxxxxxxxxxx LISTA IPTV-BRASIL-2025 xxxxxxxxxxxxxxxxxx LISTA IPTV-BRASIL-2025 xxxxxxxxxxxxxxxxxx LISTA IPTV-BRASIL-2025 xxxxxxxxxxxxxxxxxx
-
-
-
 xxxxxxxxxxxxxxxxxx LISTA DE TERCEIROS xxxxxxxxxxxxxxxxxx LISTA DE TERCEIROS xxxxxxxxxxxxxxxxxx LISTA DE TERCEIROS xxxxxxxxxxxxxxxxxx LISTA DE TERCEIROS xxxxxxxxxxxxxxxxxx LISTA DE TERCEIROS xxxxxxxxxxxxxxxxxx LISTA DE TERCEIROS xxxxxxxxxxxxxxxxxx LISTA DE TERCEIROS xxxxxxxxxxxxxxxxxx
-
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/73crmZ.png" group-title="CANAIS: ESPORTES", SPORTV 2 SD
-http://saga10.pro:80/345715/562156/2909006
 
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/CaPuNh.png" group-title="CANAIS: ESPORTES", SPORTV 3 HD
 http://saga10.pro:80/345715/562156/2909008
@@ -327,9 +309,6 @@ http://saga10.pro:80/345715/562156/2909036
 #EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS: ESPORTES", PREMIERE CLUBES SD
 http://saga10.pro:80/345715/562156/2909037
 
-#EXTINF:-1 tvg-logo="https://imgur.com/8Vr6580.png" group-title="CANAIS: FILMES 24 HORAS", FILMES AÇÃO
-http://saga10.pro:80/345715/562156/393029
-
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/7rKF8E.png" group-title="CANAIS: FILMES 24 HORAS", HBO 2 SD
 http://saga10.pro:80/345715/562156/1263046
 
@@ -338,9 +317,6 @@ http://saga10.pro:80/345715/562156/1263051
 
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/Cv1K2x.png" group-title="CANAIS: FILMES 24 HORAS", HBO FHD
 http://saga10.pro:80/345715/562156/1263045
-
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/Cv1K2x.png" group-title="CANAIS: FILMES 24 HORAS", HBO HD
-http://saga10.pro:80/345715/562156/1263044
 
 #EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/AQoYT1.png" group-title="CANAIS: FILMES 24 HORAS", HBO MUNDI HD
 http://saga10.pro:80/345715/562156/1263053
@@ -461,12 +437,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Cocoricó | link 2 | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Geek e Tech | Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", Geek e Tech | Pluto TV | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="CANAIS: INFANTO-JUVENIS", iCarly | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -942,8 +912,8 @@ https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="CANAIS: VARIEDADES", Rede TV | PR
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="CANAIS: VARIEDADES", Rede TV | TV Arapuan | PB
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 tvg-id="https://tvarapuan.com.br/2024/" tvg-logo="https://tvarapuan.com.br/2024/images/site/logo.png" group-title="CANAIS: VARIEDADES", TV ARAPUAN
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w222196156_b2128000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xXS3GTp.png" group-title="CANAIS: VARIEDADES", SIC | Portugal
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
@@ -980,9 +950,6 @@ https://5cf4a2c2512a2.streamlock.net:443/tvmax/tvmax/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EhJNGIy.png" group-title="CANAIS: VARIEDADES", TV Metrópole | Caucaia CE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dlu9pzj.png" group-title="CANAIS: VARIEDADES", TV MilAgro
-https://video01.soultv.com.br/tvmilagro/tvmilagro/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lSuo08k.png" group-title="CANAIS: VARIEDADES", TV Nova Nordeste | Grande Recife PE
 https://acesso.ecast.site:3675/live/novatvlive.m3u8
@@ -1083,8 +1050,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="CANAIS: CINEMA", Cine Terror | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="CANAIS: CINEMA", CineMonde | Soul TV
-https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
+#EXTINF:-1 tvg-id="https://www.soultv.com.br/" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/LOGO_fTt5hKq.png" group-title="CANAIS: CINEMA", CINEMONDE
+https://video01.soultv.com.br/cinemonde/cinemonde/chunklist_w2145278711.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="CANAIS: CINEMA", Ficção Científica | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -1179,9 +1146,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988a50b
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63988a50be012600070f5db3/colorLogoPNG.png" group-title="CANAIS: ANIME E TOKUSATSU", Yu-Gi-Oh! | Pluto TV ~ link 3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63988a50be012600070f5db3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="CANAIS: CINEMA", Soul Cine Clube
-https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="CANAIS: CRISTIANISMO", Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 
@@ -1239,8 +1203,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", Natureza | Pluto TV ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dUdZVhT.png" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", Phoenix TV | Soul TV
-http://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
+#EXTINF:-1 tvg-id="https://www.soultv.com.br/" tvg-logo="https://i.imgur.com/dUdZVhT.png" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", PHOENIX TV
+https://d14vd6r4ppsx57.cloudfront.net/media/channel_videos/Ao_Infinito_e_Al%C3%A9m__SAP_Concur__Phoenix_Technology__1080p.mp4
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="CANAIS: EDUCATIVOS E DOCUMENTÁRIOS", Smithsonian Channel | legendado | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -1541,10 +1505,6 @@ https://goo.gl/mpEdJa
 https://goo.gl/zHXdV6
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/lySW4nkzn7durlfx47yFHxJ6921.jpg" group-title="CRIME | DRAMA", A FERA (2017)
 https://video.wixstatic.com/video/db47f8_14f015de103d489189e90987fb55de55/480p/mp4/file.mp4
-#EXTINF:-1 tvg-id="http://vouver.me/" tvg-logo="https://image.tmdb.org/t/p/w400//akuPc5iMWToEZG4OGZ9coZlIpU7.jpg" group-title="CRIME | DRAMA", A FERA (2020)
-http://209.131.123.168:8080/vauth/57314.mp4?token=Kh07qeQ454xptsF5to9d31AYT6isQWPMjaPGd3aIgVrg6sXOb6WWj9-DuoGNFgBFPiMXbc0GvOQNYz9ufAlUm-4g9blgEHREt5yhcCwMJUnbJC3XNV9lttZQ7x8KXDzbaPy34zksaNaX7CHEREHBi5LzEcyji80a427wxV1mwy1DDW-NtRDjNtMotGFCqz36Ih1dUvlYyHslEdK66KB26c12Ld_wdsWJQjek3iDuhi4i9Iedpz410gh2ZJ2FSIEgea2dmT1Y9lu4zfcVBXE52gtxglCmbvlIpC3qMx-oNwPIHi3veJKx9hbhlsew82agjAp4Sz0AG3OGZfiJ30PkJuKwUyaQkH1SIAYJ1c8omrmldoxX068lr7KA7FZv0ho-GRgNoFzeoji-oyn0yfDUmMzkWNKaEFpMtMYTITev7ICvzW8POIZSrEuSC_VWQyTueZCA369SEbZseirjSht7Dk1pO-OvaxePKjTYuHThWDu-gg3LInNfNTjMrQBlhsu-SX2YW6EPFBSrAKGtr5Rc5NkeWyiAYia36JeBQP34_DIEHUGxPvx0mQDRXJcRpEKD9NUwC9iysOLse02-LLM0b2aV1o73cBENTj6GFg_CfYg
-#EXTINF:-1 tvg-id="http://vouver.me/" tvg-logo="https://m.topflix.vc/images/poster/330490/182343648.jpg" group-title="AÇÃO | DRAMA | SUSPENSE", A FERA (2022)
-http://209.131.123.168:8080/vauth/125482.mp4?token=8hd23bfhwBiCGmlXxL-xOcieFjNt-Lsb2u_Rvo-SBqsMukWA--N4wEWGbQ0tiHUYHtQfJ_jJZhkqI23AgYqJ3M_vkZJdFeG_p3MDHj0HRiVWU_Uv_Ju0DDWjSc3JFlwVnn0lttyLGT93a-lO8oBpj_8BsorDsoqiEnIilEvrasJPz75FIW5o--HrkS1IaSpPW3L6tu4g5N81EjIItW04WI5H04j6gZdX1JybYNZL7vFuhY56GBpj3ZJ8uKnjR922VboSgRIOo-SX0VIS237cxNfhOvkLDzECZLuLAPKC8-hSUiYJxBL5W7jgTC3oF9QHlBbao39CmbGIEj6fusW34_XVOYfVIg6-449vLCGpuJb-8X5z1WHV17enhEY8wRSRju0TH3nJuqd5GqzFF8nhS7CLTXr36N2nlDF7B2UeFS2VMEm1grnFjG4mBTjrR9K7KKP5sn2gdDSD5AHMNf_qfsVs0T_BLewr8gUhFcJxSCN7LrDOO22inZ9AOcinVqQfTPzh20O-r8aQoCQdPMmP9JrVHNiG4sS2NpSpdF3k27TCwGeoeSjynjx2YUtk936ToU5AUulUUc623Y2Xn2DZqq4sHEfO-jjEc8fFrKfKNwA
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://image.tmdb.org/t/p/w185/bSqpOGzaKBdGkBLmcm1JJIVryYy.jpg" group-title="SUSPENSE", A MÁQUINA INFERNAL (2022)
 https://sempra.pro/a1/out/6/6355/6355_the-infernal-machine-2022-1080p-web-dl-dual-5.1.m3u8
 #EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://image.tmdb.org/t/p/w185/k2Uvqj0oiwjEprdIL6YDt06v7UQ.jpg" group-title="COMÉDIA | DRAMA | ROMANCE", A PIOR PESSOA DO MUNDO (2021)
@@ -1553,16 +1513,12 @@ https://sempra.pro/a1/out/6/6536/6536_a-pior-pessoa-do-mundo-2022-1080p-bluray-d
 http://209.131.123.168:8080/vauth/128074.mp4?token=rPcIEEPAR7o3ONPusae2fNg8vFav72LjvwOrZaXy7z5OCgs7NLZNiesPWwsfmFEb5ARg3iZyIUqugwcwhxBzE0VddXg-YyzQ21We5wA4tdJbzdn9fJj9msfDZrqYayUDbao8T_T4MYIvCGc2wsRDK_XIelPyGUmT-qBeX5IF8GFw8kY_sidNwQaVccVczUhjld60Cdt_Lh4STyDisTDH1Ikip6LAb_Qwuuy87vYKrGOyrp_tODYduSULqVItSIdhhGfmKmbh5YR-jmH-Yrv05D2m6LELH7nxdW3uAzt2hfqsbnP8W-IbEGi2UsnLmyKYDxmagdg9eOZ8-To4W6bZVL1FZbI-70-be6ApXJfBqGgHTGBkGO0tO_Lq0liiAJok8iEkxCKyUNTokMFKySCf0n3SHx6qR8yAAxjRVLuEUNkSk-ydwzAKau8DLVGaJCLq-DjNPn6lAU3zPY7vmn38VeSMjRfesVMrF9Hnx1ME2avvatlff5UoKkg5GSm033p6ND1YSAX5hDd8Brz08_bXl4FNvMFawqFasNPtzxayRMrjBFi4Z1jt9bKXvLB3h8X8432fFcOptg5Mrxf5lrjz_Gk7m3uB63rJHjfHQFafxFM
 #EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://filmessgratis.net/wp-content/uploads/2022/11/gVFwfzPXfUcRI3mpb6rSX1LYtMj-90x135.jpg" group-title="DRAMA", A ÚLTIMA COISA MARY VIU (2021)
 https://sempra.pro/a1/out/6/6209/6209_a-ultima-coisa-que-mary-viu-2021-1080p-bluray-dual.m3u8
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://www.interfilmes.com/FILMES/16300/16328/fotocapa.jpg" group-title="TERROR", ALMAS DESESPERADAS (2005)
-https://video.wixstatic.com/video/9283ac_d068573a31c84e7a9a2404ae4f6fb768/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://filmessgratis.net/wp-content/uploads/2022/08/blWUQPSyv4vWJ8S8MS9lU9BD9Mf-200x300.jpg" group-title="SUSPENSE | TERROR", ATÉ A MORTE: SOBREVIVER É A MELHOR VINGANÇA (2021)
 https://sempra.pro/a1/out/6/6479/6479_ate-a-morte-sobreviver-e-a-melhor-vinganca-2022-1080p-bluray-dual-5.1.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="" group-title="DRAMA", A ESPERA DE UM MILAGRE
 https://video.wixstatic.com/video/db47f8_6f7b0dd1696c4ad8a18fc3b2a0462b54/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/210/284/21028484_20130814221511175.jpg" group-title="SUSPENSE | TERROR", ARRASTE-ME PARA O INFERNO (2009)
 https://video.wixstatic.com/video/db47f8_21e967e270b1444ba557d0ba6d7cae36/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="http://vouver.me/" tvg-logo="https://pobreflix.org/wp-content/uploads/2022/02/lQHfOaggM8xjvgGvZHpFPYXduRE-150x150.jpg" group-title="COMÉDIA | DRAMA", ATRAVÉS DA MINHA JANELA 2022
-http://209.131.123.168:8080/vauth/108328.mp4?token=AHrEgz1OEqMV2TE7NeD24Wtl87ciTfMM3LwKBAG5fv-pZI0UG4Vivwb8mZkZm9UxPJsrYdHQSTXaiPzvGgEyYzbHhdgK3aRVtdWPoV9l5QtDRZ4_7RITue2nfeiPoNY8tNQeEB5eump_QewFfUiOUX9qZGf4XcMztQinwGWFnh5OZu9WjvC_O5JUuq2UW3FVxATP2ruW6WW4RS5g0Bjsp344vYSAAp0khbY_6OuewCFTuzgYKacSAkCp4Gynn65bGvssSGZUppW4Fj5WcZDy22wdOHKQXkOQMh7IeayacWRzxa3hurrfB2V1BV_IHC5fjnxfVI_OEfbBj00RhQj58NR6S_5cd17_ayZhXt6BdHErdW07kaZ0xaAhxdiWYVI8K5wApL9Cwz3kj9rYTKdh7r3nBKvxvwX-AV-oBgOrKz-1uRf76jXOMoNE77WubGWl7-UlMt7L6uwZyBhSlU0SOq_RbkE7xLPgNPW2kKtLMvLZndRAjpfLpYx0ZZQs4dfmenNpqOlVc1-1tOXMzOOdiBZeB8PNsC7rQKjAeV5XTptatsDYi6X-7yeVqkNzgk337qyGIbPLRdvQvwB5bxWolkXlb-EcMlRMNYgK3chE_OU
 #EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://topflix.studio/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iLxVIZC2x15PNO2lAoGaqfmsQ6Zyyae3o7m1-0XafMiMTysVPxY82WvUzIzd11IEww.webp?w=370&h=556" group-title="COMÉDIA | DRAMA", ATRAVÉS DA MINHA JANELA: ALÉM-MAR 2023
 https://sempra.pro/a1/out/6/5288/5288_atraves-da-minha-janela-alem-mar-2023-1080p-web-dl-dual-5.1.m3u8
 #EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://topflix.studio/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iMQGt4ui9_x1WgQrid53Q7yv8lciDz6id_YEmtgy4AsWHyYHZkflVyApqlMLexFhCA.webp?w=370&h=556" group-title="COMÉDIA | DRAMA", ATRAVÉS DA MINHA JANELA 3: OLHOS NOS OLHOS 2024
@@ -1575,8 +1531,6 @@ https://sempra.pro/a1/out/6/4995/4995_a.anfitria.2021.1080p.bluray.dual.m3u8
 https://sempra.pro/a1/out/6/6010/6010_a-maldicao-despertar-dos-mortos-2022-1080p-web-dl-dual-5.1.m3u8
 #EXTINF:-1 tvg-id="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w300/zYA2CL0ZCItnOv1CJoza8IOSvek.jpg" group-title="COMÉDIA | CRIME | SUSPENSE", ASSASSINATO DE ELITE 2024
 https://watch.brplayer.cc/stream/bTN1OC8xMC85NTY1ZDk3NWU5NTJlYzIxYWU4MTMxZTA1MTMwMDM2Yy83MjBwLzcyMHAubTN1OD9pZD0xMzQxNg==?s=1&id=13416&cache=1
-#EXTINF:-1 tvg-id="http://vouver.me/" tvg-logo="https://media.filmelier.com//images/tit/28458/poster/the-wasp94039.webp" group-title="DRAMA | SUSPENSE", A Vespa, 2024
-http://89.222.120.69:8080/vauth/252312.mp4?token=hmrhvJ6OBsS2xGWczJKHHmFZUNyng5Zy2OdXAGVhBAdQb_WN-TW-YsttlpDOBnaLo64AVE_7TmEueh2ViPfTElhfMWRN50jP98jJRGvCEdsgfkqOAC5cmN-uuo_Ifq-FV8DYL5Gpymneci_nQtnP8nqOlyI5Unq1052i06VOl2jlGz9ZG-HjX1GIz9JZxinx5jRwb0cgxP0rhyDBXMZ3tArLW6L778-2x9airtkS8tPmMzU-dgfMB_bFAWwAWgs3AWnVizLoz8AnP-MaX8IoGnPuHLiTeTb-Vx3G3FhHKW3DdwI2DKDYyFHZiXU3NTabJencHkkqmvyhtPStEMua_cANDTqG5GpIfzR6flZERhehWC1c08tJYFblKSa9bf2DxgdN4n0ZPx8ndGre6sMSFDJLqvYRRjUPakRIszuZ-F-METRZd8puOe66qFuswTwNLXA3IMi-3CxnQlco5RKcwnKmsfS-gV5D6tnBLPbmjz9y0Bhgo2BCcowYiABkaBQwH6OsRL-m_5wSkGJe9jswkj5U7PjCLI-qkb47REDCpIfsThWObIGeOg7fe_68kmzrSX2ly12BZo-kuvO1LDww6k2BkcRaXZi72Hm-m6QmAas
 #EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="https://media.filmelier.com//images/tit/112607/poster/dirty-angels57165.webp" group-title="AÇÃO | DRAMA | SUSPENSE", ANJOS DO DESERTO - 2024
 https://leoncio122243556786.s3.us-east-2.wasabisys.com/deregodego/ponbola/firm/1/4nj0sd0d3s3rt0DUB.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=SUJTRIWPOA64D2ELD2K2%2F20251202%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20251202T223246Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Signature=bc7cc312d230ec9f9b7440522bd649af2439b20939e0d42b42d88fa274f3973f
 #EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://topflix.studio/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iGOA1Casn-6Mip3TV7C1btQqN-dHbEHi_n8sMu-w75_IAZsRNjjkiKDAvnz8ddYMzg.webp?w=370&h=556" group-title="SUSPENSE | TERROR", APENAS CORRA 2024
@@ -1589,10 +1543,14 @@ http://89.222.120.69:8080/vauth/340240.mp4?token=n_vnywPJR_dHBqlFAv00E9akDEd5j8r
 https://sempra.pro/a1/out/6/7006/7006_a-sogra-perfeita-2020-1080p-web-dl-nacional.m3u8
 #EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmI5Y2JmNTItMmRhNC00ZjcxLTg0MjgtYzVlMzA1YzhmMWVmXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg" group-title="MISTÉRIO | TERROR", A HORA DO MAL 2025
 http://89.222.120.69:8080/vauth/328884.mp4?token=hDy4wJ5BNVZ9IA4Jn-lo82eQTudt2jUw0xdgnlWxaGqG2ZHLSHBJbRuT2VD25wNmNzNSGAG2lTbQ0nCkHA7Uj0bQJ7s-oPRusb8X5JuFEDkfBbf90k65fSB8h9iwAL-4SKDlmr13Do--f3pGteLX8IFF5Dv5KDsVB9m5MXCe8smXn-Onz9ldiFM0_TWB_KmxnNBqDn_j02oYvjevYXfIrlsWsMqc0PSORfzb3uPux4qGDLR_M4lV2rU1yyT3mRccT5pwjKUocYpElvC5WCM1X0Swuq9-3yXn6Ul3UT_cyw71Mdv-OVS2NXKu1cHMpGNSvmLTePIPMFqtiTMmi-Y0xqX8SonNr275XnVKnIZULDeTPlEaVr_7b469kHfq0Is-CAE05tZXPSUdCF8P2_tgmjPZnyQzNiwTLNQ0o7lwMHSmcP_3h8CYiUHva7N5TbN2wifVTczXtDEmrFeyKzI8mQhDC5LGQuY78Z6rA3B9FbjcHWpSAgk3N656HWjj_1fhRbMzF7msUplgmm7MT2sDcShLrfIiipxSGLOKe6Y4jple9f4fQ2enXdKHpN4zEnRPw_7i6RpsJKClKe4HCYf_mT6aD2qRgvlog4_Rm6WSDhc
-#EXTINF:-1 tvg-id="http://vouver.me/" tvg-logo="https://topflix.movie/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35Zoeb4VaL9hlzDU9mCiN03s8jALtU3tN5HShWmM-p21DvSZX7PAeFoqK0901yJyYDsxHdCUYMBQdhJtpclQOPXpQ.webp?w=370&h=556" group-title="MISTÉRIO | TERROR", A HORA DO VAMPIRO 2024
-http://89.222.120.69:8080/vauth/242695.mp4?token=OCZr51wNNUP7KxUZtNE4iDahCWx1ceTCwaBjqqSoVbX5FUgyCg328_l4U1SKWI2RaZkYg72t2WrJRNzim5xLPCgqHgDT7Rsjw44RYs_c-P5XbG7_fLSuKH_8QT5SWdOl3lG-6KcoCMfyVI90fwSiYMH6AUi6ZRpx8vb8jIFOyLHqiUV8QECI9JHyCx_QR-wjS4XVMrSOqqKm4GhVVHMD9Ptw7WQGolORf-F50OkI-a5sS4-ITbaVZ5aU4ZUrFjk_m9eGvYQ8UuO1ZIudq0zSNUwL2sH-e-rkEDHM4iXTgXHba4hFNTmHcRvYS-k6KJNV-TpArLkYhSFFosNr6oITErmoqcZkp2Jwm2mLGuIh3PMT3-g6X2TsMtISoltZDTy6AG-Gd1l2vm5EEvKXYmx_k8lv3VQ_HxMsRmlh0QcE_hX1bh09CoFERXihxuxxvl0JPD_z8LEU8oG-74OWyhW1_yvohpoK2XwWprX_2n98TK1IWCb_ODH34OAgVwbJi-lkhoGmmcYx8zyqIQEJ-YAP11tbrsFGFMrL5te6pNmwqiN2g0UfSrfoDQnSwCJpd5nTQQRhhCyQ_AwvVZvB6Ou4-nrvf9PQ1NDl_lBcaDUxx5E
 #EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://topflix.movie/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZYVaIhXHL4HZwYYY14hR3QjDBjAjClWvvMPzqiuinnWU.webp?w=370&h=556" group-title="AÇÃO | FICÇÃO", ANDRON: LABIRINTO NEGRO 2015
 https://sempra.pro/a1/out/old/6/550/550_417773569andron-labirinto-negro.m3u8
+#EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="http://cc90.one/QOV8" group-title="SUSPENSE | TERROR", ANIMAIS PERIGOSOS 2025
+https://sempra.pro/a1/out/6/11466/11466_animais.perigosos.2025.1080p.web-dl.dual.5.1.m3u8
+#EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="http://cc90.one/QOV8" group-title="SUSPENSE | TERROR", ANIMAIS PERIGOSOS 2025
+https://leoncio122273556786.s3.us-east-2.wasabisys.com/deregodego/novudo/firm/1/4n1m41sp3r1g0s0DUB.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=SUJTRIWPOA64D2ELD2K2%2F20251204%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20251204T225505Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Signature=1d3ab1ce533a67b447dcf2775d4b7cf9375650d8b1683c1249137f10556f38eb
+#EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="http://cc90.one/QQG6" group-title="SUSPENSE | TERROR", ALÉM-MUNDO 2024
+https://sempra.pro/a1/out/6/11530/11530_alem-mundo.2024.1080p.web-dl.x264.dual.5.1.m3u8
 
 #EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://topflix.studio/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35Zt1jtspi44Q-qG93LREMzs2Ob2sj9YY27_ICAFQ4uKYVS-EtjK1QHoRKwqN43P0w1BvWO9xL3JSyFeMkKFGXDGQ.webp?w=370&h=556" group-title="SUSPENSE | TERROR", BEEZEL: A DEVORADORA DE ALMAS 2024
 https://sempra.pro/a1/out/6/10899/10899_beezel.a.devoradora.de.almas.2023.1080p.web-dl.dual.2.0.m3u8
@@ -1618,20 +1576,16 @@ https://video.wixstatic.com/video/834009_f8ceb18d0b864c2f8f06b898fb5b5a7c/720p/m
 https://www.googleapis.com/drive/v3/files/1_VZnvg8dpFA5ZlJNQDk2zv08id68dPFc?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
 #EXTINF:-1 tvg-id="https://gofilmes.me/s/" tvg-logo="https://image.tmdb.org/t/p/w780/qcquSEEdkKeXDmyKvrAKWznk2Cs.jpg" group-title="AÇÃO | AVENTURA", BEN-HUR (2016) 123min
 https://video.wixstatic.com/video/834009_bd7a5c3b64c441e8b7df7866e8ccf3b5/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="http://vouver.me/" tvg-logo="https://image.tmdb.org/t/p/w400//iGZX91hIqM9Uu0KGhd4MUaJ0Rtm.jpg" group-title="AÇÃO | CRIME | DRAMA | SUSPENSE", BATMAN: O CAVALEIRO DAS TREVAS 02h 32min 16/07/2008
-http://89.222.120.69:8080/vauth/328785.mp4?token=hDy4wJ5BNVZ9IA4Jn-lo8_MdPepTufR-p3nz6OYTF1QdduBDOY_leCe3rrntIj9T5Sv4dc1oXtzUJF3x1vahuOQ8EgbJmlv1MBOfXC0LVJWA4msZalNStR5gKcMkxmccLGU0tu143ta6fsq7qcZsmS9GPB_enQPyTC_vS7ZVFeKJSnJrq93nch_EDWf1Kjob0mWH_-RASUEAxW6qepjsWhPCBRHMLVtJSCixfj6n10B3EGhoxncOwoMHlQ7YIsbiyply37IXPAZuK37fck8NqG1jr7_HhZ5i1kuHsKEyi8kt9yqYD-vxZFLw-szGK6ET88lnDAA6Qch5KH72EF1fJ7a56v5WnPONltI4MsegJXVbrUjU-SMG0V7wuWS_qKmDU6AGg-_HH0kkxuQlXmme_Qfp8vojBnokQqjtVpkiovYRGFaWWoXJbMfs3s3gIa1lWc6AjxqfCoX6MiniK1vTGmNkMouGOn_ZzF308Dorh4vVF96PMmzGf4_5JpMqgdz7yGNJoyYokvNBIL46N81wqMfj8F2zPtjs6GHHZFY60DzP2IYci_lKuyxJzzzsg4Kkzo9TUaEOG8t2UgBDU2xrILmoom1KN0lmYbzMG42v-RQ
-#EXTINF:-1 tvg-id="http://vouver.me/" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video128/v4/d1/71/5d/d1715dce-1d5e-583f-1146-42cc0e3a7717/contsched.xdvvptaj.lsr/268x0w.jpg" group-title="AÇÃO | CRIME | DRAMA | SUSPENSE", BATMAN: O CAVALEIRO DAS TREVAS RESSURGE (2012) 02h 45min
-http://209.131.123.168:8080/vauth/4019.mp4?token=gP58ejj3YbdI_Pb16PV-v1juCCIvOhevejkW7nbhmvQz6aKLHolUiFpUggM6LAE0bKw1Lgcx1P626lKsdaYvRBzq-K7-_Cd57ZIaW8ag6S4W4taripWl4C-roiv89iY5Ml2dRE_wnfl9W5knDend2MvVcLyZt8fKtbUoUyemHYyh8Wby7Ev_45zcSK26N_ze71mWpmvAIy_oy7KDepu-kjcKfdxzkhS9hJH59tPpF7bBcnLpU-BehMPEd0g20E7TAeVVs5qCETylyShCKLL_V--wGdY_0xlfCaVFxG8_kH0loMmFRyZr-jqAEuBllGJa83Xec85l-xITKq67LKFqDCjBTeru9Qcgq7wGRYCIAtGUGV5BG3Q-mfzmtB85erTPxCrGkF6c_lb-ZL9fndxUUUoErLFyFXS-qv1aBPKidS8kXvsAVjALNXjt9JCsAImYoDxTxS-gZiZkKJYHRR7QpSD1S2fAzMAH0ySPrfijH1ah7D_lXzWP6Kb2SQV_y9TnXVnWpKu7ZrCRk4xapSvtRqr2enLvsEyWmfa8vt1_R7Uo2n-TQtZi_4MQBhi_f53FhE2eIlxqn4KQPLlToA3tEg
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://ultraflix.org/wp-content/uploads/2022/08/3VFI3zbuNhXzx7dIbYdmvBLekyB-200x300.jpg" group-title="AÇÃO | CRIME | DRAMA | SUSPENSE", BATMAN (2022)
 https://video.wixstatic.com/video/b00560_76c510c417d746bb98155a7a30578a68/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://pobreflix.org/wp-content/uploads/2023/07/iTGBHdL12QEpLyRVlykDuiYxzAG-200x300.jpg" group-title="DRAMA | SUSPENSE", BIRD BOX BARCELONA (2023)
 https://sempra.pro/a1/out/old/6/2777/2777_dub.m3u8
-#EXTINF:-1 tvg-id="http://vouver.me/" tvg-logo="http://cc90.one/PGC0" group-title="F. CIENTÍFICA | SUSPENSE", BRICK 2025
-http://89.222.120.69:8080/vauth/317323.mp4?token=rMym9PHehz-5vcFm3hEkaJdTpR18lhgeeNvZHEyGr9nkerRirfmNpytKKPRtuQdm3zGIhe10evb3yCOlBFeCtCtlMsFnQr1jlDgxB8bHUdfVMQafutdNjJCflyG0mVdToe4e5hBREXPY603VV1SVB5L3AduRoZDzKY-dKsrbjltsU6UDTG8A04cNAvcSHIGkQsO6BLKb3DRLMOYOy-ovW8nErCbBjBBWFJ8pDYN5uMq41KJKKh80g3bCJqqkC5CI9yKsUOBJGLnLEBM34Z59bzs40XFLkiH73ehjLGZq4bGB_nKSMurVqKO9Wzu0KYXsv3fx5wuKMl2cxUePMwCakKC_ZhFiyz4RebbNnqPiBoZl2DhnFrF8TUv5Z_IBL6_XSEsJCnzgsSB-BEd2DnLr60tZ-QnjPNiV2o8XVdLdLQPwa4UZSrlDx4sfkea0_9-VyFEwe3ygo4XPkwwMGF64uNix1YPy4SrGULbMS0z4UWfJd93tljhNveOUZYolrsg0ffJcSj_DwQI3Nev60N9tPJEc71oeL1nNFPXt8OaJWRvqMfu54PCQ_QidTlO1ze-To1f5ngajYjpwVnZmfHe3WR5_h7sLI_58uCBmWzfgvBg
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://topflix.studio/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iNRyo0WEUUvARiWy3q4GEBuDx0J0GM7-vJwyjs-4mHj4n7ILN9Fq2aNemGPL9gmnbQ.webp?w=370&h=556" group-title="AÇÃO | DRAMA", BANDIDA: A NÚMERO UM 2024
 https://sempra.pro/a1/out/6/7476/7476_bandida.a.numero.um.2024.web-dl.1080p.nacional.5.1.m3u8
 #EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://topflix.studio/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iLEHIuAzjGgrpwrSP0XaktF-OkPV1hazJ8y1AOcnhUIDAfViev-A_mmBHh8W9wDf-A.webp?w=370&h=556" group-title="AVENTURA | COMÉDIA", BATALHA DOS ZUMBIS 2013
 https://sempra.pro/a1/out/6/7532/7532_batalha.dos.zumbis.2019.1080p.web-dl.x264.dual.2.0.m3u8
+#EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="http://cc90.one/QOV6" group-title="TERROR", BARAMULLA 2025
+https://sempra.pro/a1/out/6/11469/11469_baramulla.2025.1080p.web-dl.dual.5.1.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ANIMAÇÃO | AVENTURA | COMÉDIA", CHRISTOPHER ROBIN
 https://lh3.googleusercontent.com/V1jodOPNkHqwuEj8aYmx7N2UXDw4d0-k1duVo1puuVu9Hbb6M_XDo9tAXtbXY587rWAqKp8yYf-SXipeoWsp4rI0E_-H8ZT4t8Cc3GSEWe1PjkTFIhGcNaSR5CsBBy_kyjCDeklS-w=m22
@@ -1675,8 +1629,6 @@ https://sempra.pro/a1/out/6/5668/5668_creed-iii-2023-720p-web-dl-dual-5.1.m3u8
 https://seed200.bitchute.com/sjwe9KN3jgME/bPlPjPLzPHY.mp4
 #EXTINF:-1 tvg-id="https://www.bitchute.com/" tvg-logo="https://image.tmdb.org/t/p/w185/pm1sZsTjZ5e9buaxlbk4jYOjjUA.jpg" group-title="AÇÃO | CRIME", CRUZANDO A LINHA (2021)
 https://seed122.bitchute.com/SXLutSwJ7rhx/36GF8z2GTYgL.mp4
-#EXTINF:-1 tvg-id="http://vouver.me/" tvg-logo="https://superfilmesonline.pro/wp-content/uploads/2022/10/Convite-Maldito-2022-214x300.jpg" group-title="SUSPENSE | TERROR", CONVITE MALDITO (2022)
-http://209.131.123.168:8080/vauth/126470.mp4?token=kQtQ1wgM9rqWEH5UvjfVt23vmGuf7A-7LfBwB8JLepO-g_UeERYtf4A4iOBkh8lqvAe_Vdz1a9GkAfjwRdTCVumOek-732Hd8Q9pTYHmxVO7NvJaH3GCtkmGFeGEoWP4m1Kfq7_Dl1OOeWURL2jnszADaSDBBF9D8NlNI6q9ng_JUuTO-WOEGXOT-g4iglUs3kD_BYHtSdh8khWxkrQv2L6u1FoEAmWp0WTjOvYpjthK2mqOQqoMbZAsTa0fYxTGDckunJ6JXgSxxCCcF9b_dqkeuP2qTgInonEZR-Db9twbsCEjYelwMBJgEnVNtiLNqErEgtTTgJzmndJob_QI58MjlLJpmaXw3b-EO2GCclqMyEbtlIDq2nxN8DdYlj7SX3fnUwOYB6RNpRYUR1krcYnMbwYBVIFN3TBVkEbZix8yTOqaS4WhuWpDAlio8qOBfO5Cc6ehxCmP-XFxWHasyU5o5f5FFhFjpVKjneoqe-Jy06knzdfkuZMovvzuaBkYvwARRN5KBwmcySZQeN1WmlGKcsQt4h9Sn6IJVfgvV0UfAZsOiWFFkE21bJ_4LBViwz3aFj-tfWqPLlrbO8szzdIDHuauuUTstl7hvZIJNn8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/29EaYGTTJiUMHppAPEwhxqr7VjI.jpg" group-title="COMÉDIA", CASA DA MÃE JOANA (2008)
 https://video.wixstatic.com/video/db47f8_6488f25b3cf04ecd911e5dc61137f3c4/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w185/aYN8rACVHAASPMvt6r0UU5TmJMu.jpg" group-title="COMÉDIA", CASA DA MÃE JOANA 2 (2017)
@@ -1779,12 +1731,8 @@ https://video.wixstatic.com/video/834009_9afd962a12ee4aff93205583fd37bde5/720p/m
 https://video.wixstatic.com/video/834009_31d40b8e93ce47c5beca93a3e39a545f/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://assistironline.net/wp-content/uploads/elementor/thumbs/assistir-Eu-Daniel-Blake-2016-online-owedgrb9v2t7sltp30wtwi79s4y107mc1ceu8b1y2g.jpg" group-title="DRAMA", UE, DANIEL BLAKE (2017)
 https://video.wixstatic.com/video/834009_93b7f2c3ac3b4703849d0e982e18cfec/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://www.bitchute.com/" tvg-logo="https://static-3.bitchute.com/live/cover_images/DayJajJlKyQk/rHbSjpkl5rFsGoIlFfWLayry_320x180.jpg" group-title="TERROR", ENTERRADA VIVA 2 (1997)
-https://seed151.bitchute.com/DayJajJlKyQk/iZwYUtOfByNN.mp4
 #EXTINF:-1 tvg-id="https://www.bitchute.com/" tvg-logo="https://image.tmdb.org/t/p/original/a08IPpB6xnnXQOmPZ4WwLpeYIpl.jpg" group-title="COMÉDIA | FANTASIA", É O FIM (2013)
 https://seed200.bitchute.com/VuHB0tOYQ7Gs/ZJ2wQnKbzwIJ.mp4
-#EXTINF:-1 tvg-id="https://tv.kinopop.com/" tvg-logo="https://tv.kinopop.com/img/thumbnail.php?url=https://cdn044.fractalmedia.es/thumb/oA9ipdv4Ee_w640.jpg&w=200&p=1" group-title="TERROR", EXORCISMO NO VATICANO
-https://cdn037.fractalmedia.es/hls_adaptive/24c50df65a87be157699148780230f7c/oA9ipdv4Ee/720/index.m3u8
 #EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://tv.kinopop.com/img/thumbnail.php?url=https://cdn043.fractalmedia.es/thumb/NxtjTQe2qZ_w640.jpg&w=200&p=1" group-title="TERROR", ENCONTRO.COM - 2017
 https://sempra.pro/a1/out/old/6/587/587_249357414encontro-com.m3u8
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://image.tmdb.org/t/p/w342/28E42Ea3Ml3cjvUMHaSqeGYXBfI.jpg" group-title="COMÉDIA", ESPOSA DE ALUGUEL (2022)
@@ -1796,8 +1744,6 @@ https://sempra.pro/a1/out/6/5783/5783_em-aguas-agitadas-2019-1080p-web-dl-dual.m
 
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://image.tmdb.org/t/p/w185/aqUTMmzAmNgmr55U1dezPVTQAHP.jpg" group-title="CRIME | DRAMA | SUSPENSE", FIM DA ESTRADA (2022)
 https://sempra.pro/a1/out/6/6368/6368_fim-da-estrada-2022-1080p-web-dl-dual-5.1.m3u8
-#EXTINF:-1 tvg-id="https://tv.kinopop.com/" tvg-logo="https://tv.kinopop.com/img/thumbnail.php?url=https://cdn030.fractalmedia.es/thumb/7STkDjl8IV_w640.jpg&w=200&p=1" group-title="TERROR", FILHOS DA ESCURIDÃO
-https://cdn044.fractalmedia.es/hls_adaptive/3945ab0088008c419749d44eaff4df71/7STkDjl8IV/720/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AÇÃO | SUSPENSE", FÚRIA EM ALTO MAR - CAM
 https://lh3.googleusercontent.com/Gw_O-wDO4e-QWWQqEEPvm8pBMPzRAsgFw3MxwcjNHjDzuykXwNwtEOViIyoqDfDmw0lJsWq-fiMMACYShaY7R3uFnoaR6mh-JTQxaJy9rieys-Yb-kLbAn7m-mYglbE0t_IykC-zcw=m22
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/3PFEWKFqfZZoxDpJNceL6XKzsGk.jpg" group-title="SUSPENSE | TERROR", FUJA 2020
@@ -1818,8 +1764,6 @@ https://video.wixstatic.com/video/834009_94ec16ed703c47e88128f5079c6d5c92/720p/m
 https://video.wixstatic.com/video/834009_1098ae7c9dae4beea5ac8f3a4bfeb13b/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/mDdD4CedaLzDOEPqh3GYgtjbgCn.jpg" group-title="DRAMA | F. CIENTÍFICA | SUSPENSE", FIM DOS TEMPOS (2008)
 https://video.wixstatic.com/video/834009_1e76e5bbf7b94e938a1d9a1d488f48e3/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://www.interfilmes.com/FILMES/355100/355162/fotocapa.jpg" group-title="TERROR", FUGINDO DO INFERNO 2015
-https://video.wixstatic.com/video/9283ac_1b2124935951430f9f0cc5102345fe71/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://topflix.studio/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iKMkcEepZqg9yrKQK3upADnQHIy6IFi_OyAq1jl2-6CH68M903Ewqjgi1viv1qzDwQ.webp?w=370&h=556" group-title="AVENTURA | DRAMA", FALE COMIGO VERÃO: O DIÁRIO DE UM CINEASTA AMADOR (2023)
 https://sempra.pro/a1/out/6/4528/4528_fale.comigo.2023.1080p.bluray.dual.5.1.m3u8
 #EXTINF:-1 tvg-id="https://topflix.video/" tvg-logo="https://topflix.video/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iKFmBYbs91VJfgSReSMydEcNu3fEUH8Dm5RJhDUSdcTTZqsTOAkvIV6dOY9aY2Z3wQ.webp?w=370&h=556" group-title="AVENTURA | DRAMA", FEIOS 1hr 42 min 2024
@@ -1917,10 +1861,6 @@ https://sempra.pro/a1/out/6/7908/7908_jack.and.jill.3.2023.1080p.webrip.dublado.
 #EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="https://media.filmelier.com/tit/113148/thumb/covera.webp" group-title="TERROR", JUNTOS 2025
 http://89.222.120.69:8080/vauth/329797.mp4?token=WxiPulQg16PftUOLVR6RnLOFsp994_p0zg7vqPtoomtCB_jalIPt8SAciqkxzea6M0SedZreUH2FEFVmJ791hjKnixazFF32rOl2l-22l7Sp03OxZnPZnyQlFciWlqs56k-hvu_pfKBoBI70JJBySYDObC6Qogti-HM4cIVNFJ3QqtHBzLFzHrEtBcIOmnYyCwkVUgpjxSl85co1gWyMNd5_8Uy-S-x6t3UQR2h8RfwkHOPtiXcUnU2nm9KJrNSisJOH-MrLLZ8vDmf5J_14F9gD3IIEanvzSLoUEdPzFULdWgGORpZMlxumIF7Owyrqjk_iJVNV6DX4N6AqISDs3rQI4-taZJZigrxiJyBqG2onWL6DwHGqvCatd0eKOM9j8HUEn36Fn3GPxN5PWsHb4pBx4ObvmUPL278V6vXBNgfnlHgGMTQkh17-WBcFuL0ffrmo_h7KGVgV9UXLXOs9UFRG6yDlxCek1In6DO40HV8Q28IP6JQcoJvdOFdHsNZ9NdPWO9_fkyqSewGXBDvp9MnA_NgMDuSD1ywtmzlosXlqJe1CI_QOWp2qtX5UHcbJleUEkxipJ1BKt6Hin9E0EYWqtNwYv57O-Ew52-YbKoM
 
-#EXTINF:-1 tvg-id="https://tv.kinopop.com/" tvg-logo="https://tv.kinopop.com/img/thumbnail.php?url=https://cdn035.fractalmedia.es/thumb/oSKIcxlfgs_w640.jpg&w=200&p=1" group-title="TERROR", KRAMPUS: O JUSTIÇO DO MAL
-https://cdn037.fractalmedia.es/hls_adaptive/24c50df65a87be157699148780230f7c/oSKIcxlfgs/720/index.m3u8
-#EXTINF:-1 tvg-id="https://tv.kinopop.com/" tvg-logo="https://tv.kinopop.com/img/thumbnail.php?url=https://cdn035.fractalmedia.es/thumb/xFolmM28Na_w640.jpg&w=200&p=1" group-title="TERROR", KRAMPUS 2: O RETORNO DO DEMÔNIO
-https://cdn037.fractalmedia.es/hls_adaptive/24c50df65a87be157699148780230f7c/xFolmM28Na/720/index.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/kung-fu-yoga_pt/kung-fu-yoga_pt_200x300.jpg" group-title="AÇÃO | AVENTURA | COMÉDIA", KUNG FU IOGA (2017) 1H 47min
 https://video.wixstatic.com/video/db47f8_890769e7425b47ee89690b80dc7f3d8b/480p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://i.topflix.vc/testme/dle2/posts/2024-05/aNK6MA5EApIo0UJE7ZWSYcZBJKy.jpg" group-title="AÇÃO | ANIMAÇÃO", KUNG FU PANDA 4 2024
@@ -2007,8 +1947,6 @@ https://lh3.googleusercontent.com/yy2UC-khYUPYH5SI1FOASmwGpE6fPx6v6D-AU5tDWql01q
 https://lh3.googleusercontent.com/mX2_lPVsKvus79hKZ3GdRmgRA3E7P9Zo2xNbZ2QlWTrViUdpuYHNjNcTlnJr4Ey4uXBp_nPZXMeY0NGGEOW4CJU__vzvKIAn8HmGkCy_nO8_zAVJKmatykOLU40JC16Se1MO7gK_Vw=m22
 #EXTINF:-1 tvg-id="http://suatela.net/home" tvg-logo="http://suatela.net/filme/mal-nosso" group-title="DRAMA | SUSPENSE | TERROR", MAL NOSSO 2019
 https://video.wixstatic.com/video/db47f8_77884ec21834439c9fdccfa3692d20df/360p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://tv.kinopop.com/" tvg-logo="https://tv.kinopop.com/img/thumbnail.php?url=https://cdn030.fractalmedia.es/thumb/9XurhaTnaI_w640.jpg&w=200&p=1" group-title="TERROR", METROS DE TERROR
-https://cdn031.fractalmedia.es/hls_adaptive/2e6dc31dae9c68e1299adb0e6b3887cc/9XurhaTnaI/720/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/6lDUdJ9T0HyYAVnp61U5qMNGYH5.jpg" group-title="DRAMA | HISTÓRIA | ROMANCE", MAUDIE SUA VIDA E SUA ARTE 2018
 https://goo.gl/P8PhP8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-E0v8asLqpfo/W3G2jK4XEnI/AAAAAAAPbc/D6FV-lmCFtgLIDNsnc5_D9KelCWjc IruACLcBGAs/s1600/Mem%25C3%25B3rias%2Bde%2Bum%2Bassassino%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg" group-title="AÇÃO | SUSPENSE", MEMÓRIAS DE UM ASSASSINO 2018
@@ -2025,10 +1963,6 @@ https://sempra.pro/a1/out/6/5249/5249_mafia-mamma-de-repente-criminosa-2023-1080
 https://sempra.pro/a1/out/6/5089/5089_misterio.em.alto.mar.2022.1080p.web-dl.dual.m3u8
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://www.filmesonlinegratishd.com.br/_imagens/mortal-kombat.jpg" group-title="AÇÃO | AVENTURA | FANTASIA", MORTAL KOMBAT 2021
 https://video.wixstatic.com/video/da787a_eeb70932d22c47eb8d6acc76f089d42c/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="http://vouver.me/" tvg-logo="http://cc90.one/PGY8" group-title="COMÉDIA | DRAMA", MADEA E O CASAMENTO NAS BAHAMAS 2025
-http://89.222.120.69:8080/vauth/317647.mp4?token=rMym9PHehz-5vcFm3hEkaJcqdJKR7KwsEjj8ACqaOivOh67mRE6NDC6OSJLhhVw0LVE8hO_WVimairF6eRQbm8pfin44npbVNJhTjNzsXf9Iiwovn_04QJll-2dhnJwOPGDFYGXCDmj2XGXvQreTxPAJZ7YfzNfTYJ8Dquj3Agmy685GeS7fmXlI32ps8ld-jFuGeQtA7i37F7YG7kul0HYmsQbAZt2QgI_Xg7hVG04jVMRvzlkWaBebxq1C7H9O3IhyAkg50A925hI0OWzd2iyzcVv5O52OHtDMRKm4a5wOAOsES5rJh5bBJtT4bVFlgWcnMaHV5GBrxoZrUHVyCbzw1K444we2V57CAwG-G6mmp0MLf1jXFaH-uBl4oB0wDUGvNJPGaMvDUcu1H6iP0RcTEVR5bUiV_SCstay76AjgpuagsXP2yIa9sQKTgZdaCWr1I6gW5P6p8SdG2epPPuMz2D-e09ZacufyO2lhlqZoeNxRdSGR9aczhWB7rgwlqHh3KpaeGmRX9boGr-CFS0YkxI9WASSZ0glKa2uz4iBhNwnBY9XR4uo_tziGvORKglmmyHkaaiqGrKI4C3rqtxiVAP2lAeczLNs1au5cRjI
-#EXTINF:-1 tvg-id="http://vouver.me/" tvg-logo="http://cc90.one/PJI5" group-title="DRAMA | SUSPENSE", MEUS 84 M² 2025
-http://89.222.120.69:8080/vauth/318463.mp4?token=OXlCTPOkPkdVNcevEd8QOYFnP9r3GNnlK-Foq5d25J9Fbv3AoTr3I6LRKGD_R6TR1a5aQUkD17mAn_XsBHgDB3Fo3dNGnZgwfuMhf8YM0Jj0rdz3liMc68PrGfHpxewCjGRDwfxsjuOTVoTxOtwodLFHvk8S0B2DupTaJN6_11n5sFhmEcp_cgiaaD0UKnQhaTy0OoDx07rgxyjAAy5gZKz7Giqg2Qf5co0oNbcw60uJRty93PvGb3OZQEp6fTwjMLGXRqHkjp3b7PcxdMtFt_doddVfFTsjYLKXD-Ba53feDyJ8pWpsEN_DtXadxxoydDOa1-TyksMsFiTaIO3i8urz3U-3cyc-HIVizmprJTmhdSzMX10KT6J1F0tOYUWfPeiV3P7mAkcKH5lZszjmCncs86kfAyun1qiNiHdkc4-M5_SWfr1ib5DWussLh258zhqKKmXv2MMaxeraGvwE-F1ztiXsGCj8N3IEhu0kwaZ3yHrhlv4FwR8oaKYrl6b946pI0rj3yufk6sjq8jcQF7SPCVLtsTJ341OCzExmDn22GDoyDk427fZWpKq92ckcPNhHjZZeIt_lslwMJHQ5HHT7rzNmw38bRnT_AHJQdnw
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://topflix.fit/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZkZN1EznEsHNayuWYglHfUMR_OCJcE6h5KPp-DW_KdK_VJ7v3eOcl1lEU-s0B-hZCXZfHHu8HyxSp24ctfxFzjQ.webp?w=370&h=556" group-title="COMÉDIA | TERROR", MEU CUNHADO É UM VAMPIRO
 https://sempra.pro/a1/out/6/3708/3708_meu.cunhado.e.um.vampiro.2023.1080p.web-dl.eac3.aac.nacional.5.1-1.m3u8
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://topflix.fit/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35Zt1jtspi44Q-qG93LREMzszzySjt8BhZiDJ8XjuQfXSggO3Oy71TTVoVl9S1U0nztGYNULUiZwWONPWrdE8PR2g.webp?w=370&h=556" group-title="AÇÃO | SUSPENSE", MOTORISTA DE FUGA 2025
@@ -2037,6 +1971,8 @@ https://sempra.pro/a1/out/6/10786/10786_motorista.de.fuga.2025.1080p.web-dl.dual
 https://sempra.pro/a1/out/6/5414/5414_matadores-de-canibais-2017-1080p-web-dl-dual.m3u8
 #EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://topflix.studio/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35Zoeb4VaL9hlzDU9mCiN03s3qOgPCzKJtSLdMfC_PsSO666kH9Olt-jHwkIReqRWrUgZX6hT6sPCTG70ydaXtyaw.webp?w=370&h=556" group-title="DRAMA | SUSPENSE", MANÍACO DO PARQUE 2024
 https://sempra.pro/a1/out/6/7828/7828_maniaco.do.parque.2024.1080p.web-dl.nacional.5.1.m3u8
+#EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="http://cc90.one/QSA3" group-title="SUSPENSE", MK ULTRA: CONTROLANDO MENTES 2022
+https://sempra.pro/a1/out/6/11624/11624_mk.ultra.controlando.mentes.2022.1080p.web-dl.dual.2.0.m3u8
 
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://image.tmdb.org/t/p/w185//mPhXHRudGxsXIQq1WM6oVePkFIp.jpg" group-title="DRAMA | TERROR", NANNY (2022)
 https://sempra.pro/a1/out/old/6/2138/2138_dub_mostbet.m3u8
@@ -2054,12 +1990,8 @@ https://video.wixstatic.com/video/834009_bbfe02dc96b3416fb232eae46f983ca5/720p/m
 https://video.wixstatic.com/video/834009_c4b53d62493841c7b7b003ee4b9bb938/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//cPOTcTNkvmARiv8ikYZbDfUYezJ.jpg" group-title="DRAMA | GUERRA | SUSPENSE", NA MIRA DO ATIRADOR (2017)
 https://video.wixstatic.com/video/834009_66c1e343321e424ea8cf208199f023f6/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="http://vouver.me/" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/17fk9oijir71uCdPH26qiQUAR0k.jpg" group-title="AÇÃO | SUSPENSE", NA MIRA (2023)
-http://209.131.123.168:8080/vauth/151540.mp4?token=uLXHH6sc1pvFY81MVmRzY73gKIvK9oJZzc-tVzdO-kyIYzt39OlRGiVYMLajBNge1gUZrvQubtmSA9ZpsEwQJznVrX9But89l0rFzstnnootHTipABw0vY3IHKp4ss90rkWvEJM6DRHDUNaAWN_rdJERgtrIK5fiILWKiQq0BCgj8W-4XsUGLFpOuaAgHiY6rKP50vEVdypGGX0zngskGvD0IzttAhGhUNVjBeAzCkC98VWSDNLqWYEiWRi50NNflSp4bxBJVXjY6MFQ1m1YmOMOKT0XrWQ0F1f0cNyKfAo0sSmQQB5VrWNCCetE3aX0XuM3kLzGzdvRHpAFVr1Vr-VCFZ1-q5O512J3Bh9gw3E97aZMSToc1Khb-1JYRTOLqlTiiTDTe6ffS7QSCbL-dNzmujSytC06kuNobBFZFcQKcL1W2FowhiWgD3xMjomTtQ822u4n0Um8WZ_27d42qJ6xHrQ5MfkhbNW4V0aqpqJmI6XxjumMikHPjUW5UfjwpTfSV6AXFw3SVQpSJupjJOmpbDPTG-5_ffdvAEF4-PkVS4Oxkubwnjue-REB-S85DoauXgG2qKAjkjwnBJ1g2X1g1wJqc0MDKtr6bSADDsc
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//hm7lld1oe5N775gWN2l67u0QOdc.jpg" group-title="AÇÃO | SUSPENSE", NO LIMITE (2017)
 https://video.wixstatic.com/video/834009_5ba8805545e24a35817b85ca54730c01/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://i.assistir.app/t/p/w342/usYgDPofNJ9E1QiEfdKhyBXLRLM.jpg" group-title="AÇÃO", NO LIMITE 2018
-https://download1323.mediafire.com/fvgvpsrqqpzgZYEE5derPuFIaQNbJBArZ2oYVbTSFSfUpvxUQtbghe4iVFBokunEMv2CHT037DZRHeJjmDzZxRX23_b7L14o2ErX1jb7xmHOYTpScayu_8p2c-iy02t-tuzz75YfGqNdVoFdDlWLurluNCRtUyggxJ6_V-kcNAk/ea2rmsen52xy6ce/No.Limite-HD.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://imgdb.link/uploads/2017/01/no-topo-do-poder.jpg" group-title="DRAMA", NO TOPO DO PODER (2016)
 https://video.wixstatic.com/video/834009_18b7a02f2ad44607b3f4ef6c164028ca/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/wfbzIfgszbgSnUTdW66jMInZ9Im.jpg" group-title="DRAMA | POLICIAL | SUSPENSE", NEM UM PASSO EM FALSO (2021)
@@ -2072,8 +2004,6 @@ https://video.wixstatic.com/video/834009_bfff6bc392f94b788c00b571e3d24e4d/720p/m
 https://lh3.googleusercontent.com/jFjqSlPqPRYp61N9lf_0EsCbk_kXdfk6NBvs7hOUtA7q6hQR-T7g8wZbPtSH7YjCn7c=m18
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://pobreflix.org/wp-content/uploads/2023/08/kgND5yAax4aT4UXEXrEsZavlHDx-200x300.jpg" group-title="AÇÃO | SUSPENSE", NOITE SANGRENTA (2023)
 https://sempra.pro/a1/out/6/4735/4735_comando.la-noite-sangrenta-2023-1080p-web-dl-dual-5.1.m3u8
-#EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/6c/Novocaine_2025.webp/250px-Novocaine_2025.webp.png" group-title="AÇÃO | COMÉDIA | SUSPENSE", NOVOCAÍNA: À PROVA DE DOR 110min 2025
-https://8da15e7a4d.maisdetudozao.site/deregodego/ponbola/firm/1/1t3rr0rd4p4r3nt3sDUB.mp4
 #EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://topflix.studio/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35Zt1jtspi44Q-qG93LREMzs68aLdj1WcgmYof-fQ_7b5FOKX8yT75b5sB5soT7Zn2Elza4RxKaUbWpwEdJjPU22Q.webp?w=370&h=556" group-title="AÇÃO | SUSPENSE", NINJA 2: A VINGANÇA 2013
 https://sempra.pro/a1/out/6/9862/9862_ninja.2.a.vinganca.2014.1080p.dual-wolverdonfilmes.com.m3u8
 
@@ -2081,8 +2011,6 @@ https://sempra.pro/a1/out/6/9862/9862_ninja.2.a.vinganca.2014.1080p.dual-wolverd
 https://sempra.pro/a1/out/6/5059/5059_o-jogo-do-elevador-2023-web-dl-1080p-x265-dual-5.1.m3u8
 #EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://topflix.studio/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iG2jkpD3Vir4BwH9VGWiyRKlwKKu9RNtEEn3e_cCpkHsfXR75rYReUtxE00imA-7ng.webp?w=370&h=556" group-title="DRAMA | TERROR", O JOGO DA MORTE 2021
 https://sempra.pro/a1/out/6/4890/4890_o.jogo.da.morte.2021.1080p.web-dl.dual.2.0.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DRAMA | POLICIAL | SUSPENSE", O LOBO ATRÁS DA PORTA
-https://lh3.googleusercontent.com/13KHPhjpo_BfFBynx37TgjwIdW80brlxEWij2-NrfL_8exVzU99QixlDUlkbdr7vtus=m18
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DRAMA", O VENDEDOR DE PASSADOS
 https://lh3.googleusercontent.com/BkPZerp-IgMDGquq4vAACYdze8ASJ2AlTYJFfvXtzivp-TzjOVofr3AB_JNLIty7Lzqd=m22
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fb/Elclan2015.jpg" group-title="COMÉDIA | MUSICAL | ROMANCE", O CLÃ (2015)
@@ -2179,16 +2107,10 @@ https://video.wixstatic.com/video/834009_b8a528cb497a492da6b8fe6f393d0a72/720p/m
 https://seed132.bitchute.com/DayJajJlKyQk/KJ5OpryWDSgr.mp4
 #EXTINF:-1 tvg-id="https://www.bitchute.com/" tvg-logo="https://static-3.bitchute.com/live/cover_images/DayJajJlKyQk/0j5mQHzhqrd9afbA2T22GVyT_640x360.jpg" group-title="COMÉDIA | TERROR", CONTOS DO ALÉM TÚMULO: O BORDEL DE SANGUE (1996)
 http://89.222.120.69:8080/vauth/344088.mp4?token=FoqhPz42rw55_kbE7jW-dlctxJnZTHuwQ-BPJixNi54SDZ4Q2RQneBvyaSU7gv4v41QcgonJjadvkIYqLvlagcaHYiwLWi48Ofct4cYWn_FlbrQjn-acqfw5AaTw55Fnmg3R2r5bx2YCRaF_zNAX8kylmymV7-yySLSrTueJC6fXXCmOebJc91iMt6xmN3Zh45w0loyLwvo76PEOwO1Xtnhupx1vqiil7Ger_rSZVH9W9v_2T8Wu_SDD1y7cD1xIiNwuGT9R2noxKlrzg7JAYWBkpVWxZ2Uu9M3pxvKXFijcs7KpytRqcwtLLM-sxK6KSs45E1gsPSvU3pcYFv34TrWcTMlm6elDSvJSVhU0-lu__FYCKiAgVZEMLzdm7sHVNGEGydQcAbhHId8VrJR10QJI_49cgYpng1Svsufnh6zKcChCFfpZzGktyaT37Q-_Mq91Cmoe3EXMu6_Rg40wv2hP1wIlMUKn1lMEhlUYH5YkzNwKIeIYMLp7aay2cXrfalHldBxrrUJ3PX5tkuFqqqkSc0mD9AejeVS_NWiZlpNr2ktobhadPdOJWZDphM2DLo7SokHlOYbp0JOr4uHjQxVr_dMLzhhsO821S-6iE6Y
-#EXTINF:-1 tvg-id="https://www.bitchute.com/" tvg-logo="https://www.bitchute.com/static/v137/images/blank_640x360.png" group-title="TERROR", OLHOS DA NOITE (1982)
-https://seed151.bitchute.com/DayJajJlKyQk/z72e6K9Hbd3T.mp4
 #EXTINF:-1 tvg-id="https://www.bitchute.com/" tvg-logo="https://www.bitchute.com/static/v137/images/blank_640x360.png" group-title="F. CIENTÍFICA | TERROR", OS INVASORES DE CORPOS: A INVASÃO CONTINUA (1993)
 http://89.222.120.69:8080/vauth/286103.mp4?token=8Y-EZ0WInO7Z-xc5BEqkicb_Ckqc3xJCu7QVnM5dPuVZaE-5VjeXCdRYTH_HQV01nYFS9-x-l8D7xQ2iWnbMghbmeaI0x7Wb_9NAyTp4isZHhL0YXwZBBO_QselieXU0SbCuE51uXX69pPs8oMuLyqJ3xJHA5DB0y-BVK-5shQmvxnTeXSNEVPUr4tGB2e-t4IBO6YuGzQt1DcONnRz2WPb8WggUi3DoPpgvoo4X3WopugLjfhAKB_8b-IJtP2w6zzBlOv1IsVp12n6HyCBQx6vpZY9y8V2Z_McLRgJIaM_CbDpHRgH3sR-aUyNU4numexbsMWCgOspT48DmvAmNEubT23nj75fP7jffGADD3xSB6Me010mWOcEsoyS9AQpFB574-Tu5h1xGu9driY-drsBiDOCUwXBZsQQcHZtAikEl4NgAjJdbd-28Ut54Jy8HqYMt5gqWpeYG1-dD574CcgHlpjCZnA3rlFwM98SAcxrYjURXhrfUKNw89wAjvaUE-CfPytd46843M50VbzfcDKTVaXFrv0Gewu64zYELobCKEPK04lp-ZQNmnslVQzSTS7sxyptchvKsnjWGbvqqPjUq_-Qd8YQHSXNMlC7dMAk
 #EXTINF:-1 tvg-id="https://www.bitchute.com/" tvg-logo="https://static-3.bitchute.com/live/cover_images/DayJajJlKyQk/zg20sR9H3Syum9gDV92v0Nhw_640x360.jpg" group-title="DRAMA | SUSPENSE | TERROR", O BEBÊ DE ROSEMARY (1968)
 http://209.131.123.168:8080/vauth/73441.mp4?token=-FOVYNb-JYMz85e7pcxUeJ1czjwH1_0QctfXFToPudl_y-5wFwhmbMjg7yobgbOfcVr742_idvNWpgLgiA9rwnu3_9oW29Gxt5D36AE0Dz5jGq4tVtTHPAA6BG0SDX-C9fVseVEMLL7U15OXghAeG5iCIRpHwmAiGX13xl8XKIQDYpv1RoDDLDtxpBd6zoOHdtPFZvI8PiJxdW-rm0FckXouTgosQ0e5mOR2MFAuv-wkrDoQHAUePTuagDEH4roZuIiy71_Yw_Ol8DOda-Ou-GXg9nOuXOtUWcmm74uwHihQgVHTkhTcVBzQ3GYfo5rOERQUiM7II7_5k-YC4AZezV5kSxku89qF2ZMODowI_kv9L-W30emE4BTnfCd6Uuu6znAJmoRh6NkCojBgZjMWwTMHEbxD-_XvVLndaEESPOXZ2RIaY2KBiIMZt_IeVeROVinWV7V5tCd_MtPWJWeMG38StAvoru_gcn7QO4kdzi-IXrv6QmYkEWl0ceLV-sJ5Suy5AzNfyNyS23x6rKuO2DUSslBiEE7xCE-mRhCqfovbxE07JG3j1kP0VoEWsNv_Pt6lLCHbViZUVUkmK8t7lv6RwWzl7xvHquMHaZYyvls
-#EXTINF:-1 tvg-id="https://www.bitchute.com/" tvg-logo="https://www.bitchute.com/static/v137/images/blank_640x360.png" group-title="TERROR", O DENTISTA (1996)
-https://seed151.bitchute.com/DayJajJlKyQk/5l4N01MIolBS.mp4
-#EXTINF:-1 tvg-id="https://www.bitchute.com/" tvg-logo="https://www.bitchute.com/static/v137/images/blank_640x360.png" group-title="TERROR", O DENTISTA 2 (1998)
-https://seed151.bitchute.com/DayJajJlKyQk/PwZIvXl7lQBb.mp4
 #EXTINF:-1 tvg-id="https://www.suatela.com/home" tvg-logo="https://image.tmdb.org/t/p/w342/zhZmA5LGQyBo2lKNGwvniVm1AI3.jpg" group-title="SUSPENSE", O AVISO (2018)
 https://video.wixstatic.com/video/a07189_8406d80a5d4040e4a92ff17f24a8afcd/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/s/" tvg-logo="https://image.tmdb.org/t/p/w185/5pldaSgAqVF1NucWbF1d4VIgGPu.jpg" group-title="SUSPENSE | TERROR", O DEMÔNIO DO SONO (2018)
@@ -2199,11 +2121,12 @@ https://video.wixstatic.com/video/834009_be1c6c664281418bb02b031b2c986235/480p/m
 https://lh3.googleusercontent.com/cjBs1cfPc89VjG2vXWXh2Pgy6SRPyr422KuHl4CxSuolG_ArJgECSZHU9nmzFQDK0lqJ1WSD9Q=m22
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CRIME | DRAMA", O ÓDIO QUE VOCÊ SEMEIA (2018)
 https://lh3.googleusercontent.com/8G-5ufvrqKH8M1MozjE9jgaMR7bWkZ-_8MQtKua8LN02fzOVTSULkzA5VF6N8aH0H3hZ3roLGsUkjVVrnYJf7CMrK2FXBYXA5tCUvBnUdvBZ5_z_AD-9b01uVXsR4d6ncS-qqErxcA=m37
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SUSPENSE | TERROR", O ÚLTIMO SACRAMENTO
-
-https://lh3.googleusercontent.com/UGgqs0BOEeUSVXr1_wICIDhv9Nbau7AldrffjjwiHx_goVeUoqsIr8Y31VCqa03oaEw=m18
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://vizer.tv/content/movies/posterPt/185/38671.jpg" group-title="DRAMA | SUSPENSE | TERROR", O TELEFONE DO SR. HARRIGAN (2022)
 https://sempra.pro/a1/out/6/6328/6328_o-telefone-do-sr.-harrigan-2022-1080p-web-dl-dual-5.1.m3u8
+#EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="http://cc90.one/QQH0" group-title="SUSPENSE | TERROR", O TELEFONE PRETO 2 - 2025
+https://sempra.pro/a1/out/6/11657/11657_telefone.preto.2.2025.1080p.web-dl.dual.5.1.m3u8
+#EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="http://cc90.one/QQH0" group-title="SUSPENSE | TERROR", O TELEFONE PRETO 2 - 2025
+https://leoncio122213556786.s3.us-east-2.wasabisys.com/deregodego/novudo/firm/1/t3l3f0n3pr3t02DUB.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=SUJTRIWPOA64D2ELD2K2%2F20251204%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20251204T230536Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Signature=77e53072fdbdd504ca1bedbc20c0e324f892d96642f846219564519beb661865
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://vizer.tv/content/movies/posterPt/185/38689.jpg" group-title="TERROR", O MEME DO MAL (2022)
 http://209.131.123.168:8080/vauth/126482.mp4?token=kQtQ1wgM9rqWEH5UvjfVt6yqmwsd2YWUZn8Gfxqe9oWcDMSKTsbYFWZEXA9Cx6wFcY87G5jm00FhukVoAxT51z4xQAq6wnqn49ratqHl6uYBSVX4r7x68AarG7qcortrt421Oim1tGq5fCW597PY8emsKCwBw0rKnx_lNZD4WF1XAb4aCX3hhNcIxfWxZES9bVqa8LmzqK4khxNd83T5M_DRthmUdnGxj2SnoUVXEECxdH-GT4OFXTBiXP_v2l_lbmUBHZPjaOysCNXcDo14FcacWE2hmFjZP1Mj2WTWGcz2rv5qhPRdBnWscTFH4hf-lDhuH9G3K2PjRS3BELRK1W2Ty-95hBgAbPntF4pmXNHQGq8JPcFD351AqQmDowk7eIklJRfxOY3dH0Pzwj5MRjrbmXPqQyMOOrtTMjrEKEJfDydPo3L_263K-fdVW0AevQtE8xSVqkU7BIpQ3p8n7RSiOMNjfENNnlTDO-63R7k50gC-VWS1GC2QiX4mqn5EtVd2SdGiEwdcIdDcNHvG7zHpUEDThr4VxPhxh8st9Eg0pmKN-bc6ES2TOMTzxzGAn1E6xQwsWqmhaq_yrHAIjZgiBdbeQLpqBe5DyWnS3WI
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w92/pL6onRNBIrYnIADtlt0h84RpzVE.jpg" group-title="SUSPENSE", O BAILE DAS LOUCAS (2021)
@@ -2220,8 +2143,6 @@ https://sempra.pro/a1/out/6/6503/6503_o-acontecimento-2021-720p-web-dl-dual.m3u8
 https://sempra.pro/a1/out/6/7049/7049_o-bom-doutor-2020-1080p-web-dl-dual.m3u8
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://filmessgratis.net/wp-content/uploads/2022/08/uRdpVgEufzYNVnDPTXEjt0mpD99-90x135.jpg" group-title="SUSPENSE | TERROR", ÓRFÃ 2: A ORIGEM (2022): Sempre ouve algo errado com Esther.
 https://sempra.pro/a1/out/6/6255/6255_orfa-2-a-origem-2022-1080p-bluray-dual-5.1.m3u8
-#EXTINF:-1 tvg-id="http://vouver.me/" tvg-logo="https://filmessgratis.net/wp-content/uploads/2022/10/o-monasterio-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd-90x135.jpg" group-title="MISTÉRIO | TERROR", O MONASTÉRIO (2022)
-http://209.131.123.168:8080/vauth/128047.mp4?token=rPcIEEPAR7o3ONPusae2fEfiqQbutCFHzIcaCj_VKRvpwBtlUhYpLG7q1OqNKke_Ojsw4XLmCvpeUIM8tJsXAVUMQULgg4GcPm72iHALGcqtWDcu8VvLqkpbOUHJWXjdbkfpmKTR162e4ZeiLchBQbJ34yr9FhugY0Nwojq6K7w1ynjPpzbQzMdXfm1h58NRTsyFZVzM1cT95LKO3hthbRHcvNtB4CQWiDQNdJ31NgwwHGGlZdGT_9js0asGeV4635PoS8F5n2ZFleDJ34KoYZx0Pg3iu3vo2UG7liij9yoIIFAbpsfKLx83SPtiH52XRIQu8hrMEfFO8Rl7WWBOxBljqONE3oVrjbDlQknEoOXJ-Vf0jWyg2W-SLUqoqo-GpMJ5qZ1JXmFEKZrgKqY5ORoOtqNDjSxLEBrzpJqLQBygUYksDd41Rdi1nkmZ-tUOJPUx7AxGGzXGHLeweJkTyyl36oVLm1lxPk3dYhZ493tIGJLbdkBmZL7LhvmcuOoBuhhfYonOgZh5F_lSlw8bxyY8Up5wU3UIS5OdI2Ggwoc5NoWGJ0G_P4dtlbOqPJluFm_UxoRzgbEtGGSDfe9XpqCswVFD0_dRSqAl8zGk0n4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w342/e2qfitm4lm1g3mGc7nGmnnnQa3c.jpg" group-title="COMÉDIA", O VIRGEM DE 40 ANOS (2005)
 https://video.wixstatic.com/video/db47f8_83d14a2c93d44f0592c298ee775fab0b/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://image.tmdb.org/t/p/w185/qE4FZQiaQcKo9mYuqu2SwLIgbwG.jpg" group-title="COMÉDIA | SUSPENSE | TERROR", O MENU (2022)
@@ -2264,12 +2185,6 @@ https://sempra.pro/a1/out/6/5376/5376_o.entregador.2024.1080p.web-dl.dual-5.1.m3
 http://89.222.120.69:8080/vauth/298653.mp4?token=bJcnTD_VpdRoAqhQeVtY5DkyaC6mavmXrPZ0fekhUpBQGAd3DH1iG31Ze--U9d9xkLdrpidapG83G7wmISkxGapC705FPncoVJsLBlg_W3EKSvu6dpj6fzR3SikmbBay4z2NAGJlv66XK4Az5aWV5fBdj0Zb1xbnjt6gG-S-bnzmxA2PjA4vHBaI1Qa3U7SxeruuANo4Lviurc_g_wTSkPI-6gjYP4ItMUZDBXQSRi1VsupjHR6JMPOeygu4N5ws8NEGCWzf8PnlwAHszBrwe9PRJwIaBYpWg1smWpoXmZHJl9u7q_X3xFyHvP5ig7LBsXNVhZzeLV7BNAtUcfLJbYAPD7EogNL0xOUsMbsnug9qJX-DqOzBlh0cQJAfx_fo_hFFJGPPEn-LA7dwj7hwo0_Xq7cszGREGT4C2o4_bXfSfdb1zAP6bJvhOMgxFzLMODiYuemTYu5vJYj30VsaU8txCM_MSITidJUwhnMAVL_l6fjHTieJsxpQ7F_FQJ18siI3zkO3NYHS0pAeDtgNpVzDsEsmCwdV3fpjkUnDV5njyzhsoMCxe8-Pem4r-LnifBD0wURgtoJy0wkNNp8IPsGRVLY77tf6YlETLHMRkcM
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://br.web.img3.acsta.net/c_310_420/img/0f/a8/0fa8e22881a0a91ce440bfff00f8c2a7.jpg" group-title="MISTÉRIO | TERROR", ODDITY - OBJETOS OBSCUROS, 1 de fevereiro de 2025
 http://89.222.120.69:8080/vauth/284746.mp4?token=wgb7puwhvZy_yVYkOApel1bE_vEt-I-Y17M9Cikzidzrl9rMQwIdmGFc0mLQtsTWjq9lOTjefXaPLP3J34fLPRQLVM-OVxy2yC0yuhtV4CalEzEUTr3Cue9MTjIxYH5Twr35zp7W6_zMDeu_-Yc9mRY8vA50ZSxzxxVK32OXbw_3hVkaE2lgs3SYAuey6Mbizs8s3iodBE8YOT6YsxCrQG3pT7lQ5YIaCyD0rnUjG9jc-rCMslkPSLPjMJWV2MbBfRMhrTqivlyt4Ti9Nx3N_Ptk-l8Yd6w85N9BiEPAKI53jQeS_74dN8KfBpbCEQkjv8mtnSJH4MWHngar1gLR0tQmvfXS0sor1oi5KAQcmIUVetlrcmvA_UvQ02eu166JHWrRrxXUJx-q9BHvsQvGuDJOi1fBeLtRaRDU4_8v5c0kdLZIKKTw0ZE7VXV-d-aM0tMBdF0S1GERwR8HNfVbsWwQQINACi48v6MgCA9Pp5tPFHJrcOK7egTnNmbc0PSOHh1AiegkUIob_pZU0a3D9keeskB5g8Ih_U_4AIaPGk5b_QLhJXr_gWHzhuyC34dm-cuLISkH5D6LYPv7NkqpeSZMxfZsmM5ccCXuNBTsKRA
-#EXTINF:-1 tvg-id="http://vouver.me/" tvg-logo="http://cc90.one/PIS4" group-title="AÇÃO | SUSPENSE", OPERAÇÃO VINGANÇA 2025
-http://89.222.120.69:8080/vauth/318280.mp4?token=OXlCTPOkPkdVNcevEd8QOQmhT9f2e7f2HoojE7mK1z9cUxuoZr8WbKWevf3H6mWmQRVxpABYFXs0b4G6jr73J8t_e2KCHPUFwtRwC2m_mzwFs5TYPFer-_yZsRJBQ30hqHne6emkeTfBoUHyiVv_ph74wGTgwL6m6KOEUlExL4s0UbkfpCnJkKxAbAawBtljjRUSRJXfriJpldxcV-QuRPEfkCyYQ1i85QIzNrdlviOdL4Pk_EczhvsdehfX-GBDmXCsDhx8DK4qPjmy7DYtaNVfxWCZPjlGJA7xrlQiEF5_QE45Q6KkKusgsmmgtzQnecjmHYgr1ZGmvEz6-j3y89H8AYQ0coD1RY7W1pu_d0A1zATtCIDuPQLZN25lqWFP3p6tuao_eb9wYKT58AeLF2WpTubuvjoh7NEWCAhHjhgjzb8cN1EnZqiAykAQMa0PQQuK0gmk6-kF_8kyi5cR8g8RvCXnYd7NGtfYpHlQ_rysnYG092Z9zMgd8Ec-pKdleVnHRY6EaQlNQR90knY7gtqyd3TswhouDyrFTOESMZT3AcOJPmQTANBVXTpIZ8RtieeUKMaBT7mEHS45g8lyFoIgvMqR0lxemrSi3NO3rgE
-#EXTINF:-1 tvg-id="http://vouver.me/" tvg-logo="http://cc90.one/PGZ0" group-title="AÇÃO | COMÉDIA | CRIME", OS BAD BOAS - 2025
-http://89.222.120.69:8080/vauth/317649.mp4?token=rMym9PHehz-5vcFm3hEkaNQyAXyl1mGXIhgqGCFH5R-UaORrg28vF0eMouCIcYt4KPgljq_dv66BrmhzNGYq-lcHso8NcIUBdIre5guWy3BC_Lv4RgBL5BLzGCR32PXiy9fq4KSr-sO-GG0RK8Ay8Bly6jxleO1YgK4b2Jk6aOTaZBlo301B6pTaTKjGFTW7MTpag6PlXempyI1vDtGYOhgeDAam1YMbdXckQy4qaoXMZDLLRSpXK1iujVvd_Fq1nyoFzgkvuaX_9bzscbn4FthSoz6EB-3x_2AWm3kl0mchpZJ14YYjLnrb54bmXtH_TXahf-aw9cykrJ_cNG7dxFxOPcpoQX3_zatMbDsX4ZOurqQifZ-kRwgmAGltbppAmzV5pxGQntXTGz7tHOCO0SpjmmFh0MHTAYY8BmZoMYW1_nIe4-feYXjQjUaS2iMjzAnxUMlIlhID7s5qSx9HFr5zCS5MzPCg5JIybk3CodXs6L_eoSuzox4LwISYXcRuhDQsBx9AiGymBeaLqRI61GqjZxhg4QUwuMcj_6apJ4Eh1kFbXA7fNUyIgojJxxJXRKVBuUYdM4NRL9Mz23CWsF7rJsdjVIvkzgujU9Qx4F4
-#EXTINF:-1 tvg-id="http://vouver.me/" tvg-logo="http://cc90.one/OYR4" group-title="AVENTURA | COMÉDIA", O ESQUEMA FENÍCIO - 2025
-http://89.222.120.69:8080/vauth/314396.mp4?token=TTlpeFM7gM5PGDdVdgmP6FaEXd13ifKWFgFkBBcWbw3e9NIyVLmhAA1baIAEiAVmxGudKv-4261vGhkPsDc-lj_jqvL_ZkGMDSz8-t9n-C8Ncw34Edo-VveGikOJRpyzJipPm2kFpP7P69fwveyT92-X_5Dg8e887MdipoN_93SFQmhjN-hYuMJvo0JnJ9E7IMubAKS9OiaBTh5pE-c2VQLMrR1nRWZ0XvC-GeK6fS-UGZ3A05fJkKO8cgcoLHPv55TmFg3D3_8OpdE_XAxoRr6sDjr7PH3rrL9Qaln6d89wfikVNbHAVjBOhSaVA2un1FRxq_Mef47neaGMYQkU_s5r4w4SwHenHNuBwO7n5S-2pF94nT4_gcp_YJt59gMc3ih0wqc0JXThYEwNP3w_vBBXeYTxCxMPgS7_bItvTuaX3N3MEU7K5qAGkWs-E2J67-EHUsdN2OB7qBDz35u9Oh6Q1pfWTfKdIlgNAPrKG4XGtYAX9W8EJ_WfaXghkjrDghpGrU-tDxxhJAAEg8vaVx80SYdhKtuyDxoWYDkID3GeLvfb-jdTlO5SLdMoFhccIy1EfHT4MRiDkweeKV33Y2dtjyIGHrOaQVbvQuAe4nY
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://topflix.fit/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iFfccM0GwMxy_iAkH-LiQnlpXZNHMpifUk2NALB4-6tkx9pNqf5IiFsU5Oe4y2iitg.webp?w=370&h=556" group-title="AÇÃO | COMÉDIA", O AGENTE FAIXA-PRETA 2024
 https://sempra.pro/a1/out/6/7480/7480_o.agente.faixa-preta.2024.1080p.web-dl.eac3.aac.dual.5.1.m3u8
 #EXTINF:-1 tvg-id="https://suatela.net/" tvg-logo="https://image.tmdb.org/t/p/w500/6XXXXSH4jU6W2qba9SLlKTlT6ak.jpg" group-title="MISTÉRIO | SUSPENSE | TERROR", O PALHAÇO NO MILHARAL 2025
@@ -2351,10 +2266,10 @@ https://sempra.pro/a1/out/6/8577/8577_piranha.1978.bluray.1080p.tetra.audio.coma
 https://sempra.pro/a1/out/6/4471/4471_perigo.no.recife.2022.1080p.web-dl.dual.2.0.m3u8
 #EXTINF:-1 tvg-id="https://noveflix.vip/" tvg-logo="https://noveflix.vip/wp-content/uploads/2025/07/620FhRxTk7e9GBXwtYv8Wk3DRJf-200x300.jpg" group-title="AVENTURA | DRAMA", PERDIDO NA MONTANHA 2025
 https://cdn-novflix.com/storagePSN/FILMES/PERDINONAMONTANHA.mp4
-#EXTINF:-1 tvg-id="http://vouver.me/" tvg-logo="http://cc90.one/PJH9" group-title="COMÉDIA", FAMÍLIA, PERO NO MUCHO 2025
-http://89.222.120.69:8080/vauth/318457.mp4?token=OXlCTPOkPkdVNcevEd8QOaZsMLJsfif9VtoxW760hVOR0u4ect4fJoqVJ92rvzsdWbUVhBBo4zo1tmHAEyC2-veAYrMotHXKAycps8yhp-szbSJ-QOaPW9OZIy898FY2wEb4920Z8wSFoO0V6PZFeLQc8wpzDClGmEL2xvGZx2MTuZnblS9exB7loim2Jl9e3HuefYi1KUhtGxEkqJ16icN_VjDejUtGkRxLzsExgt9hBv5q79Lkfnnx_rmq9_mGetOyQBMDWU9RnxWoVlP2CCLLGh2HHjgKEhrM4MXYFuWTsOubSqOqQH3R-LjqmnS_hcJkY6mVcslJPAp8Fflmf3MJxCeQBPYDXM6ML0mZNJtNI2TmzHtxkKU3DCnIecFoOPfO2h0qDYvrrumZbS-WXU1RV9sTrsLZQ6ax0VBlci-RWouO77EYvbGNWn-GQDQ4NW-YZyz_qUQ8v8T-Vi66hNbQHcw_rkexOSGQRosl_-lf7TAxpjWhbK3wFlWCGFN6R1Tm7-6yPX6J5h087GjHLrTadoy-4Gqr6UiZDL6mZWooecZAHlZjL-GaYtLDqGtdRMSQtxcCfI6gVjGpWxjPLEN73IolGWrgO1peCIC3kEs
 #EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="https://topflix.movie/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZZSCr5v5C1HGIHjJD8LA7qC9zSXPWOAn-zIC7zC3iA0yVaFj1RAktkYIpj-ufElQyMJCMDrEc3k-O_khY0pPI1A.webp?w=370&h=556" group-title="SUSPENSE | TERROR", PRESENTE MALDITO 2025
 https://sempra.pro/a1/out/6/11213/11213_presente-maldito-2025-web-dl-1080p-x264-dual-5.1.m3u8
+#EXTINF:-1 tvg-id="https://topflix.studio/" tvg-logo="http://cc90.one/QSA5" group-title="TERROR", PLANTÃO NOTURNO 2024
+https://sempra.pro/a1/out/6/11647/11647_plantao.noturno.2024.1080p.web-dl.dual.5.1.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ANIMAÇÃO", PATRULHA CANINA 01 - OS FILHOTES E O TESOURO PIRATA
 https://lh3.googleusercontent.com/ES4Jz7rZ1ZEFFrBKWXsrH0pafYWRD5v5VRNuyjndPAylR4OWCg0I5ykbxOW2xhZINPnqvOGvfw=m18
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ANIMAÇÃO", PATRULHA CANINA 02- OS FILHOTES E O TESOURO PIRATA
@@ -2434,8 +2349,6 @@ https://video.wixstatic.com/video/db47f8_abfc165283004c268f98a2f82cd48b18/480p/m
 https://watch.brplayer.cc/stream/bTN1OC8xMC8yYThlZmEyODkwMjVhNzRjZTUwY2FlOWU5MmUwZWRiMi83MjBwLzcyMHAubTN1OD9pZD0yODY4OQ==?s=1&id=28689&cache=1
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://image.tmdb.org/t/p/w185/30fNMmjk183FbyzURlrDCmMHTgk.jpg" group-title="AVENTURA | F. CIENTÍFICA", SUPERMAN 2025
 https://sempra.pro/a1/out/6/10775/10775_superman.2025.1080p.web-dl.dual.5.1.m3u8
-#EXTINF:-1 tvg-id="http://vouver.me/" tvg-logo="https://media.filmelier.com/tit/114048/thumb/covera.webp" group-title="COMÉDIA | DRAMA", SACRAMENTO - 2025
-http://89.222.120.69:8080/vauth/332888.mp4?token=KAwU522LLrGathtMnd-vDfDzdhV-5bgoG1MReAScLSc-9_AlwQBE8sPxvanz8cnQ7o7-vjIHlW_tT4EkFBHMjMf2m5q1OcqKpyWuMyDjcFoHfiH0wsrmOrfFtODXIAanV1o0ULA0-mNP2hMFkAeb8gRanVjktwppYf8OHpc1Vr3duS4Ss_GWTIrm1pqQ_dw_KuEfEEuPP1tvM71OOFeWwZ4zsnKiJQcLHWYnwALjNAzn5RRTm5wEurd7mvZJEUPVJzBVYb1kJX0nbaTu53q8Ny_wQgJhE7SvpckoqcXyVWRR6Vspwuk1-slL4wBdIaaahiXko0Kf955R2-Ht-jVyx15xNgWIGUIrO0HVUs5D842IVKK0Q3445gwpwVbFF9Ho_C19Nz8EfgOIi7Xe1a30beimYbCgQqFdrm8koBuQ_zeUbPu1Y5I5mjaVqynuK7YcxnVNaYWEf11G9bNoL4gBmB8NfNZVWMoYXbE2P7Pi1UBkvukdsVyRVum7El1lv6fokMX3kIPTBE7vZN2z_rxj_VWyMOkLa-yDTV_deWa_Uz5E_5yZ9oZb8ZSopHYB45jf4LiXrWDuvK3FiaCADbzk-ynOHKINebLN2R1H9f2Z3lY
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COMÉDIA", TE PEGO NA SAIDA (2017)
 https://ia802803.us.archive.org/23/items/A.espia.que.sabia.de.menos.sem.cortes.2015.DUB.BaixarerieMP4.com/Te.Pego.na.Sa%C3%ADda.2017.MP4.DUB.BaixarSeriesMP4.Com.mp4
@@ -2475,15 +2388,9 @@ https://video.wixstatic.com/video/db47f8_a2649bf8bf3c49198c4e9aae20c2cd6d/720p/m
 https://sempra.pro/a1/out/6/6356/6356_trancada-2022-1080p-bluray-dual.m3u8
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://image.tmdb.org/t/p/w185/fd0SHLE9xQD2odct8OBxt4r7cSu.jpg" group-title="AÇÃO | AVENTURA", TUDO EM TODO LUGAR AO MESMO TEMPO (2022)
 https://sempra.pro/a1/out/6/6512/6512_tudo-em-todo-lugar-ao-mesmo-tempo-2022-1080p-bluray-dual-5.1.m3u8
-#EXTINF:-1 tvg-id="http://vouver.me/" tvg-logo="https://filmessgratis.net/wp-content/uploads/2022/10/s0aVEjT1DWopUrJehACWZyqpO99-90x135.jpg" group-title="TERROR", THE POWER: HORROR NA ESCURIDÃO (2021)
-http://209.131.123.168:8080/vauth/128126.mp4?token=rPcIEEPAR7o3ONPusae2fA5dQBhJwl2pTeE_UGSkw0e0NpjwxPAiLBxJgKpIZBX8bD1axOwhvjU0fZfukd-EX19ic4xkvj5LF3TwdRQdUHJErIYr1JleWi-0Kzr7hR_p-v9CtBkN6HJHivcQN78wvI-lst_n0y-nOBdQZLQB6Jztkp0-7xq3GQNqNVQvoV8mIGnS1gHe43n23NGvlBvrOItl99kpwPPxQ5p5V6ZnypLXzreTpV8Hv7BGdiUAQUMUIX-4Na05LdCcC2-zAKh4Uc8hcFsHqosfL5ycG7yhZmHTfWJyLqxQHOQSoqyuMX_gBj8SGqsoGvkDyNwooo3YfMqRHhsfx6OMfdTwMFYy8h6m67j4RA4683mnXKJJ24YR3Duor6igRO6vXV7jn-8bfub2i7jyALOAJbZMVuQfc3IehuoxDcPUCEZKcZpgKR_8gtIYPr4evJe_ZiqOT4L-OJtL6RfpHVwpyDyuGyaejeND-P7vPvBDUwzMy-ioym7TxZXBAULel6Qy8ZoeRppHw9-cDcJaAQYseZOYShJmp42XNI9PBvdIZDr29hYMF3LMuyLEoCRL5_4inLrT0OBRz4Oz-haj_pgLNAqjthL_IxI
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://media.fstatic.com/H2b9MeD8SYzKcjF2Y176T8iffTg=/210x312/smart/filters:format(webp)/media/movies/covers/2024/02/cats_NTaxJJ3.jpg" group-title="SUSPENSE | TERROR", TURNO MALDITO 2023
 https://sempra.pro/a1/out/6/5768/5768_turno.maldito.2024.1080p.web-dl.dual.2.0.m3u8
-#EXTINF:-1 tvg-id="http://vouver.me/" tvg-logo="http://cc90.one/PDC3" group-title="AÇÃO | FANTASIA", THE OLD GUARD 2 - 2025
-http://89.222.120.69:8080/vauth/314398.mp4?token=TTlpeFM7gM5PGDdVdgmP6HVQiRNl0L3XRdkYsU9JBEVQ8q6qd5GbC7dYL9L-kbEGzWmS_DAhtLoUy0Em6DPKohEuEQ6FlDj18JOC79G-T4TNNg3JjznHl1zv18iykXzGQOAAPdV1wu11cRZO4JalDnydey1Cuq7HwKXG-vKj-4QNzYaGPddAx5RwT-WLJT-9VwE2i71gdD1CoanDQDyIotoYklgweauTUh3jZtjRqY4CH6d7_o7naGe5OQ5epDvnpKAHBVVujFAFuRyoyVCTvpYDmOEvSJ61D340PeULvtwPnh7IRa6kPBzrgVCveONAbUhB27k3s_DfsndwWaDX_SMm1odzxRuzmzyc5R65WC1qYZzH-_xJFKbKwmEv9d_CB6W1EgdYLKD2tBw_SDMKYhYJmZFgK1PFqdkZsqKQzdlTrS2z5SwvzWNl4D1jcMcetnBA99SOT0V-VKWQdjFiKrJJ5UdToFIRbKgl7pC5Hwc7bpdrv1gNzxDelBk7wHRfXKS8zPcRo1cRHTBKuwSuHoGNWe-SOvAsPMzNcNwa1W3BPSB_4IC3T3NwGKStl0FDQRQTWk1IalL-eH-7aJNi8aho_c6B1YT1FKfLKbPoSp8
 
-#EXTINF:-1 tvg-id="http://vouver.me/" tvg-logo="https://br.web.img3.acsta.net/c_310_420/img/a7/cb/a7cb1f5c2ca43af0fbbea82e3c5ba1d5.jpg" group-title="COMÉDIA", UM DIA DAQUELES, 3 de abril de 2025
-http://89.222.120.69:8080/vauth/302052.mp4?token=urBvC9KJPfwtYl05FQ5DQ8EW7GW61B8-Jmpe0ePspAfdCsiGIKMybOcy8RmCzvc_RKbMnCrr6BMDxVYr0iofyiHSEPCWgThbTJW9swYiJyCGK1y7SYOfhJd2a_ePTdFM9Bq8HAUGb7AzdWGxYwgt3EjfgNaPziB6IWXtKm_pTWNOytYmOmJ86_-t-pZzKkiigHSatRzQ8E1wkthnU5jJUCHVnGYfLOtpIlu_WOf_3NhrJzQRX64M1F8-K_iUkTiELBzKfLt3iVgJRj8uoW2YNTjgyUhoM9koHIM7gKGt0J2F0tZTsN3lvsu48Q_O-RHB8_ThiP3l-Ru3ddXAZ0bHyHfZhuRunuS5imewZnvpcHeX3P05fDoS7vuPA25tXRYTq7uV7lMGUeuMgZgGs87ZWZU41aW189jI4vDQkisOKosY8p_Qkf3haDnbs270pMN284I4v_VkoCV_rFmOLbBxLiaJsibaJ-vc26MWowYQyg2RV5UTwia7mnLoU8RAmA_ydWNHqv3DDH6jqZqSK0k3SS_xYYHR_L7D4Du7Sosed9pyh1rJSF0G81Q-QAjiOcbOthqNl8-kNWHGuulFHpWpFsc--azkitDrfxr9OjU87kE
 #EXTINF:-1 tvg-logo="https://filmeflix.tv/wp-content/uploads/2021/05/wYqmuxd9jNFLf3gtQY5vbAUgiGk-200x300.jpg" group-title="DRAMA | SUSPENSE | TERROR", UM LUGAR SILENCIOSO: Parte 2 (2021)
 https://video.wixstatic.com/video/834009_d702abb4661b4c8e9484302b2f19b82b/720p/mp4/file.mp4?https://gofilmes.me/b/
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/v4Ic5tJBTLL83zd1RLailzDdJi0.jpg" group-title="AÇÃO | TERROR", UM DIA DE CAOS (2017)
@@ -2552,158 +2459,6 @@ https://video.wixstatic.com/video/834009_18b22c3dc3be4905a5d38ca533496157/720p/m
 https://video.wixstatic.com/video/834009_4ae1de9fa42744b6a6f74487fbb6c487/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/q4FQOiSRhTLWulHl5Vpg37FMArH.jpg" group-title="DRAMA | POLICIAL | SUSPENSE", 1922 (2017)
 https://video.wixstatic.com/video/834009_74e89c72dda4444cacd0272b6d846354/720p/mp4/file.mp4
-
-xxxxxxxxxxxxxxxxxx FILMES TESTE http://vouver.me/ xxxxxxxxxxxxxxxxxx FILMES TESTE http://vouver.me/ xxxxxxxxxxxxxxxxxx FILMES TESTE http://vouver.me/ xxxxxxxxxxxxxxxxxx FILMES TESTE http://vouver.me/ xxxxxxxxxxxxxxxxxx FILMES TESTE http://vouver.me/ xxxxxxxxxxxxxxxxxx
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QMZ6" group-title="COMÉDIA | TERROR", DOUTOR RISADINHA - ESPECIALISTA EM ?BITOS 1992
-http://89.222.120.69:8080/vauth/340713.mp4?token=n_vnywPJR_dHBqlFAv00E9rCv1MVGm5cHLiRKf5_mz4QO2Gdu7cHpTC7r0hd2mg86RQxaHFMPX4Qrm0C1etwvkr6RuoxYv9MLsEQZRx0xw-V4ahL4-euDEvDpzbOMwPymRtlNxMeA1mOxqVG4Dc89vzgmTqMhHGTSqWaOOPVJFXrqye4rZXjbaKJ8YA1oA7RJvr9vkZGbv1aGjlLGOhAvAMJMWmhB2mb_NLexQintK_IqdkCCYGsPzRyuM9T3vM1k51uI537AZ3oIN1xuk_dQRkD_6qkHYXIdYXhlMmz3wdPqAjf6Mn2f0YtXUjecfQMQo0we1IJqALdvXxdeoKnQdgWxKvFybocQI1qyH3RQdpjAedJEGt-zFwaHwOXi5BTK9a6M8AXNvOzBOvJH4RrzLjFFtsmntgPTwdRKKsP9afThRXN5yZ8UkorAqPirR1jfP4YrrY6bswGxgFsuqgf6peEIJSzU4h9lwDhYqMiWxO_jTpAyT-Onxz8LNnLbdWncnAR1a2JjhaMGiEAISz491dtfqRcDu2L52Be1hbG1FLAxFWhvZULu5s6wMsZxeAZ8TlZKOQAinoHNlh3a-Ie26tA2V-4CiSd4F-DSWAcf40
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QOV6" group-title="TERROR", BARAMULLA 2025
-http://89.222.120.69:8080/vauth/342428.mp4?token=MrDCFe8gTOqHWW3VLlYfO5qI4diU4dQXGsfdgc3h2ndN_0hGETcaN0r2efXqhzm_2ZbfMPjv5wyHsyAk3xfdR_eeliB4dIM8ic3GAZZ5mTcTlfbZjKnfKvhxtgxruedAFRkvuhbjiKq-bBGy6EqxMOBy81jfyDJm_w0HTb3U5uz2Bi4VPvpu4jpf0fFKRrjlPKJRn9VagnNy8Uiov5S92cl5hnaFf3DUIwgIo6Duw9y-JmmIIzQRZcbyM9pCM9gHmar3U3R5Wcven8U5KYV-VD8Wup4IoeYEaq2iTuZ5nhYfiHhovy9aRIRq1xy5p0ySLsH9vzP0pZXffhzz-pYiBrl9sB5TZTIs7ywhQpRPHTPOMQ2uuVCdARnFfewBj80BacJ6Kiv5IMUs-XL6EpqZJBSutJ8UG0OHJb6N6SYQlOxS3Kc68-grMX2eB-KMfHzL0WO9ubPkALJkNMRbu50f6wA45rRPutbAPqhlz-34cdYJaILYNBo2DW_ZnDF-amAqgXZ9yCkm3rHvRBLdvZCAaZmpc5sWWzYKWz7eDCSxOf9xaVrz0n6FgZLnZImvWdeSQUHEtSg4MK3Cc5aZbQigbFxW3-V5zMGgAV9N5mkg-es
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QOV8" group-title="SUSPENSE | TERROR", ANIMAIS PERIGOSOS 2025
-http://89.222.120.69:8080/vauth/342430.mp4?token=MrDCFe8gTOqHWW3VLlYfOyCGqZdOuXRuvePLaarAIKGwzl1lkflHa80CmN_7WsE0_UY6aEUms8bN_JJQZZCyQaYwxtwUGgCdIosq70HsM5rLfWoUzesKJh4l_xfgVyAMU3Sx6pgVGIIRQEIn4g0qkTYI3Orb3pDb9c44-24y6-ljwJrJMh57ocJ4VIwUsg0OB7fUyQvSxyR3iG1zbonWNOgUVIU8L2TZAk3Lj_7jZwNwYF0tG6IS_5cK1gHUN3f8pOyFwIXv3t-JENkXbhwWkiDlL4Alq13ovkJSuwUTkp6JhUVyOozNN6O5Tt57Cp8Y0reEU3vO_Jr0KGWY4LN5CxGtWtD4N6Ua3blWi6FZVFK1U9aG4mm_8w_ozhlYvU-QCKjF6ylVXd6qaFrERBtePrsWdk3nEP8inuxaD25AOvGHtZCgDpTDqPr1XSYDilJs0gFTexnV9aHv2IrJ4hrdssFkixEPoEBFW9i5l99RueYJnM9g5lZjciPNPU4wqwDcX83Uz1Kh2NV5Pp-DrVzo6AwIAAAE_c74O67CapgHMxjvet-uV7LokID4kie_5ibpmXgRBdhRWZZovjntTCj8pJ1OsI2YAtruTAxlPGUOqVY
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QQG6" group-title="SUSPENSE | TERROR", ALÉM-MUNDO 2024
-http://89.222.120.69:8080/vauth/343129.mp4?token=79_1GqVlHpQUtnTSjRsnRuaIsWSmBfP1PKscwFD0mIPNnRx0RALjRCvSvwtsSbD9w02qaKRVPXy25S342G_Ys_s87zlqS2Wuz1zM7me7_LZfnyougQgNWShZHX3ePwboyEQWncn-lV9duI_goyQV-xk7KFKLenpJmpk8FvpLOXKXCwidGkxw9Gv5jJTiiRXqi2GD1kXYppgRbwPyz0d1a_zGyaS3Cz5T65EARmroQ0_uAx8OOusMdrBL0c6nSL7WSal5FsW4aciDnzK1M3rnvjxzdOb9BVKWCOIA0bLC7aGWLPYpE0WQkqFS6piTgybWlcdjBLgf8aTEX-yn6u8EbvJkrw5VJjnBL_vWOIUsFTyXcHd4Q5z8p2bFHyCKCMC323YSw8phOwNWoijfh7VHHkmrHpRmeZ4236kktwg7PK2ZXxv5GfGhrGJMHtePSjPnjPYqyCbX74rTXQeFwRADoJ1B0Cn8jG7IBnpSs5Itx_Ij9q1EMzyXfmeXmQycfLfc5swATLNNIX3RP6azKUcRKe0j-3_4rWmmXLJCtCZPb-Gqo2hleBe62wfqrOZQpyvzrBgN6oFBpt1nSpe20wDvTSrBHpWHSx2jOJSXzMFsSzc
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QQH0" group-title="SUSPENSE | TERROR", O TELEFONE PRETO 2 2025
-http://89.222.120.69:8080/vauth/343133.mp4?token=79_1GqVlHpQUtnTSjRsnRg9RKVDl7DqGOUTDfBO48lK8-2nYMN-ozVCp_GboANvWtvi6sHqz2E_VdkGoVJ8YtkUJvEKtEOOnzE4EgGDzx4uZMQrLDTHBZ9vNobLUYD9uX4S2KddWOwSdcKyQgZYex_7ZO3XeAeV0eGTP9ZVxDFyACBFmZfld-B908z3w4yZKXujSj1MkWL_I3tnbDC2qIE17lZ6RjjH9KKkuGssjk2Fs-phiaDDH7E09-6rMnLD7sFyDfkH0DyaVx7hNj6JYC9_hEx8a3tmv3Ft-i1s7mbaAIusSZM0EU6grkqMDMrB35mEfrxUQxTlxxsgFOzBxs4G1YC8d1iwFP94Vy-yi_mA4VruSBYXEYsNY3qpwGBnoG51tirKpfCUOHe0YkmNKdi-5-bsn84HjJ72X9OjQlGWCTSKNl24UgsK8IJlVXGBbiGAXIYdHybpW-A2HlAk0vgcn-5h5QpmRZDlJB5F56ZQ6s4mzxJVx3iCj2kVA4beZHI86zjNLelYmanUW8oCrAqvUj11W0w0347xMBWMvvRKvbzef2_Uq9jBj443skuChFEdQLeSKEnFBwcqKkZyTg6HRzLFVRVQEzGLqh7wKgJk
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QSA5" group-title="TERROR", PLANTÃO NOTURNO 2024
-http://89.222.120.69:8080/vauth/343925.mp4?token=79_1GqVlHpQUtnTSjRsnRsOD8d4CXkg3UCwtDYpJfhpe6Tg5jm4EnoOhvOaojgNnxrTD8yVPWvYRFkWpdXCiR5eHh4VeEtYFe4Cmu9LI0VSbtiErflyhH8Y0iKyZ5J0Q1DgntZQqaYXKcwe7ZyFsjl2KUYN70PaTQmvoDFyIVc02BdUW1LHzX3_YQy--QBWsqmXS6uwlPdjQl3DmEUtQLyVDOaSpwIHesaGvK4UyH0ZksB07GzzsJgvYWCdCAzuxAphKfIsSbtLjPxrUQ774TMjMcjemJQTlnBkdom2uVY8qSzVcLmzGk8JTiF5AL08vfNCQV-kGeAB4PXRo2AUfSnBUetaaAXRZ250ysxrU04RbM5xb5e1DPYHc0OTlM9kwMu40X4c4bftCsd7qYyS2AIpQ59-Gtja1gi63DqXJiE6gFrHPOP0rB4x4tFL2rtJtl1vZpVECOMWtmC8bLA0jFjIpnRA5vSEDO9wyeTNdix2COKRnR2m-2B2TwLusjD__9UGS7S7RiPd3ykkpZ6mnI3LBahNXYwa_KS0DofwpfslhKgfAYilrxCw7xFyrFRZWAW3MxFup8vuNN33O1CsX9cJkGthUFz9FU2dMuitEykg
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QSA3" group-title="SUSPENSE", MK ULTRA: CONTROLANDO MENTES 2022
-http://89.222.120.69:8080/vauth/343923.mp4?token=79_1GqVlHpQUtnTSjRsnRug8le8NEeaiNVSbHsTdlZAhcStv6_DffDgmfRVSoIl0ndHxaaXyAjRGT64k4ZiAExyXLDRZ-7udN0-LuFiJd8aavjfxBVkC9du08ZUAHLtOivJAhZ5vc1nxyT3d8p4PYuENzhbcUuMv-4-exs2pvhDkYPsKiwVA-5UI_5clPHHRHgSlgJvdaX9f7pGMSejaighOfLHnoh7d7vMjRSjxvr721dvk3r7qdUmqIc7fGSvKDbiAbmDOR_T1VdzKLs0LdpyQIZPa03RLlIzlTYeLP9Anq6bi8ngpNYg5H0Us3uY-SgBsjd6L0rnFAhbKjxFrRaAFsqs0rDypfpm04-vIEtragoy5IwCB-RzaUPdK-bzvlFsKaLLPrh92cRKScXKTksD45pi4hRE2WZ0Yr-dkvSXzIeJowzbE5CbxWXhNBLgp34wE5bTs79r7euSLPbz08kC4vnR8HW0mlnUd6NbwkXqzsK5dv0SRBzpCkl88S8yAhtIiOAVFlvil_AJqeRQw6PlbTmKIeufF86ZuQGq_5qX9_73BYuygEwvc-gllFy4A74Fa3DaR0Lm8rE7bjmnwpeL7IikwafPzwP19Be6t4Hg
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QRS2" group-title="TERROR", MENTE PERTURBADA 2023
-http://89.222.120.69:8080/vauth/343659.mp4?token=79_1GqVlHpQUtnTSjRsnRoIEwblLp8NHJ4olDVzAMVd4cvhaXWLcw7r3F7HyntITyXPPmluP_KpgK6MtsWLITWMVi1SL-uLUiYvP_2qShk02LABeg4xcLy2uB-Hj6iwsI_ZtsgCMmqk9I1J4l2YKvF229xcBhoWB6Z66Frr2kNr1wixf-1SXPMSpCrwVknOhNq3k_R4gtm3mN0X5ps7vog1fDA0TywGFM9FreRyN4hYKQ3uljPueJzvJOpD0H6195pmYTRJNSu4azVfe11l8PB4fvsn1Vz4QJ_R6MTEZN-NwRQNyAwQeiU_T3m30TDPrISHDh6lFDqy2NBiRUFg4E6F8ZKtxVAhPcg3Tu6AJ2Hf_MjpfXmBMjGfuV6H5erUsk5Yf6EVLmnZFPUJWokQMHnnbFzrLAoZnLOYRLsDE_3GvMcl8YLVBXA1XZqnLreQ09c2aP7Nb1k8FS8xDbpNjM6_tIJcW2nUg_3CFiuvpiLLByRfdrwOWtUM_P92AQ2t5PQNch4XuYbwKoAHJSYGkSSzvEnbZWPgHFL8-Ujs4RcnbRzL3cDs0Mx165Upw08vMTR_S3GCX_pjRhsrQ27jz4TI1nR2wI8oGccX_tFQTy5Y
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QQI2" group-title="F. CIENTÍFICA | SUSPENSE | TERROR", HUMANE: AT? ONDE O SER HUMANO PODE CHEGAR 2024
-http://89.222.120.69:8080/vauth/343145.mp4?token=79_1GqVlHpQUtnTSjRsnRgQcYpdrm6t0qrDHkdEVJeQcIrnLfMrOb2QLjU1X4RSdKY5jNDBv88SBgwf9Iy214k-Cci4y_kLGFFpw4eYQtxs_o8eSo9Kgdf-tLs9cDjcjc5kX9qpWGw6e_GORCN9quYByXcV4hoMkQN40PDjTq6Unzc59v_2KF3RP72i2yYGH0lkMrKnoDF4VdXTTrxyv9UlZ_ZVnkHmRr4VlpJo8UfMkSeVQWold2dOa3f797YBHMhobW6KTNmnTSl6uCsxiMqCG7pzjZNhp8-vtAwgq5FFP0komVQWXNq0akqR7jMPdw-bBrt-VHBVAsI5HKD2JsKSUhBR3sxXo2xi7Ew1vBJqCJbUvW7xqThhCODBaQSlgsrfayS4pDUUtNKmF-hiONWBPTq0HVKgVFR0q_PdpWsdAu-NK7FoCF-VC9PmWWb6t6RNJqG4vFvgXb_kTP7N8FTsQa-JOTflkS2XyjE2g74KZx4B2z-xZXhEOYrMb0_s8o_zFcP-_tO5_RZems7DTqMwSK0iS0LRPXAsavzwQVHVdZ6Tu1sxfuy8OWuIljEbT19kP_HJjB55QGQT2oOFsTyhAGpU5i5SS6G8ThF4xiFw
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QLZ6" group-title="COMÉDIA | TERROR", O MASSACRE DA FESTA DO PIJAMA 2021
-http://89.222.120.69:8080/vauth/340234.mp4?token=n_vnywPJR_dHBqlFAv00E-9zDh8sfLQtGX1lH1_tZ6UWvloUAy3orbZT_QWdF5ID6KcEFlmD9lQ16UtYIhOzu8tuTjmx8xTg81uHSFkiO5rb-HH8e_o6lXcDzzggdfK8-MLIScCsRCUvAgyebvMdgaomoS-hkumghQbE5IrVilrxemlAkvyl6eEeLRKVwn56OPo1QK_CXe-3U-1YcDo2BQDPgSUjop-ldfoK9iJwde93K_YT9Z9aKt6AJOFi1dO3zjtQzqQlnr73KFaUb7PAjXcvDB5A8wFXcccdAygj3xYNzb7FUAtX9rw2_lsqNtbTA5D2Uxr3hhTFUMNHaEKTctcC74KqdfLwTx4Xx83iiVT0p7uFG0gU4L_gvdtlLZMyA8uwtyxA-GXyyj6eUKIsYtkVFTZj4zDA61iBt0BZ30bVmopHGGh-O7PaczUyHjD_XJc7KlE488hnM-yuqhAHi9YyrLqoN3tIjYqAWHMiYTewPNT2rK9BYYDVZCaFh8LmTLOdeMFX2WaXzOn7CqE9lxbbmtcg1C5hPlwxl_cvWwlifYvpvI1A7GSzD5oC2frGM1zcH1mZuranCrowIhDrUqMU7xng9Rk8DDMnEDYqVEM
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QLY5" group-title="TERROR", HOTEL DUNSMUIR 2022
-http://89.222.120.69:8080/vauth/340223.mp4?token=n_vnywPJR_dHBqlFAv00E1QipbJnFcAdm2zjBGkNnQPbc5M64nL2wJ8osAZIZkW5mg8JQwK2I9Kl88S9_o2Kb7wLewESgLXUflSps_KReA29UILp_VUpY-i-F-pEnfqMF6RywftMrTXUR4HbUA6Pme6dYYiSFvT9A3T6iU7Eqj53B9tQZHXjvqWZVvp2GhnA6mDbTULqCEh1xuagMH_XSZYsMxuAwMMD5RL9Bx1_uDMeWCYsRxh39Q5qz2rWETErWB-lDfzPV2T55V03TjBDFCF1MkU0q3BSUXqjZFmPHVToQj1UwnwIw8_ovFVTcgCtsYI4rfhvSrFqNTnAgzvmm_mm6NMb_uZnzT1W_SB4VdYTTBxUJ6838PlOwVUZXal8L6NX1aOHagcT-xkhGFzrAj0vwIsxiBfRSb75Bb58HBgzaIAgSwCcP5PuUgQFg4qlXhwspBm4dz4behE64_JY7U5Awt4ZMRJdhm864KwpjFQ8seCDX4yKgGceJzM7VWNBprhuQSYQ5o0fTqWXekk1_5TtZZFe4iuUcfreId6QEUutjQdGfgNE1149m2SLFRd9oFzkTpOhzj7ELozpka0cVCSz3qbqCrlGDuazkIcVhko
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QLX5" group-title="SUSPENSE | TERROR", A MANSÃO DO HORROR 2022
-http://89.222.120.69:8080/vauth/340213.mp4?token=n_vnywPJR_dHBqlFAv00E5JAWloDTlRItGmaFqqSdV4dKT6NeHG5Vy5MErVcCMhqnj8NFZQiuA13u-ghUoERBM5Xu-5lw5rylp-v4ixMxYiTihx3vG_6Fuigs2xcs2wQd032o4u7Qe_WMs2elb8jEJ1oRR3JNvqtrFwIa4JADQu1ABI_Tc5ZZ0FDK8_iMipcfJDCVclwXgW58ejuNKawsrBG7QjFtK8XxgIXwlHCjgyNxbvjtCwefZRipTz_VP7k--kKmAIq_ewi2z2cJbjYZF9H1Un2C8T_E08qziBGoCWT7-mnW1xENMkrWYYGxaNqFOafe_CypfF1tLsWRdtENR8LBxYNWFGT4G3KlNge6jbfDULBQQVqJf8lwpzeJsCvx0yMyNyYpE3FLSQIpm2XXhKrhKvUkzafv9h2NVgs5KhirIg03RtMQfVrdTzPEkVuJp8zDNFpKVHQgAdlbgiiPQoBtsCKhSoOSy6-tp-w9zQEkaT4zTnJ89VZOv7S9eKvEIxLXFLCmJ409iv97guZ1PwkZA8VzpplB3YMDucWEOPsQ0sHe-sCsUo8tcX1novB26g2y4uiSrWnouzZVkTG1QOSkScS0UC-YWNIJkx_gGI
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QLM3" group-title="SUSPENSE | TERROR", SEGREDOS PROIBIDOS 2023
-http://89.222.120.69:8080/vauth/339779.mp4?token=2c5izQjTHLBIYx7HCa5NKeTzh-7hrzxEvuZMZnDd_-TC4ud476BH2ns15HPvpSxI68Uds57BJkmeb9V4DSav9swUwRq_pzoPmX6n3RyhFn7T2cPzhZsy9TkW32_JGgAm1wCGXnKMYIntkY7Cy8RgdqBctHW_1EjSo6tZhiRR98mSnTA4hOOXupkYj4AUwdwBjRKs_v0ltwq22x6QBqwX2mFwIBoKDIqLs1OiQkqEUI4Zj093RTu83yA3mHskHL6g_GcAlBB3jO2ELDpghQs9RY3LaLy66Vv3KdI9GxN5OxRZ-Lq_b6vpsiqvOmIm8ZZ4frOC5vjDcfyBLDQKmJYRz_zjWPN9OXA1WkQlGBkWOA8xHs21vtzB0SKtA1Ns-c5wNqFkhFfdrV6mzK37rixqVSB73EsiRsY_aWJKgkZRLXzhxg9C3ImJpt9E-65Zfmj7CULbR9VfyTfIkZD2QZZyO6uFbyYT3mhQublw-Av5Kr-AFT6yJw7O7Zh0x5L8t4hvmDvn3yUiPu6UwVANLGGxEizi8xfpWfSsW9MJLHmUfebtyccjA_OIRs7TI9RCI9BYWknZzWo2h7ZZkLDc1ZP12xQgHXZHAaJvGOW-EtPAPLQ
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QLH4" group-title="TERROR", ASSASSINOS SÁDICOS 2: IRMÃOS FAMINTOS 2024
-http://89.222.120.69:8080/vauth/339730.mp4?token=2c5izQjTHLBIYx7HCa5NKWO9jxRAhI86Nn14iVQqfjNNphUTmDzIevsqv9mgU5goC7gWY2OvmwWIFWF1qo6dYX8g8Clkn6rW58d6qNDPX5YGUVKlPbKEKaWYX3Bf5sJQPpyZ9UoJ-yZL9ltx5DyuHW8xa7UUr9n6Z5LO1g2cD38DWCRlIVGlY_6J1rlPgWKsRDIpU-OQze6R1zmpB-kaYRKKmZDA7Y9EssXRXOhEk_9gLsHbvJNmVQoc9M5rAVKHYzbruMhE2JDKuhPVfZg5-MdCbDduWGDglhO3Ajs3CiDZ_0y8VtR6kFQoH80v-LhPJfBzg-LL7DVF3x_KWgeu5qj_rRUgEHiViXtD8wuKeSo23Dd1MUYPV58ZZLSgEVFNgeTSZDTAZ6EVmqDIG5gmvVXnTBYzEW1I2JiVy4K6muu_0sA4tT8yF4oXThp3uVOUCWf3dh7981X9cqWxPWyNwWaRBSKkahEpnBtmE_XyHKRsTbuiw9kYTSks7v4pDZeCk13W-vVD-VWkLC61BunrmnWvXONqZmp7XHg3c9QINNMXSAYyrjXajg--6xue1tgagMF1jNwEA1IHh5Brka6jVcd1f0hm3PPw2IC70k9oR7A
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QLF9" group-title="SUSPENSE | TERROR", ESTRADA FLORESTAL 825 (2025)
-http://89.222.120.69:8080/vauth/339715.mp4?token=2c5izQjTHLBIYx7HCa5NKRGhnqmEPsmGanXYsrxO9TJ8dVx0ieS6w6anvwZ5SnUw8wGJLsC39wYyFQuutqKyYaeQRD2WOa60xUmOqR3FF-vqBgrKN3Y1XRx5CdsIVchCW9HUrX4FhLoDmI6mxJQ9aPRCav84GLY3XsDtV6Pe7XS7-J0Frf0WJz8gEx5aIfOuqFiaeWgaaP7TqnLsxvA64EIBIf0KpMjTirS6QPosKtLGdigM3AMcwFExzLHGFGloa9fsaQf-lL6nhrxKfDhyp8FG_sE4LeFF_MctAvleNirf2YJEtxldAt6D1G5d2PJn1Ci_eDIiT-lVU5kDZngg6gP5PYYQti0WeVG2PP25zUYZo2zVOrRoKpeC8EdqYLJ0Hf3Y6qDFEq2GDY0Va_maf9bVkibCgR2VRqJvQUlnTaRl8hazZ_qHrRuNGDYSSCYArWRqf52lqYWiAra_ffXyE8OvLNdYYeStBElF2Th41d0-tlB2yLta7wL0IEPdTxoLC53u8bmuxTCgUEHZ994YCAS-K7l0KnOq3tk1efx_RB3cVtHXMNGvTKQ7oyjfCtw-dGy-bNid5uA_9HZEvy-zCU2m0gNGuaGVxjQGIYyV5YM
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QKB7" group-title="F. CIENTÍFICA | FANTASIA | MISTÉRIO | SUSPENSE | TERROR", VERDADE OU DESAFIO 2017
-http://89.222.120.80:8080/vauth/338791.mp4?token=bCrEYZg74P9DZRMkxzaF2lsW3fSp7hHJgjP9EcZ_5MA1h3SVDHf4eLVYXOrS9Kniul6y8TICdbtr2vQtuuytp14iXMZbbhjZhQXmdlkTG9a3MpAID2pTb8B7cebMzvLjmx1ihPR1koSDchNia9HhzLVd2p_yKsqt4Xu20EEIy75JmNM0qNDnLbHsZcfv9tILOv6ymuyl8BclXL5Alm3wcYs8zUj0ilDWhyj8rENnlRpRnkWXf0sk-o6b5scSG_Uo34tyUFdpandfvry6FszqX-y3oPBm7OHsNiybxQW5HTDo9JGlEaqt2LrdXZ5d3eqMfffjQp3bSoqJRutqjTj5Vf73sncLNfab2zg1e2y1ldUFB3zbsaM_bTj6zQllQpW8ISIl3yvz8KQK8CtxgmqR6NJFtkt4Zsww-6SLI4dIYBrbyEkkQvG8nMtKzNRyeDZLdc7bYDGMR9ojb86ezdrq0EBNEczY4SmQhvi3-pZNec0wKH6c2yIzEGxZ7-n-Qdt3VDah3_Rdu1x3bJk1M9SEbez0BB5D865w1AkCRNr98c7cOd0BTeeCvpqYYqseX7a5rHduqkWyZ7rQg7QyDMOoWAqyckAp0BYybtsqgzuXZBg
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QPW6" group-title="SUSPENSE", REFÉNS DA TERRA 2023
-http://89.222.120.80:8080/vauth/342866.mp4?token=MrDCFe8gTOqHWW3VLlYfO7B1GWK84ea4F6XK3hNeW17gYKIw5ggzCwMwsOjuI2_PWDkZ0_ANOmB-ZUdsqt8IshE8KR6GcQvHa61qO3-rWiKWgVpXmOOYciH_d1Ou6XxC0DmpbbvIjPpZb1ZZkZhYIUeUbDPgMl_jxsVvettjNLrvqwMStwcsivn7FX7XXdeRVAI8yvpMBrNPnjA0Ooprgu4IOuThmmNb8UiRZpvZj3-oSI9_t1F4ZwlEfYUnyV7ymIIrn_ZgDZxEhos7klorNPSdS6wACnrQFter6Bw7VxHGGdx3QseOIZ6-3olH_Vu8r82wOUcr_Mesbhct9fAux5C41ctCcPsYgm_h_aS5xvQtPiFUCbYaocJdoCY2jWoqjSQuL8GlZGdaYw4Wu6FvclX0_Rsh0ktV3JSrPaRQY-yMIOJevbe8B5oOuUSGfefBR9o2KHfO3WdUOxDufYS033QSVbmjQdZ7J2Bv1EwB1qK0KlBqp1pqZEv-ISVtFvXpvejiirVExzTOPwl9UjsnxhQt9sIEpb5i3btCaKCc3FU7DVjoycza_UsrlU8nRbRBQKflqyQafVsjSBjzyd309_4SPgszSRgcR1sb8gE6um4
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QPX2" group-title="SUSPENSE", A MÃO QUE BALANÇA O BERÇO 2025
-http://89.222.120.80:8080/vauth/342872.mp4?token=MrDCFe8gTOqHWW3VLlYfO56bpcbuPRawei1UXz6ed064KPQGS9CYmFiG9OtH8bl-lgmYErKTuRrt1e6insBOoVqgpF0OhoL5LJTd_0YFA_yOHWOFLiBgHbgo6tty_qXG7eGnYgKt_E3HJxypIhxA8w2ZcVQa0sUwItCetgGAzslLUAPur5AU5nV5XTg0q8miReJncE6aZxxkUgCbb6vKIcb--KIiA66j1kz8QX0x8NYoKMLs5mnUkfsYiarB2YWWw5Pv4HW4RFOp4MeEwNHjgR4s_s-3nTqKjZtdBGBo_NAHYH8iXhRtYDPV4HiVeD8geuuTeXy_zuOLJbs75TMVTc5isbOdcPCBVFFqgziNvpFWSJcOgMwnwSGTTubncUwSf28XrfGl7WDoJ1M8jL-oTE9QHqC356gUXN6vk6ch5dOe4sBb8cEofVByjcuk1xsopz32h7tn0Kmkx5mXZX-fliLWvRgA3sEQjnQoFsocZAbCUi4lW4XffQHNGhFf8CRz-g5aACEOt5Otg-PVjWG8E5hERQGwoL5EP6funJXtdB-zttNqX3_rumgUEUx1viArM9K6cnEycbPjPQKRdb83D5LNrKm-osUejzpBz4JnZKk
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QLE2" group-title="DRAMA | SUSPENSE | TERROR", NÃO ESTOU SOZINHA 2024
-http://89.222.120.80:8080/vauth/339698.mp4?token=2c5izQjTHLBIYx7HCa5NKSk8QdFaqDsJPzmzR4plOL5wgYmNiQHRkp4G9SuURF3L-LTCdPWc9PdNQ3STWXDP4wiKiM0z51t1uHNgOV0VkH44Smu7fTstWBe_ojyQ43MewgtEOMauwkpbtF75rPsTA9zNnNZ0hOsJ0e5AlQxIHF8vQF8B3OTbzKTIhiGFU1F17jYfWr4Bt_mVT3jjqVGy3bODQEdJRuZgKKzf6UjoTF4yt1TXBIdVKTPyh1CmyIarc3FdIyvng3h7BrXKjujDok0VQLzSEFhjwmtFhRyc2Is23gJWcosJ4qrEJ9WdAzlCy5wCl8oFpbUm6t9gfMpVp68QleuuQu04JYGuCs1aMhoa9uNNHjI1sBv_L0x5ALmqYdqbBjY3wIRZAnnhQD3y26Q1t2kbzBY_7Xc2mGMob8zz7JoaGt_uH2m8_wtZ1mVZStgxf7d81iWCsyQqxrka0_MfMORjKkItAansPFaaJMRjiG0aiDcV1lymfaMp6nHq5ce4fUMw9-m17ZeXhDlnZSDHcQXXosKbvKIG1A1pTAqEszKz_Ib0u5ibmC3Rkkr8LySPvEnGWGAN7MZtg7LXt8Ttb1Vkbb4vjhMvJblrKgE
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QPW6" group-title="DRAMA | SUSPENSE", JOGOS PSICOLÓGICOS
-http://209.131.123.168:8080/vauth/128774.mp4?token=rPcIEEPAR7o3ONPusae2fH249HhIJKHwjfZq0jvEy_D-iHiJm8cs_XZJKOqRA40xDZhSrEYhZOpUE9GIZUXp4SSvgTAXdZ2chHvyiXnBvwgJq-0VyM3hC8M0Zd7mXr3vW9BsCK8j2AYsWpikY1v-vyTN82IHz-Y408u3mMlxdCMAHicGxbCtY3ifJK-fE3pDEdPpEfhX-y4ovifDXHnukbhzbtaeQvx6DSPaJNZvFUZJFobAyNMjMkX3IUKJEUzBrOFZelc4cSk4Sx99wDW2q-qkhiMafgDXtMzr_VbzcDkVOvmwX4K1evbubAP5UwT8QzlfOR92D5ZuKVF5NQlgS1CCx9omhBm0DHsJARo632OdtkH0jgKDOI2tSpwbVTNJMgIm2K19xHau2L4EFmZkXmv4y2PM0ZHH8lgl9Rqvl6PpjD5Rucyocl5RGSmrOEZ6BAdWSuLt0lyBsYiN0xNMIdisRpqN2EmYnZ9lW9UEudgKuZOWx15D96kYDBjvFBzU_3v1Cjmo-8EB__yFmYa4VSMIb94jmZlpFXWTyNyziKhBJd9Y0eaJj4LW7TT88PfVeh6fzTOLl-I9mGlQ8ZKO95FLrnKYZrqFm7Cecf6wzUA
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QSQ1" group-title="F. CIENTÍFICA | TERROR", O ROTEIRO ASSOMBRADO  2023
-http://89.222.120.69:8080/vauth/344203.mp4?token=FoqhPz42rw55_kbE7jW-dlm3DdHMWO4b7XwVwt9FjpQokzbtbQ-X07xlZF48AEXCN6zATrcA-4G2zy1W_gt5Tf7REBAp58DrqQmplDUARaJHJU3RClJC5NE71fdy9zGDxuCrTAxsFydybO6iw8iOFLIct29Pg6F4Twa49vOm2c2guLWwclxeFZkJwmzcgHvfwBoET7IowY55fmaxKt1WksScAVNFdLtz-3hmRigDPj3vtLwdxa475jd2BNni_jGeNneug1RqfJ-pESjS6ZHEnmrDWgfLkiCSHwFgrc3SSMp5ZiwLgBmzc56OHMZ3NNWXsK7BGHGwlzIlfXm2bIzVWf1qGsS8apEZcwePgBkROQVcblnDLBcEGTTomRR04DzaNdBpxjaj1A3CaMiSC9S4IqAd1rQRiK4U4SdglLu9ul9xHd_LEwb68SKzmast1q69NPjYn14sHMp5tU2rMvZiktnLjnQxzv_k9nsVGZs9xV3v43ySsfcfVHXDVaEZJ-O11WVFW9S8gKdCNtHnUO1FrZ7yT8qVAfbSRFjQCw_v7N8qeJGFK3jYuMtt8YJAtHkGsWyZ5PlN7RMdkgz3olI9pg1QX3u5MWVk66PUUgX1VU0
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QSP9" group-title="SUSPENSE | TERROR", A ARMADILHA DO DIABO 2024
-http://89.222.120.69:8080/vauth/344201.mp4?token=FoqhPz42rw55_kbE7jW-dgEBPkIHI28Yqaem4Gi2vugJ9mjFTmF_gV5VTkcrCgWBsKcJRzgv4f6nje043LH2G3BWxTCHFuAMf4nv6yLW5ORBZ7VCmTeLgw13QZALpdqESmV1EO-p7W2vY3piTDMr5HQh3-EM2_w5tTblqIMPQKNwUrnb7T0IRs5KLxHLiJR5wxYxEqA_ruR8QPVRCW2q3hJQMzzGTDgpVtg7B9rHIv9_xMM7EAb8oV-nJgsbvJOx6yNbod5Jrvw4fbFIMgLi3swmOaY0sy4SmGXyXgQjHjtmW9FiFL_ippHKM5pJ-kP5odMWhXU-w2Qp9Or8wm6SgJ1Rxr_H7CdM18p13hb5F-CemHeOdHwtwuHRbbNX3T68JtNwU28yYxaV4_66nJ72mCDncy7EJm6vZYb3Zrs0Z0TlHCwfWmkBj4ZO98i3-poBYT_Y7cCWEtP8VOKjeYQPWhUnBMKo0SEGpKwf3wN7l__NOSG7Xjv13sylbN62WCrej0GwdWREPO3XnFQJy6pa2SXWZS8x1UxcEmw6p113_0IgqflMandvXkTZAZNhOniZdxdue_Alzl32Jk0_T_bLI62RqFhoozp3KIucOXOiQaM
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QSQ8" group-title="SUSPENSE | TERROR", AQUILO QUE VOCÊ DESEJA 2024
-http://89.222.120.69:8080/vauth/344210.mp4?token=FoqhPz42rw55_kbE7jW-dh-5G66I8e1WcfMwNOwwsn5ZbjXIpgocQytzyL6hi2cPY0dcFYkug2brN1nTGiWI9XUIRiCVHOSnH3_qqJzPrkfzfyo-myyj8_pcKbZnf2JlSSUM8dn7nLzSwkrz6QHjQwLSTOd2RN_qYmd_y7wg1Iba2I44tYUDHZEGrfLRCxdFHw6osdXBKchlBqtk7Y0kfbSQIW-dcC79QlVJAYHelMao4I4oels_lgt0R6ORw8l13HPrDm96yp0ObDwXWkU_ZZ5aCDsKCN7QBFM9d7KCni25bO1Lc-EnAcQIBeqiyPanI3YfrIV9kucY9mwaknMw8CCVLIy6te4JH5GpVgxSIehv9RcY-XDayEeVdlU10kngoCceF1WH7Z_wiEfSq9E0sHVqqcukXbwAYRM1KMQif4k4ZFPi8pFQzL8OVjTPHnAF8x4O2sx82DG_PvNmwpiEqZ73GKubdaBBze2bmAl0A11g_0RXT1h1x8TPKf2XYceVDDUxFvsEi1Nmz8LgHMsQOkorhydw6puPCii7hhVb4JnSpAvMXAaqWESARHagTBjN5nM2uBnQQcAxfOMOOpJo0Q056chMJzsAm_wVcG8PV2M
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QSO8" group-title="SUSPENSE | TERROR", MATE-A, SE CONSEGUIR 2023
-http://89.222.120.69:8080/vauth/344190.mp4?token=FoqhPz42rw55_kbE7jW-dlGmqrhIdwQQG7x9e3yPoLRp4t2kJGypf-6F4YupoeyGc_ovLejx53CTbYvuPTWHhAXBW2MV57Q10XW12hZ-Rj3MzmL2vjjTPpRpN3NducmZS21IXDR-hBenhgd_w7WlCZ7SAC8QB7v2dfbcmaI5Cvl1JnEXtKJsDMiNTJRSij_6pIm0DN0zEs1aXA3M0_KzcujWgIQ4VSaQh2eZqt9_talZVfvE-CFklA43HUhxysVCl57kGa8MRp2p_kCoffwAxvT_K8Lyf7R15UzmkUcKhFuLDA-qBBF8gbzFfEzc31B7HRuY0rWoeDJ2DQNYtvLeXEL4Mwy9znuJtTUYbOy0M3w5WURDiFGURjz7vPiu-Afgo5RbfbXsgJMvI1EZaXdQY2mTkrz4OfIm8KfYTxlm9sjNkciI0N6JdxJsbRGNBVmjjBEO1gHb2RspYqman7dWo6depRhsXzjgQLWFsTyXqPNRxif8k5yujQCE1YdkHk7uUMRQC9UjaiMzNtffWL-go2U5rNistBc_u9zwzGp_gjqes-a5tWe64Qw_hvkRb_atsJlSxofQhLUZk-_3-cUKXeE-ExgabzfZE-TjpBVZUaU
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QSO6" group-title="COMÉDIA | CRIME", COMO IMPEDIR UM ASSALTO 2021
-http://89.222.120.69:8080/vauth/344188.mp4?token=FoqhPz42rw55_kbE7jW-drD_eNuQkJETOy9Ej8TycPumCQ2lE0MeleNuE7FPiQ0JTEvwobNGovqa5xDL6ChCgSICpqA5xCyuYmxvnoHhGnejCiVZEB0powmH8L2lU2c7hxUOjiKRrl7rL3Zr1P3Ae_vavBiTbonqVuOMURoUtMi8fasrw8G5k9YZi1Nj7nRyhxH3nRv3IQDHJQ6XFGltErFVHHbiThEtgOllYiVeK-6qhvWrjrMkpqyqqo8y_FHo3FnrRwsUgPT9KffQALxApXxg3XKTBD1rF3EkodS2wnzsBY5IjlaxuJlPB9lhF1HVylUVf0w96e-A9lCmvnrp5pqLJh3Eiw4le2IqmZGCGwwbw5RSJBRUVhLCAEuluJsK8PDH7avc_V2AuUlgNkcqmo4BsFDiMW-KeJwuMVMFt0u29ElO25m-mqkHmNXCns1qSG_sQ4ypU7_li5hJ5BBaJ4n6NoX3BLCzaYUhU0oNqg2HNObKiyVxt-7K6aaC_EpcWji7jGot-tvFjAld0bba4_-MOz5ZZ2Ua07wp0HKySTbsJUwCZKEjsvbI1gHSvoFY0r49-zRvEsvXXplPkIxF_ijap7iZRMMfzD4Eb426FCM
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QSO4" group-title="AÇÃO | CRIME | SUSPENSE", FUGA FATAL 2025
-http://89.222.120.69:8080/vauth/344186.mp4?token=FoqhPz42rw55_kbE7jW-dv0NPPbUcKi7b3NvQVgUGllSUzBBeJJzbFLNnPA-IGeg9zfZropAle1G_6Xyz1-TS2r9NwhIC1n923YVo7yb3NZCmBUzZb8pmCIv8uXGQyzR8M97GTTpSY8cXiQfmY33HdfbCwv0JFOdirLTgrdx3Lo1HIWk1I8EA1Go1xEEEkLnhJiAYxRDFss3cF7G21pHr290MVaWEGSMAObPq937Jivr1o3xSRj0Y4AzfqStEsMpSALTS1HgNMh3aCdqmE8CLNMoDXEUrCmL4fQCotLrIC0FDcR22-b9mDNyE5qLw0WlUh2IA7439wyeCqoWeP2ykbjylObg87oLt7cH7tK4WCxv1vlOX-P1-_eNkJgHw3klFwlVBNQqiJXAoPekLixdp_HV802ovs4IPQUNtNpEh62KzceMeJ1h1Ox4V-KLY-7TUmAZ-wP6JRWgzTUcOLqT0Rvq2lEunqIsQP2wjJlcvZ-ZxovV1dGNiu6ykz9Eu9kpOgCSdTJtbWObscpvMpClZsoo3a_pZA4XroyO5VJyLkVqhyUuQ0bz0AH46AYLg-BT-FQIYzBu1XR99Hj8UKz50W4_edIcasSgc6lEL_fGK_o
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QSN9" group-title="AÇÃO | SUSPENSE", CAÇADORES DA FRONTEIRA 2025
-http://89.222.120.69:8080/vauth/344181.mp4?token=FoqhPz42rw55_kbE7jW-dnY3Tp4b4VhAOtWjk55ZdOic32CfqqpQP11yge6l04mSEK9qZIe-iG2HliAv2OvtqkEW9dBx-qrcPDyt0h7uWtCBpauLZO7LCPkF-jdTVOSJzALovKGZeGZgnuQFC46c9oEh8WGOkEP7wFNIpyDgrT9uz4f3AqxZx2j_xFNfjCeY6RE3uPC99qALzLvaKxkOsgqkSeYZ442ZpnGVPvZY80Gg-5xpmvAgO89iXC7rpbQbsMwrg3exEefDFWOyCZWMsFoAwzHSvgpd0u0CMlRag1GZFxH9CUjA-ZSa47NonwiB21M_jJkTivXUWxNPm59mPqqG6bhSdWJWk1ccYMJIbsOoEmOJ9pX3d4CfRU3G-Ld3H4bzFe4VPBdd94xKsVV7vHKhdBLPBC5GCNFf3O66f7bNSYy0AV3Ph2y7oXe6Vt5yNkCNBmODqbt2WOVxVtP6Ay7Zn_Xnl9DYQdNQPHHoeTR1Pdx3rnv3v68QP_1gTogyexl-mltZp0Wj1n1cGT5D9VStQFYXMK326DkMQ8i2fw1ah5-exDYLDVjqHOpauizPvZYXkjio3qEHdfD4qyQeCYhPcqZ_y6dbblvnTkbE72s
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QSN5" group-title="AÇÃO | CRIME | MISTÉRIO | SUSPENSE", AMANHECER SANGRENTO 2025
-http://89.222.120.69:8080/vauth/344177.mp4?token=FoqhPz42rw55_kbE7jW-djnmieJNSkMRmnUV75S1MYEFZCw4ri_uk_gZ36ba4PH6i110XWeWt1ldJfBSlFZejFW3qRYOYoAbX50-0MJqmadF_MJUNrjQ2vaWyEuSXrvo15GIfWcSRKEX3TciDgtK2XRf7dHAnP2uQEWciUoniKkdbKT6z9XsbwXaH4a7DSK1VxrmiXWmeLGj1ByxzcqVvT6ChbWbCdA19WX-LMdODReZQoYbMch9urCeD-JppEAyO8NMlfmYTzJUCYvVVTWuaKZe9wTpcCGliK5uf66iB6-mC6mAUfc7Qw3gQHPlci0vV2-Vi0d-NTBn13qsTQtgQU1CXvc0mojSp9Uj_jvD0vji8A8tnyCHtTuXdMPMYrKjE8vzzN_nrF5zfQzPsRx9ZJRLVUZyl7PmbiP4iq90k4T4eLrWkU6Vo0jeYeYaPbNuVv4BOJvz15NDVl44wML4-tTwUmB9LYVofjHyECUDenh9Kt4KhDcu4BZbfwGxBaz8dMg5YQDuMDI-wTNWJtjefMus6pIuW6YA1E1Xap34iyFvjWfbdsZAEWYwa5o6Vd3tVRCezJu4nNU7XdyNPqCnNP5Dg8m3YeFvZTl9jYzL3JM
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QSD0" group-title="AÇÃO | SUSPENSE", O PREÇO DE UMA VIDA 2022
-http://89.222.120.69:8080/vauth/343950.mp4?token=79_1GqVlHpQUtnTSjRsnRo2MVasuAmr3pTAozMOFOpJ8G_iTm3kNNKWPzzQCjoRgG6F7IE4Kr1bsTvY1cqb8ZL5oO2TjviuIHLesOsKrEj_YkiAFgz8AyFRU9h2pQdVX2MpkYBzqPxyNoCOplQNcbcvi0WyXLrQuBzpt_TC5oos3zigJEW1ngd47LYn-J0AgpG84bKa8RO13QmIabrrDmCelQP_X74CUldRNBulz-w-etjVXyL7y7TSAqGFljU6ILwS20GbC4ZhdzbuQe4QfsXCjuh5xr5HjStTPn_31UYvxVe7Y9xLMR55zB6XfOR9-BJ5zuzHhDIiWVm9efUPEGtXH6EJpzkF3yfSoLg0zZPRrhz_hopQQ-43h-yX4I2Z25ZR-9MoP4i6HmF1DU6WpcsHA2ycANzctSfYzNF7DpMfJu8XcuCEmUx56jG4NdmeZldCdaAm900xr_HsLyUixKroFLeOHCPiibS5ne9ZmwUJCG8SJORTCk5u9V76w3yIgd8g2-D2tnMD1lACzlb82-j9cB7dQRyownyYwuCOmSuKXQ5nT_yeHitR6kzgw5O2Y7uVWaD08Y2DJyVE6l3sgv2nNjue4OfdTfiD-APB_y-8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QSC4" group-title="AÇÃO | CRIME | SUSPENSE", ESPIRAL DE VIOLÊNCIA 2024
-http://89.222.120.69:8080/vauth/343944.mp4?token=79_1GqVlHpQUtnTSjRsnRqR1eVEo4uvyFtfVUfOZXkJJtfm3jwxQ4fNk6Eq_Ev35hAMsA01mui3YuXX4Kgh0Kc7VqYBIjrLZK_J7Wu1eT5P68RU9qNyoj0-EOIRaIloUbvSzDVcbXFqhxrF2rAsdEs5_YGW6rGsskNIZFgAjCVCc0C3nYOV_TjZc1h20wxmf-A69wcczPS71a4zcU90enrxZN3MAUKNRToMckvReiiqHj5qeKtT5JROOyHmTwYUd_n8HqqgmigZSrzSXq-ie8SLzK1HKvLsLEX2ML3UlmJMx62awrnvE4OjG4Cc_JKvrOdSppGkSfdiH8KPrg9HdwdHkQWxfRUFh6n9RW897baKTSTBqzheRw44PEGPtq0cdJ_uk_E8jZlIKl1aO9uyjYgkxeNxoxxcl49Qm1iWgoXNbpBNCfJxzrk3dlzv7IKduOKorJ0CIJmg5vd2hhXD4mQkTDlmqhQmCFQ27mV9wX2UrVHd2KFanbpMPayJOi6LzoWCjMwL28K7bE96hhJ7QC6k-47KK5EoVvV8M_QG_Kqzt6qEZNNn7PTpFQ0ypb9Xe9UJvNcz1pUprnS1cv8CpAWKp-u02XcdVl6dnBLuQMKE
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QRZ1" group-title="SUSPENSE", A GAROTA NO BANCO DE TRÁS 2023
-http://89.222.120.69:8080/vauth/343911.mp4?token=79_1GqVlHpQUtnTSjRsnRh46mNKfVG9YwsOuVXiCYVD0AmQ3hD9i1lQI1a-UBWS0sY7oFXpWOd452oN7y0L4Y6OAWmSZc55dd6__8CD3s0aZD72d7C65FUy5GVe66rMRgOvRvIfSv4bmwEvbvx_4IqrEAoDbUSLkWyOJoAd1PDACbNkIc44bwddt7sGaqXFbYPOe8syXVHkmsTc5DIrcwaz4h6vVba4jRVcZKrxZHT9msQ2QpqKK5-0JbxKA2l96zMKV5X4N7bLSuzt9lPb3tQu9MTqHZfqzuCLmfhRPPARfioYD-EyrbR7UCRbFEN2N9xokbWg0LMjJoPibYvnCG74C-6jwHMb9BPvGS-xGVzny8FlVGM1U5A1VhW0q-_XZVnqyePBNOyu5wAwA5cGPl5s0zvf56GnVa3hIpBKl-OsaAyMpyDXQk6lJN2YorB-Fx-y3yERK9rHL1ha6IVLRWiKp-IE59EgkY8CSdwOSjSH1yy2gfChegS5yuFif55CGsLieuN2JVM6VGuqNZeAY4evD11Jgb872W7MjWzLAyGvCW4KXLYMKaZttBVmBD0CPAcUBOpgCr7wP0NdUsbFbz9t8Q8B8dOJoKfyZQ9Sc1TI
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QRR8" group-title="SUSPENSE", LA CODA DEL DIAVOLO 2024
-http://89.222.120.69:8080/vauth/343655.mp4?token=79_1GqVlHpQUtnTSjRsnRg692VQIi4Qw-0qRTZq4gGUWvnwYAUICsXSfF756jHbRksEgXcoG6e8MwTB0cCZcdlIBaDVpS9rLkaHg0TQfP-XTF0QYEbBszwo9CZyZlHM8X_AE1lPoqx-Wjz1SFT7haZvHpQakpGxyuMo18OfCB7ZTPS326AOKz7aZoNf7ewN82BuU3rH9JO0Rc91arbCftlnG2gVUzsvM8qavpOvSoDXot8bjqvZIO4asTdXajij1abtJ0a1GwHTQEI_TCZ8mhgZCBKBl4Kxq9yxPx9UlBlJP9EsrgXNThK5cyW29Wi6_-NCiLCnSIz7pgcrJRa4xJzxp6FzgpMe8TVsqCE2fAAttvuFgg5uDiToMHx9nbpvfRekFm2cRfl0l67lrTBn5C8R4Ut1hhwRIVmcuar4ksIBot75Q61uaNXAoASaFUXYDYVtRwOIwhRzJEVVZFblbTXcQU4RA88RffXBh66RuuGvdMy0yHIn17Z7jo1AUEozkBdEPdh6-FSbzxCbKqjFL51GSrUEmJc5uKP6uL4vEGBlprc3Tp33qWhIaRV8d9xgoOCDMYY80LVe11pBnzDDqCqYDT_dsbzMgP8DgwssOwQo
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QRT6" group-title="AÇÃO | COMÉDIA | CRIME | SUSPENSE", FORÇA BRUTA: SEM SAÍDA 2023
-http://89.222.120.69:8080/vauth/343673.mp4?token=79_1GqVlHpQUtnTSjRsnRt7d867qIACm18h22_xPYlBC5GC_ia_gLLY2tgDw4vmF_IcPNZ62iKdbgn005fnDs8KIhANtbBphnj8EZ4dWT25yKThM87vMCkFGzvFkNuftHRFx9cnq5rXI68WM8_32eG4VUmlXgpHuUuf3piPHlhlbDHhkLnuy-fRYF-NOzHH-5sRqLVTh_F7KDtNl4lqzRIPSMTWhyPqtvwkHz--EFa_qEkMMtp2utEo-9odD-VaMQgYmLtte6O91fmAIhN6U2arb8x7ZzjRYQNIxIoMtzTcXHafUsJANFLvxP5FyNfnVWxzxZbV4q7URiGUdsvWlIcVZBr0hpjdn9lpuG9eeT18Twq-AOVXMC5P8pC7JTjidyK9zLpNk7p7TMtZv840rYJp2KZ2ntqH4wkl7VH6bA_2L9wYTT6mWK5KKrN_POV1iErqbGOFe1WfTZ9vGJMgrp2RH3GVQ_RKnRVbpEdxRrSUBXbsVOvw6fWiIuRqrld8rhQ0iY9yQ1A3i1Lw3QeMvKYstP3WZ84p3dIOUHcbZmYTA5Y3vUjwGJyhM_2d4V_ZtdeuDAmK-Q64Ywhmqnci-IguPT5iQoOmDZ_0-oFzY3rw
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QRT8" group-title="AÇÃO | COMÉDIA | CRIME | SUSPENSE", FORÇA BRUTA: PUNIÇÃO 2024
-http://89.222.120.69:8080/vauth/343675.mp4?token=79_1GqVlHpQUtnTSjRsnRoL5oc9Krypof6vkPptGJX3CKlg1sZ9XjI_JcW_JK5Hg0WavK9oLncHGAPcrMhTTBK8FGaX9CNsJQyNpRmdmofR9CJ15EPt_hmhpVbMkAJXBSAIjE9uEmX30-X6Y6DdFFqvedM3eY0N6p72hunppwb5wR223E0VRkNpuInf59E3t307xDsDzVXqf8Ogw3bHgO5sjLNYgfh_MKemPwlEiKqRhkyXP8lxagyHssA6OcbEQN6Tv6e6IIV6WDP-qlOC4S3ZBkWk2L0CrwSIeCCFXO7qGxPMZi_RhdVgvmQlv62NX1AdGS3GRAB8FGG6LbL6gO0m5zJO8z0uqq_bxAajv6yiHASqwPJzKTiwMpfVrAJWFNvJ7TycXl7ewuPdEcgxszev08QtBfpv2bWTC3gBCEFOHn-As-BzUaZLvDI8ZW9d3SlLo5V4vaNrB3JYCZtBHMM6DLVFcWV59078W74m82WkPDBRBfsoheU8HBlC_2Npu8sWsBnQnl3_xg2f3aXI6MM2yAoFEmyGq40b4mF5VcAj1aHASLBXA9WHVwtqaYWHwtCQuessSMAEZrSQfX-Z8GtcCryFZxUUdoyKPzWXk7Wk
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QQH8" group-title="DRAMA | MISTÉRIO | TERROR", MORTOS ENTRE VIVOS
-http://89.222.120.69:8080/vauth/343141.mp4?token=79_1GqVlHpQUtnTSjRsnRqBi4nNSpmfBZ_sOhjWXf0KtIbbua0vOG9EcMYGQ1oiPG-LbXbGX8ld1NvSPwk58nWYbVTqtwXSlCHNBSA5hogJ7wdoKZyLvJmYQ959x8Il3yYjALhfLlW54wDgZkPHz3vCGzIdeCKxc98mZnYiuuda1QC3WmYObivcQcNYiZNbhAObL2FlP4YdSXFKqILV9mio2K-vxVrj11o7AjkrTU75i0cUVTwX2TI5mi-3EBG4YlcKrq-Lam0boTd6HF35vZKCfHyhqXoyWbS1HrcCr6bDx2bm0pLaV0btq7Y7SPB4va2WV6w_jKanMbrGK_FVgkO6Mgn1kjdCwJGcee8JZYOf5u3kULHNoJcjLbTAajeGw3GM2qyLz_u6G_7nXljXR8dUhww40WcjnISCtL_GBLO25I0DkDIJo6BmaWoO8qn4xec1E7g8JTKOj5Wn7KMtqjV9pBZxJfuYFNdvXj5SW_05q0EVC7aXMqxa6llhe4Xd53RwhkMFEBGRQrwcLZrkxUW4UTJl9MzaYe0mJN9LTuNIjisvkK8rs4UuzELan99QV5AhJBrmwNiPqcO3POfskzTiO9KyvzUiOAgb-ewe_q50
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QTA7" group-title="CRIME | DRAMA | SUSPENSE", UM BOM DIA PARA MORRER - 2023
-http://89.222.120.69:8080/vauth/344371.mp4?token=FoqhPz42rw55_kbE7jW-duHgORmj6LdxZ7SCM7vaA99MUcDVJtQguFKvFnqReNSH3f9X3XXctShDifmzFJt5V44-E04NBeWhkcNIfMPKJ_VMSWAMefGS6pgkDl5Sdb09zXmX5-0zXzlzUhgolHL3Mop-4ZpnleZoghcvwDfBuV8qIXYl_-Od9Ywm1fuv1xnhC_FZ71-n4m_quYTLkRIJdxb7qM90Gwnqd4aHApmauz4QLHvfDrD_wZNXqPI9PiXg6rCqLn6I3s5a5ah-tPsFpoitfrAMIpYTuBkMjrpiGSOGiapI8rCsN3UwXKmhvIbzCqWnCJRH3Xjz8ixcP-ot7oqV07yVD8UtsqUvdp3e7-ft6xNpX7xJQ4TJrSXhyke5xMyRe1F0x2Ef6bX9rG8j8aqqHo6M-icLQ34kSEoaFZI-lJi1JAVRZ0_bRUUX1xUDioALP4i0R3yAoSBJpltS1c7HBJncWrvWY2UoBPahFcgaawaYC24Dz7vJCP-kuBOjSl4CXe44kDXJjbuexidrEFK1TQ0TW-fTKWdaAhKdCLoxfp2bGORx4B70XyI4ISjQm9ucD4pi5lEnjqnNZf0pLIqL8MhoZET9-0pNO5JMp3M
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QTB6" group-title="DRAMA | F. CIENTÍFICA | ROMANCE", ANTES DO FIM DO MUNDO  2025
-http://89.222.120.69:8080/vauth/344380.mp4?token=FoqhPz42rw55_kbE7jW-dhz_0L9Gqid7QKsrccugGEmj0xrR8Bj9OEVOsns-PvvGna392qG2IefBbVl6Kb2uipqa_PNhrGVFGNaLxhxpxOpX4zr9cc-l630jvZE7U16urjIXzmV7pVIDX4HFE-BxQTWCpRtAyUblLNj3Y1O6vluIDUHpdFKtnOAqTdOQvrEIMDA5l4p-O9YtP7c28ck-th13hjbiIf_p9Qjb_4HIRAeg72oUIbJ0Pvw0Ha24LgH1tc1QsXPmF2sM01SmnCcwZqnRVZZcacPj6Pe6QcFsfNb6Luyft_V5ELZgNIf08eLSNQHjPjlybSrGoJwsJq9tb__YCtl0Bm16pnjchRApkCHPlEyOQlqtIcC_hdKHBEkgiSMMXnTgyqRqJy7_-I0TO9-xdCHunfUpoxyH9A9d7kZ6-lwf2sSGKLtXf1a1g9M9cCne0Qu7G8el8CoZ5pMG6RJj1sDmubhdVFlQUsPwKVwAExmc94PsMJayTXoSHUM0wvoELdJR9WMv9DVnKU8UBaA_hijK0gZHB8ohuApGCgEU6IyluQdCFksNT1SYgdOQ_w74K-WCfKwhAuZO-foQG_0KWY0HDhZFZrzX5UYS0cI
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QTB8" group-title="COMÉDIA | TERROR", A MORADA DOS LOBISOMENS 2023
-http://89.222.120.69:8080/vauth/344382.mp4?token=FoqhPz42rw55_kbE7jW-dlpBNojFjqPwZHdjgWHcb5bd6C99fASxbDzSzWssCSWik0oLLZ2WoFcuFVDt02cdHgwpXvy67qGy1mrUtUmw9IEO7oKvQv9z-SOV9WFSdjtK1Gxuw6ZZGXGdnkfXfXvVHgqiPXm-IeFfMr2fC2D7zNhmGP-iV8HFHXFpEFeHCs14h2gFsNK8lrHp0v8Z3PCUKNro_0o1d7-rW5E2flTd2YyOk4m1RQRo0JJi_iEKQfW3aMCnz9UJecxzf7Tk5EZwXJ-YkyWldcHxKPwoCjhYsfrkVT2tih5BOonLzhs1x1Q8DF6zGrdcGmyrFGO85KzVwxXIod66o8Gx3l3xwPdZb9viaXwB06dxJ00Qr6bve9zgGrv3T2maWhvnpYq_H_fniIfglWjfGgltgrX3rztJ8cLkkyJFvajExocF4ynQvKfCnpz2S97e9mYSA-KMEqCyBR13DTLt5qSOynsto4LUcMLiXpogz-oQew7-wTK4VkzYjawdpZVpmzRHTHve_MnhL5u9HDKlkqn_RikhzUHTBCLi-93ggd46ByRd1Z4w8DKPl9navyv7KHwMOizwlkCWWrQPQO1M5mvzEc3bUynvWHU
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QTB4" group-title="COMÉDIA | SUSPENSE | TERROR", NÓS SOMOS ZUMBIS 2024
-http://89.222.120.69:8080/vauth/344378.mp4?token=FoqhPz42rw55_kbE7jW-dmmgQXstMs9nH9V2zEp9NmMq5EvbV7H0a3e1r4-m5NZ5aCBs3UdxpQ2yIIZlTRuRj16041WIF1b0eQesPNsmDQ073r28MRo_kNQ66DX9PW5Sr5s2sa9G1EJxbWN2Ujpjz1uX6xPyel01kEPTx7jkX1n4pMXSPBR3DIPBAE5WgpgsUuCt5_Cdg2b5JLLcN2f1Md6QCZnzN9VEXPXdglw0p3HQIVvyPMRVt1n5YHons0i0-v_PrDBvUvsovblsNVk50Svax-BlWdYW9zF6q3HjFWONC6b-SkihEK2l6KagPga3R2l7l_uKKpPd0szsg55ROCFE2B2u91-wPT2KQV1ntMz2nhoIfWeb8vd4a0uHWe3Xk0OnjMysD3b8JdwXUjwvVa58x7pcHzRk0H-DfDotVy_JCvbmV3snxfP-OaHP279b-ja1MCjXth0HGj_-pv3WlUWcXR9PvSaNPkFj_-PxTVc5K3XnfBBFve0C_H72h11uT8krSpESdSkEudp4IJjoOmZ54ogPdSq0vz1Gw1_XRV4j86lHWn7DGRLcSVuVW16q98jaT2drLpNhyAEIs42hMppeR8IQUhk2B_JPzQIypy8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QSX6" group-title="SUSPENSE | TERROR", A CONVIDADA - 2023
-http://89.222.120.69:8080/vauth/344340.mp4?token=FoqhPz42rw55_kbE7jW-dl6kTCmDzLYw_AMULecP8mlfvAlSbrITq0Lw6e4KRPOHzHZ-H8ZUdgDwX9fh_j_8L1VENsovekBf7HR5kJnlDJutB3voS44T7E8MBB_up85T-ufIYuhwqrp3br10aiVtwgiDY4gJQebmSNWOzxdgwZdj_40Lo9gqlLeQEV-J2zWOhaiuwxODHkDU1ZsrBhGXbx9pGAzuxnQtRjaBnp28aaoJCUcEMAZGOEfiwZ7T4aEWrBm4kQgPFO4ROM70nmZL4ljWsuZgA-Rm-i178JHpZWFqjDWLBZJ6dcnSLHsDhQlfF8KuaBUBKnXiIgleeW9dlqrKgCfZDcxxbW34yTCZZDuO9zYPIqIub1xUKXZVaxytAde_0xD0tLYcJAKkDxv_jtd5F2wOzAt3uOpiKTwWFkeLcxBK24sgArZoIeHaySefp59IKlJsJIBsCGFReKxJ8IsValrzyDETrYlvxsVcRn1bMDyFrf_FXbVLVCANfb9lYJVJgv4hcUKcriR3TLnUO6cWzPjuGFNissh5mBBGdvWnEZOq39r5Q38ucPAbpm2YvrbWWuzXvBctxB5Q3jfbrIkOW3_V8JAzXuonzEwubTE
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QSZ4" group-title="COMÉDIA | FANTASIA | TERROR", NOEL FRANKENSTEIN - 2024
-http://89.222.120.69:8080/vauth/344358.mp4?token=FoqhPz42rw55_kbE7jW-drQ5C4AbdgHsdeq_d8VdiR9CBq9oHehpfOFyxtidVwS62ZF30Am_eDdrL7T8guKaZt722d1BOPSKl9i2ykD7sayFHGRktypVFicoSh-7ppPykLHMf-Ia4WTZNs-kJwTME7ag5pT_lU3Ivh-_uY05alVHlK7QklzQBA_AiDvmnlNbzqgehZpErAIgqG6EH9zSA5z8-gqgtbYltgj0kL8FNCDHMkfp9ghOYiwZVwxX46T6AzdStjuyha7K7NZ_U1eAqpX-C9xDzfrV2CuKCVTQVZz2el_c9br13x4CHB3gKGJYm1itz7nHnI3WLnvzYTO7yjLTQ_K3DYOvUnvpFOJ4QZrXYcjg889SJPJvooDvy4Ahkv4MKGsA_xPH1XseyoEC-V_o4emx6sFryNImVjbJ_nB8snT3dpteAp2NzQtIpNMIiKi7hSjjZSLsAzr-0HkcoWOD9mhE9wiqDxo0m4JTXhhaEkRSD04nOxS2bS9cXULQDSXChGvS14KEw7pzFoTqgK1tGKs1xsxLmB9bEFQ73tGghIN3fpHKJKfTue31jcefyZlhJBdmZ0R-CP_RqZnAEmpppgd-RVvYFfqLprHj70Y
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QTA4" group-title="AÇÃO | COMÉDIA | DRAMA", O ASSALTO FINAL 2024
-http://89.222.120.69:8080/vauth/344368.mp4?token=FoqhPz42rw55_kbE7jW-dtxsaLS8XJgzembs-aqRSA88FWDT0m2iSaV9_sNpZ8T6As8bMTIX_FeZqQNmX8qWY7R_F8gffY0dzasoVlDxFgmy40QVtrPu-nbQgMApOADkS6v_oiOCHaqShn5b51q07cCC-lFhWO38Qb_7cnwEtYGmI62LaTx6OJt1xaQ2jV8heRsXJFctDGu0OzeIbdy3bggT4Xnq_pfj-k4n2WiNYqyyFbazSfrenjxVKUmZ69FFLH8Kz7WJ9c9leh1imCCgIgYc0WH2w2yiLf1MsGDhOuRxeRV9z_IKVk_d4vHBQbK2Sd5tGcNynkJ4yZwsFE88oObmAFCRyHxCP7aKiwxjgMkN5gWieul3f00LNOVOAttzr9N77mgwl2J96ekoOtS4xf9gqMCWostpxFShljui7t4Ft7yzJeMUdrovk2PGS0mLBO5RedYrFiGYhE3sON_JbUokShBx5q3H3wqcHB3xXNTfWJW_lNFoKs5-MboFC6Feddk4_UYNBz15fsdPETKwG9Um-Aa-725OrHIoaTGxVMkPKSTWYB1Diw9hCqmie5atMO9ER-nI8DHepADcNPifwHE4w-2jwL_jI848FeEPijk
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QTA2" group-title="AÇÃO | CRIME | DRAMA | SUSPENSE", O PROMOTOR 2024
-http://89.222.120.69:8080/vauth/344366.mp4?token=FoqhPz42rw55_kbE7jW-drInE31ZimK-DQLCCm5Z2p4FpEvqWFgbkFz256cfs9vqXqLFHRUozICnjBoGAOM3pOEfMl9Q7VjFGusEiLa6tjb_IIlhzHfuiLYeXjPQbISm9WlYTjx4PY_GXnLf1PH-lKXTEkYFgut3R-P22IiaIY153HkyAdrVnTRXrf6UIymlrF1Ve5K763JfuFxSTjKVKOu7WFGb91_MMWfjkK3Jwd3s0ZBAUvt9o41F08_YsUDKDGdUuOCXd15s_hgQdlcOPNUBs8l3sGkPlKCjQsUcZ4KytzayCe4_GGY7HNKN9rcjQV4BowYNcYEsf34h1fhicb4HfExpn5XmgJDXJQ39momXUmYqE9Y7B1yzt270ZYlNmrGJQ1orjCqlltyqi51Tn4z7uwmzXMKpGShOz57EShFGYTMsJFHTsfIfdr-jmWFXgdxVviBJ-9YKJk3qjkjVPEpHeF8eSHbqMJiTtcO7of1WFc2CVVoEqyug8i30ojoc6x9Q7yZ9GWk-fRdinp2-W1pNBafOnBGjBXxk5rr3ZOexKSsGk4w1tQh-oyqOdHqY3siTEscrOSqL5c9qgdMUIFNwFhIZ-TfLoVaqEq_LJo8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QSX0" group-title="TERROR", CONVITE PERIGOSO - 2024
-http://89.222.120.69:8080/vauth/344334.mp4?token=FoqhPz42rw55_kbE7jW-dhfP-LLZV_en0Dv0XVEK1CVfsfJr-ciFM7k_ofLl-gJ9A29TDYYY2QTV6KzkTB1Sq0_hVKUzk6rKx3-LrTtbkN47mJyowpslttm4NpP5REajQWxvqqwA8O_Z7tFKgrhVoDWHa6u6DTCPl_shBUoPPWwIqNoo0cpDxAWChbLbuc2vDiHCxW-G-NRtWGUrT6ZO2mYiJWwEanVV-FINYtpca_xoyfkuVtcUfltFcNw2wz0zcxdb56gHzgbEIclBAj9dKQRiNLcrtjIeGwYkb8QJChrX5-mA6-lgEHwLet1Nlj4eqsCekL3Wle2weWqE-ZfGBL_Epnh4CrXMSq0I5jAepbOhDmLBpuhKfD7z4YyxjTT5_WNgSlQh-PZ2bMzcCM1T4A-rOZ_4mRFDlA7cslZPeaMd3Cqz3UoQom7wetmRLVxzv6z-jZ6PhcveL0Yi0JB3VKKmZ-9hB2Qd2p6GryRgZUbu0YreSUK3zgHLgYLLSGhzmXV1TvfmsODRwS9AfxpeySnFFdoybO9sfHDyFadAU0Dah498QDt6tXjNBTS4cB2lNsh2tpwiaYWyhdP28jc50ueTcqjfaIz8XMZ6i6sAChI
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QSY2" group-title="AÇÃO | AVENTURA | FANTASIA", O TROLL DA MONTANHA 2 - 2025
-http://89.222.120.69:8080/vauth/344346.mp4?token=FoqhPz42rw55_kbE7jW-donRNBDDCNIccXUu7f-ogm_lmF4QBsbSz-5KzsNWwvmpPCaBFROKZ8PX_KwLl8qispyqJuxnWzoqQpEcv4N4QKOQ7ClaWuP2-G5v9HKOfgxN0Ko23MZ_LsNwc3LT853I1RFZECWZwZeQMjA5nRCXwKH_1L8-wFg75avgT_pOHxtQH8N-wc9fvvXeb18Dn_fzBkUmYWg4xYNgcTDstDo2sEYnvLpMPMW1Y74fObTJvMeFPEh1j3mK77L86LWLKjtwqcbVIUhOlP7fEQnp7aJ-3vqxwPyn1psJd2geP0KX8YQkyaTWX7VYQl1Zw0lBVMbPQNW5m6Goqh03X_Ijdq-1n8WSGrKj4WlhDTmS6jxC5IcODbPX_aLwsfwpbrTR-pJHqKXB-y0e-adk5_L0yKs9-_ix3tX3JV4DvA5ZcBSiWdSOUP6QG9PGeW6aAQyk6iUvBa9kcs5zKRr_25EtIkCHlaOh4DFuKwl98ubQnN4x3yADP4K7dmg55htwTTIW2T2Zb1bpoV3g8ytIJdesEeVM69qKwOp0eZoO_r0Ku1fz4KyGFviV0aY98WdPkFRFSTeg6oAdRHMF0P_7P2OycS_UOyA
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QSY4" group-title="COMÉDIA | ROMANCE | SUSPENSE", OI, SUMIDO! - 2025
-http://89.222.120.69:8080/vauth/344348.mp4?token=FoqhPz42rw55_kbE7jW-dhOaM-0o61NOuPuPGbBqTgoILmhgoDMPCR7PNyWkLAN0xKEMgYiEfUGIvqYV-mrAgkIFgaYIPSMdjtyEiGBTukeb5k2XergY1RiZ4Rw-rXTzQrRpuM9nX8B4_wXotlMCs0DcT4WV-EhJMYRprGKDsX3U3yzoZwMxzK5UbRpPMrUk7dDDexnM25T_HZmuImWAj7nhjRKL9jw7RJ8O20c3XOZvIghqJh3FmDERvuNbekjRvOaCvYdqQr6D1ju9sS5ll7blH6swqIfKb06GRJDnHNujCFuG1TtU7SMVW8wdHM8lB3WRcioqjBtOxp5HeDB7m0cKVVoOirFGOL8I2vteqbsJNwMd421nNlXnWLx4vDrPHh4W2yttx8A1VTD7dpB7wj2N5NAPkeU-BEPeJoQMwOk2kvnZe0GSC3ZZYEtIhgXlCtzER49GO1FHgruSlyrgm4ay6edJAU3GT1onkhtoDH_CoVFcVAl48Uwoov_GlDnNCRRmYZhKAfZw_122_dGps7hGH_Z2B3_UNND5_dtB3I7LRHitcUnutM16pUB24id6RB5qQ8bm4EmM5yQITrJNZDMyY7lKSFT32xqnrLFHttk
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QSY7" group-title="SUSPENSE", PARQUE DAS ALMAS - 2022
-http://89.222.120.69:8080/vauth/344351.mp4?token=FoqhPz42rw55_kbE7jW-dhdxgEs0HOnDH-4eo4_EOZJtdXMsu6fg4P5DAD4mxZ99vc9j1fObOFbDJt_qXyZ2pzVa-H_y54FmBOe2XgR6s1nTQIq5_BFZCc5c6PBkA5pJzYrp0EAUTIdMTtBNcomW9e_cFwTf8Z5znUNKuHFNH82WacMRoTvlk-Mng6NYhHbXAE1cTF36-yp-49quOB5Qm8wd0V7c2V94Bt6sQIAPGF1hPnmd5CyJO9hMFgAB03sZ3ux631wxysQHjHJP5eblB7zMoMyLTa3EBYXRME-i47gK8e-RLrTHVrPQN6ZGvQt9Uhp9icAp8jJcl7hpGd4WtMFFNECBU3qVtECPH_bpkurv5qaVSbY9zf1jGWA1n-aQUlKyb5x6kAzLGbo5ShrpgNr_6fVTTNTrtLIXpzYFQPxIPsP490WD23Vim7GkHz03wO6WhrGja5E4jx2_RtxPstjvrzlmAOVFswHQCJh8BDGH5YnKaqQxo-uc2BtxExAhSBgwhlICbh1e2I-IUewtQIAcipEw45bMvboQAFq_HYGM41vdD7yJIg3Imta76LWA7USnuuIWOEK58jq8oFBWcLyh6l8jOPjHZNSO1WBx7X8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QSX4" group-title="COMÉDIA | DRAMA", NÃO QUERO ESTAR AQUI - 2023
-http://89.222.120.69:8080/vauth/344338.mp4?token=FoqhPz42rw55_kbE7jW-dpNc09bSzGUo-YYmyp1GOfEvt_kmuhI4dHCYzO03ECQJKKe8-GTeClM4EduOm5QWRaQgD3hfsmg6TqQZNSkw7-kcaKOR5mfxOv5e2TW96pbJ0SKX6fqPKrrW3LDklpEmqqC-xcCx8trh1gDD2mlsejSAV-R88uVNQvrzt9cKAX03kL_uAIAmFx8pOyxgXlrWoU4Bmt7-ybi1MMgtdpi-lgj27ZHy1uOVvcg-3kGxdasnnwXPrfwLngW-1P520_d-1fsUSLEZru48UVrylPNfpDfC4TuK7GHv3BCTdp7WBlsipQKN9l8Wvcw5gP3GhuJ5PV3Zk6gozA_VdzOD4oMrNiXFtshvgSNcIWhCwXVPTrDuJcvz_p7JOFTWpqldULAkRGqd4YJ9fTEMaNZeCHtKsDZoiWEbCHkm-EkTr8bRlANKZDhZ6Ot5Qt80p7dHWIK26ZxCI4WhZgwjYkXx2NOOaq384GxMSrN2M1Vr6Br8Sa_L4x6QGTgwyABhbVlov_t5bDYZUsWXXCMWtgW0YUm-o4Mn0EOWopHOI6T_pppbqs7j0_i_FF0SkDwCjuMmQwj3C3XdtdDYPHuVDrXtCe3kCBE
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QTB2" group-title="TERROR", O CINEMA MAL-ASSOMBRADO 2023
-http://89.222.120.69:8080/vauth/344376.mp4?token=FoqhPz42rw55_kbE7jW-duznoIpcty861ihDtn4LqeE1OcOZyFviAj3DLRQvaSJUrGpQO9vOp66UvH3pia5UeRH9sX6OS1vQGNlO-eVIKgtKL9gwgJsh0X9m0CWkE5xAv2XbeoneGM_P0vRuk5mxmOpS0eognqfcp7vJaUCJ4ZSlS-tvi5sCzH8JOzL_jAafH4gXJFihEeXksjxJqsIYQm_CV6c-xB12Qe-ROi9Ij6j6fZ88Qw5xsr6-RJfkOek2Oa1nNek6HJ7FUYr1qGDIZXMRg1H-gseKPwyNnzJTrAJ8IE8IlGp3AQkWkzBHm9UHJaLGy7vqlk8oX9iwXhpY6HuSKiJ9dp-AboW2UEleE5qGDar0WhgV8pQqZaEoe6ePW9S9yjFev_DuBoUWH-P91dBGr_h-XsPjGb2bfXkJZwZkrP5UhMJv_XTJyKWEKWh75FT-SP89pHLIDVW9x8fYtAcGGMlB_O-d3qBDoSKlqrybwGTH47l81hNIyOMjpamXMiNH0einWZSYx75Lcj9JAk9bXiN25xG13ggJrYI7ijwwI4aglteIa5KcnydmeR1bzqY_dnAs_jeGg0qG8lJ0vqxXP7NaoflmiWZlBMaUcsU
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cc90.one/QTB0" group-title="F. CIENTÍFICA | SUSPENSE | TERROR", V/H/S/BEYOND - 2024
-http://89.222.120.69:8080/vauth/344374.mp4?token=FoqhPz42rw55_kbE7jW-dhZvIM7A7xsQACdAOpI1fb2FZY9TbC4Ztd6VPX-Cbw7XFHf-Ai1sW27f3UIUHEeBtVRtGJHwm7_ht4OWU3wBpnk-4FCOZDTLJKM2wT_oTyAk3XfHT-vBQVRm4bpV-dYDxWnSc8gVHpEpd8ACQ2Nfn8tlwb1lql-fXrQqJbGYneE5UrPOVlzCYDBePaaEu9Huha_JPDjVS3XqVBFftVktNxupZsJixlIglFKTUUslZP03xDybkW1Tm8GSWG2h137bDsx69aTBZvNiU8TlRU4WqDD7cV8g4Vz2t4G1AqrS4mm6TPRCf6j5KQ1Zz3sDCHJTyXHXWfkNsyLL9Og75qkGjwaGVsAJQ9lRLXjyM6yQcmkRozIeTchcJBqE4wwLKOnaDrPLU7sc2MrLv83gey4IEqGXVJ-Xh6t2qcWjGVgqOvfQ8QToGBhxwdBPJ7GP2E_28c6BVdcXL0N6_tLe0k_YvfOvfbUdYFcNKGSpOE_AP2xXwB5sqnyulvyNdXhsKAbUejode-okO0j2FxU89INs-acdR1zArEXuop2KjmbJe886t16v9Bj4PdVQX5e1OwrfjeXiPk9oOCHRXHHr2BlTEzk
 
 xxxxxxxxxxxxxxxxxx ADULTOS xxxxxxxxxxxxxxxxxx ADULTOS xxxxxxxxxxxxxxxxxx ADULTOS xxxxxxxxxxxxxxxxxx ADULTOS xxxxxxxxxxxxxxxxxx ADULTOS xxxxxxxxxxxxxxxxxx
 
