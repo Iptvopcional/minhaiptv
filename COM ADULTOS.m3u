@@ -281,33 +281,12 @@ xxxxxxxxxxxxxxxxxx LISTA DE TERCEIROS xxxxxxxxxxxxxxxxxx LISTA DE TERCEIROS xxxx
 
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/CaPuNh.png" group-title="CANAIS: ESPORTES", SPORTV 3 HD
 http://saga10.pro:80/345715/562156/2909008
-
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/A6RGQN.png" group-title="CANAIS: ESPORTES", SPORTV FHD
 http://saga10.pro:80/345715/562156/2909010
-
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/A6RGQN.png" group-title="CANAIS: ESPORTES", SPORTV HD
 http://saga10.pro:80/345715/562156/2909011
-
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/A6RGQN.png" group-title="CANAIS: ESPORTES", SPORTV SD
 http://saga10.pro:80/345715/562156/2909012
-
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/jbsMeh.png" group-title="CANAIS: ESPORTES", ESTREIA 2 FHD
-http://saga10.pro:80/345715/562156/2909015
-
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dxZgq6.png" group-title="CANAIS: ESPORTES", PREMIERE 4 SD
-http://saga10.pro:80/345715/562156/2909023
-
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/0RQIRP.png" group-title="CANAIS: ESPORTES", PREMIERE 6 SD
-http://saga10.pro:80/345715/562156/2909029
-
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS: ESPORTES", PREMIERE CLUBES FHD
-http://saga10.pro:80/345715/562156/2909035
-
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS: ESPORTES", PREMIERE CLUBES HD
-http://saga10.pro:80/345715/562156/2909036
-
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS: ESPORTES", PREMIERE CLUBES SD
-http://saga10.pro:80/345715/562156/2909037
 
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/7rKF8E.png" group-title="CANAIS: FILMES 24 HORAS", HBO 2 SD
 http://saga10.pro:80/345715/562156/1263046
@@ -1559,6 +1538,18 @@ https://sempra.pro/a1/out/6/11283/11283_assassinos.sadicos.2.irmaos.famintos.202
 https://sempra.pro/a1/out/6/11498/11498_a.mao.que.embala.o.berco.2025.1080p.web-dl.dual.5.1.m3u8
 #EXTINF:-1 tvg-id="https://suatela.net/home" tvg-logo="http://cc90.one/QPX2" group-title="SUSPENSE", A MÃO QUE BALANÇA O BERÇO 2025 [link 2]
 https://leoncio122293556786.s3.us-east-2.wasabisys.com/deregodego/novudo/firm/1/4m40qu33mb4l40b3rc0DUB.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=SUJTRIWPOA64D2ELD2K2%2F20251205%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20251205T131206Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Signature=112d3da064d5f47d80143e94e29df97d7e0c5316cf133a96816f93d6c6fa2d39
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QSP9" group-title="SUSPENSE | TERROR", A ARMADILHA DO DIABO 2024
+https://sempra.pro/a1/out/6/11586/11586_a.armadilha.do.diabo.2024.1080p.web-dl.dual.2.0.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QSQ8" group-title="SUSPENSE | TERROR", AQUILO QUE VOCÊ DESEJA 2024 [link 1]
+https://sempra.pro/a1/out/6/11596/11596_aquilo.que.voce.deseja.2023.1080p.web-dl.dual.5.1.m3u8
+#EXTINF:-1 tvg-id="https://suatela.net/home" tvg-logo="http://cc90.one/QSQ8" group-title="SUSPENSE | TERROR", AQUILO QUE VOCÊ DESEJA 2024 [link 2]
+https://leoncio122263556786.s3.us-east-2.wasabisys.com/deregodego/novudo/firm/1/4qu1l0qu3v0c3d3s3j4DUB.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=SUJTRIWPOA64D2ELD2K2%2F20251206%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20251206T204022Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Signature=dca87c39083d98d23343a267d18839331fcdb56bd23d60660e263a7b740c822f
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QSN5" group-title="AÇÃO | SUSPENSE", AMANHECER SANGRENTO 2025
+https://sempra.pro/a1/out/6/11594/11594_amanhecer.sangrento.2025.1080p.web-dl.dual.2.0.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QRZ1" group-title="SUSPENSE", A GAROTA NO BANCO DE TRÁS 2023
+https://sempra.pro/a1/out/6/11592/11592_a.garota.no.banco.de.tras.2023.1080p.web-dl.dual.2.0.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.digital/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZZSCr5v5C1HGIHjJD8LA7qK9KwgTgSuFS2sKoL1n_P1bOn0KTqrFmzkQgKITHjjsGOJVSL9K79R9WjOUSF5-OZg.webp?w=370&h=556" group-title="SUSPENSE", A CAUDA DO DIABO 2024
+https://sempra.pro/a1/out/6/11589/11589_a.cauda.do.diabo.2024.1080p.web-dl.dual.2.0.m3u8
 
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.digital/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35Zt1jtspi44Q-qG93LREMzs2Ob2sj9YY27_ICAFQ4uKYVS-EtjK1QHoRKwqN43P0w1BvWO9xL3JSyFeMkKFGXDGQ.webp?w=370&h=556" group-title="SUSPENSE | TERROR", BEEZEL: A DEVORADORA DE ALMAS 2024
 https://sempra.pro/a1/out/6/10899/10899_beezel.a.devoradora.de.almas.2023.1080p.web-dl.dual.2.0.m3u8
@@ -1661,6 +1652,10 @@ https://sempra.pro/a1/out/6/10880/10880_the.naked.gun.2025.1080p.webrip.dublado.
 https://sempra.pro/a1/out/6/6321/6321_cacadores-de-vampiros-2022-1080p-web-dl-dual.m3u8
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.digital/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35Zoeb4VaL9hlzDU9mCiN03s73UhSNddDOKd0tILnQjcHV_TKUD3FChfv3Sv0mURK726B5o0_dvP5dnylwT_VDYng.webp?w=370&h=556" group-title="DRAMA | SUSPENSE", CELA 211 2009
 https://sempra.pro/a1/out/6/8024/8024_cela.211.2010.1080p.web-dl.dual.5.1.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QSO6" group-title="AÇÃO | COMÉDIA", COMO IMPEDIR UM ASSALTO 2021
+https://sempra.pro/a1/out/6/11605/11605_como.impedir.um.assalto.2021.1080p.web-dl.dual.2.0.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QSN9" group-title="AÇÃO | SUSPENSE", CAÇADORES DA FRONTEIRA 2025
+https://sempra.pro/a1/out/6/11603/11603_cacadores.da.fronteira.2025.1080p.web-dl.dual.5.1.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiMUDeDBH4s1dbtbcnmasAtgssZ.jpg" group-title="AVENTURA | COMÉDIA", DOLITTLE (2020)
 https://is.gd/Dolittle
@@ -1753,6 +1748,8 @@ https://sempra.pro/a1/out/6/5783/5783_em-aguas-agitadas-2019-1080p-web-dl-dual.m
 https://sempra.pro/a1/out/6/11295/11295_estrada.florestal.825.2025.1080p.web-dl.dual.5.1.m3u8
 #EXTINF:-1 tvg-id="https://suatela.net/home" tvg-logo="http://cc90.one/QLF9" group-title="SUSPENSE | TERROR", ESTRADA FLORESTAL 825 (2025) [link 2]
 https://leoncio122253556786.s3.us-east-2.wasabisys.com/deregodego/novudo/firm/1/3str4d4fl0r3st4825DUB.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=SUJTRIWPOA64D2ELD2K2%2F20251205%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20251205T125831Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Signature=0b8ac2f149493e0c03e8b9c61c4bec3e828d27d562080ad059912c52c04a683f
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QSC4" group-title="AÇÃO | CRIME | SUSPENSE", ESPIRAL DE VIOLÊNCIA 2024
+https://sempra.pro/a1/out/6/11615/11615_espiral.de.violencia.2023.1080p.web-dl.dual.2.0.m3u8
 
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://image.tmdb.org/t/p/w185/aqUTMmzAmNgmr55U1dezPVTQAHP.jpg" group-title="CRIME | DRAMA | SUSPENSE", FIM DA ESTRADA (2022)
 https://sempra.pro/a1/out/6/6368/6368_fim-da-estrada-2022-1080p-web-dl-dual-5.1.m3u8
@@ -1782,6 +1779,18 @@ https://sempra.pro/a1/out/6/4528/4528_fale.comigo.2023.1080p.bluray.dual.5.1.m3u
 https://sempra.pro/a1/out/6/7477/7477_feios.2024.1080p.web-dl.eac3.aac.dual.5.1.m3u8
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://image.tmdb.org/t/p/w500/yknXRPGfIMmRbWVUxfPuLyCcx7h.jpg" group-title="TERROR", FAÇA ELA VOLTAR 2025
 https://sempra.pro/a1/out/6/11002/11002_faca.ela.voltar.2025.1080p.bluray.dual.5.1.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QSO4" group-title="AÇÃO | CRIME | SUSPENSE", FUGA FATAL 2025 [link 1]
+https://sempra.pro/a1/out/6/11620/11620_fuga-fatal-2025-web-dl-1080p-x264-dual-5.1.m3u8
+#EXTINF:-1 tvg-id="https://suatela.net/home" tvg-logo="http://cc90.one/QSO4" group-title="AÇÃO | CRIME | SUSPENSE", FUGA FATAL 2025 [link 2]
+https://leoncio122233556786.s3.us-east-2.wasabisys.com/deregodego/novudo/firm/1/fug4f4t4lDUB.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=SUJTRIWPOA64D2ELD2K2%2F20251206%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20251206T205748Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Signature=a0a70c429c35e5a11b0f5f25c0ed9842ba1f1d243bafda18ec09e3dcc8c89508
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.digital/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZAhZppJsY4EAKvSv_yCINbc-RD9vJwvuuxwh8jZ-KzBI.webp?w=370&h=556" group-title="AÇÃO | COMÉDIA | CRIME | SUSPENSE", FORÇA BRUTA 2022 [link 1]
+https://sempra.pro/a1/out/old/6/2746/2746_dub.m3u8
+#EXTINF:-1 tvg-id="https://suatela.net/home" tvg-logo="https://topflix.digital/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZAhZppJsY4EAKvSv_yCINbc-RD9vJwvuuxwh8jZ-KzBI.webp?w=370&h=556" group-title="AÇÃO | COMÉDIA | CRIME | SUSPENSE", FORÇA BRUTA 2022 [link 2]
+https://leoncio122223556786.s3.us-east-2.wasabisys.com/deregodego/lastdance/filmcucu/2/f0rc4brut4DUB.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=SUJTRIWPOA64D2ELD2K2%2F20251206%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20251206T220036Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Signature=ec04316806ad2fbc90f0a765472c5823b5454f140a04171ca94ac7be80e5b02c
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QRT6" group-title="AÇÃO | COMÉDIA | CRIME | SUSPENSE", FORÇA BRUTA: SEM SAÍDA 2023
+https://sempra.pro/a1/out/6/11619/11619_forca.bruta.sem.saida.2023.1080p.web-dl.dual.5.1.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QRT8" group-title="AÇÃO | COMÉDIA | CRIME | SUSPENSE", FORÇA BRUTA: PUNIÇÃO 2024
+https://sempra.pro/a1/out/6/11618/11618_forca.bruta.punicao.2023.1080p.web-dl.dual.5.1.m3u8
 
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/8EXWz4TM3FRuxuJ5j0SBkQ1dR0P.jpg" group-title="AÇÃO | COMÉDIA | POLICIAL", GRINGO - VIVO OU MORTO (2018)
 https://video.wixstatic.com/video/834009_947fc664bb5b48a1985b15f3b45f4bfa/480p/mp4/file.mp4
@@ -1997,6 +2006,8 @@ https://sempra.pro/a1/out/6/7828/7828_maniaco.do.parque.2024.1080p.web-dl.nacion
 https://sempra.pro/a1/out/6/11624/11624_mk.ultra.controlando.mentes.2022.1080p.web-dl.dual.2.0.m3u8
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QRS2" group-title="TERROR", MENTE PERTURBADA 2023
 https://sempra.pro/a1/out/6/11623/11623_mente.perturbada.2023.1080p.web-dl.dual.2.0.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QSO8" group-title="SUSPENSE | TERROR", MATE-A, SE CONSEGUIR 2023
+https://sempra.pro/a1/out/6/11622/11622_mate-a.se.conseguir.2023.1080p.web-dl.dual.5.1.m3u8
 
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://image.tmdb.org/t/p/w185//mPhXHRudGxsXIQq1WM6oVePkFIp.jpg" group-title="DRAMA | TERROR", NANNY (2022)
 https://sempra.pro/a1/out/old/6/2138/2138_dub_mostbet.m3u8
@@ -2225,6 +2236,10 @@ https://sempra.pro/a1/out/6/3937/3937_o.enigma.do.medo.20201080p.web-dl.x264.dua
 https://sempra.pro/a1/out/6/6505/6505_o-predador-a-cacada-2022-1080p-web-dl-dual-5.1.m3u8
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QLZ6" group-title="COMÉDIA | TERROR", O MASSACRE DA FESTA DO PIJAMA 2021
 https://sempra.pro/a1/out/6/11439/11439_o.massacre.da.festa.do.pijama.2021.1080p.web-dl.dual.2.0.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QSQ1" group-title="F. CIENTÍFICA | TERROR", O ROTEIRO ASSOMBRADO  2023
+https://sempra.pro/a1/out/6/11638/11638_o.roteiro.assombrado.2023.1080p.web-dl.dual.2.0.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QSD0" group-title="AÇÃO | SUSPENSE", O PREÇO DE UMA VIDA 2022
+https://sempra.pro/a1/out/6/11637/11637_o.preco.de.uma.vida.2022.1080p.web-dl.dual.2.0.m3u8
 
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.digital/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iKv8z7d0Y2qxEAY8k5zP2gWA9SLxGgKkVlTN-5rSgZUHzk3iO2NaMg3ea8_6AwrSkw.webp?w=370&h=556" group-title="AVENTURA | TERROR", PULAU 2023
 https://sempra.pro/a1/out/6/4807/4807_pulau.2023.720p.webrip.dublado.m3u8
