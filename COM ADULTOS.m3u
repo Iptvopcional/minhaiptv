@@ -1,4 +1,3 @@
-#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="CANAIS", ANIME
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=65e4a7cf-0b18-4 b0a-97d2-7eadc239c740&deviceLat=-22.4545&deviceLon=-41.9492&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=BR&sid=5d23ee15-3e52-11eb-b866-0242ac110002&userId=&serverSideAds=true
@@ -209,8 +208,6 @@ https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 #EXTINF:-1 tvg-id="https://www.tvchroma.com.br/" tvg-logo="https://pa-str.srvsite.com/arquivos/7197/cabecalho-7197-20240825174302.png" group-title="CANAIS", TV CHROMA
 https://5c483b9d1019c.streamlock.net/8054/8054/chunklist_w1638070109.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Vj7VjrB.png" group-title="CANAIS", TV VICOSA
-http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtvlive.com/" tvg-logo="https://imgur.com/nsoM2Rv.png" group-title="CANAIS", TV THATHI CAMPINAS AO VIVO
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/chunklist_w439682470.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2f221ef07c8762196cd782faaee34626.webp" group-title="CANAIS", TV DO POVO RO - JiParaná
@@ -241,8 +238,6 @@ https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/chunklist_w1927803429
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Klwjy9d.png" group-title="CANAIS", TV RIO MADEIRA
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/dyqS3ET.png" group-title="CANAIS", TV SOL COMUNIDADE
-http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0a461c7b42c873e2b9643b3a4082dc87.webp" group-title="CANAIS", TV ONIX SP - São Carlos
 https://tv02.zas.media:1936/tvonix/tvonix/chunklist_w684240460.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f24b1cd1064865c050503ea604e4526a.webp" group-title="CANAIS", TV J SID BA - Candeias
@@ -277,38 +272,14 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
 xxxxxxxxxxxxxxxxxx LISTA DE TERCEIROS xxxxxxxxxxxxxxxxxx LISTA DE TERCEIROS xxxxxxxxxxxxxxxxxx LISTA DE TERCEIROS xxxxxxxxxxxxxxxxxx LISTA DE TERCEIROS xxxxxxxxxxxxxxxxxx LISTA DE TERCEIROS xxxxxxxxxxxxxxxxxx LISTA DE TERCEIROS xxxxxxxxxxxxxxxxxx LISTA DE TERCEIROS xxxxxxxxxxxxxxxxxx
 
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/CaPuNh.png" group-title="CANAIS", SPORTV 3 HD
-http://saga10.pro:80/345715/562156/2909008
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/A6RGQN.png" group-title="CANAIS", SPORTV FHD
-http://saga10.pro:80/345715/562156/2909010
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/A6RGQN.png" group-title="CANAIS", SPORTV HD
-http://saga10.pro:80/345715/562156/2909011
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/A6RGQN.png" group-title="CANAIS", SPORTV SD
-http://saga10.pro:80/345715/562156/2909012
-
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/7rKF8E.png" group-title="CANAIS", HBO 2 SD
 http://saga10.pro:80/345715/562156/1263046
 
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/8617/2gpz5i.png" group-title="CANAIS", HBO FAMILY FHD
 http://saga10.pro:80/345715/562156/1263051
 
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/Cv1K2x.png" group-title="CANAIS", HBO FHD
-http://saga10.pro:80/345715/562156/1263045
-
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/AQoYT1.png" group-title="CANAIS", HBO MUNDI HD
-http://saga10.pro:80/345715/562156/1263053
-
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/zBI36X.png" group-title="CANAIS", HBO POP FHD
 http://saga10.pro:80/345715/562156/1263057
-
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/zBI36X.png" group-title="CANAIS", HBO POP SD
-http://saga10.pro:80/345715/562156/1263055
-
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/dack3P.png" group-title="CANAIS", HBO XTREME HD
-http://saga10.pro:80/345715/562156/1263062
-
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/7rKF8E.png" group-title="CANAIS", HBO 2 HD
-http://saga10.pro:80/345715/562156/1263047
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="CANAIS", Anime | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -832,9 +803,6 @@ https://stream3.camara.gov.br/tv2/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="CANAIS", TV Câmara 3
 https://stream3.camara.gov.br/tv2/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rXEBYmC.png" group-title="CANAIS", AWTV
-https://acesso.ecast.site:3070/live/awtvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kG2br4g.png" group-title="CANAIS", Bem Mais TV | RJ
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 
@@ -1264,9 +1232,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba66da
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="CANAIS", World Poker Tour | Pluto TV | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZO2qtTH.png" group-title="CANAIS", 011 News
-https://011news.akamaized.net/011news/011news/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="CANAIS", Assombrações | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
@@ -1489,6 +1454,8 @@ https://sempra.pro/a1/out/6/6479/6479_ate-a-morte-sobreviver-e-a-melhor-vinganca
 https://video.wixstatic.com/video/db47f8_6f7b0dd1696c4ad8a18fc3b2a0462b54/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/210/284/21028484_20130814221511175.jpg" group-title="SUSPENSE | TERROR", ARRASTE-ME PARA O INFERNO (2009)
 https://video.wixstatic.com/video/db47f8_21e967e270b1444ba557d0ba6d7cae36/720p/mp4/file.mp4
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.digital/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iGsfMNg-ky34LPqC5rWft4Z3Cc1Yr5RFm6Srh9TRkla103wusCPW85MCydyuHcB41Q.webp?w=370&h=556" group-title="COMÉDIA | DRAMA", ATRAVÉS DA MINHA JANELA 2022
+https://sempra.pro/a1/out/6/6934/6934_atraves-da-minha-janela-2022-1080p-web-dl-dual-5.1.m3u8
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.digital/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iLxVIZC2x15PNO2lAoGaqfmsQ6Zyyae3o7m1-0XafMiMTysVPxY82WvUzIzd11IEww.webp?w=370&h=556" group-title="COMÉDIA | DRAMA", ATRAVÉS DA MINHA JANELA: ALÉM-MAR 2023
 https://sempra.pro/a1/out/6/5288/5288_atraves-da-minha-janela-alem-mar-2023-1080p-web-dl-dual-5.1.m3u8
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.digital/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iMQGt4ui9_x1WgQrid53Q7yv8lciDz6id_YEmtgy4AsWHyYHZkflVyApqlMLexFhCA.webp?w=370&h=556" group-title="COMÉDIA | DRAMA", ATRAVÉS DA MINHA JANELA 3: OLHOS NOS OLHOS 2024
@@ -1537,6 +1504,12 @@ https://sempra.pro/a1/out/6/11589/11589_a.cauda.do.diabo.2024.1080p.web-dl.dual.
 https://sempra.pro/a1/out/6/11734/11734_antes.do.fim.do.mundo.2025.1080p.web-dl.dual.2.0.m3u8
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QTB8" group-title="COMÉDIA | TERROR", A MORADA DOS LOBISOMENS 2023
 https://sempra.pro/a1/out/6/11727/11727_a.morada.dos.lobisomens.2023.1080p.web-dl.dual.2.0.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.digital/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iHWnqIFZ6McUnZcNrSeb8BPY2kgIio8izHthrBHsm4ScTQCqTuKO-FRKOiBjzqCLsw.webp?w=370&h=556" group-title="AÇÃO | SUSPENSE", A FERA (2022)
+https://sempra.pro/a1/out/6/6334/6334_a-fera-2022-1080p-web-dl-dual-5.1.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://media.filmelier.com//images/tit/28458/poster/the-wasp94039.webp" group-title="DRAMA | SUSPENSE", A VESPA, 2024
+https://sempra.pro/a1/out/6/8382/8382_a.vespa.2024.1080p.web-dl.dual.5.1.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.movie/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35Zoeb4VaL9hlzDU9mCiN03s8jALtU3tN5HShWmM-p21DvSZX7PAeFoqK0901yJyYDsxHdCUYMBQdhJtpclQOPXpQ.webp?w=370&h=556" group-title="SUSPENSE | TERROR", A HORA DO VAMPIRO 2024
+https://sempra.pro/a1/out/6/7710/7710_a.hora.do.vampiro.2024.1080p.web-dl.dual.5.1.m3u8
 
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.digital/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35Zt1jtspi44Q-qG93LREMzs2Ob2sj9YY27_ICAFQ4uKYVS-EtjK1QHoRKwqN43P0w1BvWO9xL3JSyFeMkKFGXDGQ.webp?w=370&h=556" group-title="SUSPENSE | TERROR", BEEZEL: A DEVORADORA DE ALMAS 2024
 https://sempra.pro/a1/out/6/10899/10899_beezel.a.devoradora.de.almas.2023.1080p.web-dl.dual.2.0.m3u8
@@ -1572,6 +1545,12 @@ https://sempra.pro/a1/out/6/7476/7476_bandida.a.numero.um.2024.web-dl.1080p.naci
 https://sempra.pro/a1/out/6/7532/7532_batalha.dos.zumbis.2019.1080p.web-dl.x264.dual.2.0.m3u8
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QOV6" group-title="TERROR", BARAMULLA 2025
 https://sempra.pro/a1/out/6/11469/11469_baramulla.2025.1080p.web-dl.dual.5.1.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://image.tmdb.org/t/p/w400//iGZX91hIqM9Uu0KGhd4MUaJ0Rtm.jpg" group-title="AÇÃO | DRAMA", BATMAN: O CAVALEIRO DAS TREVAS 02h 32min 16/07/2008
+https://sempra.pro/a1/out/old/6/572/572_28803469batman-o-cavaleiro-das-trevas.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video128/v4/d1/71/5d/d1715dce-1d5e-583f-1146-42cc0e3a7717/contsched.xdvvptaj.lsr/268x0w.jpg" group-title="AÇÃO | DRAMA", BATMAN: O CAVALEIRO DAS TREVAS RESSURGE (2012) 02h 45min
+https://sempra.pro/a1/out/old/6/573/573_194779518batman-o-cavaleiro-das-trevas-ressurge.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/PGC0" group-title="F. CIENTÍFICA | SUSPENSE", BRICK 2025
+https://sempra.pro/a1/out/6/10368/10368_brick.2025.1080p.web-dl.dual.5.1.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ANIMAÇÃO | AVENTURA | COMÉDIA", CHRISTOPHER ROBIN
 https://lh3.googleusercontent.com/V1jodOPNkHqwuEj8aYmx7N2UXDw4d0-k1duVo1puuVu9Hbb6M_XDo9tAXtbXY587rWAqKp8yYf-SXipeoWsp4rI0E_-H8ZT4t8Cc3GSEWe1PjkTFIhGcNaSR5CsBBy_kyjCDeklS-w=m22
@@ -1643,6 +1622,10 @@ https://sempra.pro/a1/out/6/8024/8024_cela.211.2010.1080p.web-dl.dual.5.1.m3u8
 https://sempra.pro/a1/out/6/11605/11605_como.impedir.um.assalto.2021.1080p.web-dl.dual.2.0.m3u8
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QSN9" group-title="AÇÃO | SUSPENSE", CAÇADORES DA FRONTEIRA 2025
 https://sempra.pro/a1/out/6/11603/11603_cacadores.da.fronteira.2025.1080p.web-dl.dual.5.1.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QSX0" group-title="TERROR", CONVITE PERIGOSO - 2024
+https://sempra.pro/a1/out/6/11737/11737_convite.perigoso.2024.1080p.web-dl.dual.2.0.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://superfilmesonline.pro/wp-content/uploads/2022/10/Convite-Maldito-2022-214x300.jpg" group-title="SUSPENSE | TERROR", CONVITE MALDITO (2022)
+https://sempra.pro/a1/out/old/6/1850/1850_tt12873562_mostbet_dub.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiMUDeDBH4s1dbtbcnmasAtgssZ.jpg" group-title="AVENTURA | COMÉDIA", DOLITTLE (2020)
 https://is.gd/Dolittle
@@ -1772,6 +1755,8 @@ https://sempra.pro/a1/out/old/6/2746/2746_dub.m3u8
 https://sempra.pro/a1/out/6/11619/11619_forca.bruta.sem.saida.2023.1080p.web-dl.dual.5.1.m3u8
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QRT8" group-title="AÇÃO | COMÉDIA | CRIME | SUSPENSE", FORÇA BRUTA: PUNIÇÃO 2024
 https://sempra.pro/a1/out/6/11618/11618_forca.bruta.punicao.2023.1080p.web-dl.dual.5.1.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/PJH9" group-title="COMÉDIA", FAMÍLIA, PERO NO MUCHO 2025
+https://sempra.pro/a1/out/6/10453/10453_familia.pero.no.mucho.2025.1080p.web-dl.nacional.5.1.m3u8
 
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/8EXWz4TM3FRuxuJ5j0SBkQ1dR0P.jpg" group-title="AÇÃO | COMÉDIA | POLICIAL", GRINGO - VIVO OU MORTO (2018)
 https://video.wixstatic.com/video/834009_947fc664bb5b48a1985b15f3b45f4bfa/480p/mp4/file.mp4
@@ -1983,6 +1968,10 @@ https://sempra.pro/a1/out/6/11624/11624_mk.ultra.controlando.mentes.2022.1080p.w
 https://sempra.pro/a1/out/6/11623/11623_mente.perturbada.2023.1080p.web-dl.dual.2.0.m3u8
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QSO8" group-title="SUSPENSE | TERROR", MATE-A, SE CONSEGUIR 2023
 https://sempra.pro/a1/out/6/11622/11622_mate-a.se.conseguir.2023.1080p.web-dl.dual.5.1.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/PGY8" group-title="COMÉDIA | DRAMA", MADEA E O CASAMENTO NAS BAHAMAS 2025
+https://sempra.pro/a1/out/6/10392/10392_madea.e.o.casamento.nas.bahamas.2025.1080p.web-dl.dual.5.1.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/PJI5" group-title="DRAMA | SUSPENSE", MEUS 84 M² 2025
+https://sempra.pro/a1/out/6/10465/10465_meus.84.m2.2025.1080p.web-dl.dual.5.1.m3u8
 
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://image.tmdb.org/t/p/w185//mPhXHRudGxsXIQq1WM6oVePkFIp.jpg" group-title="DRAMA | TERROR", NANNY (2022)
 https://sempra.pro/a1/out/old/6/2138/2138_dub_mostbet.m3u8
@@ -2022,6 +2011,10 @@ https://sempra.pro/a1/out/6/11308/11308_nao.estou.sozinha.2023.1080p.web-dl.dual
 https://sempra.pro/a1/out/6/11757/11757_nos.somos.zumbis.2023.1080p.web-dl.dual.2.0.m3u8
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QSZ4" group-title="COMÉDIA | TERROR", NOEL FRANKENSTEIN - 2024
 https://sempra.pro/a1/out/6/11756/11756_noel.frankenstein.2023.1080p.web-dl.dual.2.0.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QSX4" group-title="COMÉDIA | DRAMA", NÃO QUERO ESTAR AQUI - 2023
+https://sempra.pro/a1/out/6/11753/11753_nao.quero.estar.aqui.2023.1080p.web-dl.dual.2.0.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/17fk9oijir71uCdPH26qiQUAR0k.jpg" group-title="SUSPENSE", NA MIRA (2022)
+https://sempra.pro/a1/out/6/3742/3742_comando.la-na.mira.2022.1080p.web-dl.x264.dual-1.m3u8
 
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.digital/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iHT_lgGND76c6Ej7yF4qF2cJF9_2aATgvF2bG8gmEbQU3yY118wlIyrmF6-knhB1ZA.webp?w=370&h=556" group-title="TERROR", O JOGO DO ELEVADOR 2023
 https://sempra.pro/a1/out/6/5059/5059_o-jogo-do-elevador-2023-web-dl-1080p-x265-dual-5.1.m3u8
@@ -2211,6 +2204,22 @@ https://sempra.pro/a1/out/6/11638/11638_o.roteiro.assombrado.2023.1080p.web-dl.d
 https://sempra.pro/a1/out/6/11637/11637_o.preco.de.uma.vida.2022.1080p.web-dl.dual.2.0.m3u8
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QTA4" group-title="AÇÃO | DRAMA", O ASSALTO FINAL 2024
 https://sempra.pro/a1/out/6/11659/11659_the.quiet.ones.2024.1080p.web-dl.dual.5.1.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QTA2" group-title="DRAMA | SUSPENSE", O PROMOTOR 2024
+https://sempra.pro/a1/out/6/11626/11626_o-promotor-2024-bluray-1080p-x264-dual-5.1.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QSY2" group-title="AÇÃO | SUSPENSE", O TROLL DA MONTANHA 2 - 2025
+https://sempra.pro/a1/out/6/11772/11772_o.troll.da.montanha.2.2025.1080p.web-dl.dual.5.1.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QSY4" group-title="COMÉDIA | SUSPENSE", OI, SUMIDO! - 2025
+https://sempra.pro/a1/out/6/11773/11773_oi.sumido.2025.1080p.web-dl.dual.5.1.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QTB2" group-title="TERROR", O CINEMA MAL-ASSOMBRADO 2023
+https://sempra.pro/a1/out/6/11762/11762_o.cinema.mal-assombrado.2023.1080p.web-dl.dual.2.0.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://filmessgratis.net/wp-content/uploads/2022/10/o-monasterio-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd-90x135.jpg" group-title="TERROR", O MONASTÉRIO (2022)
+https://sempra.pro/a1/out/6/6252/6252_o-monasterio-2022-1080p-web-dl-dual-5.1.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/PIS4" group-title="AÇÃO | SUSPENSE", OPERAÇÃO VINGANÇA 2025
+https://sempra.pro/a1/out/6/10471/10471_operacao.vinganca.2025.1080p.web-dl.dual.5.1.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/PGZ0" group-title="AÇÃO | SUSPENSE", OS BAD BOAS - 2025
+https://sempra.pro/a1/out/6/10407/10407_os.bad.boas.2025.1080p.web-dl.dual.5.1.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/OYR4" group-title="AVENTURA | COMÉDIA", O ESQUEMA FENÍCIO - 2025
+https://sempra.pro/a1/out/6/10287/10287_o-esquema-fenicio-2025-web-dl-1080p-x264-dual-5.1.m3u8
 
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.digital/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iKv8z7d0Y2qxEAY8k5zP2gWA9SLxGgKkVlTN-5rSgZUHzk3iO2NaMg3ea8_6AwrSkw.webp?w=370&h=556" group-title="AVENTURA | TERROR", PULAU 2023
 https://sempra.pro/a1/out/6/4807/4807_pulau.2023.720p.webrip.dublado.m3u8
@@ -2282,6 +2291,8 @@ https://cdn-novflix.com/storagePSN/FILMES/PERDINONAMONTANHA.mp4
 https://sempra.pro/a1/out/6/11213/11213_presente-maldito-2025-web-dl-1080p-x264-dual-5.1.m3u8
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QSA5" group-title="TERROR", PLANTÃO NOTURNO 2024
 https://sempra.pro/a1/out/6/11647/11647_plantao.noturno.2024.1080p.web-dl.dual.5.1.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QSY7" group-title="SUSPENSE", PARQUE DAS ALMAS - 2022
+https://sempra.pro/a1/out/6/11643/11643_parque.das.almas.2022.1080p.web-dl.x264.dual.2.0.m3u8
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.digital/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZZSCr5v5C1HGIHjJD8LA7qCitHgwLISUjAepH7FjpZUE_aWpZuDeICci6zolLchnhApGTHh8clr8dhAjYEQ-aQQ.webp?w=370&h=556" group-title="AVENTURA", PREDADORES 20205
 https://sempra.pro/a1/out/6/11807/11807_predators-2025-web-dl-1080p-x264-dual-5.1.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ANIMAÇÃO", PATRULHA CANINA 01 - OS FILHOTES E O TESOURO PIRATA
@@ -2367,6 +2378,8 @@ https://watch.brplayer.cc/stream/bTN1OC8xMC8yYThlZmEyODkwMjVhNzRjZTUwY2FlOWU5MmU
 https://sempra.pro/a1/out/6/10775/10775_superman.2025.1080p.web-dl.dual.5.1.m3u8
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QLM3" group-title="SUSPENSE | TERROR", SEGREDOS PROIBIDOS 2023
 https://sempra.pro/a1/out/6/11220/11220_segredos.proibidos.2023.1080p.web-dl.dual.2.0.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://media.filmelier.com/tit/114048/thumb/covera.webp" group-title="COMÉDIA | DRAMA", SACRAMENTO - 2025
+https://sempra.pro/a1/out/6/11217/11217_sacramento.2024.1080p.web-dl.dual.5.1.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COMÉDIA", TE PEGO NA SAIDA (2017)
 https://ia802803.us.archive.org/23/items/A.espia.que.sabia.de.menos.sem.cortes.2015.DUB.BaixarerieMP4.com/Te.Pego.na.Sa%C3%ADda.2017.MP4.DUB.BaixarSeriesMP4.Com.mp4
@@ -2408,6 +2421,8 @@ https://sempra.pro/a1/out/6/6356/6356_trancada-2022-1080p-bluray-dual.m3u8
 https://sempra.pro/a1/out/6/6512/6512_tudo-em-todo-lugar-ao-mesmo-tempo-2022-1080p-bluray-dual-5.1.m3u8
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://media.fstatic.com/H2b9MeD8SYzKcjF2Y176T8iffTg=/210x312/smart/filters:format(webp)/media/movies/covers/2024/02/cats_NTaxJJ3.jpg" group-title="SUSPENSE | TERROR", TURNO MALDITO 2023
 https://sempra.pro/a1/out/6/5768/5768_turno.maldito.2024.1080p.web-dl.dual.2.0.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/PDC3" group-title="AÇÃO", THE OLD GUARD 2 - 2025
+https://sempra.pro/a1/out/6/10293/10293_the-old-guard-2-2025-web-dl-1080p-x264-dual-5.1.m3u8
 
 #EXTINF:-1 tvg-logo="https://filmeflix.tv/wp-content/uploads/2021/05/wYqmuxd9jNFLf3gtQY5vbAUgiGk-200x300.jpg" group-title="DRAMA | SUSPENSE | TERROR", UM LUGAR SILENCIOSO: Parte 2 (2021)
 https://video.wixstatic.com/video/834009_d702abb4661b4c8e9484302b2f19b82b/720p/mp4/file.mp4?https://gofilmes.me/b/
@@ -2437,6 +2452,8 @@ https://cdn-novflix.com/storagePSN/FILMES/UMAMULHERCOMUM.mp4
 https://sempra.pro/a1/out/6/10712/10712_um.verao.infernal.2025.1080p.web-dl.dual.5.1.m3u8
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.digital/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZYVaIhXHL4HZwYYY14hR3QlXTV0wKR5G46jUeQ8zPv7I.webp?w=370&h=556" group-title="COMÉDIA", UM SALÃO DO BARULHO 2004
 https://sempra.pro/a1/out/old/6/121/121_144476511um-salo-do-barulho.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://br.web.img3.acsta.net/c_310_420/img/a7/cb/a7cb1f5c2ca43af0fbbea82e3c5ba1d5.jpg" group-title="COMÉDIA", UM DIA DAQUELES, 3 de abril de 2025
+https://sempra.pro/a1/out/6/9629/9629_um-dia-daqueles-2025-web-dl-1080p-x264-dual-5.1.m3u8
 
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://topflix.digital/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iGMlU7HVyA2lM4g09DwSvZj5AfodlcciC6Ttew6MhGCZyQsTLaiA5OLv65UFDMNEAA.webp?w=370&h=556" group-title="AÇÃO | DRAMA | MISTÉRIO", VIDAS EM JOGO (1997)
 https://sempra.pro/a1/out/6/4542/4542_vidas.em.jogo.2022.1080p.web-dl.dual.2.0.m3u8
