@@ -72,11 +72,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c094
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="CANAIS", FAILARMY
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=65e4a7cf-0b18-4 b0a-97d2-7eadc239c740&deviceLat=-22.4545&deviceLon=-41.9492&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=BR&sid=787d788c-3e55-11eb-a8d7-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="CANAIS", FILME GOSPEL TV
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l7p5Xgv.jpg" group-title="CANAIS", GOSPEL FILMES TV
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/" group-title="CANAIS", GLOBO
 http://200.77.176.130:8000/udp/224.0.0.1:49152
 #EXTINF:-1 tvg-id="https://globoplay.globo.com/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="CANAIS", GLOBO INTERTV
@@ -132,10 +128,6 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 #EXTINF:-1 tvg-id="https://supertvaovivo.com/" tvg-logo="http://i1.r7.com/data/files/2C95/948F/35B7/7306/0135/BC63/3B30/08E3/record_700x525.jpg" group-title="CANAIS", RECORD TV MT
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.ndmais.com.br/2019/02/news-logo.png" group-title="CANAIS", RECORD NOTÍCIAS
-https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w2069646116.m3u8
-#EXTINF:-1 tvg-id="https://supertvaovivo.com/" tvg-logo="https://static.ndmais.com.br/2019/02/news-logo.png" group-title="CANAIS", RECORD NEWS ES
-https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1868079881.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/iqWnub9.png" group-title="CANAIS", REDE GOSPEL
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="CANAIS", RETRÔ
@@ -208,8 +200,6 @@ https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 #EXTINF:-1 tvg-id="https://www.tvchroma.com.br/" tvg-logo="https://pa-str.srvsite.com/arquivos/7197/cabecalho-7197-20240825174302.png" group-title="CANAIS", TV CHROMA
 https://5c483b9d1019c.streamlock.net/8054/8054/chunklist_w1638070109.m3u8
-#EXTINF:-1 tvg-id="https://www.cxtvlive.com/" tvg-logo="https://imgur.com/nsoM2Rv.png" group-title="CANAIS", TV THATHI CAMPINAS AO VIVO
-https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/chunklist_w439682470.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2f221ef07c8762196cd782faaee34626.webp" group-title="CANAIS", TV DO POVO RO - JiParaná
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/chunklist_w1574443515.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d7fd8759b2598a188c00fd4980c4ceb.webp" group-title="CANAIS", TV SETE LAGOAS MG-Sete Lagoas
@@ -220,8 +210,6 @@ https://5b7f3c45ab7c2.streamlock.net:443/8008/smil:8008.smil/playlist.m3u8?DVR
 https://video05.logicahost.com.br/comunitariario/comunitariario/chunklist_w501801036.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtvlive.com/" tvg-logo="https://i.imgur.com/Rlz2Mvg.png" group-title="CANAIS", TVCOM SANTOS AO VIVO
 https://video01.logicahost.com.br/tvcomsantos/tvcomsantos/chunklist_w224607587.m3u8
-#EXTINF:-1 tvg-id="https://www.soultv.com.br/" tvg-logo="https://imgur.com/xX8eqFj.png" group-title="CANAIS", TV ALTERNATIVA
-https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8?hls_ctx=h51yyhcc
 #EXTINF:-1 tvg-logo="https://imgur.com/NOEr7gX.png" group-title="CANAIS", TV GRAO PARA
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Pv95YP8.png" group-title="CANAIS", TV DO POVO
@@ -244,8 +232,6 @@ https://tv02.zas.media:1936/tvonix/tvonix/chunklist_w684240460.m3u8
 https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w502273574.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IQWmGHN.png" group-title="CANAIS", TV CANDIDES
 https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
-#EXTINF:-1 tvg-id="https://www.caraguatv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a866d989c5bdf80ebf3d8cc759d8e13b.webp" group-title="CANAIS", TV CARAGUA SP
-https://stmv5.samcast.com.br/cesarvieira8491/cesarvieira8491/playlist.m3u8?hls_ctx=i32l4r44
 #EXTINF:-1 tvg-logo="https://imgur.com/fmGNohE.png" group-title="CANAIS", TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/L2ib2Mg.png" group-title="CANAIS", TV OMINDARE
@@ -2594,8 +2580,6 @@ http://nl.digitalrm.pt:8012/stream
 https://servidor35.brlogic.com:8192/live
 #EXTINF:-1 tvg-logo="https://static.tudoRÁDIOS.com/ins/w:90/plain/https://tudoRÁDIOS.com/img/uploads/RÁDIOS/651470ff96ffb.png" group-title="RÁDIOS", FM O DIA | RJ
 https://streaming.livespanel.com:20000/live
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio14174_1578911830.png" group-title="RÁDIOS", Rádio Novo Rio 87.9 FM Rio das Ostras / RJ - Brasi
-http://192.99.79.240:8019/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title="RÁDIOS", Alpha FM | Goiânia
 https://ice.fabricahost.com.br/alphafm1021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIOS", BandNews FM | Goiânia
