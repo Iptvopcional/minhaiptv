@@ -1737,6 +1737,8 @@ https://sempra.pro/a1/out/6/10407/10407_os.bad.boas.2025.1080p.web-dl.dual.5.1.m
 https://sempra.pro/a1/out/6/10287/10287_o-esquema-fenicio-2025-web-dl-1080p-x264-dual-5.1.m3u8
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.digital/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iPwq2AhK5fvpXs6DahggmvbQ72GBFpXbkvggubkyQA0dbWyjb05PCx0M8lEy_qw6kg.webp?w=370&h=556" group-title="AÇÃO | SUSPENSE", O SISTEMA 2022
 https://sempra.pro/a1/out/6/6118/6118_o-sistema-2022-1080p-web-dl-dual-5.1.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.online/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZJv46uPFbvmdL0ZaNTF6yyDr2FEwI5z-ZWidF1OOcEc0r8xlfdjyRwTZlFEVrQ7Vn2HljNDh_OFps8jn9INnuEQ.webp?w=370&h=556" group-title="TERROR", OLHO POR OLHO  2025
+https://sempra.pro/a1/out/6/12340/12340_olho.por.olho.2025.1080p.web-dl.dual.5.1.m3u8
 
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.digital/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iKv8z7d0Y2qxEAY8k5zP2gWA9SLxGgKkVlTN-5rSgZUHzk3iO2NaMg3ea8_6AwrSkw.webp?w=370&h=556" group-title="AVENTURA | TERROR", PULAU 2023
 https://sempra.pro/a1/out/6/4807/4807_pulau.2023.720p.webrip.dublado.m3u8
@@ -1831,6 +1833,8 @@ https://video.wixstatic.com/video/834009_1f0294018b444978989a295d9397b093/720p/m
 https://video.wixstatic.com/video/834009_ad6b0a1f4b10459eb0627ec6b15aa088/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.digital/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZYVaIhXHL4HZwYYY14hR3QhXniGPc0pB-P2rfkJ4QCYI.webp?w=370&h=556" group-title="SUSPENSE", QUANDO UM ESTRANHO CHAMA 2006
 https://sempra.pro/a1/out/old/6/97/97_138500586quando-um-estranho-chama.m3u8
+#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.online/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZJv46uPFbvmdL0ZaNTF6yyNQPwM7JS2AQ6liRBxJvM3RhshTLHOSwpvAEb1bFOHy9sq585V2wdLhSbxFaPr3vhA.webp?w=370&h=556" group-title="DRAMA | SUSPENSE", QUARTO DO PÂNICO 2025
+https://sempra.pro/a1/out/6/12344/12344_quarto.do.panico.2025.1080p.web-dl.x264.nacional.5.1.m3u8
 
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://tv.kinopop.com/img/thumbnail.php?url=https://cdn038.fractalmedia.es/thumb/x9651wQ5Yh_w640.jpg&w=200&p=1" group-title="DRAMA | SUSPENSE | TERROR", REGRESSÃO DO MAL (2015)
 https://video.wixstatic.com/video/db47f8_5752760708474779a53af8f4e7b91b2b/480p/mp4/file.mp4
@@ -2156,12 +2160,16 @@ http://cdn.adultiptv.net/bigtits.m3u8
 
 xxxxxxxxxxxxxxxxxx RÁDIOS xxxxxxxxxxxxxxxxxx RÁDIOS xxxxxxxxxxxxxxxxxx RÁDIOS xxxxxxxxxxxxxxxxxx RÁDIOS xxxxxxxxxxxxxxxxxx RÁDIOS xxxxxxxxxxxxxxxxxx RÁDIOS xxxxxxxxxxxxxxxxxx
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.radios.com.br/radio/md/radio14174_1578911830.png" group-title="RÁDIOS", Rádio Novo Rio 87.9 FM Rio das Ostras / RJ - Brasil
+https://stm2.srvif.com:7616/stream?1771385948861
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio24_1456141262.jpg" group-title="RÁDIOS", Rádio 101 FM Macaé / RJ - Brasil
 http://nl.digitalrm.pt:8012/stream
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio13199_1744219705.jpg" group-title="RÁDIOS", Rádio Energia 104.9 FM Rio das Ostras / RJ - Brasil
 https://servidor35.brlogic.com:8192/live
 #EXTINF:-1 tvg-logo="https://static.tudoRÁDIOS.com/ins/w:90/plain/https://tudoRÁDIOS.com/img/uploads/RÁDIOS/651470ff96ffb.png" group-title="RÁDIOS", FM O DIA | RJ
 https://streaming.livespanel.com:20000/live
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio8817_1676300226.png" group-title="RÁDIOS", Rádio Globo 98.1 FM Rio de Janeiro / RJ - Brasil
+https://24403.live.streamtheworld.com/RADIO_GLOBO_RJAAC.aac?dist=radioscombr&1771386310641
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title="RÁDIOS", Alpha FM | Goiânia
 https://ice.fabricahost.com.br/alphafm1021
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIOS", BandNews FM | Goiânia
