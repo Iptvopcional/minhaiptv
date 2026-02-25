@@ -1,4 +1,121 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="aande.br" tvg-name="TV AO VIVO: A&E FHD" tvg-logo="http://latinapro.net:25461/images/cbcb39f1a67b78b7dd8ba599d9cb0e45.png" group-title="TV AO VIVO", A&E FHD
+http://latinapro.net:25461/lazaroperez/perez3/361.ts
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="TV AO VIVO: ANIMAL PLANET FHD" tvg-logo="http://latinapro.net:25461/images/0e57813f2ff522ad5847fdb98831f119.jpg" group-title="TV AO VIVO", ANIMAL PLANET FHD
+http://latinapro.net:25461/lazaroperez/perez3/362.ts
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="TV AO VIVO: AMC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVrxAPgT69_uu-F6X90VRLZC8tAXQk3kZg5g&s" group-title="TV AO VIVO", AMC
+http://latinapro.net:25461/lazaroperez/perez3/367.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="TV AO VIVO: AXN FHD" tvg-logo="http://latinapro.net:25461/images/cae30e8874e3ba50714afffbb88758f7.jpg" group-title="TV AO VIVO", AXN FHD
+http://latinapro.net:25461/lazaroperez/perez3/363.ts
+#EXTINF:-1 tvg-id="canalTV AO VIVO.br" tvg-name="TV AO VIVO: CANAL TV AO VIVO SD" tvg-logo="http://www.asistenciaremota24.com/images/canales/_183.jpg" group-title="TV AO VIVO", CANAL BRASIL SD
+http://latinapro.net:25461/lazaroperez/perez3/364.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="TV AO VIVO: CARTOON NETWORK FHD" tvg-logo="http://www.asistenciaremota24.com/images/canales/_37.png" group-title="TV AO VIVO", CARTOON NETWORK FHD
+http://latinapro.net:25461/lazaroperez/perez3/365.ts
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="TV AO VIVO: Cartoonito FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3qu3EEs2uH8EeC8Vb_sVdS-tStgipIsZFyA&s" group-title="TV AO VIVO", CARTOONITO FHD
+http://latinapro.net:25461/lazaroperez/perez3/396.ts
+#EXTINF:-1 tvg-id="combate.br" tvg-name="TV AO VIVO: COMBATE FHD H265" tvg-logo="http://latinapro.net:25461/images/eb5d1d7bfb30a69cb56f38cf8c3dd565.jpg" group-title="TV AO VIVO", COMBATE FHD H265
+http://latinapro.net:25461/lazaroperez/perez3/366.ts
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="TV AO VIVO: DISCOVERY CHANNEL FHD" tvg-logo="http://latinapro.net:25461/images/193ccffac4c68faf5377cdec2679f528.jpg" group-title="TV AO VIVO", DISCOVERY CHANNEL FHD
+http://latinapro.net:25461/lazaroperez/perez3/368.ts
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="TV AO VIVO: Discovery Kids" tvg-logo="http://latinapro.net:25461/images/sFmlE131NsvDNj4JdJ7IOMeuq129R8DhiUCOMh-_scJKwT5ZABAb3WInD_XgCgSwqT13Q9XLg5P52vYRE09gmA.jpg" group-title="TV AO VIVO", DISCOVERY KIDS
+http://latinapro.net:25461/lazaroperez/perez3/371.ts
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="TV AO VIVO: DISCOVERY THEATER FHD" tvg-logo="http://latinapro.net:25461/images/e5638866c0fe3f9861ac2dd45f19f8f5.png" group-title="TV AO VIVO", DISCOVERY THEATER FHD
+http://latinapro.net:25461/lazaroperez/perez3/369.ts
+#EXTINF:-1 tvg-id="disney.br" tvg-name="TV AO VIVO: DISNEY CHANNEL FHD" tvg-logo="http://latinapro.net:25461/images/sFmlE131NsvDNj4JdJ7IOMeuq129R8DhiUCOMh-_scJKwT5ZABAb3WInD_XgCgSwNEJL48qZj3yq-NsLRHLEMA.jpg" group-title="TV AO VIVO", DISNEY CHANNEL FHD
+http://latinapro.net:25461/lazaroperez/perez3/370.ts
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="TV AO VIVO: E! HD" tvg-logo="http://latinapro.net:25461/images/e8a1a09da90a68f4bf0504158eea8c8f.jpg" group-title="TV AO VIVO", E! HD
+http://latinapro.net:25461/lazaroperez/perez3/374.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV AO VIVO: Dazn 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXKMNgAsBX4zE503lnlTstlMaH-vWkrjXQKg&s" group-title="TV AO VIVO", DAZN 1
+http://latinapro.net:25461/lazaroperez/perez3/372.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="TV AO VIVO: ESPN FHD" tvg-logo="http://latinapro.net:25461/images/e1bd9e9008c137da501e5e0dca12d8b9.png" group-title="TV AO VIVO", ESPN FHD
+http://latinapro.net:25461/lazaroperez/perez3/376.ts
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="TV AO VIVO: ESPN 2 Hd" tvg-logo="http://latinapro.net:25461/images/973822139bde28ada94071e8bf9479b9.jpg" group-title="TV AO VIVO", ESPN 2 Hd
+http://latinapro.net:25461/lazaroperez/perez3/3744.ts
+#EXTINF:-1 tvg-id="espnTV AO VIVO.br" tvg-name="TV AO VIVO: ESPN 3 FHD" tvg-logo="http://latinapro.net:25461/images/e1bd9e9008c137da501e5e0dca12d8b9.png" group-title="TV AO VIVO", ESPN 3 FHD
+http://latinapro.net:25461/lazaroperez/perez3/375.ts
+#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="TV AO VIVO: ESPN 4 HD" tvg-logo="http://latinapro.net:25461/images/6e7e3ae19e640f77019d8f73a3ba0608.png" group-title="TV AO VIVO", ESPN 4 HD
+http://latinapro.net:25461/lazaroperez/perez3/394.ts
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="TV AO VIVO: ESPN 5 FHD" tvg-logo="http://latinapro.net:25461/images/907085002d003a37bd34affa1bb4633b.png" group-title="TV AO VIVO", ESPN 5 FHD
+http://latinapro.net:25461/lazaroperez/perez3/380.ts
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="TV AO VIVO: ESPN 5 FHD" tvg-logo="http://latinapro.net:25461/images/907085002d003a37bd34affa1bb4633b.png" group-title="TV AO VIVO", ESPN 5 FHD
+http://latinapro.net:25461/lazaroperez/perez3/380.ts
+#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="TV AO VIVO: ESPN 6 HD" tvg-logo="http://latinapro.net:25461/images/2ef5557a4324ad01fba06cd598d75806.png" group-title="TV AO VIVO", ESPN 6 HD
+http://latinapro.net:25461/lazaroperez/perez3/373.ts
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="TV AO VIVO: FOOD NETWORK FHD" tvg-logo="http://latinapro.net:25461/images/5ff91a3504c4ddfc81217ceb3da55fda.jpg" group-title="TV AO VIVO", FOOD NETWORK FHD
+http://latinapro.net:25461/lazaroperez/perez3/377.ts
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="TV AO VIVO: Gloob HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfG_e-3NXNy-Rq9X2XGt_b5SYlW2R-jzIGOw&s" group-title="TV AO VIVO", GLOOB HD
+http://latinapro.net:25461/lazaroperez/perez3/397.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV AO VIVO: GLOBO MINAS FHD" tvg-logo="http://latinapro.net:25461/images/5e03427c195a10b4d6edfc7eafe84651.jpg" group-title="TV AO VIVO", GLOBO MINAS FHD
+http://latinapro.net:25461/lazaroperez/perez3/382.ts
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="TV AO VIVO: GLOBO NEWS FHD" tvg-logo="http://www.asistenciaremota24.com/images/canales/_179.jpg" group-title="TV AO VIVO", GLOBO NEWS FHD
+http://latinapro.net:25461/lazaroperez/perez3/383.ts
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="TV AO VIVO: GLOBO NORDESTE FHD" tvg-logo="http://www.asistenciaremota24.com/images/canales/_178.jpg" group-title="TV AO VIVO", GLOBO NORDESTE FHD
+http://latinapro.net:25461/lazaroperez/perez3/384.ts
+#EXTINF:-1 tvg-id="history2.br" tvg-name="TV AO VIVO: H2 FHD" tvg-logo="http://www.asistenciaremota24.com/images/canales/_125.png" group-title="TV AO VIVO", H2 FHD
+http://latinapro.net:25461/lazaroperez/perez3/385.ts
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="TV AO VIVO: HBO 2 FHD" tvg-logo="http://www.asistenciaremota24.com/images/canales/_51.png" group-title="TV AO VIVO", HBO 2 FHD
+http://latinapro.net:25461/lazaroperez/perez3/386.ts
+#EXTINF:-1 tvg-id="maxTV AO VIVO.br" tvg-name="TV AO VIVO: HBO Extreme" tvg-logo="http://www.asistenciaremota24.com/images/canales/_36.png" group-title="TV AO VIVO", HBO EXTREME
+http://latinapro.net:25461/lazaroperez/perez3/393.ts
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="TV AO VIVO: HBO FAMILY HD" tvg-logo="http://www.asistenciaremota24.com/images/canales/_48.png" group-title="TV AO VIVO", HBO FAMILY HD
+http://latinapro.net:25461/lazaroperez/perez3/387.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="TV AO VIVO: HBO FHD" tvg-logo="http://latinapro.net:25461/images/52fbc054ccc33a9bbbdfee2a405f962f.jpg" group-title="TV AO VIVO", HBO FHD
+http://latinapro.net:25461/lazaroperez/perez3/388.ts
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="TV AO VIVO: HBO SIGNATURE FHD" tvg-logo="http://latinapro.net:25461/images/7b02004b755fee4a9b3878893cc0bb06.jpg" group-title="TV AO VIVO", HBO SIGNATURE FHD
+http://latinapro.net:25461/lazaroperez/perez3/389.ts
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="TV AO VIVO: HISTORY CHANNEL FHD" tvg-logo="http://latinapro.net:25461/images/93b75697c852834ae00eda9f89fe0357.jpg" group-title="TV AO VIVO", HISTORY CHANNEL FHD
+http://latinapro.net:25461/lazaroperez/perez3/390.ts
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="TV AO VIVO: Investigacao Discovery FHD" tvg-logo="http://latinapro.net:25461/images/0be9b5fac0bd86801cb17bdb302a5b19.png" group-title="TV AO VIVO", INVESTIGACAO DISCOVERY FHD
+http://latinapro.net:25461/lazaroperez/perez3/391.ts
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="TV AO VIVO: LIFETIME HD" tvg-logo="http://www.asistenciaremota24.com/images/canales/_111.png" group-title="TV AO VIVO", LIFETIME HD
+http://latinapro.net:25461/lazaroperez/perez3/392.ts
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="TV AO VIVO: CNN Hd" tvg-logo="http://latinapro.net:25461/images/HCx4-_XJRk7G_4gQZ22_1lMBP3y75O2ognFFwJbRNFvTdqzNWFVT5QGa6DiguvehYyHhzfv17tFpfOnlk460iY7mWsbPr0j3MpvqOOXQa5HjphIUlKWR5-PkExrBwYy9.png" group-title="TV AO VIVO", CNN Hd
+http://latinapro.net:25461/lazaroperez/perez3/395.ts
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="TV AO VIVO: Nosso Futebol 1 HD" tvg-logo="" group-title="TV AO VIVO", NOSSO FUTEBOL 1 HD
+http://latinapro.net:25461/lazaroperez/perez3/381.ts
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="TV AO VIVO: Nosso Futebol 2 HD" tvg-logo="" group-title="TV AO VIVO", NOSSO FUTEBOL 2 HD
+http://latinapro.net:25461/lazaroperez/perez3/3876.ts
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="TV AO VIVO: Premiere 2 Hd" tvg-logo="http://www.asistenciaremota24.com/images/canales/_160.jpg" group-title="TV AO VIVO", PREMIERE 2 Hd
+http://latinapro.net:25461/lazaroperez/perez3/3854.ts
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="TV AO VIVO: Premiere 3 Hd" tvg-logo="http://latinapro.net:25461/images/14256ddb0712552bd4e407d58faec0a4.jpg" group-title="TV AO VIVO", PREMIERE 3 Hd
+http://latinapro.net:25461/lazaroperez/perez3/3877.ts
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="TV AO VIVO: PREMIERE CLUBES FHD" tvg-logo="http://latinapro.net:25461/images/14256ddb0712552bd4e407d58faec0a4.jpg" group-title="TV AO VIVO", PREMIERE CLUBES FHD
+http://latinapro.net:25461/lazaroperez/perez3/398.ts
+#EXTINF:-1 tvg-id="aande.br" tvg-name="TV AO VIVO: RECORD SP" tvg-logo="http://latinapro.net:25461/images/4383e0d912cd25a3090fa8ae238a6c27.jpg" group-title="TV AO VIVO", RECORD SP
+http://latinapro.net:25461/lazaroperez/perez3/399.ts
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="TV AO VIVO: SBT FHD" tvg-logo="http://latinapro.net:25461/images/d20f8a29bc624cb2673b81411c48f026.png" group-title="TV AO VIVO", SBT FHD
+http://latinapro.net:25461/lazaroperez/perez3/400.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="TV AO VIVO: SPACE FHD" tvg-logo="http://latinapro.net:25461/images/21a94ef615203e3113e724e5075c5297.png" group-title="TV AO VIVO", SPACE FHD
+http://latinapro.net:25461/lazaroperez/perez3/401.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="TV AO VIVO: SPORTV FHD" tvg-logo="http://latinapro.net:25461/images/17d34a7ad59f8578e682d0ade0ecbb48.png" group-title="TV AO VIVO", SPORTV FHD
+http://latinapro.net:25461/lazaroperez/perez3/404.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="TV AO VIVO: SPORTV 2 FHD" tvg-logo="http://latinapro.net:25461/images/1a114b288ef7432428c1a7f44f30f291.png" group-title="TV AO VIVO", SPORTV 2 FHD
+http://latinapro.net:25461/lazaroperez/perez3/402.ts
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="TV AO VIVO: SPORTV 3 FHD" tvg-logo="http://latinapro.net:25461/images/1bf57bd8178b234f6a08404f193a253e.png" group-title="TV AO VIVO", SPORTV 3 FHD
+http://latinapro.net:25461/lazaroperez/perez3/403.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV AO VIVO: Band FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdRc7UAxv-iuQmrHBk0g_YN_sHUZrkx8VGCg&s" group-title="TV AO VIVO", BAND FHD
+http://latinapro.net:25461/lazaroperez/perez3/41070.ts
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TV AO VIVO: TELECINE ACTION" tvg-logo="http://latinapro.net:25461/images/40410688f6728b4ce8dd6b8c23f734ed.png" group-title="TV AO VIVO", TELECINE ACTION
+http://latinapro.net:25461/lazaroperez/perez3/405.ts
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TV AO VIVO: TELECINE PIPOCA FHD" tvg-logo="http://latinapro.net:25461/images/40410688f6728b4ce8dd6b8c23f734ed.png" group-title="TV AO VIVO", TELECINE PIPOCA FHD
+http://latinapro.net:25461/lazaroperez/perez3/406.ts
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TV AO VIVO: TELECINE PREMIUM FHD" tvg-logo="http://www.asistenciaremota24.com/images/canales/_123.png" group-title="TV AO VIVO", TELECINE PREMIUM FHD
+http://latinapro.net:25461/lazaroperez/perez3/407.ts
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TV AO VIVO: TNT FHD" tvg-logo="http://www.asistenciaremota24.com/images/canales/_40.png" group-title="TV AO VIVO", TNT FHD
+http://latinapro.net:25461/lazaroperez/perez3/408.ts
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TV AO VIVO: TNT SERIES FHD" tvg-logo="http://www.asistenciaremota24.com/images/canales/_41.png" group-title="TV AO VIVO", TNT SERIES FHD
+http://latinapro.net:25461/lazaroperez/perez3/409.ts
+#EXTINF:-1 tvg-id="fox.br" tvg-name="TV AO VIVO: Universal Channel" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b78ab0c-640e-4ab8-9bac-a19afa7dec78/di9euvu-43bf1e50-6dba-481f-ac29-3225b2375d1c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi80Yjc4YWIwYy02NDBlLTRhYjgtOWJhYy1hMTlhZmE3ZGVjNzgvZGk5ZXV2dS00M2JmMWU1MC02ZGJhLTQ4MWYtYWMyOS0zMjI1YjIzNzVkMWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2skv32IXsMtmKWRZVRMFS-V_EJWyg1CkCI5OfGWaERQ" group-title="TV AO VIVO", UNIVERSAL CHANNEL
+http://latinapro.net:25461/lazaroperez/perez3/378.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV AO VIVO: UFC" tvg-logo="http://latinapro.net:25461/images/OJ_LLAMA7ikgxcMX6uCVwQr1mRU-0D5QCoMFnpJ0qgfztdLFRC7wMSOnvVVr-6YZICDePRTgmi95emfPeu4Lfw.png" group-title="TV AO VIVO", UFC
+http://latinapro.net:25461/lazaroperez/perez3/55035.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV AO VIVO: UFC" tvg-logo="http://latinapro.net:25461/images/OJ_LLAMA7ikgxcMX6uCVwQr1mRU-0D5QCoMFnpJ0qgfztdLFRC7wMSOnvVVr-6YZICDePRTgmi95emfPeu4Lfw.png" group-title="TV AO VIVO", UFC
+http://latinapro.net:25461/lazaroperez/perez3/55035.ts
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="TV AO VIVO: WARNER CHANNEL FHD" tvg-logo="http://latinapro.net:25461/images/9096a4e03b39380b9335ef899eb98aed.jpg" group-title="TV AO VIVO", WARNER CHANNEL FHD
+http://latinapro.net:25461/lazaroperez/perez3/410.ts
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="TV AO VIVO", ANIME
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=65e4a7cf-0b18-4 b0a-97d2-7eadc239c740&deviceLat=-22.4545&deviceLon=-41.9492&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=BR&sid=5d23ee15-3e52-11eb-b866-0242ac110002&userId=&serverSideAds=true
 
@@ -2217,15 +2334,15 @@ http://cdn.adultiptv.net/bigtits.m3u8
 
 xxxxxxxxxxxxxxxxxx RÁDIOS xxxxxxxxxxxxxxxxxx RÁDIOS xxxxxxxxxxxxxxxxxx RÁDIOS xxxxxxxxxxxxxxxxxx RÁDIOS xxxxxxxxxxxxxxxxxx RÁDIOS xxxxxxxxxxxxxxxxxx RÁDIOS xxxxxxxxxxxxxxxxxx
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.radios.com.br/radio/md/radio14174_1578911830.png" group-title="RÁDIOS", Rádio Novo Rio 87.9 FM Rio das Ostras / RJ - Brasil
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.radios.com.br/radio/md/radio14174_1578911830.png" group-title="RÁDIOS", Rádio Novo Rio 87.9 FM Rio das Ostras / RJ - TV AO VIVO
 https://stm2.srvif.com:7616/stream?1771385948861
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio24_1456141262.jpg" group-title="RÁDIOS", Rádio 101 FM Macaé / RJ - Brasil
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio24_1456141262.jpg" group-title="RÁDIOS", Rádio 101 FM Macaé / RJ - TV AO VIVO
 http://nl.digitalrm.pt:8012/stream
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio13199_1744219705.jpg" group-title="RÁDIOS", Rádio Energia 104.9 FM Rio das Ostras / RJ - Brasil
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio13199_1744219705.jpg" group-title="RÁDIOS", Rádio Energia 104.9 FM Rio das Ostras / RJ - TV AO VIVO
 https://servidor35.brlogic.com:8192/live
 #EXTINF:-1 tvg-logo="https://static.tudoRÁDIOS.com/ins/w:90/plain/https://tudoRÁDIOS.com/img/uploads/RÁDIOS/651470ff96ffb.png" group-title="RÁDIOS", FM O DIA | RJ
 https://streaming.livespanel.com:20000/live
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio8817_1676300226.png" group-title="RÁDIOS", Rádio Globo 98.1 FM Rio de Janeiro / RJ - Brasil
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio8817_1676300226.png" group-title="RÁDIOS", Rádio Globo 98.1 FM Rio de Janeiro / RJ - TV AO VIVO
 https://24403.live.streamtheworld.com/RADIO_GLOBO_RJAAC.aac?dist=radioscombr&1771386310641
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title="RÁDIOS", Alpha FM | Goiânia
 https://ice.fabricahost.com.br/alphafm1021
