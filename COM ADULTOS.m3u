@@ -397,6 +397,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="TV AO VIVO", Motorvision 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
 
+#EXTINF:-1 tvg-id="BR - Inter TV Alto Litoral" tvg-name="GLOBO INTER TV ALTO LITORAL [HD]" tvg-logo="http://lgfp.one/ATM" group-title="TV AO VIVO",GLOBO INTER TV ALTO LITORAL [HD]
+http://198.13.17.25/auth/407.m3u8?token=PnpNxGc0_4I2jWPssvF7I9oY9kInuhrkG-S1fX_aTjrMq2vWcw9EbviUYT1oz2UpK4NPtgYf6LkHvlVpl40L19-vwR5xOD2aCyViIbVf9FVWxnUK_XM70dWhGN08KOi0w99EfEEZKReXJKbWZKgnKtWmz4_D3hHjZzOs_xPAT76o1kzapQw_U0RVyR_41Wmn-Y05DYap18IdySEhLfq3jfxThNSJYaC5RLVagL67DOh_9AJkFVC4PbwHS14kTsmD7PkntLzSqlrZvbZYj8GYT4H6b21d_sIBigxtDW8qJ7Q1pFnsccZYWbMvofCQvV9dViKrWhtGfKYMz-le0kGCOZ4f3b1dFM1IdBrX39NgtFhLvSVJNYeJ3jw_0yQLgQ8kWVOx5eQ6gcxL_UwxVer3X1k2gWO7q8sQTOjba-XlmW-yOf53J8bPCUQ7ZS6xSDzyYJuozQdxYrI0PhRMGpfnoHNIfLUiPRnWL9t2JiXBirBpfK0TYFioqsh6Ti2s_Nup7rR1DgtTmcspWaM2x_y2JBHe-72IHibWMb30Ss6sZ-FaqHPbpO15OYxjNC0B5PD_GEHCbt1f2AncAbbLytxO8g
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA [HD]" tvg-logo="http://lgfp.one/AJD" group-title="TV AO VIVO",VIVA [HD]
+http://206.109.58.68/auth/114.m3u8?token=U7StnUJfeKgtkAaBswuIX2iFxL5oANF0QwGKBSDLJd_-PmMiVHSjw8NzqSnZIa6w4pH7SmUbs7r_SNtlJy1PENNTKCdDd7iswvZ9vl2vp24fIFBimgYlCWKIRRjhcIXuv5oWbdMeHtsdvjY68cdDUXjYjzj0UBU9n_Kd5vVWi1Q1SE_gYQavyfcbCuU6wolx5QV123AhBQmANpTGPqbk9l0VyVtGwmfgs8eoU07aUAh7jBguSjzfD4dcXzJzn1Kn-8XWis9hB2aXZYyz_hQ_oMZpQkJneb7ZbfloBqMn0GkvYcnqdtO6N1VtaW1BIbfzO4rh-Z7dHGotCbk6xtPtVU1ZOLfMiCGvcuUMVU8F6n_XtL5R6oPKO8OQ5yObJhtgcw2r6i1SFBRpfpzLJs4_BWFW1x7icausL83zLL6WomTP_f6OnoQJzlnv00RdhY6QgYTEBKRkeCSd-KTGSBDeedp6zsLnjHIR2wW30rDHVBNohSNuSK3Txlok7nlMFUD9mH5iYEvEg4lIjv-tYz-3XmBEjCTdDthICHLVxGEoyq5GwhsGTGKMNzvsfX_NU52PBqReow-soy11lBBJi0oQxw
+
 xxxxxxxxxxxxxxxxxx SÉRIES xxxxxxxxxxxxxxxxxx SÉRIES xxxxxxxxxxxxxxxxxx SÉRIES xxxxxxxxxxxxxxxxxx SÉRIES xxxxxxxxxxxxxxxxxx SÉRIES xxxxxxxxxxxxxxxxxx SÉRIES xxxxxxxxxxxxxxxxxx SÉRIES xxxxxxxxxxxxxxxxxx SÉRIES xxxxxxxxxxxxxxxxxx
 
 #EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/vMFJS9LIUUAmQ1thq4vJ7iHKwRz.jpg" group-title="SÉRIES", Round 6: 1° Temporada; Episódio 1 - Batatinha Frita 1, 2, 3
