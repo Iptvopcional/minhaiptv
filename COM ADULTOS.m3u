@@ -1,118 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="aande.br" tvg-name="TV AO VIVO: A&E FHD" tvg-logo="http://latinapro.net:25461/images/cbcb39f1a67b78b7dd8ba599d9cb0e45.png" group-title="TV AO VIVO", A&E FHD
-http://latinapro.net:25461/lazaroperez/perez3/361.ts
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="TV AO VIVO: ANIMAL PLANET FHD" tvg-logo="http://latinapro.net:25461/images/0e57813f2ff522ad5847fdb98831f119.jpg" group-title="TV AO VIVO", ANIMAL PLANET FHD
-http://latinapro.net:25461/lazaroperez/perez3/362.ts
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="TV AO VIVO: AMC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVrxAPgT69_uu-F6X90VRLZC8tAXQk3kZg5g&s" group-title="TV AO VIVO", AMC
-http://latinapro.net:25461/lazaroperez/perez3/367.ts
-#EXTINF:-1 tvg-id="axn.br" tvg-name="TV AO VIVO: AXN FHD" tvg-logo="http://latinapro.net:25461/images/cae30e8874e3ba50714afffbb88758f7.jpg" group-title="TV AO VIVO", AXN FHD
-http://latinapro.net:25461/lazaroperez/perez3/363.ts
-#EXTINF:-1 tvg-id="canalTV AO VIVO.br" tvg-name="TV AO VIVO: CANAL TV AO VIVO SD" tvg-logo="http://www.asistenciaremota24.com/images/canales/_183.jpg" group-title="TV AO VIVO", CANAL BRASIL SD
-http://latinapro.net:25461/lazaroperez/perez3/364.ts
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="TV AO VIVO: CARTOON NETWORK FHD" tvg-logo="http://www.asistenciaremota24.com/images/canales/_37.png" group-title="TV AO VIVO", CARTOON NETWORK FHD
-http://latinapro.net:25461/lazaroperez/perez3/365.ts
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="TV AO VIVO: Cartoonito FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3qu3EEs2uH8EeC8Vb_sVdS-tStgipIsZFyA&s" group-title="TV AO VIVO", CARTOONITO FHD
-http://latinapro.net:25461/lazaroperez/perez3/396.ts
-#EXTINF:-1 tvg-id="combate.br" tvg-name="TV AO VIVO: COMBATE FHD H265" tvg-logo="http://latinapro.net:25461/images/eb5d1d7bfb30a69cb56f38cf8c3dd565.jpg" group-title="TV AO VIVO", COMBATE FHD H265
-http://latinapro.net:25461/lazaroperez/perez3/366.ts
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="TV AO VIVO: DISCOVERY CHANNEL FHD" tvg-logo="http://latinapro.net:25461/images/193ccffac4c68faf5377cdec2679f528.jpg" group-title="TV AO VIVO", DISCOVERY CHANNEL FHD
-http://latinapro.net:25461/lazaroperez/perez3/368.ts
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="TV AO VIVO: Discovery Kids" tvg-logo="http://latinapro.net:25461/images/sFmlE131NsvDNj4JdJ7IOMeuq129R8DhiUCOMh-_scJKwT5ZABAb3WInD_XgCgSwqT13Q9XLg5P52vYRE09gmA.jpg" group-title="TV AO VIVO", DISCOVERY KIDS
-http://latinapro.net:25461/lazaroperez/perez3/371.ts
-#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="TV AO VIVO: DISCOVERY THEATER FHD" tvg-logo="http://latinapro.net:25461/images/e5638866c0fe3f9861ac2dd45f19f8f5.png" group-title="TV AO VIVO", DISCOVERY THEATER FHD
-http://latinapro.net:25461/lazaroperez/perez3/369.ts
-#EXTINF:-1 tvg-id="disney.br" tvg-name="TV AO VIVO: DISNEY CHANNEL FHD" tvg-logo="http://latinapro.net:25461/images/sFmlE131NsvDNj4JdJ7IOMeuq129R8DhiUCOMh-_scJKwT5ZABAb3WInD_XgCgSwNEJL48qZj3yq-NsLRHLEMA.jpg" group-title="TV AO VIVO", DISNEY CHANNEL FHD
-http://latinapro.net:25461/lazaroperez/perez3/370.ts
-#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="TV AO VIVO: E! HD" tvg-logo="http://latinapro.net:25461/images/e8a1a09da90a68f4bf0504158eea8c8f.jpg" group-title="TV AO VIVO", E! HD
-http://latinapro.net:25461/lazaroperez/perez3/374.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV AO VIVO: Dazn 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXKMNgAsBX4zE503lnlTstlMaH-vWkrjXQKg&s" group-title="TV AO VIVO", DAZN 1
-http://latinapro.net:25461/lazaroperez/perez3/372.ts
-#EXTINF:-1 tvg-id="espn.br" tvg-name="TV AO VIVO: ESPN FHD" tvg-logo="http://latinapro.net:25461/images/e1bd9e9008c137da501e5e0dca12d8b9.png" group-title="TV AO VIVO", ESPN FHD
-http://latinapro.net:25461/lazaroperez/perez3/376.ts
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="TV AO VIVO: ESPN 2 Hd" tvg-logo="http://latinapro.net:25461/images/973822139bde28ada94071e8bf9479b9.jpg" group-title="TV AO VIVO", ESPN 2 Hd
-http://latinapro.net:25461/lazaroperez/perez3/3744.ts
-#EXTINF:-1 tvg-id="espnTV AO VIVO.br" tvg-name="TV AO VIVO: ESPN 3 FHD" tvg-logo="http://latinapro.net:25461/images/e1bd9e9008c137da501e5e0dca12d8b9.png" group-title="TV AO VIVO", ESPN 3 FHD
-http://latinapro.net:25461/lazaroperez/perez3/375.ts
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="TV AO VIVO: ESPN 4 HD" tvg-logo="http://latinapro.net:25461/images/6e7e3ae19e640f77019d8f73a3ba0608.png" group-title="TV AO VIVO", ESPN 4 HD
-http://latinapro.net:25461/lazaroperez/perez3/394.ts
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="TV AO VIVO: ESPN 5 FHD" tvg-logo="http://latinapro.net:25461/images/907085002d003a37bd34affa1bb4633b.png" group-title="TV AO VIVO", ESPN 5 FHD
-http://latinapro.net:25461/lazaroperez/perez3/380.ts
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="TV AO VIVO: ESPN 5 FHD" tvg-logo="http://latinapro.net:25461/images/907085002d003a37bd34affa1bb4633b.png" group-title="TV AO VIVO", ESPN 5 FHD
-http://latinapro.net:25461/lazaroperez/perez3/380.ts
-#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="TV AO VIVO: ESPN 6 HD" tvg-logo="http://latinapro.net:25461/images/2ef5557a4324ad01fba06cd598d75806.png" group-title="TV AO VIVO", ESPN 6 HD
-http://latinapro.net:25461/lazaroperez/perez3/373.ts
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="TV AO VIVO: FOOD NETWORK FHD" tvg-logo="http://latinapro.net:25461/images/5ff91a3504c4ddfc81217ceb3da55fda.jpg" group-title="TV AO VIVO", FOOD NETWORK FHD
-http://latinapro.net:25461/lazaroperez/perez3/377.ts
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="TV AO VIVO: Gloob HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfG_e-3NXNy-Rq9X2XGt_b5SYlW2R-jzIGOw&s" group-title="TV AO VIVO", GLOOB HD
-http://latinapro.net:25461/lazaroperez/perez3/397.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV AO VIVO: GLOBO MINAS FHD" tvg-logo="http://latinapro.net:25461/images/5e03427c195a10b4d6edfc7eafe84651.jpg" group-title="TV AO VIVO", GLOBO MINAS FHD
-http://latinapro.net:25461/lazaroperez/perez3/382.ts
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="TV AO VIVO: GLOBO NEWS FHD" tvg-logo="http://www.asistenciaremota24.com/images/canales/_179.jpg" group-title="TV AO VIVO", GLOBO NEWS FHD
-http://latinapro.net:25461/lazaroperez/perez3/383.ts
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="TV AO VIVO: GLOBO NORDESTE FHD" tvg-logo="http://www.asistenciaremota24.com/images/canales/_178.jpg" group-title="TV AO VIVO", GLOBO NORDESTE FHD
-http://latinapro.net:25461/lazaroperez/perez3/384.ts
-#EXTINF:-1 tvg-id="history2.br" tvg-name="TV AO VIVO: H2 FHD" tvg-logo="http://www.asistenciaremota24.com/images/canales/_125.png" group-title="TV AO VIVO", H2 FHD
-http://latinapro.net:25461/lazaroperez/perez3/385.ts
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="TV AO VIVO: HBO 2 FHD" tvg-logo="http://www.asistenciaremota24.com/images/canales/_51.png" group-title="TV AO VIVO", HBO 2 FHD
-http://latinapro.net:25461/lazaroperez/perez3/386.ts
-#EXTINF:-1 tvg-id="maxTV AO VIVO.br" tvg-name="TV AO VIVO: HBO Extreme" tvg-logo="http://www.asistenciaremota24.com/images/canales/_36.png" group-title="TV AO VIVO", HBO EXTREME
-http://latinapro.net:25461/lazaroperez/perez3/393.ts
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="TV AO VIVO: HBO FAMILY HD" tvg-logo="http://www.asistenciaremota24.com/images/canales/_48.png" group-title="TV AO VIVO", HBO FAMILY HD
-http://latinapro.net:25461/lazaroperez/perez3/387.ts
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="TV AO VIVO: HBO FHD" tvg-logo="http://latinapro.net:25461/images/52fbc054ccc33a9bbbdfee2a405f962f.jpg" group-title="TV AO VIVO", HBO FHD
-http://latinapro.net:25461/lazaroperez/perez3/388.ts
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="TV AO VIVO: HBO SIGNATURE FHD" tvg-logo="http://latinapro.net:25461/images/7b02004b755fee4a9b3878893cc0bb06.jpg" group-title="TV AO VIVO", HBO SIGNATURE FHD
-http://latinapro.net:25461/lazaroperez/perez3/389.ts
-#EXTINF:-1 tvg-id="historychannel.br" tvg-name="TV AO VIVO: HISTORY CHANNEL FHD" tvg-logo="http://latinapro.net:25461/images/93b75697c852834ae00eda9f89fe0357.jpg" group-title="TV AO VIVO", HISTORY CHANNEL FHD
-http://latinapro.net:25461/lazaroperez/perez3/390.ts
-#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="TV AO VIVO: Investigacao Discovery FHD" tvg-logo="http://latinapro.net:25461/images/0be9b5fac0bd86801cb17bdb302a5b19.png" group-title="TV AO VIVO", INVESTIGACAO DISCOVERY FHD
-http://latinapro.net:25461/lazaroperez/perez3/391.ts
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="TV AO VIVO: LIFETIME HD" tvg-logo="http://www.asistenciaremota24.com/images/canales/_111.png" group-title="TV AO VIVO", LIFETIME HD
-http://latinapro.net:25461/lazaroperez/perez3/392.ts
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="TV AO VIVO: CNN Hd" tvg-logo="http://latinapro.net:25461/images/HCx4-_XJRk7G_4gQZ22_1lMBP3y75O2ognFFwJbRNFvTdqzNWFVT5QGa6DiguvehYyHhzfv17tFpfOnlk460iY7mWsbPr0j3MpvqOOXQa5HjphIUlKWR5-PkExrBwYy9.png" group-title="TV AO VIVO", CNN Hd
-http://latinapro.net:25461/lazaroperez/perez3/395.ts
-#EXTINF:-1 tvg-id="foxsports.br" tvg-name="TV AO VIVO: Nosso Futebol 1 HD" tvg-logo="" group-title="TV AO VIVO", NOSSO FUTEBOL 1 HD
-http://latinapro.net:25461/lazaroperez/perez3/381.ts
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="TV AO VIVO: Nosso Futebol 2 HD" tvg-logo="" group-title="TV AO VIVO", NOSSO FUTEBOL 2 HD
-http://latinapro.net:25461/lazaroperez/perez3/3876.ts
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="TV AO VIVO: Premiere 2 Hd" tvg-logo="http://www.asistenciaremota24.com/images/canales/_160.jpg" group-title="TV AO VIVO", PREMIERE 2 Hd
-http://latinapro.net:25461/lazaroperez/perez3/3854.ts
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="TV AO VIVO: Premiere 3 Hd" tvg-logo="http://latinapro.net:25461/images/14256ddb0712552bd4e407d58faec0a4.jpg" group-title="TV AO VIVO", PREMIERE 3 Hd
-http://latinapro.net:25461/lazaroperez/perez3/3877.ts
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="TV AO VIVO: PREMIERE CLUBES FHD" tvg-logo="http://latinapro.net:25461/images/14256ddb0712552bd4e407d58faec0a4.jpg" group-title="TV AO VIVO", PREMIERE CLUBES FHD
-http://latinapro.net:25461/lazaroperez/perez3/398.ts
-#EXTINF:-1 tvg-id="aande.br" tvg-name="TV AO VIVO: RECORD SP" tvg-logo="http://latinapro.net:25461/images/4383e0d912cd25a3090fa8ae238a6c27.jpg" group-title="TV AO VIVO", RECORD SP
-http://latinapro.net:25461/lazaroperez/perez3/399.ts
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="TV AO VIVO: SBT FHD" tvg-logo="http://latinapro.net:25461/images/d20f8a29bc624cb2673b81411c48f026.png" group-title="TV AO VIVO", SBT FHD
-http://latinapro.net:25461/lazaroperez/perez3/400.ts
-#EXTINF:-1 tvg-id="space.br" tvg-name="TV AO VIVO: SPACE FHD" tvg-logo="http://latinapro.net:25461/images/21a94ef615203e3113e724e5075c5297.png" group-title="TV AO VIVO", SPACE FHD
-http://latinapro.net:25461/lazaroperez/perez3/401.ts
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="TV AO VIVO: SPORTV FHD" tvg-logo="http://latinapro.net:25461/images/17d34a7ad59f8578e682d0ade0ecbb48.png" group-title="TV AO VIVO", SPORTV FHD
-http://latinapro.net:25461/lazaroperez/perez3/404.ts
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="TV AO VIVO: SPORTV 2 FHD" tvg-logo="http://latinapro.net:25461/images/1a114b288ef7432428c1a7f44f30f291.png" group-title="TV AO VIVO", SPORTV 2 FHD
-http://latinapro.net:25461/lazaroperez/perez3/402.ts
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="TV AO VIVO: SPORTV 3 FHD" tvg-logo="http://latinapro.net:25461/images/1bf57bd8178b234f6a08404f193a253e.png" group-title="TV AO VIVO", SPORTV 3 FHD
-http://latinapro.net:25461/lazaroperez/perez3/403.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV AO VIVO: Band FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdRc7UAxv-iuQmrHBk0g_YN_sHUZrkx8VGCg&s" group-title="TV AO VIVO", BAND FHD
-http://latinapro.net:25461/lazaroperez/perez3/41070.ts
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TV AO VIVO: TELECINE ACTION" tvg-logo="http://latinapro.net:25461/images/40410688f6728b4ce8dd6b8c23f734ed.png" group-title="TV AO VIVO", TELECINE ACTION
-http://latinapro.net:25461/lazaroperez/perez3/405.ts
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TV AO VIVO: TELECINE PIPOCA FHD" tvg-logo="http://latinapro.net:25461/images/40410688f6728b4ce8dd6b8c23f734ed.png" group-title="TV AO VIVO", TELECINE PIPOCA FHD
-http://latinapro.net:25461/lazaroperez/perez3/406.ts
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TV AO VIVO: TELECINE PREMIUM FHD" tvg-logo="http://www.asistenciaremota24.com/images/canales/_123.png" group-title="TV AO VIVO", TELECINE PREMIUM FHD
-http://latinapro.net:25461/lazaroperez/perez3/407.ts
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TV AO VIVO: TNT FHD" tvg-logo="http://www.asistenciaremota24.com/images/canales/_40.png" group-title="TV AO VIVO", TNT FHD
-http://latinapro.net:25461/lazaroperez/perez3/408.ts
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TV AO VIVO: TNT SERIES FHD" tvg-logo="http://www.asistenciaremota24.com/images/canales/_41.png" group-title="TV AO VIVO", TNT SERIES FHD
-http://latinapro.net:25461/lazaroperez/perez3/409.ts
-#EXTINF:-1 tvg-id="fox.br" tvg-name="TV AO VIVO: Universal Channel" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b78ab0c-640e-4ab8-9bac-a19afa7dec78/di9euvu-43bf1e50-6dba-481f-ac29-3225b2375d1c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi80Yjc4YWIwYy02NDBlLTRhYjgtOWJhYy1hMTlhZmE3ZGVjNzgvZGk5ZXV2dS00M2JmMWU1MC02ZGJhLTQ4MWYtYWMyOS0zMjI1YjIzNzVkMWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2skv32IXsMtmKWRZVRMFS-V_EJWyg1CkCI5OfGWaERQ" group-title="TV AO VIVO", UNIVERSAL CHANNEL
-http://latinapro.net:25461/lazaroperez/perez3/378.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV AO VIVO: UFC" tvg-logo="http://latinapro.net:25461/images/OJ_LLAMA7ikgxcMX6uCVwQr1mRU-0D5QCoMFnpJ0qgfztdLFRC7wMSOnvVVr-6YZICDePRTgmi95emfPeu4Lfw.png" group-title="TV AO VIVO", UFC
-http://latinapro.net:25461/lazaroperez/perez3/55035.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV AO VIVO: UFC" tvg-logo="http://latinapro.net:25461/images/OJ_LLAMA7ikgxcMX6uCVwQr1mRU-0D5QCoMFnpJ0qgfztdLFRC7wMSOnvVVr-6YZICDePRTgmi95emfPeu4Lfw.png" group-title="TV AO VIVO", UFC
-http://latinapro.net:25461/lazaroperez/perez3/55035.ts
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="TV AO VIVO: WARNER CHANNEL FHD" tvg-logo="http://latinapro.net:25461/images/9096a4e03b39380b9335ef899eb98aed.jpg" group-title="TV AO VIVO", WARNER CHANNEL FHD
-http://latinapro.net:25461/lazaroperez/perez3/410.ts
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RJ Inter TV Alto Litoral HD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="➡️GLOBO SUDESTE",Globo RJ Inter TV Alto Litoral HD
+http://cdnfive.top:80/170340849/398096733/8100916.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ Capital HD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="GLOBO",GLOBO RJ CAPITAL HD
+http://cdnfive.top:80/170340849/398096733/8100880.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BA SANTA CRUZ HD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="GLOBO",GLOBO BA SANTA CRUZ HD
+http://cdnfive.top:80/170340849/398096733/8105495.ts
+#EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="GLOBO TV BAHIA HD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="GLOBO",GLOBO TV BAHIA HD
+http://cdnfive.top:80/170340849/398096733/8100782.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA JUAZEIRO" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="GLOBO",GLOBO BAHIA JUAZEIRO
+http://cdnfive.top:80/170340849/398096733/8105497.ts
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
@@ -148,25 +44,6 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8?hls_ctx=68q
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/42174cd70ddce777c49b24aea7730341.png" group-title="TV AO VIVO", EVANGELHO VERMELHO
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BA SANTA CRUZ FHD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="GLOBO",GLOBO BA SANTA CRUZ FHD
-http://cdnfive.top:80/170340849/398096733/8105494.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BA SANTA CRUZ HD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="GLOBO",GLOBO BA SANTA CRUZ HD
-http://cdnfive.top:80/170340849/398096733/8105495.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BA SANTA CRUZ SD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="GLOBO",GLOBO BA SANTA CRUZ SD
-http://cdnfive.top:80/170340849/398096733/8105496.ts
-#EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="GLOBO TV BAHIA FHD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="GLOBO",GLOBO TV BAHIA FHD
-http://cdnfive.top:80/170340849/398096733/8100781.ts
-#EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="GLOBO TV BAHIA HD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="GLOBO",GLOBO TV BAHIA HD
-http://cdnfive.top:80/170340849/398096733/8100782.ts
-#EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="GLOBO TV BAHIA FHD¹" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="GLOBO",GLOBO TV BAHIA FHD¹
-http://cdnfive.top:80/170340849/398096733/8655551.ts
-#EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="GLOBO TV BAHIA HD¹" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="GLOBO",GLOBO TV BAHIA HD¹
-http://cdnfive.top:80/170340849/398096733/8655550.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA JUAZEIRO" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="GLOBO",GLOBO BAHIA JUAZEIRO
-http://cdnfive.top:80/170340849/398096733/8105497.ts
-#EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="GLOBO TV BAHIA SD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="GLOBO",GLOBO TV BAHIA SD
-http://cdnfive.top:80/170340849/398096733/8100783.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Jovem_Pan_News_logo.png" group-title="TV AO VIVO", JOVEM PAN NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
@@ -415,63 +292,67 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
 
 xxxxxxxxxxxxxxxxxx SÉRIES xxxxxxxxxxxxxxxxxx SÉRIES xxxxxxxxxxxxxxxxxx SÉRIES xxxxxxxxxxxxxxxxxx SÉRIES xxxxxxxxxxxxxxxxxx SÉRIES xxxxxxxxxxxxxxxxxx SÉRIES xxxxxxxxxxxxxxxxxx SÉRIES xxxxxxxxxxxxxxxxxx SÉRIES xxxxxxxxxxxxxxxxxx
 
-#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/vMFJS9LIUUAmQ1thq4vJ7iHKwRz.jpg" group-title="SÉRIES", Round 6: 1° Temporada; Episódio 1 - Batatinha Frita 1, 2, 3
-https://watch.brplayer.cc/stream/bTN1OC8xMC83ZWY1NmE2MTJkYzA3Mzg2YmIxOWMyZmI2OGQwMTViZi83MjBwLzcyMHAubTN1OD9pZD0yMzUxMg==?s=1&id=23512&cache=1
-#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/uacNwki3PqXEFk9Pal9Ng5NwwAI.jpg" group-title="SÉRIES", Round 6: 1° Temporada; Episódio 2 - Inferno
-https://watch.brplayer.cc/stream/bTN1OC8xMC8wYTc0M2ZhMGRlODY5ZjI3ZjA2ZDY5NTczNDc4MTQwMS83MjBwLzcyMHAubTN1OD9pZD0yMzUxNA==?s=1&id=23514&cache=1
-#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/xNtgrNEsMXvmRQQtcFuJdbXOjmP.jpg" group-title="SÉRIES", Round 6: 1° Temporada; Episódio 3 - O Homem do Guarda-chuvas
-https://watch.brplayer.cc/stream/bTN1OC8xMC8yZWM0MzMyYzYyZGI5MjhmZGYxZDBiZTYxNzRkZjE0NS83MjBwLzcyMHAubTN1OD9pZD0yMzUxNg==?s=1&id=23516&cache=1
-#EXTINF:-1 tvg-id="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/9cUGOdLN4gmnf3b9ILArnJsJI8Q.jpg" group-title="SÉRIES", Round 6: 1° Temporada; Episódio 4 - Fiquem Juntos
-https://watch.brplayer.cc/stream/bTN1OC8xMC8yMzQzZjM5ZGM4MDg3NzkwZGY5ZjY0NGU4ZGRiNWUxYi83MjBwLzcyMHAubTN1OD9pZD0yMzUxNw==?s=1&id=23517&cache=1
-#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/2pE9f6drlF7y9rwUw6dh1w6jF5M.jpg" group-title="SÉRIES", Round 6: 1° Temporada; Episódio 5 - Um Mundo Justo
-https://watch.brplayer.cc/stream/bTN1OC8xMC8wNjYzYjBlY2U3MDdhY2IzYjlmZTQ3Y2QxOGNlOGY4Yi83MjBwLzcyMHAubTN1OD9pZD0yMzUxOA==?s=1&id=23518&cache=1
-#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/cohCCQzTe2ncdQczJDUsO0vzxPR.jpg" group-title="SÉRIES", Round 6: 1° Temporada; Episódio 6 - Gganbu
-https://watch.brplayer.cc/stream/bTN1OC8xMC8xOWRjMTExZjQ5MmNkMzJlNjVjN2NjZTc4ZGI0ODk3Zi80ODBwLzQ4MHAubTN1OD9pZD0yMzUxOQ==?s=1&id=23519&cache=1
-#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/4pVfv4HaM5QpFJTHm19p2UI0StN.jpg" group-title="SÉRIES", Round 6: 1° Temporada; Episódio 7 - VIPs
-https://watch.brplayer.cc/stream/bTN1OC8xMC9jYmMzZjZmNGZjMGJlOGJlMWFjNGU4OWJkOTNjYWY2OS83MjBwLzcyMHAubTN1OD9pZD0yMzUyMA==?s=1&id=23520&cache=1
-#EXTINF:-1 tvg-id="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/lOgFVmykN9qlpAoiBSIV2lu7XCS.jpg" group-title="SÉRIES", Round 6: 1° Temporada; Episódio 8 - O Líder
-https://watch.brplayer.cc/stream/bTN1OC8xMC8wZDM4ZmQyNzBkNmYyOGJiMmZjNDVlYzI1NzFiNzU4ZS80ODBwLzQ4MHAubTN1OD9pZD0yMzUyMQ==?s=1&id=23521&cache=1
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/sKeQbHeEUQLyoSdopa0QXm604cz.jpg" group-title="SÉRIES", Round 6: 1° Temporada; Episódio 9 - Um dia de sorte
-https://watch.brplayer.cc/stream/bTN1OC8xMC82YThjZWVlZmEyYzQyYjEwNGE2NzU0N2VmYmU3OWM5ZC83MjBwLzcyMHAubTN1OD9pZD0yMzUyMg==?s=1&id=23522&cache=1
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/tWwP30pufZhWDSxN4qxER7gMbLR.jpg" group-title="SÉRIES", Round 6: 2° Temporada; Episódio 1 - Pão e loteria
-https://watch.brplayer.cc/stream/bTN1OC8xMC9jYWRjNWVjNjRiZTk0ZjNlNjBjOGQzZTVjYzBjNjA1MS83MjBwLzcyMHAubTN1OD9pZD0yMzUyNQ==?s=1&id=23525&cache=1
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/6D0kAkjdYCNz3wOigChITrezNig.jpg" group-title="SÉRIES", Round 6: 2° Temporada; Episódio 2 - Festa de Halloween
-https://watch.brplayer.cc/stream/bTN1OC8xMC8yMzU5ZjUxNzJlYzYyN2Q2M2Q1MzAwZWRhZTQxMWJiMC83MjBwLzcyMHAubTN1OD9pZD0yMzUyNw==?s=1&id=23527&cache=1
-#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/g1uO2xMXpAbtYRs9XaVo9fnuw8T.jpg" group-title="SÉRIES", Round 6: 2° Temporada; Episódio 3 - 001
-https://watch.brplayer.cc/stream/bTN1OC8xMC9kOWI0YTA2MjU0ZDExNGIyMTZhNmYxN2NiYWVjNzI2YS83MjBwLzcyMHAubTN1OD9pZD0yMzUyOA==?s=1&id=23528&cache=1
-#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/hU4SUCvTWVhqMyk81t4zmvQg79u.jpg" group-title="SÉRIES", Round 6: 2° Temporada; Episódio 4 - Seis Pernas
-https://watch.brplayer.cc/stream/bTN1OC8xMC80Y2E3ZDcwZTJkNjgzYjhmNDkzMGRiZmIxYWYzNzI4Mi83MjBwLzcyMHAubTN1OD9pZD0yMzUyOQ==?s=1&id=23529&cache=1
-#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/575R0zTaCUtmLjLSsBp3hLl1DQn.jpg" group-title="SÉRIES", Round 6: 2° Temporada; Episódio 5 - Mais um Jogo
-https://watch.brplayer.cc/stream/bTN1OC8xMC82NDZkMGMzYjY1YzEyMmY5ZGQ5MzFjYjlmOTRhYmNkYy83MjBwLzcyMHAubTN1OD9pZD0yMzUzMA==?s=1&id=23530&cache=1
-#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/gxMiBlCPmOp5qekica0OtDeLTp7.jpg" group-title="SÉRIES", Round 6: 2° Temporada; Episódio 6 - O ﻿ X
-https://watch.brplayer.cc/stream/bTN1OC8xMC82MDI2N2JhYzY3MzJjN2E4MWVjODExY2M1YzljMDg1OS83MjBwLzcyMHAubTN1OD9pZD0yMzUzMQ==?s=1&id=23531&cache=1
-#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/qZH5NZPA2N9ykpDd0dOQTmVJiVR.jpg" group-title="SÉRIES", Round 6: 2° Temporada; Episódio 7 - Amigos ou Inimigos?
-https://watch.brplayer.cc/stream/bTN1OC8xMC80MTllNDQxMGRhMTUyYzc0ZDcyNzI3MDI4M2NiOTRjZS83MjBwLzcyMHAubTN1OD9pZD0yMzUzMg==?s=1&id=23532&cache=1
-#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/2xqny2WLuT25vwo2lSbspp09jlz.jpg" group-title="SÉRIES", Round 6: 3° Temporada; Episódio 1 - Chaves e Facas
-https://watch.brplayer.cc/stream/bTN1OC8xMC80MjU0NDMwYTEzMmNiYzJjZmIyMzVkMGZjYTM5MjI3OS83MjBwLzcyMHAubTN1OD9pZD0yNjk2MA==?s=1&id=26960&cache=1
-#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/eFlIKUPGoWMLKjvMxpfYQT5Lmcv.jpg" group-title="SÉRIES", Round 6: 3° Temporada; Episódio 2 - Noite Estrelada
-https://watch.brplayer.cc/stream/bTN1OC8xMC9lNDE1NzZjMmQ2M2VhYjk5ZTdkNzIwOTIwNDczOWNlOC83MjBwLzcyMHAubTN1OD9pZD0yNjk2MQ==?s=1&id=26961&cache=1
-#EXTINF:-1 tvg-name="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/gd9QhGKwkoFUfRo6hosINt9UERM.jpg" group-title="SÉRIES", Round 6: 3° Temporada; Episódio 3 - Não é Culpa Sua
-https://watch.brplayer.cc/stream/bTN1OC8xMC9hNjMzNDM0MWQ4MWZiMDQ3ZmI1ZGVkYjEwMTQ4ODkxYS83MjBwLzcyMHAubTN1OD9pZD0yNjk2Mg==?s=1&id=26962&cache=1
-#EXTINF:-1 tvg-id="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/7MpBNso3Ym21Oly3HuoPgGpKxG5.jpg" group-title="SÉRIES", Round 6: 3° Temporada; Episódio 4 - 222
-https://watch.brplayer.cc/stream/bTN1OC8xMC8yYWFkOGFhN2MzZjhlNDA2NGU5ODBlOTUyOGU1MGY1My83MjBwLzcyMHAubTN1OD9pZD0yNjk2Mw==?s=1&id=26963&cache=1
-#EXTINF:-1 tvg-id="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/mYhwcWgHnQnpZMD1OuhyDiOhV73.jpg" group-title="SÉRIES", Round 6: 3° Temporada; Episódio 5 - ○△□
-https://watch.brplayer.cc/stream/bTN1OC8xMC8wZTUzZGMzYjg4NzFlY2Q4MjA3ZGY5ZGE4M2Y2ODNiNi83MjBwLzcyMHAubTN1OD9pZD0yNjk2NA==?s=1&id=26964&cache=1
-#EXTINF:-1 tvg-id="https://gofilmeshd.top/inicio" tvg-logo="https://image.tmdb.org/t/p/w227_and_h127_bestv2/vzYGUdGRm1bl7WoPmhZd8bSh6gN.jpg" group-title="SÉRIES", Round 6: 3° Temporada; Episódio 6 - Humanos
-https://watch.brplayer.cc/stream/bTN1OC8xMC81OGEzZGI1ODc5NmVlNGZiZTQyYjFiY2VhMWE4ODhmZi83MjBwLzcyMHAubTN1OD9pZD0yNjk2NQ==?s=1&id=26965&cache=1
+#EXTINF:-1 tvg-name="Round 6 (2021) S01E01" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXX1n04v6-en1hT4bbM8bcZoZkJbWSSbk6VOReRpFx1LcCn9-olyJGBNBc7oXBEhXg.jpg" group-title="SÉRIES",Round 6 (2021) S01E01
+http://cdnfive.top:80/series/170340849/398096733/11219615.mp4
+#EXTINF:-1 tvg-name="Round 6 (2021) S01E02" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVJkGYJvdkQKWLrFPeaDmcZCqZIBDUwfGcaUoQ47kWUYXQL58bhMfVJYKaITmTWboU.jpg" group-title="SÉRIES",Round 6 (2021) S01E02
+http://cdnfive.top:80/series/170340849/398096733/11219616.mp4
+#EXTINF:-1 tvg-name="Round 6 (2021) S01E03" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVnn8N9eC75KJ4TNgdNkcHWxPyqzS08i2oipK2383tbRB2g8aJNHkMyuQPbLS4mAF0.jpg" group-title="SÉRIES",Round 6 (2021) S01E03
+http://cdnfive.top:80/series/170340849/398096733/11219617.mp4
+#EXTINF:-1 tvg-name="Round 6 (2021) S01E04" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWM67qM2jiDjqmNrIr4iLxXixAsODbbqONJctuZe_mbRlI5ASOowrhO8R0a-6jIo3w.jpg" group-title="SÉRIES",Round 6 (2021) S01E04
+http://cdnfive.top:80/series/170340849/398096733/11219618.mp4
+#EXTINF:-1 tvg-name="Round 6 (2021) S01E05" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXpkZDjZT58ckROn097WqcxAuUlZSoiXjPwwfuHYUUhio1Q5MnVwZ6d3ng3wZyP25Y.jpg" group-title="SÉRIES",Round 6 (2021) S01E05
+http://cdnfive.top:80/series/170340849/398096733/11219619.mp4
+#EXTINF:-1 tvg-name="Round 6 (2021) S01E06" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUG-91PlONRjUiU-jLG_0LkjsWZUahNl1nuoCEHwCmcXB9HqHmx0ZGOQPBupucvUKk.jpg" group-title="SÉRIES",Round 6 (2021) S01E06
+http://cdnfive.top:80/series/170340849/398096733/11219620.mp4
+#EXTINF:-1 tvg-name="Round 6 (2021) S01E07" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWd1DBEivPrdCKQFT-R6G1bki23NFilvndCMuetzp8Bt5sronK5Ec1qAjJequuwiY0.jpg" group-title="SÉRIES",Round 6 (2021) S01E07
+http://cdnfive.top:80/series/170340849/398096733/11219621.mp4
+#EXTINF:-1 tvg-name="Round 6 (2021) S01E08" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWEWSZ5BbEe8c4bN1K5tDT6Zl8giKPxrGqm8qE5QgBSUS1c-39E1Lh3ORRuOtlXKFc.jpg" group-title="SÉRIES",Round 6 (2021) S01E08
+http://cdnfive.top:80/series/170340849/398096733/11219622.mp4
+#EXTINF:-1 tvg-name="Round 6 (2021) S01E09" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWaBAXgd_3PsljIlkiwxIJSl8D6iAsLsORs62KReGh8yWwvV0dFm2P2U3mxZt_w0II.jpg" group-title="SÉRIES",Round 6 (2021) S01E09
+http://cdnfive.top:80/series/170340849/398096733/11219623.mp4
+#EXTINF:-1 tvg-name="Round 6 (2021) S02E01" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWcIUZymzV0TpnuCSDpNq3Mu3PQcOOmKqOdcZrDG-0CQp4NqklkiTQ1247nk9x7gIs.jpg" group-title="SÉRIES",Round 6 (2021) S02E01
+http://cdnfive.top:80/series/170340849/398096733/11219624.mp4
+#EXTINF:-1 tvg-name="Round 6 (2021) S02E02" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW15XCxTk9SQVmSyGcH-XxY6ucuY6byPxHx_uxTyWIXAC3KDmiRYEDE7Fk1JaAK4M8.jpg" group-title="SÉRIES",Round 6 (2021) S02E02
+http://cdnfive.top:80/series/170340849/398096733/11219625.mp4
+#EXTINF:-1 tvg-name="Round 6 (2021) S02E03" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW6VXw-hR3cHcv33bw8AduZhr3Vcqt14RuTBEZGMWQavIGnXpR-UQ27kBhSXVEk2aQ.jpg" group-title="SÉRIES",Round 6 (2021) S02E03
+http://cdnfive.top:80/series/170340849/398096733/11219626.mp4
+#EXTINF:-1 tvg-name="Round 6 (2021) S02E04" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQV00uFsO9xm_suq1VrZAXbtsM-1pFopadEYcCDdCgWaplpuX0AzJWpxfBO3_0HOS6A.jpg" group-title="SÉRIES",Round 6 (2021) S02E04
+http://cdnfive.top:80/series/170340849/398096733/11219627.mp4
+#EXTINF:-1 tvg-name="Round 6 (2021) S02E05" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXRxH41sobS6_T0FfR25zgl9VNiKt0zZPsRgY_DoXpToRtflhOqcNWNFojLA56piOQ.jpg" group-title="SÉRIES",Round 6 (2021) S02E05
+http://cdnfive.top:80/series/170340849/398096733/11219628.mp4
+#EXTINF:-1 tvg-name="Round 6 (2021) S02E06" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVPU61zfA5c3SncBDnWilCvIpXStush5-YfPxkZyuMVHp3e0RP4QKNOcZ-MMh7SxjY.jpg" group-title="SÉRIES",Round 6 (2021) S02E06
+http://cdnfive.top:80/series/170340849/398096733/11219629.mp4
+#EXTINF:-1 tvg-name="Round 6 (2021) S02E07" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWKqbTVoxQvi8C9wnbG1Xnrdz3pbmDRS60K7HmFuEgX3WVCtiSxQh4zPX8oyw22OGU.jpg" group-title="SÉRIES",Round 6 (2021) S02E07
+http://cdnfive.top:80/series/170340849/398096733/11219630.mp4
+#EXTINF:-1 tvg-name="Round 6 (2021) S03E01" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQW0J1-5tXIRsTWUz4LalpBYawnx5Hf1r5RPMnVc1LdNaZ0A77f7X9A4YMru-16SeSM.jpg" group-title="SÉRIES",Round 6 (2021) S03E01
+http://cdnfive.top:80/series/170340849/398096733/11219631.mp4
+#EXTINF:-1 tvg-name="Round 6 (2021) S03E02" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUJHIbZLvS-7-svRmT9D6L9pp9J2zdRgWBDjbTYs1p5TnTk2JtqaKDvUU4ItBNlCz4.jpg" group-title="SÉRIES",Round 6 (2021) S03E02
+http://cdnfive.top:80/series/170340849/398096733/11219632.mp4
+#EXTINF:-1 tvg-name="Round 6 (2021) S03E03" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUJXThOUpUddqC5eCEePVf-_q1n5j0jclVpCsxploglEBaMt0ORsxmKshDNbyL36jo.jpg" group-title="SÉRIES",Round 6 (2021) S03E03
+http://cdnfive.top:80/series/170340849/398096733/11219633.mp4
+#EXTINF:-1 tvg-name="Round 6 (2021) S03E04" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWhW1vZBH0Qrds7V4xE-HJmbrZpFmHGgtbY1hnrsS-NyrKkQqMTRsGukckubhJ6XpA.jpg" group-title="SÉRIES",Round 6 (2021) S03E04
+http://cdnfive.top:80/series/170340849/398096733/11219634.mp4
+#EXTINF:-1 tvg-name="Round 6 (2021) S03E05" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXkxPRmPOmTQ94DVZ2o0MBLbb6UkgPl_czl3voRa5rtiHWaof0WI68iT6UMCBTdfao.jpg" group-title="SÉRIES",Round 6 (2021) S03E05
+http://cdnfive.top:80/series/170340849/398096733/11219635.mp4
+#EXTINF:-1 tvg-name="Round 6 (2021) S03E06" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQXE2opekv2ThqULwfrj1gdbm1_L9Et-Hm1zpSWO3QO1qTt74RE8WmbxT378aYoXgxw.jpg" group-title="SÉRIES",Round 6 (2021) S03E06
+http://cdnfive.top:80/series/170340849/398096733/11219636.mp4
 
-#EXTINF:-1 tvg-id="https://noveflix.vip/" tvg-logo="https://noveflix.vip/wp-content/uploads/2025/06/4oDFJSrlvhO09ggCLKbf1zOXBX2-210x300.jpg" group-title="SÉRIES", SOBREVIVENTES: 1° Temporada; Episódio 1
-https://cdn-novflix.com/storagePSN/SERIES/SOBREVIVENTES/SOBREVIVENTES1x01.mp4
-#EXTINF:-1 tvg-id="https://noveflix.vip/" tvg-logo="https://noveflix.vip/wp-content/uploads/2025/06/4oDFJSrlvhO09ggCLKbf1zOXBX2-210x300.jpg" group-title="SÉRIES", SOBREVIVENTES: 1° Temporada; Episódio 2
-https://cdn-novflix.com/storagePSN/SERIES/SOBREVIVENTES/SOBREVIVENTES1x02.mp4
-#EXTINF:-1 tvg-id="https://noveflix.vip/" tvg-logo="https://noveflix.vip/wp-content/uploads/2025/06/4oDFJSrlvhO09ggCLKbf1zOXBX2-210x300.jpg" group-title="SÉRIES", SOBREVIVENTES: 1° Temporada; Episódio 3
-https://cdn-novflix.com/storagePSN/SERIES/SOBREVIVENTES/SOBREVIVENTES1x03.mp4
-#EXTINF:-1 tvg-id="https://noveflix.vip/" tvg-logo="https://noveflix.vip/wp-content/uploads/2025/06/4oDFJSrlvhO09ggCLKbf1zOXBX2-210x300.jpg" group-title="SÉRIES", SOBREVIVENTES: 1° Temporada; Episódio 4
-https://cdn-novflix.com/storagePSN/SERIES/SOBREVIVENTES/SOBREVIVENTES1x04.mp4
-#EXTINF:-1 tvg-id="https://noveflix.vip/" tvg-logo="https://noveflix.vip/wp-content/uploads/2025/06/4oDFJSrlvhO09ggCLKbf1zOXBX2-210x300.jpg" group-title="SÉRIES", SOBREVIVENTES: 1° Temporada; Episódio 5
-https://cdn-novflix.com/storagePSN/SERIES/SOBREVIVENTES/SOBREVIVENTES1x05.mp4
-#EXTINF:-1 tvg-id="https://noveflix.vip/" tvg-logo="https://noveflix.vip/wp-content/uploads/2025/06/4oDFJSrlvhO09ggCLKbf1zOXBX2-210x300.jpg" group-title="SÉRIES", SOBREVIVENTES: 1° Temporada; Episódio 6
-https://cdn-novflix.com/storagePSN/SERIES/SOBREVIVENTES/SOBREVIVENTES1x06.mp4
+#EXTINF:-1 tvg-name="Sobreviventes (2025) S01E01" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQURXGvJzcVMulowBsysn27T-ahv0amGSTr45GXNsm49ovd5p3_jCHFu93CZEvGMTzw.jpg" group-title="SÉRIES",SOBREVIVENTES (2025) S01E01
+http://cdnfive.top:80/series/170340849/398096733/11221138.mp4
+#EXTINF:-1 tvg-name="Sobreviventes (2025) S01E02" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVF82m7WoEA3_CWJNpc3qHUv-VSFiqFvdsnRBPiugF7rUINjZZ-z52M5XBiCY6NIEk.jpg" group-title="SÉRIES",SOBREVIVENTES (2025) S01E02
+http://cdnfive.top:80/series/170340849/398096733/11221139.mp4
+#EXTINF:-1 tvg-name="Sobreviventes (2025) S01E03" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQWAjLBaOzYGcqcC4u5H-nPazKh50GDVCSkMtIKdRKpPxVPBwhmhhGixxdsb3KtKNok.jpg" group-title="SÉRIES",SOBREVIVENTES (2025) S01E03
+http://cdnfive.top:80/series/170340849/398096733/11221140.mp4
+#EXTINF:-1 tvg-name="Sobreviventes (2025) S01E04" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQULNAGVHHFylHbhqQXQDBZOxZVqP3xzIqgQSAPTIVGvjeXhmGQMIZ2WTvwI5WXrbVQ.jpg" group-title="SÉRIES",SOBREVIVENTES (2025) S01E04
+http://cdnfive.top:80/series/170340849/398096733/11221141.mp4
+#EXTINF:-1 tvg-name="Sobreviventes (2025) S01E05" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQV4SM0i4svMVxi1sz6e8zwfsXmurV_b8sev7cWTPD6JocuTwETSVP_JzlFKFbt3vqw.jpg" group-title="SÉRIES",SOBREVIVENTES (2025) S01E05
+http://cdnfive.top:80/series/170340849/398096733/11221142.mp4
+#EXTINF:-1 tvg-name="Sobreviventes (2025) S01E06" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUMje0TUDmuSDFb-YI1VzQlAeuPs4NnZcoWYQYqZpkVr6o6vRIQjfx8fx3KLTuaJR4.jpg" group-title="SÉRIES",SOBREVIVENTES (2025) S01E06
+http://cdnfive.top:80/series/170340849/398096733/11221143.mp4
+#EXTINF:-1 tvg-name="Sobreviventes (2025) S01E07" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLDGGwBCFlXn3yI_MOdEjE7-zhyIpDc3KEtO7uCnAFYUI.jpg" group-title="SÉRIES",SOBREVIVENTES (2025) S01E07
+http://cdnfive.top:80/series/170340849/398096733/11221144.mp4
+#EXTINF:-1 tvg-name="Sobreviventes (2025) S01E08" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLDGGwBCFlXn3yI_MOdEjE7-zhyIpDc3KEtO7uCnAFYUI.jpg" group-title="SÉRIES",SOBREVIVENTES (2025) S01E08
+http://cdnfive.top:80/series/170340849/398096733/11221145.mp4
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx http://vouver.me/index.php?page=homepage xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
@@ -825,6 +706,67 @@ http://130.250.189.81/vauth/361177.mp4?token=ZKDPp1Gwo18ASkjiaSfj_bX8oGVXDMJqdUl
 http://130.250.189.81/vauth/361178.mp4?token=ZKDPp1Gwo18ASkjiaSfj_YMDYJO2fzLNqVe65Sl0ZLxyptjrA01l3srwo4m1eR4mNqzjmZT6mxNGa5xnPYsu0bkdN8ejQo1ctlL9Bjd0BPPDkftxdinD3kJngyxCqGOW3W96-XNvj5GJcB3wT8HGV6VZP0MX25z1_6xkDVAQ-e6AXiuGTX13bItfr_FVrKY88Ft3kTonDq34P4KC41R3m8gG0E7JABZvftkXjWTFRk_m14mbTf-2zDEJk0urCl-eWSSUs_EuSG7B9LwufvK40l57PBtHUfrNwkIQuJ92CBEmfx-EaeXLoRNq858mtsFssZ0-uWFHUJuznOXgXDEBnzyl9h2PovyDnWN9oTJFwC-cVhXDRhR5UPAB4YAC0GEH9fBE_KVq7sEIEKQqBA3Gr-vYA1hofGV18HshdRvqIlIMkEMRHDmUSUW3oSEWfvCz_HPhhAGWGpna9choEQE_ynrKATSqtbjtDvciy0-qhcbEMhe__-znzfu-JIZE0azySOC4rqCH_uyMJXAhbcz-QH3Ws1XWrCbX3VO3xfiv8AWqLB4mrzMFhafbRpV09ryNHaLqE9enFaxAMvxMY-7GSL7AKd1d1dICjlZMHLPHfMQ
 
 xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx
+
+#EXTINF:-1 tvg-name="Apresuntado (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yed44wIEtmC52iwbKpLGM4uXkUv.jpg" group-title="DRAMA",Apresuntado (2023)
+http://cdnfive.top:80/movie/170340849/398096733/11225126.mp4
+#EXTINF:-1 tvg-name="Cáustico (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/93GPoFaEbb0MaF8i7Qp05ykr5eK.jpg" group-title="TERROR",Cáustico (2023)
+http://cdnfive.top:80/movie/170340849/398096733/11225125.mp4
+#EXTINF:-1 tvg-name="Operação Arriscada (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoXAo6GyRo31pNjFhPTcAnAcZIw.jpg" group-title="LANÇAMENTOS",Operação Arriscada (2025)
+http://cdnfive.top:80/movie/170340849/398096733/11225124.mp4
+#EXTINF:-1 tvg-name="Fitas Proibidas - Antologia do Terror (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGKGKTOAvo5bLBcdyqY0gBkF0Bh.jpg" group-title="LANÇAMENTOS",Fitas Proibidas - Antologia do Terror (2024)
+http://cdnfive.top:80/movie/170340849/398096733/11225123.mp4
+#EXTINF:-1 tvg-name="Barra Nova (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfgTDPefWBcuNlZBUg5G5tFh7Tl.jpg" group-title="ANIMAÇÃO",Barra Nova (2023)
+http://cdnfive.top:80/movie/170340849/398096733/11225122.mp4
+#EXTINF:-1 tvg-name="A Colega Perfeita (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36zoDJG52EkHnMm60M9BdLw8Siv.jpg" group-title="LANÇAMENTOS",A Colega Perfeita (2026)
+http://cdnfive.top:80/movie/170340849/398096733/11225120.mp4
+#EXTINF:-1 tvg-name="Anti Amor (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20DnunWDP9o2A3rRCJC1QgIu9ee.jpg" group-title="LANÇAMENTOS",Anti Amor (2025)
+http://cdnfive.top:80/movie/170340849/398096733/11225119.mp4
+#EXTINF:-1 tvg-name="O Último Conquistador (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kxZC9T2i0bDkPoXGK00C2A4Z5l.jpg" group-title="LANÇAMENTOS",O Último Conquistador (2026)
+http://cdnfive.top:80/movie/170340849/398096733/11225118.mp4
+#EXTINF:-1 tvg-name="Sangria (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ODjm07xjsB1ZzUc5FSqfDwovdd.jpg" group-title="LANÇAMENTOS",Sangria (2024)
+http://cdnfive.top:80/movie/170340849/398096733/11225117.mp4
+#EXTINF:-1 tvg-name="Vingança Brutal (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIjRieKxDXaifeFc4RJ4h8Pr6cn.jpg" group-title="LANÇAMENTOS",Vingança Brutal (2026)
+http://cdnfive.top:80/movie/170340849/398096733/11225116.mp4
+#EXTINF:-1 tvg-name="Rede Tóxica (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwMo9OOl4mMSaaRFoe0qWf8evLX.jpg" group-title="LANÇAMENTOS",Rede Tóxica (2025)
+http://cdnfive.top:80/movie/170340849/398096733/11202652.mp4
+#EXTINF:-1 tvg-name="Vidas à Deriva (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/syaPABbzGcAV7O3IzsiUCJC9JND.jpg" group-title="DRAMA",Vidas à Deriva (2023)
+http://cdnfive.top:80/movie/170340849/398096733/11202651.mp4
+#EXTINF:-1 tvg-name="Nuremberg (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/saPapyxafNZxIPqYa2xm4QkaxpE.jpg" group-title="LANÇAMENTOS",Nuremberg (2025)
+http://cdnfive.top:80/movie/170340849/398096733/11202650.mp4
+#EXTINF:-1 tvg-name="Vingança Brutal (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIjRieKxDXaifeFc4RJ4h8Pr6cn.jpg" group-title="LANÇAMENTOS",Vingança Brutal (2026)
+http://cdnfive.top:80/movie/170340849/398096733/11202649.mp4
+#EXTINF:-1 tvg-name="Pesadelo na Montanha (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOGiPPqIiQKpfqOgLCWA1xUqTqi.jpg" group-title="TERROR",Pesadelo na Montanha (2023)
+http://cdnfive.top:80/movie/170340849/398096733/11202648.mp4
+#EXTINF:-1 tvg-name="A História de Um Gorila com David Attenborough (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdbhjmDymtYdcYfzsmBlQEsOExV.jpg" group-title="LANÇAMENTOS",A História de Um Gorila com David Attenborough (2026)
+http://cdnfive.top:80/movie/170340849/398096733/11202645.mp4
+#EXTINF:-1 tvg-name="Manual Prático da Vingança Lucrativa (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyYbgERxVuWBhCeZZLNFlZVWLz2.jpg" group-title="LANÇAMENTOS",Manual Prático da Vingança Lucrativa (2026)
+http://cdnfive.top:80/movie/170340849/398096733/11202505.mp4
+#EXTINF:-1 tvg-name="O Caso dos Estrangeiros (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/weTyThAvs2JZJ3AZefA53d7vyfy.jpg" group-title="LANÇAMENTOS",O Caso dos Estrangeiros (2025)
+http://cdnfive.top:80/movie/170340849/398096733/11202504.mp4
+#EXTINF:-1 tvg-name="Charlie: O Super Cão (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvXHs10CYWRyerGSX2WuN2dzxse.jpg" group-title="LANÇAMENTOS",Charlie: O Super Cão (2025)
+http://cdnfive.top:80/movie/170340849/398096733/11202503.mp4
+#EXTINF:-1 tvg-name="Além da Força, Além da Fé (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDAws6LhkKmIjoRGsxzo6RgBgNT.jpg" group-title="LANÇAMENTOS",Além da Força, Além da Fé (2024)
+http://cdnfive.top:80/movie/170340849/398096733/11202502.mp4
+#EXTINF:-1 tvg-name="Terror em Silent Hill: Regresso Para o Inferno (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZDqTM0ZP3ypmFivTeAnHslV6mY.jpg" group-title="LANÇAMENTOS",Terror em Silent Hill: Regresso Para o Inferno (2026)
+http://cdnfive.top:80/movie/170340849/398096733/11202501.mp4
+#EXTINF:-1 tvg-name="Alerta Apocalipse (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ap6J9pYqgrxQaYWYdX2fyBYBWF.jpg" group-title="LANÇAMENTOS",Alerta Apocalipse (2026)
+http://cdnfive.top:80/movie/170340849/398096733/11202500.mp4
+#EXTINF:-1 tvg-name="A Torradeira (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbYyWHc1dL1bfwEJbaMYDYKgWG2.jpg" group-title="LANÇAMENTOS",A Torradeira (2026)
+http://cdnfive.top:80/movie/170340849/398096733/11202017.mp4
+#EXTINF:-1 tvg-name="Untold: Jail Blazers (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmp45llJTRr6JLaIamt3RlfxgTH.jpg" group-title="LANÇAMENTOS",Untold: Jail Blazers (2026)
+http://cdnfive.top:80/movie/170340849/398096733/11202016.mp4
+#EXTINF:-1 tvg-name="Bola pra Cima (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uMTLWiDPFWYxEwP11G9Sp9cVAk.jpg" group-title="LANÇAMENTOS",Bola pra Cima (2026)
+http://cdnfive.top:80/movie/170340849/398096733/11202015.mp4
+#EXTINF:-1 tvg-name="Teste para Cardíaco (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0zoFAa88CNIHWYoDPFsISCuM3z.jpg" group-title="LANÇAMENTOS",Teste para Cardíaco (2026)
+http://cdnfive.top:80/movie/170340849/398096733/11202014.mp4
+#EXTINF:-1 tvg-name="Dois Nilos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLufrbc31bVPe2iDb1L92aWAFGM.jpg" group-title="LANÇAMENTOS",Dois Nilos (2024)
+http://cdnfive.top:80/movie/170340849/398096733/11202013.mp4
+#EXTINF:-1 tvg-name="A Cidade dos Sonhos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dp0jlDZv6z3nY23kbmasgNLFZyd.jpg" group-title="LANÇAMENTOS",A Cidade dos Sonhos (2024)
+http://cdnfive.top:80/movie/170340849/398096733/11202012.mp4
+#EXTINF:-1 tvg-name="Noah Kahan: Out of Body (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VtZAonOgK8hae7FwOZCSg7XmCu.jpg" group-title="LANÇAMENTOS",Noah Kahan: Out of Body (2026)
+http://cdnfive.top:80/movie/170340849/398096733/11202011.mp4
+#EXTINF:-1 tvg-name="They/Them: O Acampamento (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6QwqjxAu4ly5PB4IHVFJ5CHPbS.jpg" group-title="TERROR",They/Them: O Acampamento (2022)
+http://cdnfive.top:80/movie/170340849/398096733/11199433.mp4
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/08/27/19/55/1504668.jpg" group-title="TERROR", APARTAMENTO 212: A INFESTAÇÃO
 https://lh3.googleusercontent.com/YsVPOiy90bbordh4Jp6A1z41EikrRqD-ehJ_DHXE0KbZmz_vWEtJvpWAI0UNa3dwHex81MiD3nXm8fAry9ssKQNlXEtMaT8hgyoiYzWnluj2V91yXEo5mbv4c8c2jhnOY-2Fw6Ccvss=m22
