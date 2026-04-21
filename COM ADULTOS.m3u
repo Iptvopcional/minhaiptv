@@ -149,8 +149,24 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8?hls_ctx=68q
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/42174cd70ddce777c49b24aea7730341.png" group-title="TV AO VIVO", EVANGELHO VERMELHO
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="https://globoplay.globo.com/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="TV AO VIVO", GLOBO INTERTV
-https://live-01.edge-forte-caw-rj.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1mb3J0ZS1jYXctcmoudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzY2MTc3MTA1LCJpYXQiOjE3NjYxNTU1MDUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiOGFmZjg5Y2UtOGQ0YS00OTBmLWE3Y2UtZjVhYzZmNjFhZDczIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1jYWIvcGxheWxpc3QubTN1OCJ9.YWvP2JIaa8r3Vety9jK1uH_IBZEtizVFKYS5hiIFm1WRTRaEWn-GJwm0mDChMrHGxURO1gl0e4758_NB9BopFqovLbNo6kXvGUic8jYM8tQaA45ebIHqR-qnIN2SOkTDVYAPSjea97sF02D3jdhu7fOhHkVkkI88Fm2HnWj2R2NrhrbS08DcCc5a9cH14qHCNdTte_NZ9WEzwRowFglD0u8UEQBYVSb-vnZmpriWZ53sR9iDvZOYwzGqhUs6C3LKvZmvbutIfZL9SGNX5A6bHXbu3Ou00uPe4jtRbjRUccfUfd2suv303gbKiJYdME1OhVjNzf4aN6tYQtx1kQiCzw/live/f(i=2)/globo-cab/globo-cab-audio_1=96000-video=952960.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BA SANTA CRUZ FHD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="GLOBO",GLOBO BA SANTA CRUZ FHD
+http://cdnfive.top:80/170340849/398096733/8105494.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BA SANTA CRUZ HD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="GLOBO",GLOBO BA SANTA CRUZ HD
+http://cdnfive.top:80/170340849/398096733/8105495.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BA SANTA CRUZ SD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="GLOBO",GLOBO BA SANTA CRUZ SD
+http://cdnfive.top:80/170340849/398096733/8105496.ts
+#EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="GLOBO TV BAHIA FHD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="GLOBO",GLOBO TV BAHIA FHD
+http://cdnfive.top:80/170340849/398096733/8100781.ts
+#EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="GLOBO TV BAHIA HD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="GLOBO",GLOBO TV BAHIA HD
+http://cdnfive.top:80/170340849/398096733/8100782.ts
+#EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="GLOBO TV BAHIA FHD¹" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="GLOBO",GLOBO TV BAHIA FHD¹
+http://cdnfive.top:80/170340849/398096733/8655551.ts
+#EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="GLOBO TV BAHIA HD¹" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="GLOBO",GLOBO TV BAHIA HD¹
+http://cdnfive.top:80/170340849/398096733/8655550.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA JUAZEIRO" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="GLOBO",GLOBO BAHIA JUAZEIRO
+http://cdnfive.top:80/170340849/398096733/8105497.ts
+#EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="GLOBO TV BAHIA SD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="GLOBO",GLOBO TV BAHIA SD
+http://cdnfive.top:80/170340849/398096733/8100783.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Jovem_Pan_News_logo.png" group-title="TV AO VIVO", JOVEM PAN NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
