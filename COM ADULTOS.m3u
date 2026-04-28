@@ -1,23 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="5 - FILMES" tvg-logo="http://cdnsuper.top:80/images/a5428e910696a1b81e40c889e706f96b.png" group-title="➡️ CENTRAL DO CLIENTE",5 - FILMES
-http://cdnfive.top:80/170340849/398096733/3673080.ts
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="6 - SERIES" tvg-logo="http://cdnsuper.top:80/images/a5428e910696a1b81e40c889e706f96b.png" group-title="➡️ CENTRAL DO CLIENTE",6 - SERIES
-http://cdnfive.top:80/170340849/398096733/3673081.ts
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="https://i.postimg.cc/QxGSDVTX/ANIMALPLANET.png" group-title="➡️ TV AO VIVO",Animal Planet HD
 http://cdnfive.top:80/170340849/398096733/6681868.ts
 #EXTINF:-1 tvg-id="a&e.br" tvg-name="Comedy Central HD" tvg-logo="https://i.postimg.cc/cCJmhMvd/COMEDYCENTRAL.png" group-title="➡️ TV AO VIVO",Comedy Central HD
 http://cdnfive.top:80/170340849/398096733/6682238.ts
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RJ Inter TV Alto Litoral HD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="➡️ TV AO VIVO",GLOBO RJ INTER TV ALTO LITORAL HD
-http://cdnfive.top:80/170340849/398096733/8100916.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ Capital HD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="➡️ TV AO VIVO",GLOBO RJ CAPITAL HD
-http://cdnfive.top:80/170340849/398096733/8100880.ts
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RJ Inter TV Serra Mar HD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="➡️ TV AO VIVO",GLOBO RJ INTER TV SERRA MAR HD
+http://cdnfive.top:80/170340849/398096733/8100919.ts
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO BA SANTA CRUZ HD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="➡️ TV AO VIVO",GLOBO BA SANTA CRUZ HD
 http://cdnfive.top:80/170340849/398096733/8105495.ts
 #EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="GLOBO TV BAHIA HD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="➡️ TV AO VIVO",GLOBO TV BAHIA HD
 http://cdnfive.top:80/170340849/398096733/8100782.ts
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA JUAZEIRO" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="➡️ TV AO VIVO",GLOBO BAHIA JUAZEIRO
 http://cdnfive.top:80/170340849/398096733/8105497.ts
-#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD" tvg-logo="https://i.postimg.cc/3rBJzMwF/VIVA.png" group-title="➡️ TV AO VIVO",Viva HD
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD" tvg-logo="https://i.postimg.cc/3rBJzMwF/VIVA.png" group-title="➡️ TV AO VIVO",VIVA HD
 http://cdnfive.top:80/170340849/398096733/6682281.ts
 #EXTINF:-1 tvg-id="recordtvrio.br" tvg-name="RECORD RIO HD" tvg-logo="http://cdnsuper.top:80/images/051431420d666cae51bf0deac2fd5184.png" group-title="➡️ TV AO VIVO",RECORD RIO HD
 http://cdnfive.top:80/170340849/398096733/6681776.ts
@@ -1450,6 +1444,20 @@ http://130.250.189.81/vauth/361178.mp4?token=ZKDPp1Gwo18ASkjiaSfj_YMDYJO2fzLNqVe
 
 xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx
 
+#EXTINF:-1 tvg-name="Últimos Sobreviventes" tvg-logo="https://image.tmdb.org/t/p/w500/4mvLLbKtK9P9TsifPLtdXhqnLMK.jpg" group-title="SUSPENSE",ÚLTIMOS SOBREVIVENTES
+http://cdnfive.top:80/movie/170340849/398096733/8664608.mp4
+#EXTINF:-1 tvg-name="O Rio do Terror" tvg-logo="https://image.tmdb.org/t/p/w500/AaXAYapF1bmSMekElaCuj1P1Xon.jpg" group-title="TERROR",O RIO DO TERROR
+http://cdnfive.top:80/movie/170340849/398096733/8664603.mp4
+#EXTINF:-1 tvg-name="Escalada Mortal" tvg-logo="https://image.tmdb.org/t/p/w500/hny3RULLX6Vs8vZfGFSyypql1jC.jpg" group-title="SUSPENSE",ESCALADA MORTAL
+http://cdnfive.top:80/movie/170340849/398096733/8664612.mp4
+#EXTINF:-1 tvg-name="Tráfico de Orgãos" tvg-logo="https://image.tmdb.org/t/p/w500/iVL8wMNG9EVo5otizVvKCZqniWP.jpg" group-title="POLICIAL",TRÁFICO DE ORGÃOS
+http://cdnfive.top:80/movie/170340849/398096733/8664609.mp4
+#EXTINF:-1 tvg-name="Sobreviva a Noite" tvg-logo="https://image.tmdb.org/t/p/w500/4gm5L27IrhUNcObLMnnVZHlHmqX.jpg" group-title="SUSPENSE",SOBREVIVA A NOITE
+http://cdnfive.top:80/movie/170340849/398096733/8663748.mp4
+#EXTINF:-1 tvg-name="Morto Não Fala" tvg-logo="https://image.tmdb.org/t/p/w500/wGkro5BxdWDe14NeaJe3iH74joV.jpg" group-title="TERROR",MORTO NÃO FALA
+http://cdnfive.top:80/movie/170340849/398096733/8661171.mp4
+#EXTINF:-1 tvg-name="Trabalhar Cansa" tvg-logo="https://image.tmdb.org/t/p/w500/2qRBohwJok395E6xr7L6VhMEhq.jpg" group-title="TERROR",TRABALHAR CANSA
+http://cdnfive.top:80/movie/170340849/398096733/8661173.mp4
 #EXTINF:-1 tvg-name="Apresuntado (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yed44wIEtmC52iwbKpLGM4uXkUv.jpg" group-title="DRAMA",APRESUNTADO (2023)
 http://cdnfive.top:80/movie/170340849/398096733/11225126.mp4
 #EXTINF:-1 tvg-name="Cáustico (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/93GPoFaEbb0MaF8i7Qp05ykr5eK.jpg" group-title="TERROR",CÁUSTICO (2023)
