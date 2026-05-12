@@ -1,26 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="https://i.postimg.cc/QxGSDVTX/ANIMALPLANET.png" group-title="➡️ TV AO VIVO",Animal Planet HD
-http://cdnfive.top:80/170340849/398096733/6681868.ts
-#EXTINF:-1 tvg-id="a&e.br" tvg-name="Comedy Central HD" tvg-logo="https://i.postimg.cc/cCJmhMvd/COMEDYCENTRAL.png" group-title="➡️ TV AO VIVO",Comedy Central HD
-http://cdnfive.top:80/170340849/398096733/6682238.ts
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="https://i.postimg.cc/QxGSDVTX/ANIMALPLANET.png" group-title="➡️ TV AO VIVO",ANIMAL PLANET HD
+http://cdnplay.sbs:80//live/948113782/557343934/6681868.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="Comedy Central HD" tvg-logo="https://i.postimg.cc/cCJmhMvd/COMEDYCENTRAL.png" group-title="➡️ TV AO VIVO",COMEDY CENTRAL HD
+http://cdnplay.sbs:80//live/948113782/557343934/6682238.ts
 #EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RJ Inter TV Serra Mar HD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="➡️ TV AO VIVO",GLOBO RJ INTER TV SERRA MAR HD
-http://cdnfive.top:80/170340849/398096733/8100919.ts
+http://cdnplay.sbs:80//live/948113782/557343934/8100919.ts
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO BA SANTA CRUZ HD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="➡️ TV AO VIVO",GLOBO BA SANTA CRUZ HD
 http://cdnfive.top:80/170340849/398096733/8105495.ts
 #EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="GLOBO TV BAHIA HD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="➡️ TV AO VIVO",GLOBO TV BAHIA HD
-http://cdnfive.top:80/170340849/398096733/8100782.ts
+http://cdnplay.sbs:80//live/948113782/557343934/8100782.ts
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA JUAZEIRO" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="➡️ TV AO VIVO",GLOBO BAHIA JUAZEIRO
-http://cdnfive.top:80/170340849/398096733/8105497.ts
+http://cdnplay.sbs:80//live/948113782/557343934/8105497.ts
 #EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD" tvg-logo="https://i.postimg.cc/3rBJzMwF/VIVA.png" group-title="➡️ TV AO VIVO",VIVA HD
-http://cdnfive.top:80/170340849/398096733/6682281.ts
+http://cdnplay.sbs:80//live/948113782/557343934/6682281.ts
 #EXTINF:-1 tvg-id="recordtvrio.br" tvg-name="RECORD RIO HD" tvg-logo="http://cdnsuper.top:80/images/051431420d666cae51bf0deac2fd5184.png" group-title="➡️ TV AO VIVO",RECORD RIO HD
-http://cdnfive.top:80/170340849/398096733/6681776.ts
+http://cdnplay.sbs:80//live/948113782/557343934/6681776.ts
 #EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="http://cdnsuper.top:80/images/10507ffb5b69aca4d9102e91793059b2.png" group-title="➡️ TV AO VIVO",SBT RJ HD
-http://cdnfive.top:80/170340849/398096733/8102163.ts
-#EXTINF:-1 tvg-id="bandrj.br" tvg-name="Band RJ HD" tvg-logo="http://cdnsuper.top:80/images/0f6aeb599ce04499472d633b339bcd01.png" group-title="➡️ TV AO VIVO",Band RJ HD
-http://cdnfive.top:80/170340849/398096733/6681796.ts
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="http://futbanner.xyz/ICONES/SPORTV.png" group-title="➡️ TV AO VIVO",SporTV HD
-http://cdnfive.top:80/170340849/398096733/6681669.ts
+http://cdnplay.sbs:80//live/948113782/557343934/6681814.ts
+#EXTINF:-1 tvg-id="bandrj.br" tvg-name="Band RJ HD" tvg-logo="http://cdnsuper.top:80/images/0f6aeb599ce04499472d633b339bcd01.png" group-title="➡️ TV AO VIVO",BAND RJ HD
+http://cdnplay.sbs:80//live/948113782/557343934/6681796.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="http://futbanner.xyz/ICONES/SPORTV.png" group-title="➡️ TV AO VIVO",SPORTV HD
+http://cdnplay.sbs:80//live/948113782/557343934/6681669.ts
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
@@ -1444,80 +1444,16 @@ http://130.250.189.81/vauth/361178.mp4?token=ZKDPp1Gwo18ASkjiaSfj_YMDYJO2fzLNqVe
 
 xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx FILMES xxxxxxxxxxxxxxxxxx
 
-#EXTINF:-1 tvg-name="Últimos Sobreviventes" tvg-logo="https://image.tmdb.org/t/p/w500/4mvLLbKtK9P9TsifPLtdXhqnLMK.jpg" group-title="SUSPENSE",ÚLTIMOS SOBREVIVENTES
-http://cdnfive.top:80/movie/170340849/398096733/8664608.mp4
-#EXTINF:-1 tvg-name="O Rio do Terror" tvg-logo="https://image.tmdb.org/t/p/w500/AaXAYapF1bmSMekElaCuj1P1Xon.jpg" group-title="TERROR",O RIO DO TERROR
-http://cdnfive.top:80/movie/170340849/398096733/8664603.mp4
-#EXTINF:-1 tvg-name="Escalada Mortal" tvg-logo="https://image.tmdb.org/t/p/w500/hny3RULLX6Vs8vZfGFSyypql1jC.jpg" group-title="SUSPENSE",ESCALADA MORTAL
-http://cdnfive.top:80/movie/170340849/398096733/8664612.mp4
-#EXTINF:-1 tvg-name="Tráfico de Orgãos" tvg-logo="https://image.tmdb.org/t/p/w500/iVL8wMNG9EVo5otizVvKCZqniWP.jpg" group-title="POLICIAL",TRÁFICO DE ORGÃOS
-http://cdnfive.top:80/movie/170340849/398096733/8664609.mp4
-#EXTINF:-1 tvg-name="Sobreviva a Noite" tvg-logo="https://image.tmdb.org/t/p/w500/4gm5L27IrhUNcObLMnnVZHlHmqX.jpg" group-title="SUSPENSE",SOBREVIVA A NOITE
-http://cdnfive.top:80/movie/170340849/398096733/8663748.mp4
-#EXTINF:-1 tvg-name="Morto Não Fala" tvg-logo="https://image.tmdb.org/t/p/w500/wGkro5BxdWDe14NeaJe3iH74joV.jpg" group-title="TERROR",MORTO NÃO FALA
-http://cdnfive.top:80/movie/170340849/398096733/8661171.mp4
-#EXTINF:-1 tvg-name="Trabalhar Cansa" tvg-logo="https://image.tmdb.org/t/p/w500/2qRBohwJok395E6xr7L6VhMEhq.jpg" group-title="TERROR",TRABALHAR CANSA
-http://cdnfive.top:80/movie/170340849/398096733/8661173.mp4
-#EXTINF:-1 tvg-name="Apresuntado (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yed44wIEtmC52iwbKpLGM4uXkUv.jpg" group-title="DRAMA",APRESUNTADO (2023)
-http://cdnfive.top:80/movie/170340849/398096733/11225126.mp4
-#EXTINF:-1 tvg-name="Cáustico (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/93GPoFaEbb0MaF8i7Qp05ykr5eK.jpg" group-title="TERROR",CÁUSTICO (2023)
-http://cdnfive.top:80/movie/170340849/398096733/11225125.mp4
-#EXTINF:-1 tvg-name="Operação Arriscada (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoXAo6GyRo31pNjFhPTcAnAcZIw.jpg" group-title="AÇÃO | COMÉDIA",OPERAÇÃO ARRISCADA (2025)
-http://cdnfive.top:80/movie/170340849/398096733/11225124.mp4
-#EXTINF:-1 tvg-name="Fitas Proibidas - Antologia do Terror (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGKGKTOAvo5bLBcdyqY0gBkF0Bh.jpg" group-title="TERROR",FITAS PROIBIDAS - ANTOLOGIA DO TERROR (2024)
-http://cdnfive.top:80/movie/170340849/398096733/11225123.mp4
-#EXTINF:-1 tvg-name="Barra Nova (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfgTDPefWBcuNlZBUg5G5tFh7Tl.jpg" group-title="ANIMAÇÃO",BARRA NOVA (2023)
-http://cdnfive.top:80/movie/170340849/398096733/11225122.mp4
-#EXTINF:-1 tvg-name="A Colega Perfeita (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36zoDJG52EkHnMm60M9BdLw8Siv.jpg" group-title="COMÉDIA",A COLEGA PERFEITA (2026)
-http://cdnfive.top:80/movie/170340849/398096733/11225120.mp4
-#EXTINF:-1 tvg-name="Anti Amor (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20DnunWDP9o2A3rRCJC1QgIu9ee.jpg" group-title="COMÉDIA | ROMANCE",ANTI AMOR (2025)
-http://cdnfive.top:80/movie/170340849/398096733/11225119.mp4
-#EXTINF:-1 tvg-name="O Último Conquistador (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kxZC9T2i0bDkPoXGK00C2A4Z5l.jpg" group-title="AÇÃO | AVENTURA | GUERRA | HISTÓRIA",O ÚLTIMO CONQUISTADOR (2026)
-http://cdnfive.top:80/movie/170340849/398096733/11225118.mp4
-#EXTINF:-1 tvg-name="Sangria (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ODjm07xjsB1ZzUc5FSqfDwovdd.jpg" group-title="MISTÉRIO | ROMANCE",SANGRIA (2024)
-http://cdnfive.top:80/movie/170340849/398096733/11225117.mp4
-#EXTINF:-1 tvg-name="Rede Tóxica (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwMo9OOl4mMSaaRFoe0qWf8evLX.jpg" group-title="MISTÉRIO | SUSPENSE",REDE TÓXICA (2025)
-http://cdnfive.top:80/movie/170340849/398096733/11202652.mp4
-#EXTINF:-1 tvg-name="Vidas à Deriva (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/syaPABbzGcAV7O3IzsiUCJC9JND.jpg" group-title="DRAMA",VIDAS À DERIVA (2023)
-http://cdnfive.top:80/movie/170340849/398096733/11202651.mp4
-#EXTINF:-1 tvg-name="Nuremberg (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/saPapyxafNZxIPqYa2xm4QkaxpE.jpg" group-title="DOCUMENTÁRIO",NUREMBERG (2025)
-http://cdnfive.top:80/movie/170340849/398096733/11202650.mp4
-#EXTINF:-1 tvg-name="Vingança Brutal (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIjRieKxDXaifeFc4RJ4h8Pr6cn.jpg" group-title="AÇÃO | SUSPENSE",VINGANÇA BRUTAL (2026)
-http://cdnfive.top:80/movie/170340849/398096733/11202649.mp4
-#EXTINF:-1 tvg-name="Pesadelo na Montanha (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOGiPPqIiQKpfqOgLCWA1xUqTqi.jpg" group-title="TERROR",PESADELO NA MONTANHA (2023)
-http://cdnfive.top:80/movie/170340849/398096733/11202648.mp4
-#EXTINF:-1 tvg-name="A História de Um Gorila com David Attenborough (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdbhjmDymtYdcYfzsmBlQEsOExV.jpg" group-title="DOCUMENTÁRIO",A HISTÓRIA DE UM GORILA COM DAVID ATTENBOROUGH (2026)
-http://cdnfive.top:80/movie/170340849/398096733/11202645.mp4
-#EXTINF:-1 tvg-name="Manual Prático da Vingança Lucrativa (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyYbgERxVuWBhCeZZLNFlZVWLz2.jpg" group-title="COMÉDIA | SUSPENSE",MANUAL PRÁTICO DA VINGANÇA LUCRATIVA (2026)
-http://cdnfive.top:80/movie/170340849/398096733/11202505.mp4
-#EXTINF:-1 tvg-name="O Caso dos Estrangeiros (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/weTyThAvs2JZJ3AZefA53d7vyfy.jpg" group-title="DRAMA | SUSPENSE",O CASO DOS ESTRANGEIROS (2025)
-http://cdnfive.top:80/movie/170340849/398096733/11202504.mp4
-#EXTINF:-1 tvg-name="Charlie: O Super Cão (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvXHs10CYWRyerGSX2WuN2dzxse.jpg" group-title="AÇÃO | ANIMAÇÃO | AVENTURA | COMÉDIA",CHARLIE: O SUPER CÃO (2025)
-http://cdnfive.top:80/movie/170340849/398096733/11202503.mp4
-#EXTINF:-1 tvg-name="Além da Força, Além da Fé (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDAws6LhkKmIjoRGsxzo6RgBgNT.jpg" group-title="DRAMA",ALÉM DA FORÇA, ALÉM DA FÉ (2024)
-http://cdnfive.top:80/movie/170340849/398096733/11202502.mp4
-#EXTINF:-1 tvg-name="Terror em Silent Hill: Regresso Para o Inferno (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZDqTM0ZP3ypmFivTeAnHslV6mY.jpg" group-title="DRAMA | MISTÉRIO | TERROR",TERROR EM SILENT HILL: REGRESSO PARA O INFERNO (2026)
-http://cdnfive.top:80/movie/170340849/398096733/11202501.mp4
-#EXTINF:-1 tvg-name="Alerta Apocalipse (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ap6J9pYqgrxQaYWYdX2fyBYBWF.jpg" group-title="COMÉDIA | F. CIENTÍFICA | TERROR",ALERTA APOCALIPSE (2026)
-http://cdnfive.top:80/movie/170340849/398096733/11202500.mp4
-#EXTINF:-1 tvg-name="A Torradeira (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbYyWHc1dL1bfwEJbaMYDYKgWG2.jpg" group-title="AÇÃO | COMÉDIA | CRIME",A TORRADEIRA (2026)
-http://cdnfive.top:80/movie/170340849/398096733/11202017.mp4
-#EXTINF:-1 tvg-name="Untold: Jail Blazers (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmp45llJTRr6JLaIamt3RlfxgTH.jpg" group-title="DOCUMENTÁRIO",UNTOLD: JAIL BLAZERS (2026)
-http://cdnfive.top:80/movie/170340849/398096733/11202016.mp4
-#EXTINF:-1 tvg-name="Bola pra Cima (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uMTLWiDPFWYxEwP11G9Sp9cVAk.jpg" group-title="AÇÃO | AVENTURA | COMÉDIA",BOLA PRA CIMA (2026)
-http://cdnfive.top:80/movie/170340849/398096733/11202015.mp4
-#EXTINF:-1 tvg-name="Teste para Cardíaco (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0zoFAa88CNIHWYoDPFsISCuM3z.jpg" group-title="DRAMA",TESTE PARA CARDÍACO (2026)
-http://cdnfive.top:80/movie/170340849/398096733/11202014.mp4
-#EXTINF:-1 tvg-name="Dois Nilos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLufrbc31bVPe2iDb1L92aWAFGM.jpg" group-title="DOCUMENTÁRIO",DOIS NILOS (2024)
-http://cdnfive.top:80/movie/170340849/398096733/11202013.mp4
-#EXTINF:-1 tvg-name="A Cidade dos Sonhos (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dp0jlDZv6z3nY23kbmasgNLFZyd.jpg" group-title="DRAMA",A CIDADE DOS SONHOS (2024)
-http://cdnfive.top:80/movie/170340849/398096733/11202012.mp4
-#EXTINF:-1 tvg-name="Noah Kahan: Out of Body (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VtZAonOgK8hae7FwOZCSg7XmCu.jpg" group-title="DOCUMENTÁRIO",NOAH KAHAN: OUT OF BODY (2026)
-http://cdnfive.top:80/movie/170340849/398096733/11202011.mp4
-#EXTINF:-1 tvg-name="They/Them: O Acampamento (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6QwqjxAu4ly5PB4IHVFJ5CHPbS.jpg" group-title="TERROR",THEY/THEM: O ACAMPAMENTO (2022)
-http://cdnfive.top:80/movie/170340849/398096733/11199433.mp4
-#EXTINF:-1 tvg-name="A Mulher Rei (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MjnLp48IUK0O9EtWS4TvjMtLq3.jpg" group-title="AÇÃO",A MULHER REI (2022)
-http://cdnfive.top:80/movie/170340849/398096733/10315594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Socorro! (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/furPD78BZsKAWZoGvoqArIJYPy2.jpg" group-title="COMÉDIA | SUSPENSE | TERROR",SOCORRO! (2026)
+http://cdncyber.top:80/movie/braziltop2025/Brbrazil@top2025filmeselite/68410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Projeto Silêncio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBpeLbt1YM7Hg5DTrR54alhtZMA.jpg" group-title="AÇÃO | SUSPENSE | TERROR",PROJETO SILÊNCIO (2024)
+http://cdncyber.top:80/movie/braziltop2025/Brbrazil@top2025filmeselite/68402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Som da Morte (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tX11KQzujSDXdszFNRvQbbNi72.jpg" group-title="SUSPENSE | TERROR",O SOM DA MORTE (2026)
+http://cdncyber.top:80/movie/braziltop2025/Brbrazil@top2025filmeselite/68356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hostel (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wL91L05ONOOv5965sTxWVYbJGZZ.jpg" group-title="SUSPENSE | TERROR",HOSTEL (2011)
+http://cdncyber.top:80/movie/braziltop2025/Brbrazil@top2025filmeselite/68276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cáustico (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/93GPoFaEbb0MaF8i7Qp05ykr5eK.jpg" group-title="TERROR",CÁUSTICO (2023)
+http://cdncyber.top:80/movie/braziltop2025/Brbrazil@top2025filmeselite/68172.mp4
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/08/27/19/55/1504668.jpg" group-title="TERROR", APARTAMENTO 212: A INFESTAÇÃO
 https://lh3.googleusercontent.com/YsVPOiy90bbordh4Jp6A1z41EikrRqD-ehJ_DHXE0KbZmz_vWEtJvpWAI0UNa3dwHex81MiD3nXm8fAry9ssKQNlXEtMaT8hgyoiYzWnluj2V91yXEo5mbv4c8c2jhnOY-2Fw6Ccvss=m22
@@ -1526,7 +1462,9 @@ https://sempra.pro/a1/out/old/6/1259/1259_70056987a-fantastica-fabrica-de-chocol
 #EXTINF:-1 tvg-id="https://www.bitchute.com/" tvg-logo="https://image.tmdb.org/t/p/original//AoLzLn8Z5akd1zHfBcrIiF2MdPw.jpg" group-title="SUSPENSE", AMNÉSIA (2000)
 https://zggg98sgwbg1gh.bitchute.com/P2tQxCZbN8Pf/EmnCTbJHPEsy.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A50Ngq9lh9aCTGHC6kttrppHNoF.jpg" group-title="AÇÃO | AVENTURA | CRIME", AVES DE RAPINA: ARLEQUINA E SUA EMANCIPACAO FANTABULOSA (2020)
-https://is.gd/Arlequina
+https://is.gd/Arlequina#EXTINF:-1 tvg-id="" tvg-name="Alien 51 (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/md3PylJqp9H2M7lLFpzdYUV3dKK.jpg" group-title="F. CIENTÍFICA | TERROR",ALIEN 51 (2004)
+http://cdncyber.top:80/movie/braziltop2025/Brbrazil@top2025filmeselite/68281.mp4
+
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original//h2OCcYwUGqSBvqHjE3QBtTNeKXY.jpg" group-title="SUSPENSE | TERROR", A FORCA 2: SEGUNDO ATO (2019)
 https://video.wixstatic.com/video/834009_4c37082d84bb4594b93446e497ab16d9/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/original/pWFo72g7YIcc5ADZT9b6LzP6T6K.jpg" group-title="SUSPENSE | TERROR", A DEUSA DA VINGANÇA (2017)
