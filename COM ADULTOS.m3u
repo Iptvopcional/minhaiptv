@@ -302,6 +302,37 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="➡️ TV AO VIVO", Motorvision 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
 
+#EXTINF:-1 tvg-id="" tvg-name="24H • Coletânea - 007" tvg-logo="https://i.postimg.cc/nLqt7WwZ/Dynamic-IPTV-Channel-Logo-with-Content-Symbols.png" group-title="⚡24H COLETÃNEA",007
+http://cdnplay.sbs:80//live/948113782/557343934/8140829.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H • Coletânea - Bruce Lee" tvg-logo="https://i.postimg.cc/nLqt7WwZ/Dynamic-IPTV-Channel-Logo-with-Content-Symbols.png" group-title="⚡24H COLETÃNEA",BRUCE LEE
+http://cdnplay.sbs:80//live/948113782/557343934/8140831.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H • Coletânea - Denzel Washington" tvg-logo="https://i.postimg.cc/nLqt7WwZ/Dynamic-IPTV-Channel-Logo-with-Content-Symbols.png" group-title="⚡24H COLETÃNEA",DENZEL WASHINGTON
+http://cdnplay.sbs:80//live/948113782/557343934/8140832.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H • Coletânea - Especial de Natal" tvg-logo="https://i.postimg.cc/nLqt7WwZ/Dynamic-IPTV-Channel-Logo-with-Content-Symbols.png" group-title="⚡24H COLETÃNEA",ESPECIAL DE NATAL
+http://cdnplay.sbs:80//live/948113782/557343934/8140833.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H • Coletânea - Esqueceram de Mim" tvg-logo="https://i.postimg.cc/nLqt7WwZ/Dynamic-IPTV-Channel-Logo-with-Content-Symbols.png" group-title="⚡24H COLETÃNEA",ESQUECERAM DE MIM
+http://cdnplay.sbs:80//live/948113782/557343934/8140834.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H • Coletânea - Halloween" tvg-logo="https://i.postimg.cc/nLqt7WwZ/Dynamic-IPTV-Channel-Logo-with-Content-Symbols.png" group-title="⚡24H COLETÃNEA",HALLOWEEN
+http://cdnplay.sbs:80//live/948113782/557343934/8140836.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H • Coletânea - Indiana Jones" tvg-logo="https://i.postimg.cc/nLqt7WwZ/Dynamic-IPTV-Channel-Logo-with-Content-Symbols.png" group-title="⚡24H COLETÃNEA",INDIANA JONES
+http://cdnplay.sbs:80//live/948113782/557343934/8140838.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H • Coletânea - Jackie Chan" tvg-logo="https://i.postimg.cc/nLqt7WwZ/Dynamic-IPTV-Channel-Logo-with-Content-Symbols.png" group-title="⚡24H COLETÃNEA",JACKIE CHAN
+http://cdnplay.sbs:80//live/948113782/557343934/8140839.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H • Coletânea - Jet Li" tvg-logo="https://i.postimg.cc/nLqt7WwZ/Dynamic-IPTV-Channel-Logo-with-Content-Symbols.png" group-title="⚡24H COLETÃNEA",JET LI
+http://cdnplay.sbs:80//live/948113782/557343934/8140840.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H • Coletânea - Mazzaropi" tvg-logo="https://i.postimg.cc/nLqt7WwZ/Dynamic-IPTV-Channel-Logo-with-Content-Symbols.png" group-title="⚡24H COLETÃNEA",MAZZAROPI
+http://cdnplay.sbs:80//live/948113782/557343934/8140842.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H • Coletânea - Nicolas Cage" tvg-logo="https://i.postimg.cc/nLqt7WwZ/Dynamic-IPTV-Channel-Logo-with-Content-Symbols.png" group-title="⚡24H COLETÃNEA",NICOLAS CAGE
+http://cdnplay.sbs:80//live/948113782/557343934/8140843.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H • Coletânea - O Massacre da Serra Elétrica" tvg-logo="https://i.postimg.cc/nLqt7WwZ/Dynamic-IPTV-Channel-Logo-with-Content-Symbols.png" group-title="⚡24H COLETÃNEA",O MASSACRE DA SERRA ELÉTRICA
+http://cdnplay.sbs:80//live/948113782/557343934/8140844.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H • Coletânea - Os Mercenários" tvg-logo="https://i.postimg.cc/nLqt7WwZ/Dynamic-IPTV-Channel-Logo-with-Content-Symbols.png" group-title="⚡24H COLETÃNEA",OS MERCENÁRIOS
+http://cdnplay.sbs:80//live/948113782/557343934/8140845.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H • Coletânea - Piratas do Caribe" tvg-logo="https://i.postimg.cc/nLqt7WwZ/Dynamic-IPTV-Channel-Logo-with-Content-Symbols.png" group-title="⚡24H COLETÃNEA",PIRATAS DO CARIBE
+http://cdnplay.sbs:80//live/948113782/557343934/8140846.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H • Coletânea - Velozes e Furiosos" tvg-logo="https://i.postimg.cc/nLqt7WwZ/Dynamic-IPTV-Channel-Logo-with-Content-Symbols.png" group-title="⚡24H COLETÃNEA",VELOZES E FURIOSOS
+http://cdnplay.sbs:80//live/948113782/557343934/8140849.ts
+
 xxxxxxxxxxxxxxxxxx ⚡SÉRIES xxxxxxxxxxxxxxxxxx ⚡SÉRIES xxxxxxxxxxxxxxxxxx ⚡SÉRIES xxxxxxxxxxxxxxxxxx ⚡SÉRIES xxxxxxxxxxxxxxxxxx ⚡SÉRIES xxxxxxxxxxxxxxxxxx ⚡SÉRIES xxxxxxxxxxxxxxxxxx ⚡SÉRIES xxxxxxxxxxxxxxxxxx ⚡SÉRIES xxxxxxxxxxxxxxxxxx
 
 #EXTINF:-1 tvg-id="" tvg-name="Round 6 (2021) S01 E01" tvg-logo="http://209.222.98.186:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLnZshbUMNXLNEqfVe0Jz-czV3h6awZehGUBO6ThxAzYI.jpg" group-title="⚡SÉRIES",Round 6 (2021) S01 E01
@@ -548,17 +579,17 @@ http://dns5play.xyz:8080/series/cby80R/887774/565526.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Plantao Noturno S04 E10" tvg-logo="https://image.tmdb.org/t/p/w500/r0a11A5u1kF6d5m692zWc8MGLBV.jpg" group-title="⚡SÉRIES",Plantao Noturno S04 E10
 http://dns5play.xyz:8080/series/cby80R/887774/565527.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Coletivo Terror S01 E01" tvg-logo="https://image.tmdb.org/t/p/w500/cHNWCkxrKcwIMaVUwNZkH6zsJJo.jpg" group-title="⚡SÉRIES)",Coletivo Terror S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="Coletivo Terror S01 E01" tvg-logo="https://image.tmdb.org/t/p/w500/cHNWCkxrKcwIMaVUwNZkH6zsJJo.jpg" group-title="⚡SÉRIES",Coletivo Terror S01 E01
 http://dns5play.xyz:8080/series/cby80R/887774/563677.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coletivo Terror S01 E02" tvg-logo="https://image.tmdb.org/t/p/w500/cHNWCkxrKcwIMaVUwNZkH6zsJJo.jpg" group-title="⚡SÉRIES)",Coletivo Terror S01 E02
+#EXTINF:-1 tvg-id="" tvg-name="Coletivo Terror S01 E02" tvg-logo="https://image.tmdb.org/t/p/w500/cHNWCkxrKcwIMaVUwNZkH6zsJJo.jpg" group-title="⚡SÉRIES",Coletivo Terror S01 E02
 http://dns5play.xyz:8080/series/cby80R/887774/563678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coletivo Terror S01 E03" tvg-logo="https://image.tmdb.org/t/p/w500/cHNWCkxrKcwIMaVUwNZkH6zsJJo.jpg" group-title="⚡SÉRIES)",Coletivo Terror S01 E03
+#EXTINF:-1 tvg-id="" tvg-name="Coletivo Terror S01 E03" tvg-logo="https://image.tmdb.org/t/p/w500/cHNWCkxrKcwIMaVUwNZkH6zsJJo.jpg" group-title="⚡SÉRIES",Coletivo Terror S01 E03
 http://dns5play.xyz:8080/series/cby80R/887774/563679.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coletivo Terror S01 E04" tvg-logo="https://image.tmdb.org/t/p/w500/cHNWCkxrKcwIMaVUwNZkH6zsJJo.jpg" group-title="⚡SÉRIES)",Coletivo Terror S01 E04
+#EXTINF:-1 tvg-id="" tvg-name="Coletivo Terror S01 E04" tvg-logo="https://image.tmdb.org/t/p/w500/cHNWCkxrKcwIMaVUwNZkH6zsJJo.jpg" group-title="⚡SÉRIES",Coletivo Terror S01 E04
 http://dns5play.xyz:8080/series/cby80R/887774/563680.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coletivo Terror S01 E05" tvg-logo="https://image.tmdb.org/t/p/w500/cHNWCkxrKcwIMaVUwNZkH6zsJJo.jpg" group-title="⚡SÉRIES)",Coletivo Terror S01 E05
+#EXTINF:-1 tvg-id="" tvg-name="Coletivo Terror S01 E05" tvg-logo="https://image.tmdb.org/t/p/w500/cHNWCkxrKcwIMaVUwNZkH6zsJJo.jpg" group-title="⚡SÉRIES",Coletivo Terror S01 E05
 http://dns5play.xyz:8080/series/cby80R/887774/563681.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coletivo Terror S01 E06" tvg-logo="https://image.tmdb.org/t/p/w500/cHNWCkxrKcwIMaVUwNZkH6zsJJo.jpg" group-title="⚡SÉRIES)",Coletivo Terror S01 E06
+#EXTINF:-1 tvg-id="" tvg-name="Coletivo Terror S01 E06" tvg-logo="https://image.tmdb.org/t/p/w500/cHNWCkxrKcwIMaVUwNZkH6zsJJo.jpg" group-title="⚡SÉRIES",Coletivo Terror S01 E06
 http://dns5play.xyz:8080/series/cby80R/887774/563682.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Carniceiros S01 E01" tvg-logo="https://image.tmdb.org/t/p/w500/huGrbJJjRDE9cNhUCA6LzxDXUdP.jpg" group-title="⚡SÉRIES",Carniceiros S01 E01
