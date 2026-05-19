@@ -22,7 +22,7 @@ http://cdnplay.sbs:80//live/948113782/557343934/6681796.ts
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="http://futbanner.xyz/ICONES/SPORTV.png" group-title="TV AO VIVO",SPORTV HD
 http://cdnplay.sbs:80//live/948113782/557343934/6681669.ts
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="TV AO VIVO", ANIME
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=65e4a7cf-0b18-4 b0a-97d2-7eadc239c740&deviceLat=-22.4545&deviceLon=-41.9492&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=BR&sid=5d23ee15-3e52-11eb-b866-0242ac110002&userId=&serverSideAds=true
@@ -1390,6 +1390,22 @@ http://dns5play.xyz:8080/movie/cby80R/887774/533969.mp4
 http://cdncyber.top:80/movie/braziltop2025/Brbrazil@top2025filmeselite/67985.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Colecionador de Corpos 2" tvg-logo="https://image.tmdb.org/t/p/w500/mg2cHxnN3vrO0F7EWQVdC3Smwo6.jpg" group-title="TERROR",O Colecionador de Corpos 2
 http://dns5play.xyz:8080/movie/cby80R/887774/533957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="In The Earth" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FIRF29LoSwyCdqzrHtJBYTDP3s.jpg" group-title="TERROR",In The Earth
+http://cdncyber.top:80/movie/braziltop2025/Brbrazil@top2025filmeselite/67412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Five Nights at Freddy's - O Pesadelo Sem Fim (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFAACqnL06GI8K5hABfKxh3byEc.jpg" group-title="TERROR",Five Nights at Freddy's - O Pesadelo Sem Fim (2023)
+http://cdncyber.top:80/movie/braziltop2025/Brbrazil@top2025filmeselite/62443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="N?o Me Abandone" tvg-logo="https://image.tmdb.org/t/p/w500/234h9O3wS5vtE7KQKZgibTTxvBz.jpg" group-title="TERROR",N?o Me Abandone
+http://dns5play.xyz/movie/cby80R/887774/790429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingan?a no Deserto" tvg-logo="https://image.tmdb.org/t/p/w500/zQUutDa3XRn8xmGE24KD6EnVsci.jpg" group-title="TERROR",Vingan?a no Deserto
+http://dns5play.xyz/movie/cby80R/887774/790178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lista Perversa do Sr. Scrooge" tvg-logo="https://image.tmdb.org/t/p/w500/jJuOMEwjVe1Mzp6xgt23MDrjplM.jpg" group-title="TERROR",A Lista Perversa do Sr. Scrooge
+http://dns5play.xyz/movie/cby80R/887774/790174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Model House: A Morte Segue Voc®∫" tvg-logo="https://image.tmdb.org/t/p/w500/9uo8P28MTW8KOBhKmG6zNzv4VLc.jpg" group-title="TERROR",Model House: A Morte Segue Voc®∫
+http://dns5play.xyz/movie/cby80R/887774/790161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pecadores" tvg-logo="https://image.tmdb.org/t/p/w500/zQE0z6zDOxpN1r2YkgUyFuMZZRy.jpg" group-title="TERROR",Pecadores
+http://dns5play.xyz/movie/cby80R/887774/789547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Retorno dos Tomates Assassinos" tvg-logo="https://image.tmdb.org/t/p/w500/tWI3MWYjo35TTb1sNNtgRjEyAp5.jpg" group-title="TERROR",O Retorno dos Tomates Assassinos
+http://dns5play.xyz/movie/cby80R/887774/787771.mp4
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/08/27/19/55/1504668.jpg" group-title="TERROR", APARTAMENTO 212: A INFESTA??O
 https://lh3.googleusercontent.com/YsVPOiy90bbordh4Jp6A1z41EikrRqD-ehJ_DHXE0KbZmz_vWEtJvpWAI0UNa3dwHex81MiD3nXm8fAry9ssKQNlXEtMaT8hgyoiYzWnluj2V91yXEo5mbv4c8c2jhnOY-2Fw6Ccvss=m22
@@ -2651,7 +2667,7 @@ http://89.222.120.121/vauth/357964.mp4?token=-qENC8lzzIhcNn7cJmXjANQZyahDnPNu_Yg
 #EXTINF:-1 tvg-id="" tvg-logo="http://file.gstaticontent.com//t/p/w600_and_h900_bestv2/vqBvB8OlknHFHrHOAxfrWd0kjjP.jpg" group-title="MIST®¶RIO | SUSPENSE | TERROR", O MAL QUE N√ÉO SE PODE VER, 2023-05-03
 http://89.222.120.121/vauth/350674.mp4?token=wLo5T2KZDGd0AVlx2Z6G5E91GVuZomEo4qPI2zRPsvvbM3wCFMnaUG3T0zxH-VEsHyFCpKn8I2awqUWTz4Ib1Og_474bNXyjd5C0FA4w6gLJPwjJ83RKOO0YgaZSRusZLN1xWnWrd-7T1rMj_5iRP_3n0U5-QaR5X2EuKIgld88V_fkXk_r0eA76RiBNK2xvId4mPuS-ITvGsjRvuAocZWFMj0Gnpr4Q6zd-uEB1XyvGGIgvrYkIc8BwNByC_wDXI6XhMQrEdYU2CY_V_er-mYxoR_Vkazt-iXDdQ1DZTG3KdwhBMs97gTT9QAP5SNWRPxZjw2Jv82axWSLZtePIAKfoQgcpGUhz43b5uIM1bHbkBeYxH6nshKQycCukE0onFs5Jj-vzjYTMUqaH2n8SuKv5qUDRsCxK1HUq3-0MUg7KW_ETeDsnFhmtxEC2bGYHuXFdWEs6tueu5pAnlPNu7TINH7WvsvsgOG49cgA-Z6buv-qwGK01u-KpnltWVI-Z1sogk7pa3lvTz9gCs1uFVfrORE5qYrImw-aXfAbBrL3YXIOFlvYmkDFOSCquUrnJhjSMBFy4QGbShLRwoqGUQT18yo8VrTxI79rshkdK3ac
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
 
 #EXTINF:-1 tvg-name="O Paradoxo Cloverfield" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5tMtsPWiypKCKk0fHyjAqz93gU.jpg" group-title="TERROR",O PARADOXO CLOVERFIELD
 http://38.99.239.251/deliver/341801.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjAwMDEiLCJleHAiOjE3NzM1Njk5MDZ9.eyJ1YyI6IlVtRklSbWgwWjA4PSIsInBjIjoiY0doaGJuUnZiV2x3ZEhZPSIsInN0IjoiMzQxODAxLm1wNCIsImlwIjoiMTg2LjIzNy41NC4xMjEifQ.imL9wd1SltvrZzNEOPg5prkS5zIXRXw7zfAV7z9RBc4&uc=UmFIRmh0Z08=&pc=cGhhbnRvbWlwdHY=
