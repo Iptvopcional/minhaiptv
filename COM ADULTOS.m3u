@@ -249,7 +249,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="TV AO VIVO", RunTime A莽茫o ~ link 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6128
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="TV AO VIVO", RunTime CinEspanto | Suspense e Terror
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="TV AO VIVO", RunTime CinEspanto | Suspense e TERROR
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="TV AO VIVO", RunTime Com茅dia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
@@ -548,17 +548,17 @@ http://dns5play.xyz:8080/series/cby80R/887774/565526.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Plantao Noturno S04 E10" tvg-logo="https://image.tmdb.org/t/p/w500/r0a11A5u1kF6d5m692zWc8MGLBV.jpg" group-title="SERIES",Plantao Noturno S04 E10
 http://dns5play.xyz:8080/series/cby80R/887774/565527.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Coletivo Terror S01 E01" tvg-logo="https://image.tmdb.org/t/p/w500/cHNWCkxrKcwIMaVUwNZkH6zsJJo.jpg" group-title="SERIES",Coletivo Terror S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="Coletivo TERROR S01 E01" tvg-logo="https://image.tmdb.org/t/p/w500/cHNWCkxrKcwIMaVUwNZkH6zsJJo.jpg" group-title="SERIES",Coletivo TERROR S01 E01
 http://dns5play.xyz:8080/series/cby80R/887774/563677.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coletivo Terror S01 E02" tvg-logo="https://image.tmdb.org/t/p/w500/cHNWCkxrKcwIMaVUwNZkH6zsJJo.jpg" group-title="SERIES",Coletivo Terror S01 E02
+#EXTINF:-1 tvg-id="" tvg-name="Coletivo TERROR S01 E02" tvg-logo="https://image.tmdb.org/t/p/w500/cHNWCkxrKcwIMaVUwNZkH6zsJJo.jpg" group-title="SERIES",Coletivo TERROR S01 E02
 http://dns5play.xyz:8080/series/cby80R/887774/563678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coletivo Terror S01 E03" tvg-logo="https://image.tmdb.org/t/p/w500/cHNWCkxrKcwIMaVUwNZkH6zsJJo.jpg" group-title="SERIES",Coletivo Terror S01 E03
+#EXTINF:-1 tvg-id="" tvg-name="Coletivo TERROR S01 E03" tvg-logo="https://image.tmdb.org/t/p/w500/cHNWCkxrKcwIMaVUwNZkH6zsJJo.jpg" group-title="SERIES",Coletivo TERROR S01 E03
 http://dns5play.xyz:8080/series/cby80R/887774/563679.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coletivo Terror S01 E04" tvg-logo="https://image.tmdb.org/t/p/w500/cHNWCkxrKcwIMaVUwNZkH6zsJJo.jpg" group-title="SERIES",Coletivo Terror S01 E04
+#EXTINF:-1 tvg-id="" tvg-name="Coletivo TERROR S01 E04" tvg-logo="https://image.tmdb.org/t/p/w500/cHNWCkxrKcwIMaVUwNZkH6zsJJo.jpg" group-title="SERIES",Coletivo TERROR S01 E04
 http://dns5play.xyz:8080/series/cby80R/887774/563680.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coletivo Terror S01 E05" tvg-logo="https://image.tmdb.org/t/p/w500/cHNWCkxrKcwIMaVUwNZkH6zsJJo.jpg" group-title="SERIES",Coletivo Terror S01 E05
+#EXTINF:-1 tvg-id="" tvg-name="Coletivo TERROR S01 E05" tvg-logo="https://image.tmdb.org/t/p/w500/cHNWCkxrKcwIMaVUwNZkH6zsJJo.jpg" group-title="SERIES",Coletivo TERROR S01 E05
 http://dns5play.xyz:8080/series/cby80R/887774/563681.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Coletivo Terror S01 E06" tvg-logo="https://image.tmdb.org/t/p/w500/cHNWCkxrKcwIMaVUwNZkH6zsJJo.jpg" group-title="SERIES",Coletivo Terror S01 E06
+#EXTINF:-1 tvg-id="" tvg-name="Coletivo TERROR S01 E06" tvg-logo="https://image.tmdb.org/t/p/w500/cHNWCkxrKcwIMaVUwNZkH6zsJJo.jpg" group-title="SERIES",Coletivo TERROR S01 E06
 http://dns5play.xyz:8080/series/cby80R/887774/563682.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Carniceiros S01 E01" tvg-logo="https://image.tmdb.org/t/p/w500/huGrbJJjRDE9cNhUCA6LzxDXUdP.jpg" group-title="SERIES",Carniceiros S01 E01
@@ -1230,7 +1230,7 @@ http://cdncyber.top:80/movie/braziltop2025/Brbrazil@top2025filmeselite/68277.mp4
 http://cdncyber.top:80/movie/braziltop2025/Brbrazil@top2025filmeselite/68161.mp4
 #EXTINF:-1 tvg-id="" tvg-name="They/Them: O Acampamento (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6QwqjxAu4ly5PB4IHVFJ5CHPbS.jpg" group-title="TERROR",They/Them: O Acampamento (2022)
 http://cdncyber.top:80/movie/braziltop2025/Brbrazil@top2025filmeselite/68011.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O 3潞 Andar: Terror na Rua Malasa帽a (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbrmCEZDDd19x9vZxtpROUBCFzy.jpg" group-title="TERROR",O 3潞 Andar: Terror na Rua Malasa帽a (2020)
+#EXTINF:-1 tvg-id="" tvg-name="O 3潞 Andar: TERROR na Rua Malasa帽a (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbrmCEZDDd19x9vZxtpROUBCFzy.jpg" group-title="TERROR",O 3潞 Andar: TERROR na Rua Malasa帽a (2020)
 http://cdncyber.top:80/movie/braziltop2025/Brbrazil@top2025filmeselite/67986.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Questão de Sobrevivência (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AXS71Q5jAvxuFDZUnoRRNUrDpd.jpg" group-title="TERROR",Questão de Sobrevivência (2022)
 http://cdncyber.top:80/movie/braziltop2025/Brbrazil@top2025filmeselite/67960.mp4
@@ -1258,7 +1258,7 @@ http://cdncyber.top:80/movie/braziltop2025/Brbrazil@top2025filmeselite/67810.mp4
 http://cdncyber.top:80/movie/braziltop2025/Brbrazil@top2025filmeselite/67901.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Retaliação (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OmAWBQy7Xl6EfED8C64MzEVDyU.jpg" group-title="TERROR",Retaliação (2022)
 http://cdncyber.top:80/movie/braziltop2025/Brbrazil@top2025filmeselite/67883.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Terror no Estúdio 666 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcsnV2L6SZY9hvuGLEbZddTylPa.jpg" group-title="TERROR",Terror no Estúdio 666 (2022)
+#EXTINF:-1 tvg-id="" tvg-name="TERROR no Estúdio 666 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcsnV2L6SZY9hvuGLEbZddTylPa.jpg" group-title="TERROR",TERROR no Estúdio 666 (2022)
 http://cdncyber.top:80/movie/braziltop2025/Brbrazil@top2025filmeselite/67840.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Voz das Sombras (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mELMhjvb3AdEex5Vjl0hBfjjdVb.jpg" group-title="TERROR",A Voz das Sombras (2024)
 http://cdncyber.top:80/movie/braziltop2025/Brbrazil@top2025filmeselite/67859.mp4
@@ -1380,9 +1380,9 @@ http://dns5play.xyz:8080/movie/cby80R/887774/533990.mp4
 http://dns5play.xyz:8080/movie/cby80R/887774/533976.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Navio Fantasma" tvg-logo="https://image.tmdb.org/t/p/w500/urUo9sIRlFk8WfGkREZs9AEq3C3.jpg" group-title="TERROR",Navio Fantasma
 http://dns5play.xyz:8080/movie/cby80R/887774/533972.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Noite do Terror 1" tvg-logo="https://image.tmdb.org/t/p/w500/lzbRML171tWl6RZgObNVs9XzI9E.jpg" group-title="TERROR",Noite do Terror 1
+#EXTINF:-1 tvg-id="" tvg-name="Noite do TERROR 1" tvg-logo="https://image.tmdb.org/t/p/w500/lzbRML171tWl6RZgObNVs9XzI9E.jpg" group-title="TERROR",Noite do TERROR 1
 http://dns5play.xyz:8080/movie/cby80R/887774/533971.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Noite do Terror 2" tvg-logo="https://image.tmdb.org/t/p/w500/4ivCpKrcVWTTIODQtXo4RzvPUa.jpg" group-title="TERROR",Noite do Terror 2
+#EXTINF:-1 tvg-id="" tvg-name="Noite do TERROR 2" tvg-logo="https://image.tmdb.org/t/p/w500/4ivCpKrcVWTTIODQtXo4RzvPUa.jpg" group-title="TERROR",Noite do TERROR 2
 http://dns5play.xyz:8080/movie/cby80R/887774/533970.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Nunca Diga Seu Nome" tvg-logo="https://image.tmdb.org/t/p/w500/o2HnADvqyKAZL4cqONc54HYEGRr.jpg" group-title="TERROR",Nunca Diga Seu Nome
 http://dns5play.xyz:8080/movie/cby80R/887774/533969.mp4
@@ -1466,6 +1466,20 @@ http://dns5play.xyz/movie/cby80R/887774/532878.mp4
 http://dns5play.xyz/movie/cby80R/887774/532841.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Alien: Romulus" tvg-logo="https://image.tmdb.org/t/p/w500/jB0W9tn4w07MFn7sTfqRTBLVytF.jpg" group-title="TERROR",Alien: Romulus
 http://dns5play.xyz/movie/cby80R/887774/532839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Piano de Família" tvg-logo="https://image.tmdb.org/t/p/w500/pn641f57Yn4U28D1ACFgLnzuWOi.jpg" group-title="TERROR",Piano de Família
+http://dns5play.xyz/movie/cby80R/887774/530464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Observadores" tvg-logo="https://image.tmdb.org/t/p/w500/zBjRWR2dl7S1OLd9YBXNQDy2cO9.jpg" group-title="TERROR",Os Observadores
+http://dns5play.xyz/movie/cby80R/887774/525528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Armadilha" tvg-logo="https://image.tmdb.org/t/p/w500/ArVwz2CXHiY2SuCRYRsfRlG2Fac.jpg" group-title="TERROR",Armadilha
+http://dns5play.xyz/movie/cby80R/887774/525508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Livro das Forças Malditas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6vOZ0XJhdGUzjWmWs3BeoOE5Ni.jpg" group-title="TERROR",O Livro das Forças Malditas (2022)
+http://cdncyber.top:80/movie/braziltop2025/Brbrazil@top2025filmeselite/67142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ascensão dos Mortos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/giSnlWJHLixMjcarPWW25VXXKn2.jpg" group-title="TERROR",A Ascensão dos Mortos (2022)
+http://cdncyber.top:80/movie/braziltop2025/Brbrazil@top2025filmeselite/67294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingança Ancestral (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwHAWJ0rsFeRHukFGU7NN0Y4QWw.jpg" group-title="TERROR",Vingança Ancestral (2023)
+http://cdncyber.top:80/movie/braziltop2025/Brbrazil@top2025filmeselite/67302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amaldiçoada 3: O Amuleto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApEaqcfphWbSFxD2DEkJ1cxgXRD.jpg" group-title="TERROR",Amaldiçoada 3: O Amuleto (2023)
+http://cdncyber.top:80/movie/braziltop2025/Brbrazil@top2025filmeselite/67171.mp4
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx MEUS FILMES xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
@@ -1921,7 +1935,7 @@ https://sempra.pro/a1/out/6/5404/5404_godzilla.x.kong.the.new.empire.2024.720p.w
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://br.web.img3.acsta.net/c_310_420/img/d2/c1/d2c108f1e8523f4f16fbfb539e0f3e48.png" group-title="AÇÃO | SUSPENSE", GANANCIOSOS 113min 2024
 https://sempra.pro/a1/out/6/9537/9537_gananciosos.2024.1080p.web-dl.dual.2.0.m3u8
 
-#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://imgdb.link/uploads/2018/03/harbinger-down-terror-no-gelo.jpg" group-title="F. CIENTIFICA | TERROR", HARBINGER DOWN: TERROR NO GELO (2015)
+#EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://imgdb.link/uploads/2018/03/harbinger-down-TERROR-no-gelo.jpg" group-title="F. CIENTIFICA | TERROR", HARBINGER DOWN: TERROR NO GELO (2015)
 https://video.wixstatic.com/video/834009_169142331e4944129f47d4ce8c8d7989/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="https://gofilmes.me/f/" tvg-logo="https://image.tmdb.org/t/p/w300/xZb5TPQoMPSfoafUW9cDzBCuKRV.jpg" group-title="TERROR", HELLRAISER: O JULGAMENTO (2018)
 https://video.wixstatic.com/video/834009_de042eb996854cb787804dec102bf3dc/720p/mp4/file.mp4
@@ -1938,7 +1952,7 @@ https://sempra.pro/a1/out/6/6175/6175_heranca-maldita-2021-720p-web-dl-dual.m3u8
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://topflix.digital/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZYVaIhXHL4HZwYYY14hR3QiC2jr1l_yclRD-kkm3M6AI.webp?w=370&h=556" group-title="SUSPENSE | TERROR", HALLOWEEN 2018
 https://sempra.pro/a1/out/old/6/1250/1250_halloween-2018.m3u8
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://filmessgratis.net/wp-content/uploads/2021/10/pOvVhi4BvcqK3dcouVahDA7Oyun-200x300.jpg" group-title="SUSPENSE | TERROR", HALLOWEEN KILLS: O TERROR CONTINUA 2021
-https://sempra.pro/a1/out/6/6986/6986_halloween-kills-o-terror-continua-2021-1080p-bluray-dual-5.1.m3u8
+https://sempra.pro/a1/out/6/6986/6986_halloween-kills-o-TERROR-continua-2021-1080p-bluray-dual-5.1.m3u8
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo="https://filmessgratis.net/wp-content/uploads/2022/11/ends-200x300.jpg" group-title="SUSPENSE | TERROR", HALLOWEEN ENDS 2022
 https://sempra.pro/a1/out/6/6097/6097_halloween-ends-2022-1080p-web-dl-dual-5.1.m3u8
 #EXTINF:-1 tvg-id="https://topflix.fit/" tvg-logo"https://br.web.img2.acsta.net/c_310_420/img/78/ec/78ec5c65afb4f48098429871ecf98543.jpg" group-title="SUSPENSE | TERROR", Herege, 20 de novembro de 2024
@@ -2780,7 +2794,7 @@ http://209.131.121.26/deliver/105244.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXV
 http://209.131.121.29/deliver/105245.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjAwMDEiLCJleHAiOjE3NzM1NzI2NjF9.eyJ1YyI6IlVtRklSbWgwWjA4PSIsInBjIjoiY0doaGJuUnZiV2x3ZEhZPSIsInN0IjoiMTA1MjQ1Lm1wNCIsImlwIjoiMTg2LjIzNy41NC4xMjEifQ.9yL8wZkXx_-INJFnG3swDdfUZFNmJRKDiwn4rO6laGQ&uc=UmFIRmh0Z08=&pc=cGhhbnRvbWlwdHY=
 #EXTINF:-1 tvg-name="Ben莽茫o Mortal" tvg-logo="http://38.46.143.154/images/mizsEXfRudZLGoqicaauNVvnWvI_big.jpg" group-title="TERROR",BEN脟脙O MORTAL
 http://130.250.189.246/deliver/105233.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjAwMDEiLCJleHAiOjE3NzM1NzI3OTN9.eyJ1YyI6IlVtRklSbWgwWjA4PSIsInBjIjoiY0doaGJuUnZiV2x3ZEhZPSIsInN0IjoiMTA1MjMzLm1wNCIsImlwIjoiMTg2LjIzNy41NC4xMjEifQ.bduNZ2CIxYLZOIRHAW1-kpmzdDVpdlhncYlyOF4RoeI&uc=UmFIRmh0Z08=&pc=cGhhbnRvbWlwdHY=
-#EXTINF:-1 tvg-name="Planeta Terror" tvg-logo="http://38.46.143.154/images/y3ECeijaWMxYah9tMtbfXbngTyh_big.jpg" group-title="TERROR",PLANETA TERROR
+#EXTINF:-1 tvg-name="Planeta TERROR" tvg-logo="http://38.46.143.154/images/y3ECeijaWMxYah9tMtbfXbngTyh_big.jpg" group-title="TERROR",PLANETA TERROR
 http://130.250.189.246/deliver/104431.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjAwMDEiLCJleHAiOjE3NzM1NzI4OTJ9.eyJ1YyI6IlVtRklSbWgwWjA4PSIsInBjIjoiY0doaGJuUnZiV2x3ZEhZPSIsInN0IjoiMTA0NDMxLm1wNCIsImlwIjoiMTg2LjIzNy41NC4xMjEifQ.PKjhn_89kiM_wqVVLrAj87nOr9IhWS0sQhhBH7FUxS8&uc=UmFIRmh0Z08=&pc=cGhhbnRvbWlwdHY=
 #EXTINF:-1 tvg-name="No Cair da Noite" tvg-logo="http://38.46.143.154/images/73MpIavbV7MgPCNgoYLBLnbssC8_big.jpg" group-title="TERROR",NO CAIR DA NOITE
 http://130.250.189.248/deliver/104422.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjAwMDEiLCJleHAiOjE3NzM1NzMwMzh9.eyJ1YyI6IlVtRklSbWgwWjA4PSIsInBjIjoiY0doaGJuUnZiV2x3ZEhZPSIsInN0IjoiMTA0NDIyLm1wNCIsImlwIjoiMTg2LjIzNy41NC4xMjEifQ.QjIrYvx8W1LuX7jNjA0R9SnOU1MTGfn0Aq28SNAE5JI&uc=UmFIRmh0Z08=&pc=cGhhbnRvbWlwdHY=
@@ -2825,7 +2839,7 @@ xxxxxxxxxxxxxxxxxx https://central.useiptvbrasil.com/teste xxxxxxxxxxxxxxxxxx ht
 
 #EXTINF:-1 tvg-id="https://central.useiptvbrasil.com/teste" tvg-name="O Poder do Pecado" description="Em 1931, o pai da rebelde Em铆lia a envia para um convento por ela n茫o aceitar o seu casamento arranjado com um militar. A chegada da jovem desencadeia uma s茅rie de fen么menos paranormais que se tornam cada vez mais poderosos." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQB6VcKQir5QTfuqwAQ83JVTz7S.jpg" group-title="SUSPENSE | TERROR",O Poder do Pecado
 http://89.222.120.121/vauth/373025.mp4?token=K7wibC-oAcKiDwvBPsrwlVFuCDsBvbs5hr4XL4HCidDbBu96kLozieKnA8VZVjZX7n5dSHYEEhPnbgKROQCvTtY0lFbLXvNgN1iHcYzbfl0qOfXp92W-kHqmpzy1s7UgNusT_48Qkxo_-10Nkmn2Wgh3eMBKoWayBHgWvPbrgbY2UhTIEk9DLkVbQMgMuMyE0Ydy9Ek91AQOZ8E4VXoyxcwktqSWDTcFKfJzI0pjOtYrpt_u87HOXyE19GME5rRTo4hcwwRhiXu3fsFreHe-CNLQZX-1dW7MxyyGNksc630zo46bF4I3sagSzjgYN8npfAQt1iNWJvxZEPoJcze4wg2RpQvvXMCkOdgQx-eLmFE6KoD_rWlUuNaqE8Ypak8jVuJaq72Y8sAYa8-yoOGogb2stU8V5blHGygSeDzQ6dZo-RTARm-H8HE9XkThzwr0swv0XSWksnv3hDvKFbyiLjIcBpfpDW2Tj1oX97lVQpH-brs8OAAlLWsE3wVubTA9swPZHJan29IyIQ835_I0jtBipzgKeU-2WdpGGXhRKPY5JmuEDyLT7k2yNWTMY9CsLDIsSt76rNm8nDBFdbLyp09n6pMm0Z5OaxKqzJeMIVM
-#EXTINF:-1 tvg-id="https://central.useiptvbrasil.com/teste" tvg-name="Fresh Hell: Adolescentes Mortos" description="Cinco adolescentes s茫o perseguidos por um assassino na floresta. Mas ap贸s ele morrer acidentalmente, eles percebem que est茫o presos em um filme de terror e apenas conseguir茫o escapar se terminarem a hist贸ria." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8Yr4ASYm52miXd0vl7pE3jDqys.jpg" group-title="SUSPENSE | TERROR",Fresh Hell: Adolescentes Mortos
+#EXTINF:-1 tvg-id="https://central.useiptvbrasil.com/teste" tvg-name="Fresh Hell: Adolescentes Mortos" description="Cinco adolescentes s茫o perseguidos por um assassino na floresta. Mas ap贸s ele morrer acidentalmente, eles percebem que est茫o presos em um filme de TERROR e apenas conseguir茫o escapar se terminarem a hist贸ria." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8Yr4ASYm52miXd0vl7pE3jDqys.jpg" group-title="SUSPENSE | TERROR",Fresh Hell: Adolescentes Mortos
 http://89.222.120.121/vauth/360897.mp4?token=BeOYifDcqSKp-q3WqPhcXr2JNiO6hUbNvvKJldM3oK9bKeAEkN65Qd7Sv08aNvwRyBLONezkMjmSKmYudxkjHPGD8gI6OYUQaR87aCMLgAHlPXpDzHs5kGrc0iV-oD1_bfnafRjLIKLXqh6ecGCkfmMzNAHw7Z6bWoQ8fBQeV4R2qk9pk9lHiVivj08YL-Ct31iO8hwu960fFOwmTc494wKW9PEOpfMuqEhU0JMcATA_zGwS5VJsNzbzsegFl43Ubr5G1cWPnbP32fKRvNm0ZklB5am4YDLXEi31Wdk2FhexzfMZK0Lv9Tl5GJMc8VKsW8KC8AtvtxbEn7LfPU7KC-PzameUhTrWDGyfeHsz5Whwk5TqNSLVEBtA3uOS1h6I4Jk5DbuK4i5nDDqn_qW29RygfEanUzdgIAv_iF5aZ23E8sblvsO-7XK4PJlY7H0Nq9Q9JbnXdEPi6KRcy4Ghq0w_vTTXgXXjVDITEZPPx32jWl9AV-w997RYHeyvALxmNEAxcRTaKyMDRf8vsgOiJYEjGzl1rly7VFrBV8t-rP7Clpc3QbTiqMvfsy5kLjul8y84-LbYhxbmvvmMpZCO7taL6LbY1hMY0hBx8jHfcRM
 #EXTINF:-1 tvg-id="https://central.useiptvbrasil.com/teste" tvg-name="O Por茫o da Rua do Grito" description="Jonas e Rebeca, irm茫os 贸rf茫os, vivem em um antigo casar茫o na Rua do Grito com sua av贸 debilitada e uma misteriosa crian莽a escondida no por茫o. Rebeca deseja deixar o passado e seguir em frente, mas Jonas resiste, atormentado pelos gritos e sussurros de segredos de fam铆lia guardados por gera莽玫es." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4h0VpBrnMnyq0CX9PmPzFS8IVc.jpg" group-title="SUSPENSE | TERROR",O Por茫o da Rua do Grito
 http://152.233.23.82/vauth/375306.mp4?token=s6anCZcFuoffKxwnLDYoGhWKZ69LzrZvEgMNuv9CAaErtFrVhvqLn6OLkJdevaFAXZDpw0VRPBUtnh0Lr3DKTm8SmcRZnA6Lmo3eeaeEGSoqGSU211Lf3uWsJLj72uztOmtCfQ1XoKRoCLhx43XbY2MNpgwSbkr8a6e97zNNX1xHk4jKiQ9-1j71oWDzZ0fH-H56t0DlmqZFNf1v3Qm79N2ryTTnXIib3R7n6EsErNWNOlLYonQaQFlB7BeSrfFa3936K9go1dmixWltDWEMfpIGBISQYCucSApwdEGQ9igmVSEHRKXP9cU9kY7l-1nRrGEa0cya2eeLcwcY43Nw9r3wDf2UZUxOJMP3cNja8FqOg-vzDYGKDNU4PxjPC_Ydtnz2lNlryd8hYGsH398Kq5tkxGgU0eXPaZ6Zl5wIXwp11am0n6Hs0yIZScxMwsRU9wFpSvmxlPEDBLPLKQXVYFtzBRP23P74lgM6K5fhwMBQu971MwjvEMHIuMg-urebQKIJve0Y8VZ_uGtnv1J6kuRYibcpke0hzPpd9zsvB3ZQjThcTe0c4skZT8vrUkPmLm1RTDNbSNPZh_lpnZ6bWX8wUwpFjfrlK61kNpV4cnI
@@ -3199,7 +3213,7 @@ https://sempra.pro/a1/out/6/12613/12613_sexta-feira.13.bem.vindos.a.crystal.lake
 http://209.131.123.168/vauth/3012.mp4?token=am6_xNFNWZFOINee2SA2JECpF7KVB5bzgV2w-rrRccui_hEZnIlsv-O1ZngBuWXI_dfSM1Cx7uvGUx28mpXIMfmbkrQ9QR59wcpGQzw5SFkVOUxGK0PVo6DOHWJf0jz1kSIhDqsFiVWTs8VDTNw5ggyb1p1XvK-c41mcgszYaUTuJu4nAKWtbVqAPvfqjBzmsB9W6XMpdASe1ieBJaHzh6ndSDJEQncF81VgR8Mo-5rgwM9UZvCo4I0AAnH0aQSi8dGvZrhnNyJspAIJOEDNegK4E6qVE3q0DmXE2tQs2eYlTBuMncyes2Q68W9kpo8ijFzjix7_WJQL80b6tcrzee2NfLyfDn0rrAGCnugeLPK38uFLPP601gc733pyJioVTkmW9yKNzZfLcjY48-THVXX1CqF63BcXwKlWV5gJ7lRJFFoNsiwpTByXMO0Zh3bXIhMeuDhIntBHqPp1IF2_3sCau1inMDaF0l7mQZjBKRGXmDgvYxZIDQRuvX5cGDr_la2ndKsWuVXtG7TNtJ8VWigv_RxywqZlXaDZ9Nm4gij9vFSsotoHz6g-bwJQooZ9xu4LkDtPf1oWTXd9Slqzyw
 #EXTINF:-1 tvg-name="Santet: O Feiti莽o Do Mal" tvg-logo="http://lgfp.one/ELI" group-title="TERROR",SANTET: O FEITI脟O DO MAL
 http://209.131.123.168/vauth/3003.mp4?token=fd4aKJUUetL9PmreX8-AUF21PfspXcJztI1NZYtzjChLZJKbDJurV_1_WYHS_eOL0jJ76Ru8tfvyrd4153YIqiAkLYHHbzCKA7pca2U1eHlfruAcQWym9etuGtPn8l_3urAqzfkwH7LXyJdJKMkuFyZ_psyX5s54DFCMFDXseKOgmcbhGmJjXvpTm58a-ql9Azas4ClUHdEFcmEF7pobjbQ4kqNfY3_Z-TmsSGoGr5mWFlxWJxvB6WG98crGP-FNZR2t-Qjq5pVU0EAxQPehRh_ia6J-59WsJt9w4hlSKBtTXYPi_JuZDmzERCZxgaQB4OGJYekyP7jm2JdLf00c8JBbaPDRvKgZx9T2HuRVXT-gvRrm2NzLw0iM2NcKKoycG_guamxJ6yt0Kw0LLT1oHVT9H4KhD8SFrsO_EEL9SHM43MfRCT7T602sFQvVWEblX4mlrJtLt_ndPX7lTv5mULwKAW3yuw7zUVrAT1ZbGHzYoWz47VuP2Vxxhtz6HV1t3lCUAXSzd0c2EOAjsQD2ScJk6fgNPvcTMStHDoZg2MXHENyUgK3ShDrrT4hUHGCjb8MtyygaxgfgNt0HAE38GQ
-#EXTINF:-1 tvg-name="Noite De Terror 2" tvg-logo="http://lgfp.one/EJG" group-title="TERROR",NOITE DE TERROR 2
+#EXTINF:-1 tvg-name="Noite De TERROR 2" tvg-logo="http://lgfp.one/EJG" group-title="TERROR",NOITE DE TERROR 2
 http://130.250.189.81/vauth/2943.mp4?token=nUGrEnI-3gVCNgB2tqPPw9nUB9rdFIrlERaL7BG4zqmde0kHUSfODDXM7aZmp_ncW0e_6BWHdhrmrPEYIGozNuO70CxTaGSRkiYwzkrjPnw3RD-2DEVXcElG2E8e121dZrbOMP6l9qvHXBoeC40As55N3TjDlQ4QrOOwj3w8MvrzXd6OYv9BftqCr3kxgniLSysy_sn53tkSEMfY3RrpgvNhpY6V_LXePVtEyOfLaHU_EiH2obIZznGtGCbFqdSZNvfdb0ncb9Ibz5e3BaQJHop2s55cTOueswf9y29wj3RHP1Kxut-6KLyM1Ql3AvHf8Xb1jq2tVMDN3vshGZ_Ij9LEG6W-X5WJum2nRdBHBNhy-Go49NN7XyhtCPgwEnPbbwJVqDVEUjluVxP8_Xtg6VBRC5h8HaRAShOZ5q_LZUM1RUAhVXYw57oIZZLUQGkhHe9tW4mUlNkDgTo3an2_uuQuAAiz1yKIFNY0khx-x3HwOrQl7PSrnv0WE6ZzprL-GKS59QuDFK9zsE3DHMfcDxkUMWSai_ewOvBUymxmeMUE4BZo8U6HjCzdtJLeGSSPV9kOscNcLUDk0eNAEw1xbA
 #EXTINF:-1 tvg-name="Drag茫o Vermelho" tvg-logo="http://lgfp.one/EJI" group-title="CRIME | SUSPENSE",DRAG脙O VERMELHO
 http://130.250.189.81/vauth/2945.mp4?token=nUGrEnI-3gVCNgB2tqPPw6BaRCHN9itkmhWJLOCKvaAGo1X5fjv2nZMBUetyvFJim0muQMJHH6Tmf5s4R4SwE5Ezp2lRcNgxD9bQQnPAmDX48Umb5nPY-aIRDBpXklOw-P8Ca2wO4uCXXUMPk5ZVBv_8ljdXERXntcTR2Uc8vxpHtnUq5ZpVzlagy3ORZdSC2-aoer67eLK942j0QMVzjQzM2AQPKH8M_sReUMC7rbE1yKFDTlMWFaVck7yA2IkflRqjlysx806RwdaboHAUGldedyJBO-NsOmWWOWpD5VbGtl6CB0ayxL4hPZzl12UjsRu61uY7kYwwknzhKopv1CDPcehrv1CedMrymZjdIvsXlFjh01UtjZ3IlXw08vuzYKS9-hgDyvrDuL8CEw7Di1Z9vZQgJ1QucRmvkqy-T3UYQjgvf0NBcCHMbh8AENSC-4_NChyNqdckzA2aNjQoZkdg7sqcwMRj5jkkDd0sLe0lVD-TXMOhx3jbMWxhcpgm5ctMVZhi2sqcKHh2l9u7_P7m39lMWLhP2pDuw1eazQKSK9fiCbomEwvj1qFuODMljXlpElURSVop677TEtpUcg
@@ -3219,7 +3233,7 @@ http://130.250.189.81/vauth/2989.mp4?token=bJcnTD_VpdRoAqhQeVtY5HXfFjSL9Qitityjm
 http://130.250.189.81/vauth/2995.mp4?token=WjzZhipOjw2d3In-cBCEaH03G7rOTDILsxcqHOzLE8lC8KBdiFcFI-tIOAocrIfUEeg5UTyevnk4P3tI-fFDLQKfZgK0Fsuf0n1Q2YZ3KeX0HnOLAuhOgdUktUs7kdcowXC2zwuphzT2OFK_mwrS7OLnpcpsqOlnKka0Vt7WJkgr8MjzImh0sGV5BRG6b-cgbQE71WgriJCx-GiPC1LnaXcxlDEoCmHL1ccbHBKGo5COPbDj8sUyTJPOPEKz6GLfrK6S5pIXwm0QYhN1GwwThRUkLspfNkpx2MrfTdJ7fR0jv9j94GsNLCX2h3EtaxEWhr-hCWGlFmd-iOUEkwrq22F10tX7LxS-eiduHc1Y7phUNi14HpvudxFSgiepvpZUVtjV8du3QC8s92S9OeWeXM7w-NY3gMnMB-gdAHzyjL5nZVKHDntpfgjpIrtYIBewWj7PQvJIbp6cmePR2mz525kkSLYge50IfyCHrCot7Lfdig80pQiK580EKrnAUUSKGj2ekfqgXCmzWzEhA2zxQsAwnrZGI2Zx4BXzrfN10sWITdB5HJz5p8u_v2W76S1J59mEe-jfxDuUOhqFGeA7_Q
 #EXTINF:-1 tvg-name="Aterrorizados" tvg-logo="http://lgfp.one/ELE" group-title="TERROR",ATERRORIZADOS
 http://130.250.189.81/vauth/2999.mp4?token=WjzZhipOjw2d3In-cBCEaBZLiQJcCj0kOjqtJQdMkpPGqdRi8ifvOetaity4WIMppKsrZuKBJHx2XiR3iVPInKPZ9ZnVttYb3Mtqx5LeWyYwv4HbsN_gJGqFuSp1PzWIaqb0b3ozSXUf_9dJH_3RkZtheezONfY-FH26pqd8By4Mj9GbhTYtDaT6lOSF1g7Rap1D_LFUicmiPzROGHxAWTozJHRB6wauN0cO0s09hoFSgxFBoZFcGtNdbxZSuWC6OAPJp9rz3iOiYmzCuM1wmhsV4el-2h2fVY70qIi9RCx9RkNB9CYDEPtS-ot_gupSOqiWaTOr0Gq1GgzO8QFMOenpbSzjXuMqYmLQvs8_bxs7wYtl-OV2HX9TWJoHAD1-Y2KQPFmD3KhBbnjJzp2CR75nGB_MWBSKr3eN1SoZCd00wGh57kCkQjW9k_-bSD5cTVB6rCXvPbS2vbbOD1OGaZ1ip3twE_MuMk5F2vaFGndJleWRnM8jzKOusORsKlJsK_9_LPIeh0qKkuIWN2Tyu4lMH9s_Fgd4zL0n0JFLckrOkEbGmseVYQMRtiNUsm8ad9KUUhcz4LkQWRy9Q_mncA
-#EXTINF:-1 tvg-name="Terror na Parada de Caminh玫es" tvg-logo="http://lgfp.one/PXL1" group-title="SUSPENSE | TERROR",TERROR NA PARADA DE CAMINH脮ES
+#EXTINF:-1 tvg-name="TERROR na Parada de Caminh玫es" tvg-logo="http://lgfp.one/PXL1" group-title="SUSPENSE | TERROR",TERROR NA PARADA DE CAMINH脮ES
 http://89.222.120.121/vauth/328497.mp4?token=hDy4wJ5BNVZ9IA4Jn-lo8_QDT6C-VtMUf9zPn38KrGsqL9h18NeOmpW7e7WpdJ5S_oKdD0U0MPFyA0br6bFJ2Ec1N27_gdKk4z5b-xrMP40-K9kChzcp4APE9QHBWYZwX7HuJVKtmZB78iLQsgKhhDAqtFkOlmGR2rvd_aH-VbObAwi2l9hQ_TQTU3GxOsS1WewMlu5i1Kdsvo2yKxl5-Dma6yJL3iScumkLJjP9t5BHHQB1hSWGs6g1uukGAEgJgUiFhRyq2Y89Pt7Y0vKGNprbf9Zaj_tmVkjPazHFAJm9OetJ6RaAu8QXFjqyfrrRJda98CP_9O0IJ_cQbDmyBzMa9mpuE3MUBUtqmgdLe8C4PdCXx3EA1PbrGkmkjOJb-4eJnmCzLKH4wHrdyb2OdjNW9cdogjO_Wlgmnvo7jX2bAHiiXAV1gTKdrb5U53SF3M4tojGZlAhEaJ7-75BvoeZWDPlkP7hSdS6nG1MewQMac21n8F7K__Pd-TVpeog0E0VcpLBA2LM-gSkCvXDjR2KosCf2i6kEnou06XVKFDU3SQMpfjIqaH_E5EMK0BSREbqZZcql8DlO4fEDqT1bFMs0hRTB6NFgA9xurLLvZa8
 #EXTINF:-1 tvg-name="Blade Runner: O Ca莽ador de Andr贸ides" tvg-logo="http://lgfp.one/PXN2" group-title="F. CIENTIFICA",BLADE RUNNER: O CA脟ADOR DE ANDR脫IDES
 http://89.222.120.121/vauth/328599.mp4?token=hDy4wJ5BNVZ9IA4Jn-lo88iAcumeFMLDhuJxIRYOpepF5cEF1JZg1vL-TpmxeV9Ek5YD_hZlRkNeMHsO1Bigl0kZltHtLFAxOiED-3vAhxfKfshrmXZ5k_Gm5rglYqY7TPr_HpEU4BH7O-hdLnH3fRGAlm8yGouHQaw_3f_e90urLxh9wr-haCcRRU94NqnYuEDLz4lIX2jsKcrfeXnzJu9h8hZJ72XkUm06oOp8ncc0Q-B6BsKZrA0WuKjOMAN8u41zhOpcusFpfPqvbL8EnbXlvmMSzcrU9MrsUh1E__Ylf7Eg5lQ1MeIzUWbDlzF9v2Az-UKWyEVDfBxm8QihdLZMAQd7WXHOLA2EVs6OlHxCcwR8Amo_q-1lmI6j92j7Z4GxGfstd9N_68OUrb4MB919453aJ2WJUo5jh7mtCYXQWwbJ59WyuLV6MWaqzujNY13qvLuif1yRH_DPyzZUhErfMnoJBLW3-SKFIseZLO62bZ3bUel2xjtRs6yAGKGgYgpCefVKM9ExqWsMILuN0g5B6HpBIZ3GGjOxjpn7t9BAqW7hdceSSbtqRNLC0yUJzw4Apy0K0G0a0XnF5_g8cC9U8p1MaVFuc7S9xTtkinQ
