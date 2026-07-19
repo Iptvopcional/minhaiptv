@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="https://i.postimg.cc/QxGSDVTX/ANIMALPLANET.png" group-title="TV AO VIVO",ANIMAL PLANET HD
-http://cdnplay.sbs:80//live/948113782/557343934/6681868.ts
-#EXTINF:-1 tvg-id="a&e.br" tvg-name="Comedy Central HD" tvg-logo="https://i.postimg.cc/cCJmhMvd/COMEDYCENTRAL.png" group-title="TV AO VIVO",COMEDY CENTRAL HD
-http://cdnplay.sbs:80//live/948113782/557343934/6682238.ts
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RJ Inter TV Serra Mar HD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="TV AO VIVO",GLOBO RJ INTER TV SERRA MAR HD
-http://cdnplay.sbs:80//live/948113782/557343934/8100919.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BA SANTA CRUZ HD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="TV AO VIVO",GLOBO BA SANTA CRUZ HD
-http://cdnfive.top:80/170340849/398096733/8105495.ts
-#EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="GLOBO TV BAHIA HD" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="TV AO VIVO",GLOBO TV BAHIA HD
-http://cdnplay.sbs:80//live/948113782/557343934/8100782.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA JUAZEIRO" tvg-logo="http://cdnsuper.top:80/images/e698b57073ab5e41c4996f099993a7e5.png" group-title="TV AO VIVO",GLOBO BAHIA JUAZEIRO
-http://cdnplay.sbs:80//live/948113782/557343934/8105497.ts
-#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD" tvg-logo="https://i.postimg.cc/3rBJzMwF/VIVA.png" group-title="TV AO VIVO",VIVA HD
-http://cdnplay.sbs:80//live/948113782/557343934/6682281.ts
-#EXTINF:-1 tvg-id="recordtvrio.br" tvg-name="RECORD RIO HD" tvg-logo="http://cdnsuper.top:80/images/051431420d666cae51bf0deac2fd5184.png" group-title="TV AO VIVO",RECORD RIO HD
-http://cdnplay.sbs:80//live/948113782/557343934/6681776.ts
-#EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="http://cdnsuper.top:80/images/10507ffb5b69aca4d9102e91793059b2.png" group-title="TV AO VIVO",SBT RJ HD
-http://cdnplay.sbs:80//live/948113782/557343934/6681814.ts
-#EXTINF:-1 tvg-id="bandrj.br" tvg-name="Band RJ HD" tvg-logo="http://cdnsuper.top:80/images/0f6aeb599ce04499472d633b339bcd01.png" group-title="TV AO VIVO",BAND RJ HD
-http://cdnplay.sbs:80//live/948113782/557343934/6681796.ts
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="http://futbanner.xyz/ICONES/SPORTV.png" group-title="TV AO VIVO",SPORTV HD
-http://cdnplay.sbs:80//live/948113782/557343934/6681669.ts
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
