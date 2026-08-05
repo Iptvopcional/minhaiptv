@@ -5000,20 +5000,16 @@ https://video.wixstatic.com/video/db47f8_14f015de103d489189e90987fb55de55/480p/m
 https://video.wixstatic.com/video/db47f8_6f7b0dd1696c4ad8a18fc3b2a0462b54/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="http://suatela.net/" tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/210/284/21028484_20130814221511175.jpg" group-title="SUSPENSE | TERROR", ARRASTE-ME PARA O INFERNO (2009)
 https://video.wixstatic.com/video/db47f8_21e967e270b1444ba557d0ba6d7cae36/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.digital/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iGOA1Casn-6Mip3TV7C1btQqN-dHbEHi_n8sMu-w75_IAZsRNjjkiKDAvnz8ddYMzg.webp?w=370&h=556" group-title="SUSPENSE | TERROR", APENAS CORRA 2024
-https://sempra.pro/a1/out/6/4194/4194_apenas.corra.2023.1080p.web-dl.eac3.aac.dual.5.1.m3u8
-#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.digital/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iJyMBXeLEKRxD44J9AszAYIHrjvk-aFHfYa7C31fE8f93eXk9h8T9rftS04deMncLw.webp?w=370&h=556" group-title="AÇÃO | TERROR", A M脕FIA DOS VAMPIROS 2017
-https://sempra.pro/a1/out/6/4791/4791_a.mafia.dos.vampiros.2018.1080p.web-dl.dual.m3u8
-#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.digital/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35Zt1jtspi44Q-qG93LREMzs6hFvogsfKSloTvVb0gJuGk.webp?w=370&h=556" group-title="SUSPENSE | TERROR", A LONGA MARCHA: CAMINHE OU MORRA 2025
-https://sempra.pro/a1/out/6/11421/11421_a.longa.marcha.caminhe.ou.morra.2025.1080p.web-dl.dual.5.1.m3u8
-#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.digital/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZzNMmbGZfJR0ESNC-15--iDtiBnLJLypjNQ7Hd4Fs-gZ0sjgE5Z3Wa4KhlL4U-CO4c5NQV1q-zGfHmiafU2pE0Q.webp?w=370&h=556" group-title="COMÉDIA", A SOGRA PERFEITA 2020
-https://sempra.pro/a1/out/6/7006/7006_a-sogra-perfeita-2020-1080p-web-dl-nacional.m3u8
-#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmI5Y2JmNTItMmRhNC00ZjcxLTg0MjgtYzVlMzA1YzhmMWVmXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg" group-title="SUSPENSE | TERROR", A HORA DO MAL 2025
-https://sempra.pro/a1/out/6/10893/10893_a.hora.do.mal.2025.1080p.web-dl.dual.5.1.m3u8
-#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.movie/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZYVaIhXHL4HZwYYY14hR3QjDBjAjClWvvMPzqiuinnWU.webp?w=370&h=556" group-title="AÇÃO | FICÇÃO", ANDRON: LABIRINTO NEGRO 2015
-https://sempra.pro/a1/out/old/6/550/550_417773569andron-labirinto-negro.m3u8
-#EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QOV8" group-title="SUSPENSE | TERROR", ANIMAIS PERIGOSOS 2025
-https://sempra.pro/a1/out/6/11466/11466_animais.perigosos.2025.1080p.web-dl.dual.5.1.m3u8
+#EXTINF:-1 tvg-id="https://topflix.actor/" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmI5Y2JmNTItMmRhNC00ZjcxLTg0MjgtYzVlMzA1YzhmMWVmXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg" group-title="SUSPENSE | TERROR", A HORA DO MAL 2025
+https://topflix.actor/a1/out/6/10893/10893_a.hora.do.mal.2025.1080p.web-dl.dual.5.1.m3u8
+#EXTINF:-1 tvg-id="https://suatela.net/home" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmI5Y2JmNTItMmRhNC00ZjcxLTg0MjgtYzVlMzA1YzhmMWVmXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg" group-title="SUSPENSE | TERROR", A HORA DO MAL 2025
+https://vac44244366864.irineushopgod.store/deregodego/ponbola/firm/1/4h0r4d0m4lDUB.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=A00SI9YXTI8XYN2X9SLA%2F20260805%2Fus-west-1%2Fs3%2Faws4_request&X-Amz-Date=20260805T131244Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Signature=97b5d3dd5f15a8d4c2316f4de7e51674888379a2a8da2db25b4686310ed5fb43
+#EXTINF:-1 tvg-id="https://topflix.actor/" tvg-logo="https://topflix.movie/resize/WGROOTZkaWlwWW9hdTdmSBG67eqjce9hCsw3h3MYbe2QKTPpGwCRjuywldIih35ZYVaIhXHL4HZwYYY14hR3QjDBjAjClWvvMPzqiuinnWU.webp?w=370&h=556" group-title="AÇÃO | FICÇÃO", ANDRON: LABIRINTO NEGRO 2015
+https://topflix.actor/a1/out/old/6/550/550_417773569andron-labirinto-negro.m3u8
+#EXTINF:-1 tvg-id="https://topflix.actor/" tvg-logo="http://cc90.one/QOV8" group-title="SUSPENSE | TERROR", ANIMAIS PERIGOSOS 2025
+https://topflix.actor/a1/out/6/11466/11466_animais.perigosos.2025.1080p.web-dl.dual.5.1.m3u8
+#EXTINF:-1 tvg-id="https://suatela.net/home" tvg-logo="http://cc90.one/QOV8" group-title="SUSPENSE | TERROR", ANIMAIS PERIGOSOS 2025
+https://vac44244166864.irineushopgod.store/deregodego/novudo/firm/1/4n1m41sp3r1g0s0DUB.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=A00SI9YXTI8XYN2X9SLA%2F20260805%2Fus-west-1%2Fs3%2Faws4_request&X-Amz-Date=20260805T132420Z&X-Amz-SignedHeaders=host&X-Amz-Expires=14400&X-Amz-Signature=c94a2da628a847c9b2486863ad04b7ade2aa9276e56777e53bd66eade2920fec
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QQG6" group-title="SUSPENSE | TERROR", AL脡M-MUNDO 2024
 https://sempra.pro/a1/out/6/11530/11530_alem-mundo.2024.1080p.web-dl.x264.dual.5.1.m3u8
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="http://cc90.one/QLX5" group-title="SUSPENSE | TERROR", A MANS脙O DO HORROR 2022
