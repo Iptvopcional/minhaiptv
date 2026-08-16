@@ -12,10 +12,20 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 https://cr7v.short.gy/25mensais/s2/Whats7591634025.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="CANAIS AO VIVO",SBT HD
 http://s2.micineovs.com/SBT/index.m3u8?token=16FOTt9Ae2m8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Cidade Verde - (PI)
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/wp-content/uploads/2023/07/thathi.png" group-title="Variedades", SBT TV Thathi (SP)
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/wp-content/uploads/2023/07/sbtrs.png" group-title="Variedades",SBT RS (Youtube)
+https://ythls-v3.onrender.com/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="CANAIS AO VIVO",RecordTV SP HD 
 http://s2.micineovs.com/RECORD/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="CANAIS AO VIVO",RecordTV Conquista HD
 https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/recordtv.png" group-title="CANAIS AO VIVO", RecordTV MT
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/recordtv.png" group-title="CANAIS AO VIVO", RecordTV MT 3
+https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="CANAIS AO VIVO",Record Internacional 
 https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="CANAIS AO VIVO",RecordTV Juara HD
@@ -24,6 +34,8 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="CANAIS AO VIVO",Band TV RBA TV
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/arapuam.png" group-title="CANAIS AO VIVO", Band - TV Arapuan HD (PB)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="CANAIS ESPORTES",Band Sports HD
 http://185.152.67.187:14474/
 #EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="CANAIS ESPORTES",Band Sports HD²
@@ -50,6 +62,8 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTV HD" tvg-name="RedeTV HD" tvg-logo="https://i.imgur.com/2vYqKX5.png" group-title="CANAIS AO VIVO",RedeTV! TV Pampa RS
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/tvpantanalredetv.png" group-title="CANAIS AO VIVO", RedeTV! TV Pantanal (MT)
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeTV" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/2vYqKX5.png" group-title="CANAIS AO VIVO",TV Guará Caxias 
 https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
@@ -89,7 +103,6 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="CANAIS AO VIVO",TV BRASIL SC
 https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="CANAIS AO VIVO",TV BRASIL PB
 https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
 
@@ -434,9 +447,6 @@ https://011news.akamaized.net/011news/011news/chunklist_480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MGNoiZW.png" group-title="CANAIS AO VIVO", 011 News HD
 https://011news.akamaized.net/011news/011news/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="CANAIS AO VIVO",Record News HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9794a1b041ad875093e398bc1632460a&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1688604990&id=11709&ip=138.185.238.172&override_expiration=1500&sign=z%2BA66gwNz60ZptKvp8RUzKwjztJdlXb4BFuJDdDAARg%3D
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="CANAIS AO VIVO",Record News
 https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8
 
@@ -688,67 +698,46 @@ https://megaflix.mgfiles.lat/271358327102dbcb00df1e1b08f2298e/file.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="CANAIS AO VIVO",HBO 2 HD²
 http://streamer.sattvacabo.com.br/HBO2/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
-
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="CANAIS AO VIVO",HBO Family HD
 https://megaflix.mgfiles.lat/8ea50dc6ffce55fe09cf2468ab78d9c7/file.m3u8
-
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="CANAIS AO VIVO",HBO Family HD
 http://streamer.sattvacabo.com.br/HBO_FAMILY/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="CANAIS AO VIVO",HBO Xtreme HD
 https://megaflix.mgfiles.lat/9b84e468352d6a70935cac946f3ee4c5/file.m3u8
-
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="CANAIS AO VIVO",HBO SIGNATURE HD
 http://streamer.sattvacabo.com.br/HBO_SIGNATURE/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
-
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-name="HBO MUNDI" tvg-logo="https://i.imgur.com/kOAujW1.png" group-title="CANAIS AO VIVO",HBO MUNDI HD
 https://megaflix.mgfiles.lat/50f842ffcf8176758b9ae65b7d3590f6/file.m3u8
-
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://i.imgur.com/UnA8duG.png" group-title="CANAIS AO VIVO",HBO POP HD
 https://megaflix.mgfiles.lat/d20678fa48a14a3c8980027d3a1a27d9/file.m3u8
-
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="CANAIS AO VIVO",Studio Universal HD
 http://15.235.42.84:8088/rj-live/rj-live/600239.ts
-
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="CANAIS AO VIVO",Universal Channel HD
 http://79.127.243.211:14623/
-
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="CANAIS AO VIVO",Universal Channel fHD
 https://megaflix.mgfiles.lat/3585e24d4ab7065fee86f7bb846a54c2/file.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="CANAIS AO VIVO",BangBang
 https://abre.ai/lSy5
-
 #EXTINF:-1 tvg-logo="https://abre.ai/mkUi" group-title="CANAIS AO VIVO",Cinerama 🇧🇴 (Bolívia)
 https://owncloud1692001.fasthostunlimited.com/hls/0/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c66e37_a7fc789f6df244b09d8e33fcbb22b2bc~mv2.png/v1/fill/w_86,h_84,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c66e37_a7fc789f6df244b09d8e33fcbb22b2bc~mv2.png" group-title="CANAIS AO VIVO",Tela Brasil TV
 https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://imgur.com/f35UF5q.png" group-title="CANAIS AO VIVO",MyTime Movies
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
-
 #EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="CANAIS AO VIVO",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
-
 #EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="CANAIS AO VIVO",SONY ONE EMOCOES
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8?ManoTV
-
 #EXTINF:-1 tvg-logo="https://imgur.com/9xo2bJt.png" group-title="CANAIS AO VIVO",Sony One Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="CANAIS AO VIVO",Cine Monde
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/x13Zoz1.png" group-title="CANAIS AO VIVO",Dark Flix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ManoTV
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W0zS0lU.png" group-title="CANAIS AO VIVO",Mr. Bean Series 
 https://amg00627-banijay-amg00627c48-tcl-us-8096.playouts.now.amagi.tv/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://imgur.com/u8XN65I.png" group-title="CANAIS AO VIVO",CHANNEL ONE 
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
- 
 #EXTINF:-1  tvg-logo="https://hdtvone.tv/wp-content/uploads/2018/09/cropped-HTO.tv-LOGO-HEADER-e1535917877621-1.png" group-title="CANAIS AO VIVO",HTO FILMES
 https://cdn-3.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
 
@@ -1604,6 +1593,10 @@ https://stmv1.srvstm.com/victor7513/victor7513/playlist.m3u8
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="CANAIS AO VIVO",Play TV
 https://isaocorp.cloudecast.com/playtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/wp-content/uploads/2023/08/playtv.png" group-title="CANAIS AO VIVO",PlayTV
+https://isaocorp.cloudecast.com/playtv/mono.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/kpoptvplay.png" group-title="Música",Kpop TV Play
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://nVFiftB.png" group-title="CANAIS AO VIVO", Ypê TV
 https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D9JfGzP.png" group-title="CANAIS AO VIVO",Rede SDP TV 
