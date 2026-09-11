@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="https://megacanaistv.space/" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.VyGnFeYoRC9jYesxp0uaYwAAAA?r=0&pid=Api&P=0&h=180" group-title="CANAIS AO VIVO", SPACE
+https://7e7e69ea3384874304911625ac34321c.s21-cloudfront-net.lat/embedtv/53d4044b192ce7e651eb3c2dcee24f64/file.txt
+
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globorj.br" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="CANAIS AO VIVO",Globo RJ HD
 http://gerenciar.vivatele.com/viva_padrao/viva2384/1
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="CANAIS AO VIVO",Globo SP HD
