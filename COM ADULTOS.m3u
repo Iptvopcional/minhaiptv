@@ -2,9 +2,12 @@
 
 #EXTINF:-1 tvg-id="https://megacanaistv.space/" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.VyGnFeYoRC9jYesxp0uaYwAAAA?r=0&pid=Api&P=0&h=180" group-title="CANAIS AO VIVO", SPACE
 https://7e7e69ea3384874304911625ac34321c.s21-cloudfront-net.lat/embedtv/53d4044b192ce7e651eb3c2dcee24f64/file.txt
-
+#EXTINF:-1 tvg-id="https://megacanaistv.space/" tvg-logo="https://exchange4media.gumlet.io/news-photo/105000-axn.jpg" group-title="CANAIS AO VIVO",AXN
+https://7e7e69ea3384874304911625ac34321c.s21-cloudfront-net.lat/embedtv/286eec43c2b34cd96b4e4c9049f55b07/file.txt
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globorj.br" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="CANAIS AO VIVO",Globo RJ HD
 http://gerenciar.vivatele.com/viva_padrao/viva2384/1
+#EXTINF:-1 tvg-id="https://megacanaistv.space/" tvg-logo="https://3.bp.blogspot.com/-QEFqD1UelOU/W3mmQSvG8mI/AAAAAAAABNg/t8K20h_XcbwGNBMOv7i5J54TqvecBN8iACLcBGAs/w1200-h630-p-k-no-nu/Dark%2BUrban%2BYoutube%2BChannel%2BArt%2B%25284%2529.png" group-title="CANAIS AO VIVO",GLOBO SP
+https://af4a57797a8428477fa9ebd4ea7397ba.s21-cloudfront-net.lat/nossoplayer/5b951eabb09363f852353c954d305900/file.txt
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="CANAIS AO VIVO",Globo SP HD
 http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="CANAIS AO VIVO",Globo SP HD²
@@ -384,6 +387,8 @@ http://s2.micineovs.com/TNT/index.m3u8?token=16FOTt9Ae2m8
 http://streamer.sattvacabo.com.br/WARNER_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="CANAIS AO VIVO",A&E HD
 http://79.127.238.228:14551/
+#EXTINF:-1 tvg-id="https://megacanaistv.space/" tvg-logo="https://tse3.mm.bing.net/th/id/OIF.0Jcb4pB1k2KL0L8XnotHHQ?r=0&pid=Api&P=0&h=180" group-title="CANAIS AO VIVO",A&E
+https://7e7e69ea3384874304911625ac34321c.s21-cloudfront-net.lat/embedtv/1439c7ef00db3c2e4990d0ae179e655d/file.txt
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="CANAIS AO VIVO",Telecine Pipoca HD
 http://s2.micineovs.com/TELECINEPIPOCA/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.imgur.com/SGr7sdL.png" group-title="CANAIS AO VIVO",Telecine Premium HD
@@ -1287,6 +1292,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="CANAIS AO VIVO", Motorvision 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
 
+#EXTINF:-1 tvg-id="https://megacanaistv.space/" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.VyGnFeYoRC9jYesxp0uaYwAAAA?r=0&pid=Api&P=0&h=180" group-title="CANAIS 24H", CHAVES 24H
+https://7e7e69ea3384874304911625ac34321c.s21-cloudfront-net.lat/embedtv/73ee56231f7056317d1da23e10748868/file.txt
+
 ################################### SERIES ################################### SERIES ###################################
 
 ################################### FILMES NOVOS PATRICK ###################################
@@ -1297,12 +1305,8 @@ http://sanyyy.top/movie/853147733/119555943/4253751.mp4
 http://sanyyy.top/movie/853147733/119555943/4266689.mp4
 #EXTINF:-1 type="video" tvg-id="A Barraca do Beijo" tvg-logo="https://image.tmdb.org/t/p/w500/n2P84bRyMhfabyPZ0nhBxHyngya.jpg" group-title="FILMES NOVOS",A Barraca do Beijo
 http://sanyyy.top/movie/853147733/119555943/4266690.mp4
-#EXTINF:-1 type="video" tvg-id="A Barraca do Beijo 2 (1)" tvg-logo="https://image.tmdb.org/t/p/w500/70lUUh0XhpPXU0RQlBRfJlEUmB.jpg" group-title="FILMES NOVOS",A Barraca do Beijo 2 (1)
-http://sanyyy.top/movie/853147733/119555943/4266698.mp4
 #EXTINF:-1 type="video" tvg-id="Pulando a Vassoura" tvg-logo="https://image.tmdb.org/t/p/w500/f81nlZHjsyGRmLS0zfI3Dc1w3RU.jpg" group-title="FILMES NOVOS",Pulando a Vassoura
 http://sanyyy.top/movie/853147733/119555943/4267137.mp4
-#EXTINF:-1 type="video" tvg-id="Lucy (1)" tvg-logo="https://image.tmdb.org/t/p/w500/6f10Yn1vooCMhb6DrY6AvsK19Yh.jpg" group-title="FILMES NOVOS",Lucy (1)
-http://sanyyy.top/movie/853147733/119555943/4268953.mp4
 #EXTINF:-1 type="video" tvg-id="Hellboy e o Homem Torto (1)" tvg-logo="https://image.tmdb.org/t/p/w500/9KxEyyDnuiDs3Er9nQgpJq9yk8g.jpg" group-title="FILMES NOVOS",Hellboy e o Homem Torto (1)
 http://sanyyy.top/movie/853147733/119555943/4269004.mp4
 #EXTINF:-1 type="video" tvg-id="Divertida Mente 2 (1)" tvg-logo="https://image.tmdb.org/t/p/w500/lHKNS35r4RTa9GO72vdadMLxoiV.jpg" group-title="FILMES NOVOS",Divertida Mente 2 (1)
@@ -1387,26 +1391,18 @@ http://sanyyy.top/movie/853147733/119555943/4227431.mp4
 http://sanyyy.top/movie/853147733/119555943/4221724.mp4
 #EXTINF:-1 type="video" tvg-id="Arthur e os Minimoys" tvg-logo="https://image.tmdb.org/t/p/w500/4h8zDLrDJhZISdYVWVNLPl9WuW5.jpg" group-title="FILMES NOVOS",Arthur e os Minimoys
 http://sanyyy.top/movie/853147733/119555943/4221725.mp4
-#EXTINF:-1 type="video" tvg-id="Atração Fatal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSfJwVpXW1QqUV4ldAQScv5gmjj.jpg" group-title="FILMES NOVOS",Atração Fatal
-http://sanyyy.top/movie/853147733/119555943/4221422.mp4
 #EXTINF:-1 type="video" tvg-id="Cabana 28 - Madrugada do Horror" tvg-logo="https://image.tmdb.org/t/p/w500/yQ4dfA1l4EPGjU4wrGma8Xnhlg1.jpg" group-title="FILMES NOVOS",Cabana 28 - Madrugada do Horror
 http://sanyyy.top/movie/853147733/119555943/4229233.mp4
-#EXTINF:-1 type="video" tvg-id="De Repente uma Família (1)" tvg-logo="https://image.tmdb.org/t/p/w500/89uyFdvre8F51FfEk4GYv5iW8AL.jpg" group-title="FILMES NOVOS",De Repente uma Família (1)
-http://sanyyy.top/movie/853147733/119555943/4226871.mp4
 #EXTINF:-1 type="video" tvg-id="Dirty Dancing 2: Noites de Havana" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0wPl3d1yvveInjV2kpO2NCZNMz.jpg" group-title="FILMES NOVOS",Dirty Dancing 2: Noites de Havana
 http://sanyyy.top/movie/853147733/119555943/4221398.mp4
 #EXTINF:-1 type="video" tvg-id="Dirty Dancing: Ritmo Quente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUVIRUpqKQa8uKDgyYrQHs6rlbz.jpg" group-title="FILMES NOVOS",Dirty Dancing: Ritmo Quente
 http://sanyyy.top/movie/853147733/119555943/4221397.mp4
 #EXTINF:-1 type="video" tvg-id="Embriagado de Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24EtiVyAIG9uk7tA5Gwap1XKKMk.jpg" group-title="FILMES NOVOS",Embriagado de Amor
 http://sanyyy.top/movie/853147733/119555943/4221406.mp4
-#EXTINF:-1 type="video" tvg-id="Estrelas Além do Tempo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6A1Jn0tooQYgi2C8sNz5OaIW98C.jpg" group-title="FILMES NOVOS",Estrelas Além do Tempo
-http://sanyyy.top/movie/853147733/119555943/4221417.mp4
 #EXTINF:-1 type="video" tvg-id="Flamin' Hot: O Sabor que Mudou a História" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swcV0H1ODbH2Afb9ljYzzdeUyCW.jpg" group-title="FILMES NOVOS",Flamin' Hot: O Sabor que Mudou a História
 http://sanyyy.top/movie/853147733/119555943/4221414.mp4
 #EXTINF:-1 type="video" tvg-id="Flamin' Hot: O Sabor que Mudou a História 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swcV0H1ODbH2Afb9ljYzzdeUyCW.jpg" group-title="FILMES NOVOS",Flamin' Hot: O Sabor que Mudou a História 4K
 http://sanyyy.top/movie/853147733/119555943/4221416.mp4
-#EXTINF:-1 type="video" tvg-id="Foi Apenas Um Acidente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFJVkYiiVqaYE3wJYsqE3oWUiLK.jpg" group-title="FILMES NOVOS",Foi Apenas Um Acidente
-http://sanyyy.top/movie/853147733/119555943/4221408.mp4
 #EXTINF:-1 type="video" tvg-id="Hairspray: Em Busca da Fama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xIvGhsiZeY5wKTKw8o0Fi7bey8.jpg" group-title="FILMES NOVOS",Hairspray: Em Busca da Fama
 http://sanyyy.top/movie/853147733/119555943/4221420.mp4
 #EXTINF:-1 type="video" tvg-id="Moana 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnqgkKoIGf6hErzRm6VtaK1OJrD.jpg" group-title="FILMES NOVOS",Moana 2
@@ -1430,566 +1426,819 @@ http://sanyyy.top/movie/853147733/119555943/4221407.mp4
 
 ################################### FILMES LANÇAMENTOS 2026 PATRICK ###################################
 
-#EXTINF:-1 type="video" tvg-id="Morando Com o Inimigo" tvg-logo="https://image.tmdb.org/t/p/w500/6W12WT2THoSVu2zAzXqlWyFaOmE.jpg" group-title="LANÇAMENTOS 2026",Morando Com o Inimigo
-http://sanyyy.top/movie/853147733/119555943/4247264.mp4
-#EXTINF:-1 type="video" tvg-id="Banlieusards 3" tvg-logo="" group-title="LANÇAMENTOS 2026",Banlieusards 3
-http://sanyyy.top/movie/853147733/119555943/4247265.mp4
-#EXTINF:-1 type="video" tvg-id="Vollúpya" tvg-logo="https://image.tmdb.org/t/p/w500/lTANN8yOF8fevkVk3ykea6qG494.jpg" group-title="LANÇAMENTOS 2026",Vollúpya
-http://sanyyy.top/movie/853147733/119555943/4247266.mp4
-#EXTINF:-1 type="video" tvg-id="Macaléia" tvg-logo="https://image.tmdb.org/t/p/w500/tns0JHZQql0LJORShbml2ATm0Dk.jpg" group-title="LANÇAMENTOS 2026",Macaléia
-http://sanyyy.top/movie/853147733/119555943/4247267.mp4
-#EXTINF:-1 type="video" tvg-id="O Segredo da Chef" tvg-logo="https://image.tmdb.org/t/p/w500/2gFI2nudS2Jv8V8cPSgNCKcxVtE.jpg" group-title="LANÇAMENTOS 2026",O Segredo da Chef
-http://sanyyy.top/movie/853147733/119555943/4247268.mp4
-#EXTINF:-1 type="video" tvg-id="Parque Lezama" tvg-logo="https://image.tmdb.org/t/p/w500/ckBRproYQsXAJGtyejKjDr5ZcBU.jpg" group-title="LANÇAMENTOS 2026",Parque Lezama
-http://sanyyy.top/movie/853147733/119555943/4247269.mp4
-#EXTINF:-1 type="video" tvg-id="O Poder do Pecado" tvg-logo="https://image.tmdb.org/t/p/w500/kQB6VcKQir5QTfuqwAQ83JVTz7S.jpg" group-title="LANÇAMENTOS 2026",O Poder do Pecado
-http://sanyyy.top/movie/853147733/119555943/4247270.mp4
-#EXTINF:-1 type="video" tvg-id="As Linhas da Minha Mão" tvg-logo="https://image.tmdb.org/t/p/w500/foVMIyTMLOtPXxNXQQddQ9aAvkZ.jpg" group-title="LANÇAMENTOS 2026",As Linhas da Minha Mão
-http://sanyyy.top/movie/853147733/119555943/4247271.mp4
-#EXTINF:-1 type="video" tvg-id="Pé na Estrada – O Movimento de uma Nação" tvg-logo="https://image.tmdb.org/t/p/w500/csvc2q2o4dJWqYipE9Lv0nPoDT4.jpg" group-title="LANÇAMENTOS 2026",Pé na Estrada – O Movimento de uma Nação
-http://sanyyy.top/movie/853147733/119555943/4247273.mp4
-#EXTINF:-1 type="video" tvg-id="O Inferno Pode Esperar" tvg-logo="https://image.tmdb.org/t/p/w500/usS3cbY6x7BEYDHjpENcULXz7OI.jpg" group-title="LANÇAMENTOS 2026",O Inferno Pode Esperar
-http://sanyyy.top/movie/853147733/119555943/4247274.mp4
-#EXTINF:-1 type="video" tvg-id="Enterre Seus Mortos" tvg-logo="https://image.tmdb.org/t/p/w500/41Nwv99NYnrkOZRyoLI8zacZkM3.jpg" group-title="LANÇAMENTOS 2026",Enterre Seus Mortos
-http://sanyyy.top/movie/853147733/119555943/4247275.mp4
-#EXTINF:-1 type="video" tvg-id="Sombra da Morte" tvg-logo="https://image.tmdb.org/t/p/w500/ndNyEcrx1QBh9HDf2DHOqRnBri4.jpg" group-title="LANÇAMENTOS 2026",Sombra da Morte
-http://sanyyy.top/movie/853147733/119555943/4247276.mp4
-#EXTINF:-1 type="video" tvg-id="The Freediver" tvg-logo="https://image.tmdb.org/t/p/w500/uR2w89RLSnKTkPnjbhMDSJmikQj.jpg" group-title="LANÇAMENTOS 2026",The Freediver
-http://sanyyy.top/movie/853147733/119555943/4247277.mp4
-#EXTINF:-1 type="video" tvg-id="Festival de Artes de Hazelton" tvg-logo="https://image.tmdb.org/t/p/w500/sk6eLjOLzcj1jefDdWHkNpEiBFz.jpg" group-title="LANÇAMENTOS 2026",Festival de Artes de Hazelton
-http://sanyyy.top/movie/853147733/119555943/4247278.mp4
-#EXTINF:-1 type="video" tvg-id="Romance na Ficção" tvg-logo="https://image.tmdb.org/t/p/w500/rW96Ww9iPJouXlKsQL4Hcrn3gDL.jpg" group-title="LANÇAMENTOS 2026",Romance na Ficção
-http://sanyyy.top/movie/853147733/119555943/4247279.mp4
-#EXTINF:-1 type="video" tvg-id="Encontrando o Amor em Yosemite" tvg-logo="https://image.tmdb.org/t/p/w500/j3F7ZVAQwW7RrpZ4gTKtuC93REz.jpg" group-title="LANÇAMENTOS 2026",Encontrando o Amor em Yosemite
-http://sanyyy.top/movie/853147733/119555943/4247280.mp4
-#EXTINF:-1 type="video" tvg-id="Párvulos: Filhos do Apocalipse" tvg-logo="https://image.tmdb.org/t/p/w500/5iLsx5YgT2cy2JTqoVRZNjw6C6S.jpg" group-title="LANÇAMENTOS 2026",Párvulos: Filhos do Apocalipse
-http://sanyyy.top/movie/853147733/119555943/4247281.mp4
-#EXTINF:-1 type="video" tvg-id="Um Retrato de Teresa" tvg-logo="https://image.tmdb.org/t/p/w500/aSixWdQ98JPikRzuSTVDMpmi7IZ.jpg" group-title="LANÇAMENTOS 2026",Um Retrato de Teresa
-http://sanyyy.top/movie/853147733/119555943/4247283.mp4
-#EXTINF:-1 type="video" tvg-id="Valatty: Jornada de Amor e Amizade" tvg-logo="https://image.tmdb.org/t/p/w500/hujsfIAbgTdHDhF81CjRgZ5bRWG.jpg" group-title="LANÇAMENTOS 2026",Valatty: Jornada de Amor e Amizade
-http://sanyyy.top/movie/853147733/119555943/4247284.mp4
-#EXTINF:-1 type="video" tvg-id="Em Um Piscar de Olhos" tvg-logo="https://image.tmdb.org/t/p/w500/jWWgclKzxtaSvjYuchsknSqqyrN.jpg" group-title="LANÇAMENTOS 2026",Em Um Piscar de Olhos
-http://sanyyy.top/movie/853147733/119555943/4247285.mp4
-#EXTINF:-1 type="video" tvg-id="Tom e Jerry: Uma Aventura no Museu" tvg-logo="https://image.tmdb.org/t/p/w500/eqQpR3H0bIMiLnjTt0YLVKfS1hI.jpg" group-title="LANÇAMENTOS 2026",Tom e Jerry: Uma Aventura no Museu
-http://sanyyy.top/movie/853147733/119555943/4247286.mp4
-#EXTINF:-1 type="video" tvg-id="Gladiadores" tvg-logo="https://image.tmdb.org/t/p/w500/lwyBbGEku7KzjM7DzL3AX0ZOrJl.jpg" group-title="LANÇAMENTOS 2026",Gladiadores
-http://sanyyy.top/movie/853147733/119555943/4247287.mp4
-#EXTINF:-1 type="video" tvg-id="Instinto Fatal" tvg-logo="https://image.tmdb.org/t/p/w500/6wyjAVAjbvheaxYw284Lo6ezAwv.jpg" group-title="LANÇAMENTOS 2026",Instinto Fatal
-http://sanyyy.top/movie/853147733/119555943/4247288.mp4
-#EXTINF:-1 type="video" tvg-id="Hierarchy" tvg-logo="https://image.tmdb.org/t/p/w500/pyoe5bYZK3ZBOucud1CXe3CjRNc.jpg" group-title="LANÇAMENTOS 2026",Hierarchy
-http://sanyyy.top/movie/853147733/119555943/4247289.mp4
-#EXTINF:-1 type="video" tvg-id="Desta Vez, Para Sempre" tvg-logo="https://image.tmdb.org/t/p/w500/keSB3VpySTie5UjST7xhKAeP7yX.jpg" group-title="LANÇAMENTOS 2026",Desta Vez, Para Sempre
-http://sanyyy.top/movie/853147733/119555943/4247290.mp4
-#EXTINF:-1 type="video" tvg-id="A Incrível Eleanor" tvg-logo="https://image.tmdb.org/t/p/w500/1BKfPBPVGfLAIIDu8RRJqaIglLU.jpg" group-title="LANÇAMENTOS 2026",A Incrível Eleanor
-http://sanyyy.top/movie/853147733/119555943/4247291.mp4
-#EXTINF:-1 type="video" tvg-id="Um Homem de Coragem" tvg-logo="https://image.tmdb.org/t/p/w500/iXU47OhXJFm9HUiAoCn82xMLwZE.jpg" group-title="LANÇAMENTOS 2026",Um Homem de Coragem
-http://sanyyy.top/movie/853147733/119555943/4247292.mp4
-#EXTINF:-1 type="video" tvg-id="Super Wings: Em Velocidade Máxima" tvg-logo="https://image.tmdb.org/t/p/w500/2ZHdux1976LH4rKeggaX9DCbahB.jpg" group-title="LANÇAMENTOS 2026",Super Wings: Em Velocidade Máxima
-http://sanyyy.top/movie/853147733/119555943/4247293.mp4
-#EXTINF:-1 type="video" tvg-id="Corra, Baby, Corra" tvg-logo="https://image.tmdb.org/t/p/w500/w5wGJiZ2CUJ5lfqBmu8gZ5Zniny.jpg" group-title="LANÇAMENTOS 2026",Corra, Baby, Corra
-http://sanyyy.top/movie/853147733/119555943/4247294.mp4
-#EXTINF:-1 type="video" tvg-id="Queen Tut" tvg-logo="https://image.tmdb.org/t/p/w500/zjlnzrmadBvNTDPMmXc7YW5hANu.jpg" group-title="LANÇAMENTOS 2026",Queen Tut
-http://sanyyy.top/movie/853147733/119555943/4247295.mp4
-#EXTINF:-1 type="video" tvg-id="Crime Sobre Rodas" tvg-logo="https://image.tmdb.org/t/p/w500/uzk7I9d8fpMcL1X1HJwxBcVgqjh.jpg" group-title="LANÇAMENTOS 2026",Crime Sobre Rodas
-http://sanyyy.top/movie/853147733/119555943/4247296.mp4
-#EXTINF:-1 type="video" tvg-id="O Grilo e a Formiga" tvg-logo="https://image.tmdb.org/t/p/w500/9U4oa0E53WcEERxqOLl0enyzH2J.jpg" group-title="LANÇAMENTOS 2026",O Grilo e a Formiga
-http://sanyyy.top/movie/853147733/119555943/4247297.mp4
-#EXTINF:-1 type="video" tvg-id="O Mundo Irá Tremer" tvg-logo="" group-title="LANÇAMENTOS 2026",O Mundo Irá Tremer
-http://sanyyy.top/movie/853147733/119555943/4247298.mp4
-#EXTINF:-1 type="video" tvg-id="O Despertal do Mal" tvg-logo="" group-title="LANÇAMENTOS 2026",O Despertal do Mal
-http://sanyyy.top/movie/853147733/119555943/4247299.mp4
-#EXTINF:-1 type="video" tvg-id="Hallow Road: Caminho Sem Volta" tvg-logo="https://image.tmdb.org/t/p/w500/aMKCpg3dYPj8NGCB64jZZllyWL1.jpg" group-title="LANÇAMENTOS 2026",Hallow Road: Caminho Sem Volta
-http://sanyyy.top/movie/853147733/119555943/4247300.mp4
-#EXTINF:-1 type="video" tvg-id="Pavana" tvg-logo="https://image.tmdb.org/t/p/w500/onUWCAs2uhNuUX5nY2wiEHAfR3T.jpg" group-title="LANÇAMENTOS 2026",Pavana
-http://sanyyy.top/movie/853147733/119555943/4247301.mp4
-#EXTINF:-1 type="video" tvg-id="Enaldinho e o Mistério da Lagoa" tvg-logo="https://image.tmdb.org/t/p/w500/mRnthkrCp0hbsTY06Wa5u9LWyxS.jpg" group-title="LANÇAMENTOS 2026",Enaldinho e o Mistério da Lagoa
-http://sanyyy.top/movie/853147733/119555943/4247302.mp4
-#EXTINF:-1 type="video" tvg-id="Corta-fogo" tvg-logo="https://image.tmdb.org/t/p/w500/6V0FLzciqJh7d1Y4zXyyqLAKnTs.jpg" group-title="LANÇAMENTOS 2026",Corta-fogo
-http://sanyyy.top/movie/853147733/119555943/4247303.mp4
-#EXTINF:-1 type="video" tvg-id="A Conexão Sueca" tvg-logo="https://image.tmdb.org/t/p/w500/lKBY11mRbPXApcXMY96RjXtT7GU.jpg" group-title="LANÇAMENTOS 2026",A Conexão Sueca
-http://sanyyy.top/movie/853147733/119555943/4247304.mp4
-#EXTINF:-1 type="video" tvg-id="Paterno" tvg-logo="https://image.tmdb.org/t/p/w500/Ad4y2Cc2FcY1wOk3DH7HVWlrgEM.jpg" group-title="LANÇAMENTOS 2026",Paterno
-http://sanyyy.top/movie/853147733/119555943/4247305.mp4
-#EXTINF:-1 type="video" tvg-id="Família de Aluguel" tvg-logo="https://image.tmdb.org/t/p/w500/6OLrvwkdkQ3vzEzhNR7g24HYbeg.jpg" group-title="LANÇAMENTOS 2026",Família de Aluguel
-http://sanyyy.top/movie/853147733/119555943/4247306.mp4
-#EXTINF:-1 type="video" tvg-id="Perdoai-nos as Nossas Ofensas" tvg-logo="https://image.tmdb.org/t/p/w500/onc5fMwe0eBlrw8DgXv3ZYgjEil.jpg" group-title="LANÇAMENTOS 2026",Perdoai-nos as Nossas Ofensas
-http://sanyyy.top/movie/853147733/119555943/4251373.mp4
-#EXTINF:-1 type="video" tvg-id="Eunice Gutman Tem Histórias" tvg-logo="https://image.tmdb.org/t/p/w500/7GDoq1ZSPSFfXzRXgYIfXHmVCDE.jpg" group-title="LANÇAMENTOS 2026",Eunice Gutman Tem Histórias
-http://sanyyy.top/movie/853147733/119555943/4251374.mp4
-#EXTINF:-1 type="video" tvg-id="Sobrevivendo na América" tvg-logo="https://image.tmdb.org/t/p/w500/zevWxVyyRQY6kMBQjRrUoA5a8a1.jpg" group-title="LANÇAMENTOS 2026",Sobrevivendo na América
-http://sanyyy.top/movie/853147733/119555943/4251375.mp4
-#EXTINF:-1 type="video" tvg-id="Sinfonia da Sobrevivência" tvg-logo="https://image.tmdb.org/t/p/w500/iSpsLTIBqiyxLEpnyimXLJ43Z0K.jpg" group-title="LANÇAMENTOS 2026",Sinfonia da Sobrevivência
-http://sanyyy.top/movie/853147733/119555943/4251376.mp4
-#EXTINF:-1 type="video" tvg-id="Granizo" tvg-logo="https://image.tmdb.org/t/p/w500/pnTp17HCwQ6EhsWfqzgwnUfhSym.jpg" group-title="LANÇAMENTOS 2026",Granizo
-http://sanyyy.top/movie/853147733/119555943/4251377.mp4
-#EXTINF:-1 type="video" tvg-id="Uma Nota para o Amor" tvg-logo="https://image.tmdb.org/t/p/w500/qu62nfKz9HfLMCJd4fVTnnNWuza.jpg" group-title="LANÇAMENTOS 2026",Uma Nota para o Amor
-http://sanyyy.top/movie/853147733/119555943/4251378.mp4
-#EXTINF:-1 type="video" tvg-id="Soldado em Fúria" tvg-logo="https://image.tmdb.org/t/p/w500/dmIl4xTL6nnjb3DodS2Df4Xo8tM.jpg" group-title="LANÇAMENTOS 2026",Soldado em Fúria
-http://sanyyy.top/movie/853147733/119555943/4251379.mp4
-#EXTINF:-1 type="video" tvg-id="Nunca Acaba, Jeff Buckley" tvg-logo="https://image.tmdb.org/t/p/w500/rrKe8bC6UKFKvfZHvbwA9Bq5hkR.jpg" group-title="LANÇAMENTOS 2026",Nunca Acaba, Jeff Buckley
-http://sanyyy.top/movie/853147733/119555943/4251380.mp4
-#EXTINF:-1 type="video" tvg-id="Invasores da Noite" tvg-logo="https://image.tmdb.org/t/p/w500/aA2Zs7FNstzzqYAFKAyMHIvKVI8.jpg" group-title="LANÇAMENTOS 2026",Invasores da Noite
-http://sanyyy.top/movie/853147733/119555943/4251381.mp4
-#EXTINF:-1 type="video" tvg-id="Prisioneira do Terror" tvg-logo="https://image.tmdb.org/t/p/w500/6cJUoeACxdJK9c7SrRlFHUm6T6m.jpg" group-title="LANÇAMENTOS 2026",Prisioneira do Terror
-http://sanyyy.top/movie/853147733/119555943/4251382.mp4
-#EXTINF:-1 type="video" tvg-id="Cinderela no Caribe" tvg-logo="https://image.tmdb.org/t/p/w500/RD21PYErP8FeYcpHu4H1bBKPNZ.jpg" group-title="LANÇAMENTOS 2026",Cinderela no Caribe
-http://sanyyy.top/movie/853147733/119555943/4251383.mp4
-#EXTINF:-1 type="video" tvg-id="Matar. Vingar. Repetir" tvg-logo="https://image.tmdb.org/t/p/w500/6kpunNhxuXCj8YKnazUc30qadpT.jpg" group-title="LANÇAMENTOS 2026",Matar. Vingar. Repetir
-http://sanyyy.top/movie/853147733/119555943/4251384.mp4
-#EXTINF:-1 type="video" tvg-id="Uno: Entre o Ouro e a Morte" tvg-logo="https://image.tmdb.org/t/p/w500/aL1DvA7f9QofwuIVt0kYp6txES.jpg" group-title="LANÇAMENTOS 2026",Uno: Entre o Ouro e a Morte
-http://sanyyy.top/movie/853147733/119555943/4252776.mp4
-#EXTINF:-1 type="video" tvg-id="Peaky Blinders: O Homem Imortal" tvg-logo="https://image.tmdb.org/t/p/w500/8XLNDeumvz0cXa6sntZJ6p4zfLb.jpg" group-title="LANÇAMENTOS 2026",Peaky Blinders: O Homem Imortal
-http://sanyyy.top/movie/853147733/119555943/4252777.mp4
-#EXTINF:-1 type="video" tvg-id="ImpunIdade: As consequências da lei da maioridade penal no Brasil" tvg-logo="https://image.tmdb.org/t/p/w500/9H0M1wGzToMqIrOMQNgotXPlTpB.jpg" group-title="LANÇAMENTOS 2026",ImpunIdade: As consequências da lei da maioridade penal no Brasil
-http://sanyyy.top/movie/853147733/119555943/4252778.mp4
-#EXTINF:-1 type="video" tvg-id="Servindo Nazistas" tvg-logo="https://image.tmdb.org/t/p/w500/aOlVasVXQLr5WjLdfJAd5KI8xTS.jpg" group-title="LANÇAMENTOS 2026",Servindo Nazistas
-http://sanyyy.top/movie/853147733/119555943/4252779.mp4
-#EXTINF:-1 type="video" tvg-id="Meu Sonho Americano" tvg-logo="https://image.tmdb.org/t/p/w500/fbrXXpnXpGHVcrXP66ZzdtsZofD.jpg" group-title="LANÇAMENTOS 2026",Meu Sonho Americano
-http://sanyyy.top/movie/853147733/119555943/4252780.mp4
-#EXTINF:-1 type="video" tvg-id="O Diário de Pilar na Amazônia" tvg-logo="https://image.tmdb.org/t/p/w500/kFBWjlAhdGgVFYXFN6hI5Pflezy.jpg" group-title="LANÇAMENTOS 2026",O Diário de Pilar na Amazônia
-http://sanyyy.top/movie/853147733/119555943/4252781.mp4
-#EXTINF:-1 type="video" tvg-id="No Reino das Sombras" tvg-logo="https://image.tmdb.org/t/p/w500/3F5BcXma9q91Sulyz6O2RBk4NEB.jpg" group-title="LANÇAMENTOS 2026",No Reino das Sombras
-http://sanyyy.top/movie/853147733/119555943/4252782.mp4
-#EXTINF:-1 type="video" tvg-id="Resgate Polar" tvg-logo="https://image.tmdb.org/t/p/w500/jGrdGu169sivYwjxHXNtPrGpbl6.jpg" group-title="LANÇAMENTOS 2026",Resgate Polar
-http://sanyyy.top/movie/853147733/119555943/4252783.mp4
-#EXTINF:-1 type="video" tvg-id="Detox de Plástico" tvg-logo="https://image.tmdb.org/t/p/w500/q97dOzjJNNz1Kw2lWZkdEjzJttp.jpg" group-title="LANÇAMENTOS 2026",Detox de Plástico
-http://sanyyy.top/movie/853147733/119555943/4252784.mp4
-#EXTINF:-1 type="video" tvg-id="Luiz Melodia - No Coração do Brasil" tvg-logo="https://image.tmdb.org/t/p/w500/5J3pHjmnCyj1DpaeBsb0BNKOq2J.jpg" group-title="LANÇAMENTOS 2026",Luiz Melodia - No Coração do Brasil
-http://sanyyy.top/movie/853147733/119555943/4252785.mp4
-#EXTINF:-1 type="video" tvg-id="Finja-se de Morta" tvg-logo="https://image.tmdb.org/t/p/w500/s8SQ73M4MvhY0U4FgV1TlukFgZJ.jpg" group-title="LANÇAMENTOS 2026",Finja-se de Morta
-http://sanyyy.top/movie/853147733/119555943/4252786.mp4
-#EXTINF:-1 type="video" tvg-id="Patrulha Noturna" tvg-logo="https://image.tmdb.org/t/p/w500/7tAyZKZc1dQsu6ybfRTcIpjsbbK.jpg" group-title="LANÇAMENTOS 2026",Patrulha Noturna
-http://sanyyy.top/movie/853147733/119555943/4252787.mp4
-#EXTINF:-1 type="video" tvg-id="Agente Zeta" tvg-logo="https://image.tmdb.org/t/p/w500/zU20MrtOAYon07ULE9wFxUeaaqd.jpg" group-title="LANÇAMENTOS 2026",Agente Zeta
-http://sanyyy.top/movie/853147733/119555943/4252788.mp4
-#EXTINF:-1 type="video" tvg-id="Sonhar com Leões" tvg-logo="https://image.tmdb.org/t/p/w500/wGuU6BWvrfUoKp0MyVJiH4bE79r.jpg" group-title="LANÇAMENTOS 2026",Sonhar com Leões
-http://sanyyy.top/movie/853147733/119555943/4252789.mp4
-#EXTINF:-1 type="video" tvg-id="Rabbit Trap" tvg-logo="https://image.tmdb.org/t/p/w500/kd4QlADSxNapjIstAuWqqqmOuIK.jpg" group-title="LANÇAMENTOS 2026",Rabbit Trap
-http://sanyyy.top/movie/853147733/119555943/4252790.mp4
-#EXTINF:-1 type="video" tvg-id="Made in Korea" tvg-logo="https://image.tmdb.org/t/p/w500/foEObhyAMM3dxYeBEr242EdQDB7.jpg" group-title="LANÇAMENTOS 2026",Made in Korea
-http://sanyyy.top/movie/853147733/119555943/4252791.mp4
-#EXTINF:-1 type="video" tvg-id="A Face Oculta de Varginha: Poder, Dinheiro e Rituais." tvg-logo="https://image.tmdb.org/t/p/w500/jhemlyhhwpEYRgnWqSPRXXFVWxL.jpg" group-title="LANÇAMENTOS 2026",A Face Oculta de Varginha: Poder, Dinheiro e Rituais.
-http://sanyyy.top/movie/853147733/119555943/4252792.mp4
-#EXTINF:-1 type="video" tvg-id="Louis Theroux: Por Dentro da Machosfera" tvg-logo="https://image.tmdb.org/t/p/w500/4KL3v3bTy8OCsgFgOlbZmeCBsQa.jpg" group-title="LANÇAMENTOS 2026",Louis Theroux: Por Dentro da Machosfera
-http://sanyyy.top/movie/853147733/119555943/4252793.mp4
-#EXTINF:-1 type="video" tvg-id="O Porão da Rua do Grito" tvg-logo="https://image.tmdb.org/t/p/w500/a4h0VpBrnMnyq0CX9PmPzFS8IVc.jpg" group-title="LANÇAMENTOS 2026",O Porão da Rua do Grito
-http://sanyyy.top/movie/853147733/119555943/4252794.mp4
-#EXTINF:-1 type="video" tvg-id="Jumbo: Um Coração Gigante" tvg-logo="https://image.tmdb.org/t/p/w500/g4Xew5ghnOBKoPyX2M4qh8jtuyn.jpg" group-title="LANÇAMENTOS 2026",Jumbo: Um Coração Gigante
-http://sanyyy.top/movie/853147733/119555943/4252795.mp4
-#EXTINF:-1 type="video" tvg-id="Um Cabra Bom de Bola" tvg-logo="https://image.tmdb.org/t/p/w500/x0SRTrltSJi1iQiIAUpyvkxnr41.jpg" group-title="LANÇAMENTOS 2026",Um Cabra Bom de Bola
-http://sanyyy.top/movie/853147733/119555943/4253014.mp4
-#EXTINF:-1 type="video" tvg-id="À Procura de Harry: A Arte por Trás da Magia" tvg-logo="https://image.tmdb.org/t/p/w500/yKsg1Q9IZmKlN6a1ykxUZf8BkGL.jpg" group-title="LANÇAMENTOS 2026",À Procura de Harry: A Arte por Trás da Magia
-http://sanyyy.top/movie/853147733/119555943/4254254.mp4
-#EXTINF:-1 type="video" tvg-id="A Noiva!" tvg-logo="https://image.tmdb.org/t/p/w500/vcdnSEcm0f0shJohkJnrOBcCq1m.jpg" group-title="LANÇAMENTOS 2026",A Noiva!
-http://sanyyy.top/movie/853147733/119555943/4254553.mp4
-#EXTINF:-1 type="video" tvg-id="Vlavianos, o Impulso e a Razão" tvg-logo="https://image.tmdb.org/t/p/w500/wf73CbB2Ag6NmMofdas79EBfGu3.jpg" group-title="LANÇAMENTOS 2026",Vlavianos, o Impulso e a Razão
-http://sanyyy.top/movie/853147733/119555943/4254729.mp4
-#EXTINF:-1 type="video" tvg-id="Ataque Brutal (1)" tvg-logo="https://image.tmdb.org/t/p/w500/349RbnEbWd38iLlqzELTUppjSt2.jpg" group-title="LANÇAMENTOS 2026",Ataque Brutal (1)
-http://sanyyy.top/movie/853147733/119555943/4254730.mp4
-#EXTINF:-1 type="video" tvg-id="Teste para Cardíaco" tvg-logo="https://image.tmdb.org/t/p/w500/g0zoFAa88CNIHWYoDPFsISCuM3z.jpg" group-title="LANÇAMENTOS 2026",Teste para Cardíaco
-http://sanyyy.top/movie/853147733/119555943/4254731.mp4
-#EXTINF:-1 type="video" tvg-id="É Quase Verdade" tvg-logo="https://image.tmdb.org/t/p/w500/aYLSUuloTcDS273R9NJwcqDjVJ8.jpg" group-title="LANÇAMENTOS 2026",É Quase Verdade
-http://sanyyy.top/movie/853147733/119555943/4254732.mp4
-#EXTINF:-1 type="video" tvg-id="O Retorno de Davy Crockett" tvg-logo="https://image.tmdb.org/t/p/w500/gu6NYYtUQhWOousLZqZmmziQnu8.jpg" group-title="LANÇAMENTOS 2026",O Retorno de Davy Crockett
-http://sanyyy.top/movie/853147733/119555943/4254733.mp4
-#EXTINF:-1 type="video" tvg-id="Lonely People: Nunca Confie em Ninguém" tvg-logo="https://image.tmdb.org/t/p/w500/soNUK2e6RiTnonbroEqWvQuH5fw.jpg" group-title="LANÇAMENTOS 2026",Lonely People: Nunca Confie em Ninguém
-http://sanyyy.top/movie/853147733/119555943/4254734.mp4
-#EXTINF:-1 type="video" tvg-id="Placa-mãe" tvg-logo="https://image.tmdb.org/t/p/w500/mQytxHlGSqSs2oVQuC9ns91iiqk.jpg" group-title="LANÇAMENTOS 2026",Placa-mãe
-http://sanyyy.top/movie/853147733/119555943/4254735.mp4
-#EXTINF:-1 type="video" tvg-id="Manual Prático da Vingança Lucrativa" tvg-logo="https://image.tmdb.org/t/p/w500/eyYbgERxVuWBhCeZZLNFlZVWLz2.jpg" group-title="LANÇAMENTOS 2026",Manual Prático da Vingança Lucrativa
-http://sanyyy.top/movie/853147733/119555943/4254736.mp4
-#EXTINF:-1 type="video" tvg-id="A Tragédia de Moriah Wilson" tvg-logo="https://image.tmdb.org/t/p/w500/mVwDPMZr6x3u2uEq9pclqbigPh2.jpg" group-title="LANÇAMENTOS 2026",A Tragédia de Moriah Wilson
-http://sanyyy.top/movie/853147733/119555943/4254737.mp4
-#EXTINF:-1 type="video" tvg-id="Grace by Night" tvg-logo="https://image.tmdb.org/t/p/w500/cDAws6LhkKmIjoRGsxzo6RgBgNT.jpg" group-title="LANÇAMENTOS 2026",Grace by Night
-http://sanyyy.top/movie/853147733/119555943/4254738.mp4
-#EXTINF:-1 type="video" tvg-id="Quase Deserto" tvg-logo="https://image.tmdb.org/t/p/w500/77gH6cZgKs1uuzmy8FuZ09VSavC.jpg" group-title="LANÇAMENTOS 2026",Quase Deserto
-http://sanyyy.top/movie/853147733/119555943/4254739.mp4
-#EXTINF:-1 type="video" tvg-id="Dois Nilos" tvg-logo="https://image.tmdb.org/t/p/w500/mLufrbc31bVPe2iDb1L92aWAFGM.jpg" group-title="LANÇAMENTOS 2026",Dois Nilos
-http://sanyyy.top/movie/853147733/119555943/4254740.mp4
-#EXTINF:-1 type="video" tvg-id="A Sombra de Um Futuro" tvg-logo="https://image.tmdb.org/t/p/w500/pLNiu9uUnmoxQrQzIwWS7K8Z3rq.jpg" group-title="LANÇAMENTOS 2026",A Sombra de Um Futuro
-http://sanyyy.top/movie/853147733/119555943/4254741.mp4
-#EXTINF:-1 type="video" tvg-id="Charlie: O Super Cão" tvg-logo="https://image.tmdb.org/t/p/w500/uvXHs10CYWRyerGSX2WuN2dzxse.jpg" group-title="LANÇAMENTOS 2026",Charlie: O Super Cão
-http://sanyyy.top/movie/853147733/119555943/4254742.mp4
-#EXTINF:-1 type="video" tvg-id="O Caso dos Estrangeiros" tvg-logo="https://image.tmdb.org/t/p/w500/weTyThAvs2JZJ3AZefA53d7vyfy.jpg" group-title="LANÇAMENTOS 2026",O Caso dos Estrangeiros
-http://sanyyy.top/movie/853147733/119555943/4254743.mp4
-#EXTINF:-1 type="video" tvg-id="Bola pra Cima" tvg-logo="https://image.tmdb.org/t/p/w500/9uMTLWiDPFWYxEwP11G9Sp9cVAk.jpg" group-title="LANÇAMENTOS 2026",Bola pra Cima
-http://sanyyy.top/movie/853147733/119555943/4254744.mp4
-#EXTINF:-1 type="video" tvg-id="Para Sempre Medo" tvg-logo="https://image.tmdb.org/t/p/w500/usGVBMdUxIiXIZ2iZD04iWsi3ed.jpg" group-title="LANÇAMENTOS 2026",Para Sempre Medo
-http://sanyyy.top/movie/853147733/119555943/4254745.mp4
-#EXTINF:-1 type="video" tvg-id="Ato Noturno" tvg-logo="https://image.tmdb.org/t/p/w500/o0uHoWYGsZaGSC6O9iTRy4sAz5J.jpg" group-title="LANÇAMENTOS 2026",Ato Noturno
-http://sanyyy.top/movie/853147733/119555943/4254746.mp4
-#EXTINF:-1 type="video" tvg-id="Gosto Infernal" tvg-logo="https://image.tmdb.org/t/p/w500/rMuHUjtM3HptEXz9acWEEm8U1P4.jpg" group-title="LANÇAMENTOS 2026",Gosto Infernal
-http://sanyyy.top/movie/853147733/119555943/4254747.mp4
-#EXTINF:-1 type="video" tvg-id="Depois do Fogo" tvg-logo="https://image.tmdb.org/t/p/w500/zK4HmDCTALWOrVpUJV8fh2yPGFf.jpg" group-title="LANÇAMENTOS 2026",Depois do Fogo
-http://sanyyy.top/movie/853147733/119555943/4254748.mp4
-#EXTINF:-1 type="video" tvg-id="The Moment" tvg-logo="https://image.tmdb.org/t/p/w500/uLawIFprIeQ5tdWwHPnxrBSuDCH.jpg" group-title="LANÇAMENTOS 2026",The Moment
-http://sanyyy.top/movie/853147733/119555943/4254749.mp4
-#EXTINF:-1 type="video" tvg-id="18 Rosas" tvg-logo="https://image.tmdb.org/t/p/w500/1TApAJqCQekKeoRV1Nza2damyfz.jpg" group-title="LANÇAMENTOS 2026",18 Rosas
-http://sanyyy.top/movie/853147733/119555943/4254750.mp4
-#EXTINF:-1 type="video" tvg-id="As Aventuras de Porco e Amendoim" tvg-logo="https://image.tmdb.org/t/p/w500/9JeqMDjMWyv6Dnr7jTZi73Q2o9I.jpg" group-title="LANÇAMENTOS 2026",As Aventuras de Porco e Amendoim
-http://sanyyy.top/movie/853147733/119555943/4254751.mp4
-#EXTINF:-1 type="video" tvg-id="A Virgem da Pedreira" tvg-logo="https://image.tmdb.org/t/p/w500/f3TvzHqcFTb2TPokvV6hjC6Ypsz.jpg" group-title="LANÇAMENTOS 2026",A Virgem da Pedreira
-http://sanyyy.top/movie/853147733/119555943/4254752.mp4
-#EXTINF:-1 type="video" tvg-id="À Espera da Morte" tvg-logo="https://image.tmdb.org/t/p/w500/kwCIrIEAQaUfzopPSM8iwBzCjDG.jpg" group-title="LANÇAMENTOS 2026",À Espera da Morte
-http://sanyyy.top/movie/853147733/119555943/4254753.mp4
-#EXTINF:-1 type="video" tvg-id="Milton Gonçalves, Além do Espetáculo" tvg-logo="https://image.tmdb.org/t/p/w500/8EmUOxIr9p2Was31flKFIr2zGXK.jpg" group-title="LANÇAMENTOS 2026",Milton Gonçalves, Além do Espetáculo
-http://sanyyy.top/movie/853147733/119555943/4254754.mp4
-#EXTINF:-1 type="video" tvg-id="O Diário de Frankenstein" tvg-logo="https://image.tmdb.org/t/p/w500/k8BJOKGlWqWECQhpyu70R0tHLnx.jpg" group-title="LANÇAMENTOS 2026",O Diário de Frankenstein
-http://sanyyy.top/movie/853147733/119555943/4254755.mp4
-#EXTINF:-1 type="video" tvg-id="Uma Mulher Diferente" tvg-logo="https://image.tmdb.org/t/p/w500/tUcTRSXeU6mzlPqQ6i8vfWY3MhP.jpg" group-title="LANÇAMENTOS 2026",Uma Mulher Diferente
-http://sanyyy.top/movie/853147733/119555943/4254756.mp4
-#EXTINF:-1 type="video" tvg-id="Resgate no Golfo" tvg-logo="https://image.tmdb.org/t/p/w500/jcUv3aqtiygXEhvc0bGEaIzJhMg.jpg" group-title="LANÇAMENTOS 2026",Resgate no Golfo
-http://sanyyy.top/movie/853147733/119555943/4254785.mp4
-#EXTINF:-1 type="video" tvg-id="A Costureira" tvg-logo="https://image.tmdb.org/t/p/w500/Qso0177z6RrRFTHeblgjJEzpxX.jpg" group-title="LANÇAMENTOS 2026",A Costureira
-http://sanyyy.top/movie/853147733/119555943/4254786.mp4
-#EXTINF:-1 type="video" tvg-id="É Preciso um Vilarejo…" tvg-logo="https://image.tmdb.org/t/p/w500/cXxFrrKMMu4gipC8kVoplzo0HAr.jpg" group-title="LANÇAMENTOS 2026",É Preciso um Vilarejo…
-http://sanyyy.top/movie/853147733/119555943/4254787.mp4
-#EXTINF:-1 type="video" tvg-id="O Último Gigante" tvg-logo="https://image.tmdb.org/t/p/w500/rxQE2GmdabPcLQtrG0ik2MYyMu3.jpg" group-title="LANÇAMENTOS 2026",O Último Gigante
-http://sanyyy.top/movie/853147733/119555943/4255029.mp4
-#EXTINF:-1 type="video" tvg-id="Desculpe, Querida" tvg-logo="https://image.tmdb.org/t/p/w500/bWkoOebjObFo21CJFElo4LsKggc.jpg" group-title="LANÇAMENTOS 2026",Desculpe, Querida
-http://sanyyy.top/movie/853147733/119555943/4255030.mp4
-#EXTINF:-1 type="video" tvg-id="Sonho de Arrocha" tvg-logo="https://image.tmdb.org/t/p/w500/5JsQdqDJp89YOfaWLjpcSJKkQgd.jpg" group-title="LANÇAMENTOS 2026",Sonho de Arrocha
-http://sanyyy.top/movie/853147733/119555943/4255067.mp4
-#EXTINF:-1 type="video" tvg-id="53 Domingos" tvg-logo="https://image.tmdb.org/t/p/w500/rL6GKuOAPUEGk0hqeY9sLRJTPWE.jpg" group-title="LANÇAMENTOS 2026",53 Domingos
-http://sanyyy.top/movie/853147733/119555943/4255069.mp4
-#EXTINF:-1 type="video" tvg-id="A História do Som" tvg-logo="https://image.tmdb.org/t/p/w500/dR7HYAE56gEY8WcGVRZPLS3GEaR.jpg" group-title="LANÇAMENTOS 2026",A História do Som
-http://sanyyy.top/movie/853147733/119555943/4255070.mp4
-#EXTINF:-1 type="video" tvg-id="A História de Um Gorila com David Attenborough" tvg-logo="https://image.tmdb.org/t/p/w500/jdbhjmDymtYdcYfzsmBlQEsOExV.jpg" group-title="LANÇAMENTOS 2026",A História de Um Gorila com David Attenborough
-http://sanyyy.top/movie/853147733/119555943/4255080.mp4
-#EXTINF:-1 type="video" tvg-id="American Sweatshop" tvg-logo="https://image.tmdb.org/t/p/w500/38OuhBN7yga2nJSP16VPSOJ2Mwz.jpg" group-title="LANÇAMENTOS 2026",American Sweatshop
-http://sanyyy.top/movie/853147733/119555943/4255081.mp4
-#EXTINF:-1 type="video" tvg-id="Venganza" tvg-logo="https://image.tmdb.org/t/p/w500/bQZQy1g1hkLP92IVLmIm66UVD4d.jpg" group-title="LANÇAMENTOS 2026",Venganza
-http://sanyyy.top/movie/853147733/119555943/4255082.mp4
-#EXTINF:-1 type="video" tvg-id="A Colega Perfeita" tvg-logo="https://image.tmdb.org/t/p/w500/36zoDJG52EkHnMm60M9BdLw8Siv.jpg" group-title="LANÇAMENTOS 2026",A Colega Perfeita
-http://sanyyy.top/movie/853147733/119555943/4255083.mp4
-#EXTINF:-1 type="video" tvg-id="Inteligência Humana" tvg-logo="https://image.tmdb.org/t/p/w500/zmv8yxTmswmMZk7mUktzY9wWXcO.jpg" group-title="LANÇAMENTOS 2026",Inteligência Humana
-http://sanyyy.top/movie/853147733/119555943/4255084.mp4
-#EXTINF:-1 type="video" tvg-id="Barra Nova" tvg-logo="https://image.tmdb.org/t/p/w500/pfgTDPefWBcuNlZBUg5G5tFh7Tl.jpg" group-title="LANÇAMENTOS 2026",Barra Nova
-http://sanyyy.top/movie/853147733/119555943/4255282.mp4
-#EXTINF:-1 type="video" tvg-id="Apresuntado" tvg-logo="https://image.tmdb.org/t/p/w500/yed44wIEtmC52iwbKpLGM4uXkUv.jpg" group-title="LANÇAMENTOS 2026",Apresuntado
-http://sanyyy.top/movie/853147733/119555943/4255283.mp4
-#EXTINF:-1 type="video" tvg-id="Anti Amor" tvg-logo="https://image.tmdb.org/t/p/w500/20DnunWDP9o2A3rRCJC1QgIu9ee.jpg" group-title="LANÇAMENTOS 2026",Anti Amor
-http://sanyyy.top/movie/853147733/119555943/4255284.mp4
-#EXTINF:-1 type="video" tvg-id="Operação Arriscada" tvg-logo="https://image.tmdb.org/t/p/w500/xoXAo6GyRo31pNjFhPTcAnAcZIw.jpg" group-title="LANÇAMENTOS 2026",Operação Arriscada
-http://sanyyy.top/movie/853147733/119555943/4255285.mp4
-#EXTINF:-1 type="video" tvg-id="O Último Conquistador" tvg-logo="https://image.tmdb.org/t/p/w500/4kxZC9T2i0bDkPoXGK00C2A4Z5l.jpg" group-title="LANÇAMENTOS 2026",O Último Conquistador
-http://sanyyy.top/movie/853147733/119555943/4255286.mp4
-#EXTINF:-1 type="video" tvg-id="Super Mario Bros." tvg-logo="https://image.tmdb.org/t/p/w500/yt5bbMfKpg1nRr4k5edxs7tPK2m.jpg" group-title="LANÇAMENTOS 2026",Super Mario Bros.
-http://sanyyy.top/movie/853147733/119555943/4255349.mp4
-#EXTINF:-1 type="video" tvg-id="Untold: Crime em Hawthorne Hill" tvg-logo="https://image.tmdb.org/t/p/w500/eYDqbhcxT41dxkbQPxETlRgfwPH.jpg" group-title="LANÇAMENTOS 2026",Untold: Crime em Hawthorne Hill
-http://sanyyy.top/movie/853147733/119555943/4258208.mp4
-#EXTINF:-1 type="video" tvg-id="O Segredo do Ourives" tvg-logo="https://image.tmdb.org/t/p/w500/uNuZwlnpH7Dk3H4gWVq9cGe6AwY.jpg" group-title="LANÇAMENTOS 2026",O Segredo do Ourives
-http://sanyyy.top/movie/853147733/119555943/4258352.mp4
-#EXTINF:-1 type="video" tvg-id="Gafanhoto" tvg-logo="https://image.tmdb.org/t/p/w500/sRZOq9IGIPe2m1OmLCz5UgP867p.jpg" group-title="LANÇAMENTOS 2026",Gafanhoto
-http://sanyyy.top/movie/853147733/119555943/4258353.mp4
-#EXTINF:-1 type="video" tvg-id="Um Conto Sombrio" tvg-logo="https://image.tmdb.org/t/p/w500/NVOOtkZHRVuLmp16gipDnhNwCy.jpg" group-title="LANÇAMENTOS 2026",Um Conto Sombrio
-http://sanyyy.top/movie/853147733/119555943/4258408.mp4
-#EXTINF:-1 type="video" tvg-id="Push: No Limite do Medo" tvg-logo="https://image.tmdb.org/t/p/w500/aIOTrlX82mYw6o6LEuMn9yUrhd2.jpg" group-title="LANÇAMENTOS 2026",Push: No Limite do Medo
-http://sanyyy.top/movie/853147733/119555943/4258409.mp4
-#EXTINF:-1 type="video" tvg-id="Mexicali: Terra sem Lei" tvg-logo="https://image.tmdb.org/t/p/w500/9lljJwaDdsTXvrs2umGSONO0k4q.jpg" group-title="LANÇAMENTOS 2026",Mexicali: Terra sem Lei
-http://sanyyy.top/movie/853147733/119555943/4258410.mp4
-#EXTINF:-1 type="video" tvg-id="Halloween - O Espantalho Assassino" tvg-logo="https://image.tmdb.org/t/p/w500/ouczezymhTjjs6kJS9JvUj8tvHo.jpg" group-title="LANÇAMENTOS 2026",Halloween - O Espantalho Assassino
-http://sanyyy.top/movie/853147733/119555943/4258411.mp4
-#EXTINF:-1 type="video" tvg-id="Yiya Murano: Morte na Hora do Chá" tvg-logo="https://image.tmdb.org/t/p/w500/msoLCiSHuVDIBeD2b3f7BODGbZJ.jpg" group-title="LANÇAMENTOS 2026",Yiya Murano: Morte na Hora do Chá
-http://sanyyy.top/movie/853147733/119555943/4258412.mp4
-#EXTINF:-1 type="video" tvg-id="Um Stalker Apaixonado" tvg-logo="https://image.tmdb.org/t/p/w500/s5vMwYTvSQxDkTca9jIGJauGzPk.jpg" group-title="LANÇAMENTOS 2026",Um Stalker Apaixonado
-http://sanyyy.top/movie/853147733/119555943/4258413.mp4
-#EXTINF:-1 type="video" tvg-id="Cigarros Mortais" tvg-logo="https://image.tmdb.org/t/p/w500/vFO43OAqQLP1ojSLZzQUpB01GGD.jpg" group-title="LANÇAMENTOS 2026",Cigarros Mortais
-http://sanyyy.top/movie/853147733/119555943/4258416.mp4
-#EXTINF:-1 type="video" tvg-id="Os Esquecidos: Cicatrizes" tvg-logo="https://image.tmdb.org/t/p/w500/2yEX9CAcUWQK1yRYZMDpSiDY6cO.jpg" group-title="LANÇAMENTOS 2026",Os Esquecidos: Cicatrizes
-http://sanyyy.top/movie/853147733/119555943/4258417.mp4
-#EXTINF:-1 type="video" tvg-id="Nouvelle Vague" tvg-logo="https://image.tmdb.org/t/p/w500/2mGChnRQd75pOWU18B26KlxFMah.jpg" group-title="LANÇAMENTOS 2026",Nouvelle Vague
-http://sanyyy.top/movie/853147733/119555943/4258418.mp4
-#EXTINF:-1 type="video" tvg-id="Krishnamurti: A Revolução do Silêncio" tvg-logo="https://image.tmdb.org/t/p/w500/zjVka6tCsdTtmCbAyFNxnOU6EO8.jpg" group-title="LANÇAMENTOS 2026",Krishnamurti: A Revolução do Silêncio
-http://sanyyy.top/movie/853147733/119555943/4258419.mp4
-#EXTINF:-1 type="video" tvg-id="Monstro a Bordo" tvg-logo="https://image.tmdb.org/t/p/w500/fGKaYbPMx4ovrx2DlLS4CUarqOS.jpg" group-title="LANÇAMENTOS 2026",Monstro a Bordo
-http://sanyyy.top/movie/853147733/119555943/4258420.mp4
-#EXTINF:-1 type="video" tvg-id="O Jogo do Predador" tvg-logo="https://image.tmdb.org/t/p/w500/s0ub7FDXEyu8DqGcHKQpaOSem49.jpg" group-title="LANÇAMENTOS 2026",O Jogo do Predador
-http://sanyyy.top/movie/853147733/119555943/4258421.mp4
-#EXTINF:-1 type="video" tvg-id="Il corpo" tvg-logo="https://image.tmdb.org/t/p/w500/mWzxyWAxkv5q3VRw34UCW70JWk8.jpg" group-title="LANÇAMENTOS 2026",Il corpo
-http://sanyyy.top/movie/853147733/119555943/4258422.mp4
-#EXTINF:-1 type="video" tvg-id="Não Pisque" tvg-logo="https://image.tmdb.org/t/p/w500/vagg05j0CC1GgyKXF0JjAtBoCej.jpg" group-title="LANÇAMENTOS 2026",Não Pisque
-http://sanyyy.top/movie/853147733/119555943/4258461.mp4
-#EXTINF:-1 type="video" tvg-id="Invasão à Venezuela (1)" tvg-logo="https://image.tmdb.org/t/p/w500/lD1vYyKuO1omlQXtwrGVdz8yfnt.jpg" group-title="LANÇAMENTOS 2026",Invasão à Venezuela (1)
-http://sanyyy.top/movie/853147733/119555943/4258475.mp4
-#EXTINF:-1 type="video" tvg-id="A Memória do Cheiro das Coisas" tvg-logo="https://image.tmdb.org/t/p/w500/2CO17K4kQVec8Gpja07iC8xNbkJ.jpg" group-title="LANÇAMENTOS 2026",A Memória do Cheiro das Coisas
-http://sanyyy.top/movie/853147733/119555943/4258476.mp4
-#EXTINF:-1 type="video" tvg-id="Pedagogia do Abandono" tvg-logo="https://image.tmdb.org/t/p/w500/2jWXDhw7qyQxSWWxFFHxjhyn2zn.jpg" group-title="LANÇAMENTOS 2026",Pedagogia do Abandono
-http://sanyyy.top/movie/853147733/119555943/4258740.mp4
-#EXTINF:-1 type="video" tvg-id="Deixando Neverland 2" tvg-logo="https://image.tmdb.org/t/p/w500/3ZRbU81aYrizRVm305eAzTQqZOL.jpg" group-title="LANÇAMENTOS 2026",Deixando Neverland 2
-http://sanyyy.top/movie/853147733/119555943/4258951.mp4
-#EXTINF:-1 type="video" tvg-id="De Olhos Bem Abertos" tvg-logo="https://image.tmdb.org/t/p/w500/mgteCoPVupMqCj9HjWcWki1gZjF.jpg" group-title="LANÇAMENTOS 2026",De Olhos Bem Abertos
-http://sanyyy.top/movie/853147733/119555943/4258952.mp4
-#EXTINF:-1 type="video" tvg-id="O Monstro da Ilha" tvg-logo="https://image.tmdb.org/t/p/w500/mvGem9E8avZEg33F9csGHGBT7kM.jpg" group-title="LANÇAMENTOS 2026",O Monstro da Ilha
-http://sanyyy.top/movie/853147733/119555943/4258953.mp4
-#EXTINF:-1 type="video" tvg-id="Além de um Olhar" tvg-logo="https://image.tmdb.org/t/p/w500/37UB5wTXUBzaIjm9wJdxfMSvEyL.jpg" group-title="LANÇAMENTOS 2026",Além de um Olhar
-http://sanyyy.top/movie/853147733/119555943/4258954.mp4
-#EXTINF:-1 type="video" tvg-id="POV: Presença Oculta" tvg-logo="https://image.tmdb.org/t/p/w500/fC4GSEiDu2ONAOjT3VhKdAOR2UI.jpg" group-title="LANÇAMENTOS 2026",POV: Presença Oculta
-http://sanyyy.top/movie/853147733/119555943/4258955.mp4
-#EXTINF:-1 type="video" tvg-id="Icefall: Saque no Gelo" tvg-logo="https://image.tmdb.org/t/p/w500/p4JtLVvZQlzcEKMfzyVCvRBidQb.jpg" group-title="LANÇAMENTOS 2026",Icefall: Saque no Gelo
-http://sanyyy.top/movie/853147733/119555943/4258956.mp4
-#EXTINF:-1 type="video" tvg-id="Meu Nome é Agneta" tvg-logo="https://image.tmdb.org/t/p/w500/jFFPtC0kj3MFspj76enfKIGNxqy.jpg" group-title="LANÇAMENTOS 2026",Meu Nome é Agneta
-http://sanyyy.top/movie/853147733/119555943/4258957.mp4
-#EXTINF:-1 type="video" tvg-id="Plauto, Um Sopro Musical" tvg-logo="https://image.tmdb.org/t/p/w500/bvvPMghCFM77kKzqo29EjtvoSJ.jpg" group-title="LANÇAMENTOS 2026",Plauto, Um Sopro Musical
-http://sanyyy.top/movie/853147733/119555943/4259382.mp4
-#EXTINF:-1 type="video" tvg-id="Projeto Silêncio" tvg-logo="https://image.tmdb.org/t/p/w500/cBpeLbt1YM7Hg5DTrR54alhtZMA.jpg" group-title="LANÇAMENTOS 2026",Projeto Silêncio
-http://sanyyy.top/movie/853147733/119555943/4259383.mp4
-#EXTINF:-1 type="video" tvg-id="Como Mágica" tvg-logo="https://image.tmdb.org/t/p/w500/7FBnCkYzHlVHEtuzTEiGgFhs8EQ.jpg" group-title="LANÇAMENTOS 2026",Como Mágica
-http://sanyyy.top/movie/853147733/119555943/4259384.mp4
-#EXTINF:-1 type="video" tvg-id="Minha Querida Senhorita" tvg-logo="https://image.tmdb.org/t/p/w500/gKJpNEcYCC6clmlfuAshJ5QiV24.jpg" group-title="LANÇAMENTOS 2026",Minha Querida Senhorita
-http://sanyyy.top/movie/853147733/119555943/4259385.mp4
-#EXTINF:-1 type="video" tvg-id="Agentes Muito Especiais" tvg-logo="https://image.tmdb.org/t/p/w500/lOnODWkmfV3PQDsBYrAdoL2SBT0.jpg" group-title="LANÇAMENTOS 2026",Agentes Muito Especiais
-http://sanyyy.top/movie/853147733/119555943/4259386.mp4
-#EXTINF:-1 type="video" tvg-id="A Pequena Amélie" tvg-logo="https://image.tmdb.org/t/p/w500/fSGMCWbFXzfWHLnoaJBnm74viGo.jpg" group-title="LANÇAMENTOS 2026",A Pequena Amélie
-http://sanyyy.top/movie/853147733/119555943/4262954.mp4
-#EXTINF:-1 type="video" tvg-id="Rastro do Ouro" tvg-logo="https://image.tmdb.org/t/p/w500/or8efRgDO5SRNCcpi3DYESF0D0K.jpg" group-title="LANÇAMENTOS 2026",Rastro do Ouro
-http://sanyyy.top/movie/853147733/119555943/4263678.mp4
-#EXTINF:-1 type="video" tvg-id="O fim da Cracolândia" tvg-logo="https://image.tmdb.org/t/p/w500/6XtysHKS8IMjrnJlw1KziAP8ruC.jpg" group-title="LANÇAMENTOS 2026",O fim da Cracolândia
-http://sanyyy.top/movie/853147733/119555943/4263679.mp4
-#EXTINF:-1 type="video" tvg-id="Gary" tvg-logo="https://image.tmdb.org/t/p/w500/qOOhoxvUDe7lWpPEeh0gFBYpjFe.jpg" group-title="LANÇAMENTOS 2026",Gary
-http://sanyyy.top/movie/853147733/119555943/4263680.mp4
-#EXTINF:-1 type="video" tvg-id="Jester: Não Dá para Enganar A Morte Duas Vezes" tvg-logo="https://image.tmdb.org/t/p/w500/tWis6d7uffULdEUrECQXSCWWEQZ.jpg" group-title="LANÇAMENTOS 2026",Jester: Não Dá para Enganar A Morte Duas Vezes
-http://sanyyy.top/movie/853147733/119555943/4263681.mp4
-#EXTINF:-1 type="video" tvg-id="Da Toscana, com Amor" tvg-logo="https://image.tmdb.org/t/p/w500/iKBCQUw8c6l3MOOI0OzLpP649du.jpg" group-title="LANÇAMENTOS 2026",Da Toscana, com Amor
-http://sanyyy.top/movie/853147733/119555943/4263682.mp4
-#EXTINF:-1 type="video" tvg-id="Martin Short: Uma Vida de Comédia" tvg-logo="https://image.tmdb.org/t/p/w500/udQ4UWZaaN5s46jVHTBmEkWVpst.jpg" group-title="LANÇAMENTOS 2026",Martin Short: Uma Vida de Comédia
-http://sanyyy.top/movie/853147733/119555943/4264431.mp4
-#EXTINF:-1 type="video" tvg-id="Eu & Você na Toscana" tvg-logo="https://image.tmdb.org/t/p/w500/i21UWr8sC65vN0Q8EY7H6PjTpv5.jpg" group-title="LANÇAMENTOS 2026",Eu & Você na Toscana
-http://sanyyy.top/movie/853147733/119555943/4264432.mp4
-#EXTINF:-1 type="video" tvg-id="A Greve da Seleção da França" tvg-logo="https://image.tmdb.org/t/p/w500/vLYxo8SDMLfroqT3fMVnbvddXRF.jpg" group-title="LANÇAMENTOS 2026",A Greve da Seleção da França
-http://sanyyy.top/movie/853147733/119555943/4264983.mp4
-#EXTINF:-1 type="video" tvg-id="Untold Reino Unido: Jamie Vardy" tvg-logo="https://image.tmdb.org/t/p/w500/t3cxqW5ZlQnLO8rhzKbrW8uOgaI.jpg" group-title="LANÇAMENTOS 2026",Untold Reino Unido: Jamie Vardy
-http://sanyyy.top/movie/853147733/119555943/4264984.mp4
-#EXTINF:-1 type="video" tvg-id="Perturbado Pelo Passado" tvg-logo="https://image.tmdb.org/t/p/w500/aefbl9hqx44kU4jqmwQY6CXZYWK.jpg" group-title="LANÇAMENTOS 2026",Perturbado Pelo Passado
-http://sanyyy.top/movie/853147733/119555943/4265889.mp4
-#EXTINF:-1 type="video" tvg-id="Noel Rosa, um Espírito Circulante" tvg-logo="https://image.tmdb.org/t/p/w500/qXkXnyok6Aqxnm0yfmVOgzDge7H.jpg" group-title="LANÇAMENTOS 2026",Noel Rosa, um Espírito Circulante
-http://sanyyy.top/movie/853147733/119555943/4265890.mp4
-#EXTINF:-1 type="video" tvg-id="O Conselheiro do Amor" tvg-logo="https://image.tmdb.org/t/p/w500/qnDc1F7LKQnHCx8vnzEqcvm5Ene.jpg" group-title="LANÇAMENTOS 2026",O Conselheiro do Amor
-http://sanyyy.top/movie/853147733/119555943/4265891.mp4
-#EXTINF:-1 type="video" tvg-id="The Groove Under the Groove: Os Sons de Paulinho da Costa [L]" tvg-logo="" group-title="LANÇAMENTOS 2026",The Groove Under the Groove: Os Sons de Paulinho da Costa [L]
-http://sanyyy.top/movie/853147733/119555943/4265893.mp4
-#EXTINF:-1 type="video" tvg-id="O Amor Não se Ensina" tvg-logo="https://image.tmdb.org/t/p/w500/qNBmaR8DbgHeXGD5mJijXgjbHGw.jpg" group-title="LANÇAMENTOS 2026",O Amor Não se Ensina
-http://sanyyy.top/movie/853147733/119555943/4265894.mp4
-#EXTINF:-1 type="video" tvg-id="Casamento na Costa Rica" tvg-logo="https://image.tmdb.org/t/p/w500/ccYPtLstIoNW1zkWzOQg2MC0qs3.jpg" group-title="LANÇAMENTOS 2026",Casamento na Costa Rica
-http://sanyyy.top/movie/853147733/119555943/4265895.mp4
-#EXTINF:-1 type="video" tvg-id="Colisão: Acidente ou Homicídio?" tvg-logo="https://image.tmdb.org/t/p/w500/94AQpf6Rg6tblNpa65ogzYw4q6P.jpg" group-title="LANÇAMENTOS 2026",Colisão: Acidente ou Homicídio?
-http://sanyyy.top/movie/853147733/119555943/4265896.mp4
-#EXTINF:-1 type="video" tvg-id="A Noiva do Ano" tvg-logo="https://image.tmdb.org/t/p/w500/geFc71rCYM8fErbROLY6n1LfAS6.jpg" group-title="LANÇAMENTOS 2026",A Noiva do Ano
-http://sanyyy.top/movie/853147733/119555943/4265897.mp4
-#EXTINF:-1 type="video" tvg-id="Além do Dever" tvg-logo="https://image.tmdb.org/t/p/w500/tVJVueBmMmGwuel02Z8XeudNoq4.jpg" group-title="LANÇAMENTOS 2026",Além do Dever
-http://sanyyy.top/movie/853147733/119555943/4265898.mp4
-#EXTINF:-1 type="video" tvg-id="Ilusão Macabra" tvg-logo="https://image.tmdb.org/t/p/w500/fWsWD1IIYtZFvKmOBMZKGUYyXeA.jpg" group-title="LANÇAMENTOS 2026",Ilusão Macabra
-http://sanyyy.top/movie/853147733/119555943/4265899.mp4
-#EXTINF:-1 type="video" tvg-id="El Salvador - O dia em que o medo mudou de lado" tvg-logo="https://image.tmdb.org/t/p/w500/bg4KbU1M53QRFKGtoHOJPjFonbu.jpg" group-title="LANÇAMENTOS 2026",El Salvador - O dia em que o medo mudou de lado
-http://sanyyy.top/movie/853147733/119555943/4266398.mp4
-#EXTINF:-1 type="video" tvg-id="Primeiro as Damas" tvg-logo="https://image.tmdb.org/t/p/w500/tW10rRdxMwJC4r1zldQzxcyzEUS.jpg" group-title="LANÇAMENTOS 2026",Primeiro as Damas
-http://sanyyy.top/movie/853147733/119555943/4266399.mp4
-#EXTINF:-1 type="video" tvg-id="Jack Ryan de Tom Clancy: Guerra Fantasma" tvg-logo="https://image.tmdb.org/t/p/w500/bPue4NKPiGNrIbZFeOsZfnovFAM.jpg" group-title="LANÇAMENTOS 2026",Jack Ryan de Tom Clancy: Guerra Fantasma
-http://sanyyy.top/movie/853147733/119555943/4266400.mp4
-#EXTINF:-1 type="video" tvg-id="Velhos Bandidos" tvg-logo="https://image.tmdb.org/t/p/w500/eYZUzJMumKoUPX5Q40xBsgFs6dY.jpg" group-title="LANÇAMENTOS 2026",Velhos Bandidos
-http://sanyyy.top/movie/853147733/119555943/4267370.mp4
-#EXTINF:-1 type="video" tvg-id="Aventuras nas Alturas" tvg-logo="https://image.tmdb.org/t/p/w500/2CfaoWBSBUA1wquEa0CF45f4Aaa.jpg" group-title="LANÇAMENTOS 2026",Aventuras nas Alturas
-http://sanyyy.top/movie/853147733/119555943/4267371.mp4
-#EXTINF:-1 type="video" tvg-id="Untold Reino Unido: Vinnie Jones" tvg-logo="https://image.tmdb.org/t/p/w500/7IOFqkArtYgpftXnviaLD6awQ1U.jpg" group-title="LANÇAMENTOS 2026",Untold Reino Unido: Vinnie Jones
-http://sanyyy.top/movie/853147733/119555943/4267372.mp4
-#EXTINF:-1 type="video" tvg-id="Urso Sangrento: A Noite do Terror" tvg-logo="https://image.tmdb.org/t/p/w500/lGS6aiYtZjh08ci3UAhunoAiBWk.jpg" group-title="LANÇAMENTOS 2026",Urso Sangrento: A Noite do Terror
-http://sanyyy.top/movie/853147733/119555943/4267373.mp4
-#EXTINF:-1 type="video" tvg-id="Dibu Martínez: O Garoto que Parava o Tempo" tvg-logo="https://image.tmdb.org/t/p/w500/ns7hOXCSuDtoVUyqx1v806y0XGF.jpg" group-title="LANÇAMENTOS 2026",Dibu Martínez: O Garoto que Parava o Tempo
-http://sanyyy.top/movie/853147733/119555943/4267374.mp4
-#EXTINF:-1 type="video" tvg-id="O Mago do Kremlin" tvg-logo="https://image.tmdb.org/t/p/w500/7joKjcNIzDsJszsIlsUUMta17yX.jpg" group-title="LANÇAMENTOS 2026",O Mago do Kremlin
-http://sanyyy.top/movie/853147733/119555943/4267375.mp4
-#EXTINF:-1 type="video" tvg-id="BTS: O Reencontro" tvg-logo="https://image.tmdb.org/t/p/w500/vfE6dI8ECv4mbctoHQF5vSpLZEX.jpg" group-title="LANÇAMENTOS 2026",BTS: O Reencontro
-http://sanyyy.top/movie/853147733/119555943/4268415.mp4
-#EXTINF:-1 type="video" tvg-id="Mensagens para Isabelle" tvg-logo="https://image.tmdb.org/t/p/w500/nf7N5j407xPTOEPG0feJJbKFNRd.jpg" group-title="LANÇAMENTOS 2026",Mensagens para Isabelle
-http://sanyyy.top/movie/853147733/119555943/4268745.mp4
-#EXTINF:-1 type="video" tvg-id="As Ovelhas Detetives" tvg-logo="https://image.tmdb.org/t/p/w500/crW4rarCRUVRSRFy3Bufw8Mwf8l.jpg" group-title="LANÇAMENTOS 2026",As Ovelhas Detetives
-http://sanyyy.top/movie/853147733/119555943/4268775.mp4
-#EXTINF:-1 type="video" tvg-id="Backrooms: Um Não-Lugar" tvg-logo="https://image.tmdb.org/t/p/w500/qEl4BDBTGnhLiadZx0c9nHM8vBF.jpg" group-title="LANÇAMENTOS 2026",Backrooms: Um Não-Lugar
-http://sanyyy.top/movie/853147733/119555943/4270065.mp4
-#EXTINF:-1 type="video" tvg-id="Todo Mundo em Pânico 6" tvg-logo="https://image.tmdb.org/t/p/w500/97lWamoj4RSBjBHXFmliQbPs06K.jpg" group-title="LANÇAMENTOS 2026",Todo Mundo em Pânico 6
-http://sanyyy.top/movie/853147733/119555943/4270177.mp4
-#EXTINF:-1 type="video" tvg-id="Mestres do Universo FHD" tvg-logo="https://image.tmdb.org/t/p/w500/atpb7NKSyM4bJSUY8vQTunzK4Na.jpg" group-title="LANÇAMENTOS 2026",Mestres do Universo FHD
-http://sanyyy.top/movie/853147733/119555943/4270299.mp4
-#EXTINF:-1 type="video" tvg-id="Meu Irmão é um Problema" tvg-logo="" group-title="LANÇAMENTOS 2026",Meu Irmão é um Problema
-http://sanyyy.top/movie/853147733/119555943/4270342.mp4
-#EXTINF:-1 type="video" tvg-id="Supergirl" tvg-logo="https://image.tmdb.org/t/p/w500/qhXfLI1gDWaahzfHT0cb2CH61hO.jpg" group-title="LANÇAMENTOS 2026",Supergirl
-http://sanyyy.top/movie/853147733/119555943/4270422.mp4
-#EXTINF:-1 type="video" tvg-id="A Morte do Demônio: Em Chamas" tvg-logo="https://image.tmdb.org/t/p/w500/fteLdvfRnltfLjAEnsl5E3vImnW.jpg" group-title="LANÇAMENTOS 2026",A Morte do Demônio: Em Chamas
-http://sanyyy.top/movie/853147733/119555943/4271020.mp4
-#EXTINF:-1 type="video" tvg-id="Hungria: A Escolha de um Sonho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwruAdJdxbZrUShcNJdPLz5QYwr.jpg" group-title="LANÇAMENTOS 2026",Hungria: A Escolha de um Sonho
-http://sanyyy.top/movie/853147733/119555943/4271038.mp4
-#EXTINF:-1 type="video" tvg-id="1 Milhão de Seguidores" tvg-logo="https://image.tmdb.org/t/p/w500/rlP0rEYa9AsRuQ5xFPifFRvcBWd.jpg" group-title="LANÇAMENTOS 2026",1 Milhão de Seguidores
-http://sanyyy.top/movie/853147733/119555943/4246830.mp4
-#EXTINF:-1 type="video" tvg-id="A Acusada" tvg-logo="https://image.tmdb.org/t/p/w500/yRf0OrswYzoLnjXLpTLsmRUVtd.jpg" group-title="LANÇAMENTOS 2026",A Acusada
-http://sanyyy.top/movie/853147733/119555943/4243768.mp4
-#EXTINF:-1 type="video" tvg-id="A Cela dos Milagres" tvg-logo="https://image.tmdb.org/t/p/w500/xaloioubOPQOFaERBPxLHnONyeJ.jpg" group-title="LANÇAMENTOS 2026",A Cela dos Milagres
-http://sanyyy.top/movie/853147733/119555943/4236204.mp4
-#EXTINF:-1 type="video" tvg-id="A Esperança se Chama Liberdade" tvg-logo="https://image.tmdb.org/t/p/w500/lxkW6iWDesq0OsRkWcTBEMPg2M9.jpg" group-title="LANÇAMENTOS 2026",A Esperança se Chama Liberdade
-http://sanyyy.top/movie/853147733/119555943/4227771.mp4
-#EXTINF:-1 type="video" tvg-id="A Lenda do Rosto Pálido" tvg-logo="https://image.tmdb.org/t/p/w500/nGqWlIv9wIWni2SWFV7b9S6rLkz.jpg" group-title="LANÇAMENTOS 2026",A Lenda do Rosto Pálido
-http://sanyyy.top/movie/853147733/119555943/4236209.mp4
-#EXTINF:-1 type="video" tvg-id="A Natureza das Coisas Invisíveis" tvg-logo="https://image.tmdb.org/t/p/w500/sVhGCIVZkicOzumtKyBnAAKGOhH.jpg" group-title="LANÇAMENTOS 2026",A Natureza das Coisas Invisíveis
-http://sanyyy.top/movie/853147733/119555943/4236246.mp4
-#EXTINF:-1 type="video" tvg-id="A Ouvinte" tvg-logo="https://image.tmdb.org/t/p/w500/dnkZEcD7VuCHoqhkaAuAGrXhpAd.jpg" group-title="LANÇAMENTOS 2026",A Ouvinte
-http://sanyyy.top/movie/853147733/119555943/4236186.mp4
-#EXTINF:-1 type="video" tvg-id="A Queda do Céu" tvg-logo="https://image.tmdb.org/t/p/w500/dzBEhUSiiDJtd6v4LSN1SykSM5F.jpg" group-title="LANÇAMENTOS 2026",A Queda do Céu
-http://sanyyy.top/movie/853147733/119555943/4236215.mp4
-#EXTINF:-1 type="video" tvg-id="A Rainha do Xadrez" tvg-logo="https://image.tmdb.org/t/p/w500/fAckgewEBm7lPkYDaqmBvxlcWf2.jpg" group-title="LANÇAMENTOS 2026",A Rainha do Xadrez
-http://sanyyy.top/movie/853147733/119555943/4236216.mp4
-#EXTINF:-1 type="video" tvg-id="Ah, a Amizade…" tvg-logo="https://image.tmdb.org/t/p/w500/r8B4RQr40OlimrJa3Bt04asBRFI.jpg" group-title="LANÇAMENTOS 2026",Ah, a Amizade…
-http://sanyyy.top/movie/853147733/119555943/4236222.mp4
-#EXTINF:-1 type="video" tvg-id="Além da Fumaça: O que o Sistema Esconde de Você?" tvg-logo="https://image.tmdb.org/t/p/w500/e8noQkCQvYvKXU1H9kdtIXvNeu7.jpg" group-title="LANÇAMENTOS 2026",Além da Fumaça: O que o Sistema Esconde de Você?
-http://sanyyy.top/movie/853147733/119555943/4236184.mp4
-#EXTINF:-1 type="video" tvg-id="Amor Demais" tvg-logo="https://image.tmdb.org/t/p/w500/obv2Dt7T8p9lxtfl2qguuRL6nF8.jpg" group-title="LANÇAMENTOS 2026",Amor Demais
-http://sanyyy.top/movie/853147733/119555943/4236195.mp4
-#EXTINF:-1 type="video" tvg-id="Brasiliana: O Musical Negro Que Apresentou o Brasil ao Mundo" tvg-logo="https://image.tmdb.org/t/p/w500/pzlAfhUqKWSa0JvkQuPXsduyTDz.jpg" group-title="LANÇAMENTOS 2026",Brasiliana: O Musical Negro Que Apresentou o Brasil ao Mundo
-http://sanyyy.top/movie/853147733/119555943/4236185.mp4
-#EXTINF:-1 type="video" tvg-id="Caju, Meu Amigo" tvg-logo="https://image.tmdb.org/t/p/w500/euYHIYx8d6sNI2FMePFXYzp0sA7.jpg" group-title="LANÇAMENTOS 2026",Caju, Meu Amigo
-http://sanyyy.top/movie/853147733/119555943/4221367.mp4
-#EXTINF:-1 type="video" tvg-id="Christy - Um Novo Round" tvg-logo="https://image.tmdb.org/t/p/w500/2WJEpkeQ78HQlTtSP9Bll1xRFhs.jpg" group-title="LANÇAMENTOS 2026",Christy - Um Novo Round
-http://sanyyy.top/movie/853147733/119555943/4236240.mp4
-#EXTINF:-1 type="video" tvg-id="Clarice Niskier: Teatro dos Pés à Cabeça" tvg-logo="https://image.tmdb.org/t/p/w500/cOQGZ8NNgZ2kFOrSV280I8Xu68Q.jpg" group-title="LANÇAMENTOS 2026",Clarice Niskier: Teatro dos Pés à Cabeça
-http://sanyyy.top/movie/853147733/119555943/4236220.mp4
-#EXTINF:-1 type="video" tvg-id="Cora Bora" tvg-logo="https://image.tmdb.org/t/p/w500/ulgczyiS9s41CoyeDIKGkyF8Azr.jpg" group-title="LANÇAMENTOS 2026",Cora Bora
-http://sanyyy.top/movie/853147733/119555943/4236238.mp4
-#EXTINF:-1 type="video" tvg-id="Da Fome ao Sonho" tvg-logo="https://image.tmdb.org/t/p/w500/rvxJou2HXEeG5VFYlHyNepfIFqv.jpg" group-title="LANÇAMENTOS 2026",Da Fome ao Sonho
-http://sanyyy.top/movie/853147733/119555943/4236183.mp4
-#EXTINF:-1 type="video" tvg-id="Davi: Nasce Um Rei" tvg-logo="https://image.tmdb.org/t/p/w500/kr5Owq7ixs2gsOMZm1MferN8qZX.jpg" group-title="LANÇAMENTOS 2026",Davi: Nasce Um Rei
-http://sanyyy.top/movie/853147733/119555943/4226658.mp4
-#EXTINF:-1 type="video" tvg-id="Depois Deste Desterro" tvg-logo="https://image.tmdb.org/t/p/w500/rYCboAWEsFeTUeu0rWl9odSgghF.jpg" group-title="LANÇAMENTOS 2026",Depois Deste Desterro
-http://sanyyy.top/movie/853147733/119555943/4236182.mp4
-#EXTINF:-1 type="video" tvg-id="Dhurandhar" tvg-logo="https://image.tmdb.org/t/p/w500/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg" group-title="LANÇAMENTOS 2026",Dhurandhar
-http://sanyyy.top/movie/853147733/119555943/4236239.mp4
-#EXTINF:-1 type="video" tvg-id="Dinheiro Suspeito" tvg-logo="https://image.tmdb.org/t/p/w500/bm04TGkE5ySrHbHlO6YloYZvs4P.jpg" group-title="LANÇAMENTOS 2026",Dinheiro Suspeito
-http://sanyyy.top/movie/853147733/119555943/4221368.mp4
-#EXTINF:-1 type="video" tvg-id="Down Quixote" tvg-logo="https://image.tmdb.org/t/p/w500/hHluHFenJBDUzMvyYUYuXMP72U2.jpg" group-title="LANÇAMENTOS 2026",Down Quixote
-http://sanyyy.top/movie/853147733/119555943/4236221.mp4
-#EXTINF:-1 type="video" tvg-id="Dupla Perigosa" tvg-logo="https://image.tmdb.org/t/p/w500/jYpk5Zun4VTWrplO3m9BHANi4S5.jpg" group-title="LANÇAMENTOS 2026",Dupla Perigosa
-http://sanyyy.top/movie/853147733/119555943/4226485.mp4
-#EXTINF:-1 type="video" tvg-id="Edifício do Medo" tvg-logo="https://image.tmdb.org/t/p/w500/4Bqr7InOdVuNYSoLMEm6FAJT7L6.jpg" group-title="LANÇAMENTOS 2026",Edifício do Medo
-http://sanyyy.top/movie/853147733/119555943/4236188.mp4
-#EXTINF:-1 type="video" tvg-id="Entre Nós: Uma Dose Extra de Amor" tvg-logo="https://image.tmdb.org/t/p/w500/foFIkupQR27Ku5fwtmezDAiV1gW.jpg" group-title="LANÇAMENTOS 2026",Entre Nós: Uma Dose Extra de Amor
-http://sanyyy.top/movie/853147733/119555943/4236236.mp4
-#EXTINF:-1 type="video" tvg-id="Esta Sou Eu" tvg-logo="https://image.tmdb.org/t/p/w500/dqMgB4z8oxUDACfCuRcwUlKauoh.jpg" group-title="LANÇAMENTOS 2026",Esta Sou Eu
-http://sanyyy.top/movie/853147733/119555943/4236211.mp4
-#EXTINF:-1 type="video" tvg-id="Eu, Nirvana" tvg-logo="https://image.tmdb.org/t/p/w500/35lD8bz8AngFLbiiGPaF6fBfnYU.jpg" group-title="LANÇAMENTOS 2026",Eu, Nirvana
-http://sanyyy.top/movie/853147733/119555943/4236207.mp4
-#EXTINF:-1 type="video" tvg-id="Extermínio: O Templo dos Ossos" tvg-logo="https://image.tmdb.org/t/p/w500/tbECC1mMbytgaynCnBhgVPzCZcd.jpg" group-title="LANÇAMENTOS 2026",Extermínio: O Templo dos Ossos
-http://sanyyy.top/movie/853147733/119555943/4236179.mp4
-#EXTINF:-1 type="video" tvg-id="Eye For An Eye" tvg-logo="https://image.tmdb.org/t/p/w500/4hpKNChTYSqY5nOjQyM2ticGgKe.jpg" group-title="LANÇAMENTOS 2026",Eye For An Eye
-http://sanyyy.top/movie/853147733/119555943/4236203.mp4
-#EXTINF:-1 type="video" tvg-id="Férias Forçadas" tvg-logo="https://image.tmdb.org/t/p/w500/j6DLrKZ9Y9jOWUvwiH3KvVdoDd2.jpg" group-title="LANÇAMENTOS 2026",Férias Forçadas
-http://sanyyy.top/movie/853147733/119555943/4236202.mp4
-#EXTINF:-1 type="video" tvg-id="Freaky Tales" tvg-logo="https://image.tmdb.org/t/p/w500/lo5mfglsGeMYmAkSRXs9DATNJxk.jpg" group-title="LANÇAMENTOS 2026",Freaky Tales
-http://sanyyy.top/movie/853147733/119555943/4236237.mp4
-#EXTINF:-1 type="video" tvg-id="Fresh Hell: Adolescentes Mortos" tvg-logo="https://image.tmdb.org/t/p/w500/z8Yr4ASYm52miXd0vl7pE3jDqys.jpg" group-title="LANÇAMENTOS 2026",Fresh Hell: Adolescentes Mortos
-http://sanyyy.top/movie/853147733/119555943/4236193.mp4
-#EXTINF:-1 type="video" tvg-id="Fresh Hell: Lobos Contra o Mundo" tvg-logo="https://image.tmdb.org/t/p/w500/yL4vYPynrlw33rnkC7KXu4ol8pR.jpg" group-title="LANÇAMENTOS 2026",Fresh Hell: Lobos Contra o Mundo
-http://sanyyy.top/movie/853147733/119555943/4236194.mp4
-#EXTINF:-1 type="video" tvg-id="God Complex - O Complexo Industrial da Censura" tvg-logo="https://image.tmdb.org/t/p/w500/csw7g2zOUeCsqIqO7Qf7nxnQMjk.jpg" group-title="LANÇAMENTOS 2026",God Complex - O Complexo Industrial da Censura
-http://sanyyy.top/movie/853147733/119555943/4236234.mp4
-#EXTINF:-1 type="video" tvg-id="Hamnet: A Vida Antes de Hamlet" tvg-logo="https://image.tmdb.org/t/p/w500/njatIGrIlZCxB88UUBC2xgmfCNE.jpg" group-title="LANÇAMENTOS 2026",Hamnet: A Vida Antes de Hamlet
-http://sanyyy.top/movie/853147733/119555943/4236177.mp4
-#EXTINF:-1 type="video" tvg-id="Harpia: Presença Maligna" tvg-logo="https://image.tmdb.org/t/p/w500/82qGoDfjSqYjwSAfeforpgku0IH.jpg" group-title="LANÇAMENTOS 2026",Harpia: Presença Maligna
-http://sanyyy.top/movie/853147733/119555943/4236247.mp4
-#EXTINF:-1 type="video" tvg-id="Imperfeitamente Perfeita" tvg-logo="https://image.tmdb.org/t/p/w500/fK1plLeeaomQNBM3LNxkDtcMoPS.jpg" group-title="LANÇAMENTOS 2026",Imperfeitamente Perfeita
-http://sanyyy.top/movie/853147733/119555943/4236226.mp4
-#EXTINF:-1 type="video" tvg-id="Investigando Lucy Letby" tvg-logo="https://image.tmdb.org/t/p/w500/wgxGooHYBfsVDwmBCwyQ2WmCCFg.jpg" group-title="LANÇAMENTOS 2026",Investigando Lucy Letby
-http://sanyyy.top/movie/853147733/119555943/4236227.mp4
-#EXTINF:-1 type="video" tvg-id="Jardim do Éden" tvg-logo="https://image.tmdb.org/t/p/w500/h64PrjUMF3tDYdwscZxMgawmuee.jpg" group-title="LANÇAMENTOS 2026",Jardim do Éden
-http://sanyyy.top/movie/853147733/119555943/4236210.mp4
-#EXTINF:-1 type="video" tvg-id="Joe e a Viagem de Carro" tvg-logo="https://image.tmdb.org/t/p/w500/vwqQbN0gCOUerdoglA96VEtYzUg.jpg" group-title="LANÇAMENTOS 2026",Joe e a Viagem de Carro
-http://sanyyy.top/movie/853147733/119555943/4236196.mp4
-#EXTINF:-1 type="video" tvg-id="Justiça Artificial" tvg-logo="https://image.tmdb.org/t/p/w500/7OR4UwZW6eTGIoNMujGAAtCnLCx.jpg" group-title="LANÇAMENTOS 2026",Justiça Artificial
-http://sanyyy.top/movie/853147733/119555943/4236176.mp4
-#EXTINF:-1 type="video" tvg-id="Kyochuu Rettou Movie" tvg-logo="https://image.tmdb.org/t/p/w500/sf0lHt1uG6LdgxG56VE0Aw6PCVH.jpg" group-title="LANÇAMENTOS 2026",Kyochuu Rettou Movie
-http://sanyyy.top/movie/853147733/119555943/4236244.mp4
-#EXTINF:-1 type="video" tvg-id="Livros Restantes" tvg-logo="https://image.tmdb.org/t/p/w500/7RUlq6PxUb7whoJB8O3lZ2lvDol.jpg" group-title="LANÇAMENTOS 2026",Livros Restantes
-http://sanyyy.top/movie/853147733/119555943/4236205.mp4
-#EXTINF:-1 type="video" tvg-id="Lupicínio Rodrigues: Confissões de um Sofredor" tvg-logo="https://image.tmdb.org/t/p/w500/tKtmKKn3mGYbkGy31ckTfJ1VjL8.jpg" group-title="LANÇAMENTOS 2026",Lupicínio Rodrigues: Confissões de um Sofredor
-http://sanyyy.top/movie/853147733/119555943/4236219.mp4
-#EXTINF:-1 type="video" tvg-id="Maira Porongyta – O aviso do céu" tvg-logo="https://image.tmdb.org/t/p/w500/iW2cbyOv5XSVJCJfnY9lu4M3Lwj.jpg" group-title="LANÇAMENTOS 2026",Maira Porongyta – O aviso do céu
-http://sanyyy.top/movie/853147733/119555943/4236201.mp4
-#EXTINF:-1 type="video" tvg-id="Mandíbulas à Espreita" tvg-logo="https://image.tmdb.org/t/p/w500/6AFT705digB3q06YwX7RJz2TDVw.jpg" group-title="LANÇAMENTOS 2026",Mandíbulas à Espreita
-http://sanyyy.top/movie/853147733/119555943/4236223.mp4
-#EXTINF:-1 type="video" tvg-id="Mandioca Frita" tvg-logo="https://image.tmdb.org/t/p/w500/niDeR6vC7mQka0rHzfNmKn8EmPk.jpg" group-title="LANÇAMENTOS 2026",Mandioca Frita
-http://sanyyy.top/movie/853147733/119555943/4236212.mp4
-#EXTINF:-1 type="video" tvg-id="Março de 1968" tvg-logo="https://image.tmdb.org/t/p/w500/PvEe1veunt4vnxygXFCLsUEWAd.jpg" group-title="LANÇAMENTOS 2026",Março de 1968
-http://sanyyy.top/movie/853147733/119555943/4236181.mp4
-#EXTINF:-1 type="video" tvg-id="Metas de Relacionamento" tvg-logo="https://image.tmdb.org/t/p/w500/kTVyIkrqxrdLYN9rLXhqljMiplj.jpg" group-title="LANÇAMENTOS 2026",Metas de Relacionamento
-http://sanyyy.top/movie/853147733/119555943/4236229.mp4
-#EXTINF:-1 type="video" tvg-id="Meu Avô Stanislau" tvg-logo="https://image.tmdb.org/t/p/w500/t6Y1I2AVkzZ8Nzkltkqi9FfdTzD.jpg" group-title="LANÇAMENTOS 2026",Meu Avô Stanislau
-http://sanyyy.top/movie/853147733/119555943/4236230.mp4
-#EXTINF:-1 type="video" tvg-id="Mulheres Radicais" tvg-logo="https://image.tmdb.org/t/p/w500/xo1kBd4srulvGU0yOCrJf9Vbrd.jpg" group-title="LANÇAMENTOS 2026",Mulheres Radicais
-http://sanyyy.top/movie/853147733/119555943/4236218.mp4
-#EXTINF:-1 type="video" tvg-id="Nossa Vizinhança" tvg-logo="https://image.tmdb.org/t/p/w500/5ivxdAWTJf6YdQDBLmysTgJiqqh.jpg" group-title="LANÇAMENTOS 2026",Nossa Vizinhança
-http://sanyyy.top/movie/853147733/119555943/4236243.mp4
-#EXTINF:-1 type="video" tvg-id="O Demônio que Habita em Mim" tvg-logo="https://image.tmdb.org/t/p/w500/qUoznhGA1izG3G9xUE218JltOoz.jpg" group-title="LANÇAMENTOS 2026",O Demônio que Habita em Mim
-http://sanyyy.top/movie/853147733/119555943/4236197.mp4
-#EXTINF:-1 type="video" tvg-id="O Falsário" tvg-logo="https://image.tmdb.org/t/p/w500/kruMkxPyLf8bZIuu53JxgyZ29kj.jpg" group-title="LANÇAMENTOS 2026",O Falsário
-http://sanyyy.top/movie/853147733/119555943/4222278.mp4
-#EXTINF:-1 type="video" tvg-id="O Lar Sinistro" tvg-logo="https://image.tmdb.org/t/p/w500/40nxLSRwm0sfiTVEPBtWXfCVhd1.jpg" group-title="LANÇAMENTOS 2026",O Lar Sinistro
-http://sanyyy.top/movie/853147733/119555943/4236228.mp4
-#EXTINF:-1 type="video" tvg-id="O que se Esconde nas Sombras" tvg-logo="https://image.tmdb.org/t/p/w500/3gQmOz6QRNTPJ01j8Q7E89yK8LL.jpg" group-title="LANÇAMENTOS 2026",O que se Esconde nas Sombras
-http://sanyyy.top/movie/853147733/119555943/4236189.mp4
-#EXTINF:-1 type="video" tvg-id="O Show dos Muppets" tvg-logo="https://image.tmdb.org/t/p/w500/rVnxHAbQVtNbuz1ig3oSNyltj4I.jpg" group-title="LANÇAMENTOS 2026",O Show dos Muppets
-http://sanyyy.top/movie/853147733/119555943/4236225.mp4
-#EXTINF:-1 type="video" tvg-id="O.T.H.E.R - Presença Maligna" tvg-logo="https://image.tmdb.org/t/p/w500/TfqwmTWowJJZAhpTTvVYm6uTcd.jpg" group-title="LANÇAMENTOS 2026",O.T.H.E.R - Presença Maligna
-http://sanyyy.top/movie/853147733/119555943/4236213.mp4
-#EXTINF:-1 type="video" tvg-id="Os Cantores" tvg-logo="https://image.tmdb.org/t/p/w500/4PYwVS6wEIEy734eoTPFScUS8AG.jpg" group-title="LANÇAMENTOS 2026",Os Cantores
-http://sanyyy.top/movie/853147733/119555943/4236192.mp4
-#EXTINF:-1 type="video" tvg-id="Palavras de Guerra" tvg-logo="https://image.tmdb.org/t/p/w500/59JXT8JtyQ3CAWVf3wBa8yCCdIJ.jpg" group-title="LANÇAMENTOS 2026",Palavras de Guerra
-http://sanyyy.top/movie/853147733/119555943/4236248.mp4
-#EXTINF:-1 type="video" tvg-id="Paula" tvg-logo="https://image.tmdb.org/t/p/w500/kqve8TwLrTOEeXArLmozC3wFNta.jpg" group-title="LANÇAMENTOS 2026",Paula
-http://sanyyy.top/movie/853147733/119555943/4236217.mp4
-#EXTINF:-1 type="video" tvg-id="Peixe Vivo" tvg-logo="https://image.tmdb.org/t/p/w500/ahRYsk9P2jiYiLR2elUujtMBvbT.jpg" group-title="LANÇAMENTOS 2026",Peixe Vivo
-http://sanyyy.top/movie/853147733/119555943/4236200.mp4
-#EXTINF:-1 type="video" tvg-id="Placar: A Revista Militante" tvg-logo="https://image.tmdb.org/t/p/w500/1O16NNhRlnStBCSn0IDBCFTyzDa.jpg" group-title="LANÇAMENTOS 2026",Placar: A Revista Militante
-http://sanyyy.top/movie/853147733/119555943/4236224.mp4
-#EXTINF:-1 type="video" tvg-id="Presa em Minha Própria Casa" tvg-logo="https://image.tmdb.org/t/p/w500/sMOrssQRDd4YGiZ2pp65IcPv19N.jpg" group-title="LANÇAMENTOS 2026",Presa em Minha Própria Casa
-http://sanyyy.top/movie/853147733/119555943/4236190.mp4
-#EXTINF:-1 type="video" tvg-id="Presenças Ocultas" tvg-logo="https://image.tmdb.org/t/p/w500/b8dekgiMuVk7nwsAC6Cf9Q8a0N9.jpg" group-title="LANÇAMENTOS 2026",Presenças Ocultas
-http://sanyyy.top/movie/853147733/119555943/4236191.mp4
-#EXTINF:-1 type="video" tvg-id="Quase Trinta - Em Busca do Amor" tvg-logo="https://image.tmdb.org/t/p/w500/hlsDQdBtZeewxYEHKJBp3jVwdrk.jpg" group-title="LANÇAMENTOS 2026",Quase Trinta - Em Busca do Amor
-http://sanyyy.top/movie/853147733/119555943/4236187.mp4
-#EXTINF:-1 type="video" tvg-id="Queimando Por Dentro" tvg-logo="https://image.tmdb.org/t/p/w500/ftetcGhnH9IMlPktJeoinmvmaHR.jpg" group-title="LANÇAMENTOS 2026",Queimando Por Dentro
-http://sanyyy.top/movie/853147733/119555943/4236199.mp4
-#EXTINF:-1 type="video" tvg-id="Romance Real na Estrada" tvg-logo="https://image.tmdb.org/t/p/w500/s6S1AJt7SfOCgjw8zO0QJoipOzV.jpg" group-title="LANÇAMENTOS 2026",Romance Real na Estrada
-http://sanyyy.top/movie/853147733/119555943/4236180.mp4
-#EXTINF:-1 type="video" tvg-id="Salve Geral: Irmandade" tvg-logo="https://image.tmdb.org/t/p/w500/5AAzx2bcorTZUVe4Sk6yqhMBq1s.jpg" group-title="LANÇAMENTOS 2026",Salve Geral: Irmandade
-http://sanyyy.top/movie/853147733/119555943/4236208.mp4
-#EXTINF:-1 type="video" tvg-id="Se Esse Amor Desaparecesse Hoje" tvg-logo="https://image.tmdb.org/t/p/w500/rZpbBGwqGHkXhIOzhvHdrFqXgDX.jpg" group-title="LANÇAMENTOS 2026",Se Esse Amor Desaparecesse Hoje
-http://sanyyy.top/movie/853147733/119555943/4236232.mp4
-#EXTINF:-1 type="video" tvg-id="Se Eu Tivesse Pernas, Eu Te Chutaria" tvg-logo="https://image.tmdb.org/t/p/w500/rKmfPaOx1V2gPK9gJj5Fdg4UI44.jpg" group-title="LANÇAMENTOS 2026",Se Eu Tivesse Pernas, Eu Te Chutaria
-http://sanyyy.top/movie/853147733/119555943/4236206.mp4
-#EXTINF:-1 type="video" tvg-id="Sinfonia de Guerra" tvg-logo="https://image.tmdb.org/t/p/w500/aZlsV0BB56sny4FnFYSCzr3is1B.jpg" group-title="LANÇAMENTOS 2026",Sinfonia de Guerra
-http://sanyyy.top/movie/853147733/119555943/4236245.mp4
-#EXTINF:-1 type="video" tvg-id="Springsteen: Salve-me do Desconhecido" tvg-logo="https://image.tmdb.org/t/p/w500/ZbKU1buIabrW4b5seDoHY5HkeF.jpg" group-title="LANÇAMENTOS 2026",Springsteen: Salve-me do Desconhecido
-http://sanyyy.top/movie/853147733/119555943/4236249.mp4
-#EXTINF:-1 type="video" tvg-id="Tarde demais, meu amor [L]" tvg-logo="http://lgfp.one/RRZ5" group-title="LANÇAMENTOS 2026",Tarde demais, meu amor [L]
-http://sanyyy.top/movie/853147733/119555943/4236178.mp4
-#EXTINF:-1 type="video" tvg-id="Um Dia Extraordinário" tvg-logo="https://image.tmdb.org/t/p/w500/AuRamBsUf8AqRzHmWMjb2jg5vVZ.jpg" group-title="LANÇAMENTOS 2026",Um Dia Extraordinário
-http://sanyyy.top/movie/853147733/119555943/4222279.mp4
-#EXTINF:-1 type="video" tvg-id="Uma Carta à Minha Juventude" tvg-logo="https://image.tmdb.org/t/p/w500/xNOOOaRmv3NvRnVx8L0FK1aIq6N.jpg" group-title="LANÇAMENTOS 2026",Uma Carta à Minha Juventude
-http://sanyyy.top/movie/853147733/119555943/4236242.mp4
-#EXTINF:-1 type="video" tvg-id="Utopia Muda" tvg-logo="https://image.tmdb.org/t/p/w500/8T17fu0qEeO7O9OXrDTYOBzrzaL.jpg" group-title="LANÇAMENTOS 2026",Utopia Muda
-http://sanyyy.top/movie/853147733/119555943/4236241.mp4
-#EXTINF:-1 type="video" tvg-id="Verdade e Traição" tvg-logo="https://image.tmdb.org/t/p/w500https://image.tmdb.org/t/p/w500/AoV1OxQpKhXxwmvcjUAwiaHWhkU.jpg" group-title="LANÇAMENTOS 2026",Verdade e Traição
-http://sanyyy.top/movie/853147733/119555943/4222280.mp4
-#EXTINF:-1 type="video" tvg-id="Vingança Brutal" tvg-logo="https://image.tmdb.org/t/p/w500/sHkiapXNCtO9G9tLEWzfdxKC0LN.jpg" group-title="LANÇAMENTOS 2026",Vingança Brutal
-http://sanyyy.top/movie/853147733/119555943/4236214.mp4
-#EXTINF:-1 type="video" tvg-id="Vizinhos Bárbaros" tvg-logo="https://image.tmdb.org/t/p/w500/fekB6qBGqaSWXY1TXPgQ6vWbTy0.jpg" group-title="LANÇAMENTOS 2026",Vizinhos Bárbaros
-http://sanyyy.top/movie/853147733/119555943/4236198.mp4
-#EXTINF:-1 type="video" tvg-id="Você Radical - Amnésia" tvg-logo="https://image.tmdb.org/t/p/w500/pGt2JUsDjhSn738jR3R1SdxWRe5.jpg" group-title="LANÇAMENTOS 2026",Você Radical - Amnésia
-http://sanyyy.top/movie/853147733/119555943/4236231.mp4
-#EXTINF:-1 type="video" tvg-id="Você Vai Morrer em 6 Horas" tvg-logo="https://image.tmdb.org/t/p/w500/s7Vze1z7tAs4d4xfhu0OqNkFuDM.jpg" group-title="LANÇAMENTOS 2026",Você Vai Morrer em 6 Horas
-http://sanyyy.top/movie/853147733/119555943/4236235.mp4
-#EXTINF:-1 type="video" tvg-id="Zona de Caça" tvg-logo="https://image.tmdb.org/t/p/w500/eFrZLDfyb0fef5IDk9CH4MV2aod.jpg" group-title="LANÇAMENTOS 2026",Zona de Caça
-http://sanyyy.top/movie/853147733/119555943/4236233.mp4
-#EXTINF:-1 type="video" tvg-id="De Férias com Você" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJUSPBMyt8U1XBlpW8s3IijIgSe.jpg" group-title="LANÇAMENTOS 2026",De Férias com Você
-http://sanyyy.top/movie/853147733/119555943/4177210.mp4
-#EXTINF:-1 type="video" tvg-id="Twinless - Um Gêmeo a Menos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DDiHWvCRwCWXUjv1xdMefzsrCh.jpg" group-title="LANÇAMENTOS 2026",Twinless - Um Gêmeo a Menos
-http://sanyyy.top/movie/853147733/119555943/4177211.mp4
+#EXTM3U size="Medium"
+#EXTINF:-1 type="video" tvg-id="Morando Com o Inimigo" tvg-logo="https://image.tmdb.org/t/p/w500/6W12WT2THoSVu2zAzXqlWyFaOmE.jpg" group-title="Lançamentos 2026",Morando Com o Inimigo
+http://sev3u.sbs/movie/583638889/428916998/4247264.mp4
+#EXTINF:-1 type="video" tvg-id="Banlieusards 3" tvg-logo="" group-title="Lançamentos 2026",Banlieusards 3
+http://sev3u.sbs/movie/583638889/428916998/4247265.mp4
+#EXTINF:-1 type="video" tvg-id="Vollúpya" tvg-logo="https://image.tmdb.org/t/p/w500/lTANN8yOF8fevkVk3ykea6qG494.jpg" group-title="Lançamentos 2026",Vollúpya
+http://sev3u.sbs/movie/583638889/428916998/4247266.mp4
+#EXTINF:-1 type="video" tvg-id="Macaléia" tvg-logo="https://image.tmdb.org/t/p/w500/tns0JHZQql0LJORShbml2ATm0Dk.jpg" group-title="Lançamentos 2026",Macaléia
+http://sev3u.sbs/movie/583638889/428916998/4247267.mp4
+#EXTINF:-1 type="video" tvg-id="O Segredo da Chef" tvg-logo="https://image.tmdb.org/t/p/w500/2gFI2nudS2Jv8V8cPSgNCKcxVtE.jpg" group-title="Lançamentos 2026",O Segredo da Chef
+http://sev3u.sbs/movie/583638889/428916998/4247268.mp4
+#EXTINF:-1 type="video" tvg-id="Parque Lezama" tvg-logo="https://image.tmdb.org/t/p/w500/ckBRproYQsXAJGtyejKjDr5ZcBU.jpg" group-title="Lançamentos 2026",Parque Lezama
+http://sev3u.sbs/movie/583638889/428916998/4247269.mp4
+#EXTINF:-1 type="video" tvg-id="O Poder do Pecado" tvg-logo="https://image.tmdb.org/t/p/w500/kQB6VcKQir5QTfuqwAQ83JVTz7S.jpg" group-title="Lançamentos 2026",O Poder do Pecado
+http://sev3u.sbs/movie/583638889/428916998/4247270.mp4
+#EXTINF:-1 type="video" tvg-id="As Linhas da Minha Mão" tvg-logo="https://image.tmdb.org/t/p/w500/foVMIyTMLOtPXxNXQQddQ9aAvkZ.jpg" group-title="Lançamentos 2026",As Linhas da Minha Mão
+http://sev3u.sbs/movie/583638889/428916998/4247271.mp4
+#EXTINF:-1 type="video" tvg-id="Pé na Estrada – O Movimento de uma Nação" tvg-logo="https://image.tmdb.org/t/p/w500/csvc2q2o4dJWqYipE9Lv0nPoDT4.jpg" group-title="Lançamentos 2026",Pé na Estrada – O Movimento de uma Nação
+http://sev3u.sbs/movie/583638889/428916998/4247273.mp4
+#EXTINF:-1 type="video" tvg-id="O Inferno Pode Esperar" tvg-logo="https://image.tmdb.org/t/p/w500/usS3cbY6x7BEYDHjpENcULXz7OI.jpg" group-title="Lançamentos 2026",O Inferno Pode Esperar
+http://sev3u.sbs/movie/583638889/428916998/4247274.mp4
+#EXTINF:-1 type="video" tvg-id="Enterre Seus Mortos" tvg-logo="https://image.tmdb.org/t/p/w500/41Nwv99NYnrkOZRyoLI8zacZkM3.jpg" group-title="Lançamentos 2026",Enterre Seus Mortos
+http://sev3u.sbs/movie/583638889/428916998/4247275.mp4
+#EXTINF:-1 type="video" tvg-id="Sombra da Morte" tvg-logo="https://image.tmdb.org/t/p/w500/ndNyEcrx1QBh9HDf2DHOqRnBri4.jpg" group-title="Lançamentos 2026",Sombra da Morte
+http://sev3u.sbs/movie/583638889/428916998/4247276.mp4
+#EXTINF:-1 type="video" tvg-id="The Freediver" tvg-logo="https://image.tmdb.org/t/p/w500/uR2w89RLSnKTkPnjbhMDSJmikQj.jpg" group-title="Lançamentos 2026",The Freediver
+http://sev3u.sbs/movie/583638889/428916998/4247277.mp4
+#EXTINF:-1 type="video" tvg-id="Festival de Artes de Hazelton" tvg-logo="https://image.tmdb.org/t/p/w500/sk6eLjOLzcj1jefDdWHkNpEiBFz.jpg" group-title="Lançamentos 2026",Festival de Artes de Hazelton
+http://sev3u.sbs/movie/583638889/428916998/4247278.mp4
+#EXTINF:-1 type="video" tvg-id="Romance na Ficção" tvg-logo="https://image.tmdb.org/t/p/w500/rW96Ww9iPJouXlKsQL4Hcrn3gDL.jpg" group-title="Lançamentos 2026",Romance na Ficção
+http://sev3u.sbs/movie/583638889/428916998/4247279.mp4
+#EXTINF:-1 type="video" tvg-id="Encontrando o Amor em Yosemite" tvg-logo="https://image.tmdb.org/t/p/w500/j3F7ZVAQwW7RrpZ4gTKtuC93REz.jpg" group-title="Lançamentos 2026",Encontrando o Amor em Yosemite
+http://sev3u.sbs/movie/583638889/428916998/4247280.mp4
+#EXTINF:-1 type="video" tvg-id="Párvulos: Filhos do Apocalipse" tvg-logo="https://image.tmdb.org/t/p/w500/5iLsx5YgT2cy2JTqoVRZNjw6C6S.jpg" group-title="Lançamentos 2026",Párvulos: Filhos do Apocalipse
+http://sev3u.sbs/movie/583638889/428916998/4247281.mp4
+#EXTINF:-1 type="video" tvg-id="Um Retrato de Teresa" tvg-logo="https://image.tmdb.org/t/p/w500/aSixWdQ98JPikRzuSTVDMpmi7IZ.jpg" group-title="Lançamentos 2026",Um Retrato de Teresa
+http://sev3u.sbs/movie/583638889/428916998/4247283.mp4
+#EXTINF:-1 type="video" tvg-id="Valatty: Jornada de Amor e Amizade" tvg-logo="https://image.tmdb.org/t/p/w500/hujsfIAbgTdHDhF81CjRgZ5bRWG.jpg" group-title="Lançamentos 2026",Valatty: Jornada de Amor e Amizade
+http://sev3u.sbs/movie/583638889/428916998/4247284.mp4
+#EXTINF:-1 type="video" tvg-id="Em Um Piscar de Olhos" tvg-logo="https://image.tmdb.org/t/p/w500/jWWgclKzxtaSvjYuchsknSqqyrN.jpg" group-title="Lançamentos 2026",Em Um Piscar de Olhos
+http://sev3u.sbs/movie/583638889/428916998/4247285.mp4
+#EXTINF:-1 type="video" tvg-id="Tom e Jerry: Uma Aventura no Museu" tvg-logo="https://image.tmdb.org/t/p/w500/eqQpR3H0bIMiLnjTt0YLVKfS1hI.jpg" group-title="Lançamentos 2026",Tom e Jerry: Uma Aventura no Museu
+http://sev3u.sbs/movie/583638889/428916998/4247286.mp4
+#EXTINF:-1 type="video" tvg-id="Gladiadores" tvg-logo="https://image.tmdb.org/t/p/w500/lwyBbGEku7KzjM7DzL3AX0ZOrJl.jpg" group-title="Lançamentos 2026",Gladiadores
+http://sev3u.sbs/movie/583638889/428916998/4247287.mp4
+#EXTINF:-1 type="video" tvg-id="Instinto Fatal" tvg-logo="https://image.tmdb.org/t/p/w500/6wyjAVAjbvheaxYw284Lo6ezAwv.jpg" group-title="Lançamentos 2026",Instinto Fatal
+http://sev3u.sbs/movie/583638889/428916998/4247288.mp4
+#EXTINF:-1 type="video" tvg-id="Hierarchy" tvg-logo="https://image.tmdb.org/t/p/w500/pyoe5bYZK3ZBOucud1CXe3CjRNc.jpg" group-title="Lançamentos 2026",Hierarchy
+http://sev3u.sbs/movie/583638889/428916998/4247289.mp4
+#EXTINF:-1 type="video" tvg-id="Desta Vez, Para Sempre" tvg-logo="https://image.tmdb.org/t/p/w500/keSB3VpySTie5UjST7xhKAeP7yX.jpg" group-title="Lançamentos 2026",Desta Vez, Para Sempre
+http://sev3u.sbs/movie/583638889/428916998/4247290.mp4
+#EXTINF:-1 type="video" tvg-id="A Incrível Eleanor" tvg-logo="https://image.tmdb.org/t/p/w500/1BKfPBPVGfLAIIDu8RRJqaIglLU.jpg" group-title="Lançamentos 2026",A Incrível Eleanor
+http://sev3u.sbs/movie/583638889/428916998/4247291.mp4
+#EXTINF:-1 type="video" tvg-id="Um Homem de Coragem" tvg-logo="https://image.tmdb.org/t/p/w500/iXU47OhXJFm9HUiAoCn82xMLwZE.jpg" group-title="Lançamentos 2026",Um Homem de Coragem
+http://sev3u.sbs/movie/583638889/428916998/4247292.mp4
+#EXTINF:-1 type="video" tvg-id="Super Wings: Em Velocidade Máxima" tvg-logo="https://image.tmdb.org/t/p/w500/2ZHdux1976LH4rKeggaX9DCbahB.jpg" group-title="Lançamentos 2026",Super Wings: Em Velocidade Máxima
+http://sev3u.sbs/movie/583638889/428916998/4247293.mp4
+#EXTINF:-1 type="video" tvg-id="Corra, Baby, Corra" tvg-logo="https://image.tmdb.org/t/p/w500/w5wGJiZ2CUJ5lfqBmu8gZ5Zniny.jpg" group-title="Lançamentos 2026",Corra, Baby, Corra
+http://sev3u.sbs/movie/583638889/428916998/4247294.mp4
+#EXTINF:-1 type="video" tvg-id="Queen Tut" tvg-logo="https://image.tmdb.org/t/p/w500/zjlnzrmadBvNTDPMmXc7YW5hANu.jpg" group-title="Lançamentos 2026",Queen Tut
+http://sev3u.sbs/movie/583638889/428916998/4247295.mp4
+#EXTINF:-1 type="video" tvg-id="Crime Sobre Rodas" tvg-logo="https://image.tmdb.org/t/p/w500/uzk7I9d8fpMcL1X1HJwxBcVgqjh.jpg" group-title="Lançamentos 2026",Crime Sobre Rodas
+http://sev3u.sbs/movie/583638889/428916998/4247296.mp4
+#EXTINF:-1 type="video" tvg-id="O Grilo e a Formiga" tvg-logo="https://image.tmdb.org/t/p/w500/9U4oa0E53WcEERxqOLl0enyzH2J.jpg" group-title="Lançamentos 2026",O Grilo e a Formiga
+http://sev3u.sbs/movie/583638889/428916998/4247297.mp4
+#EXTINF:-1 type="video" tvg-id="O Mundo Irá Tremer" tvg-logo="" group-title="Lançamentos 2026",O Mundo Irá Tremer
+http://sev3u.sbs/movie/583638889/428916998/4247298.mp4
+#EXTINF:-1 type="video" tvg-id="O Despertal do Mal" tvg-logo="" group-title="Lançamentos 2026",O Despertal do Mal
+http://sev3u.sbs/movie/583638889/428916998/4247299.mp4
+#EXTINF:-1 type="video" tvg-id="Hallow Road: Caminho Sem Volta" tvg-logo="https://image.tmdb.org/t/p/w500/aMKCpg3dYPj8NGCB64jZZllyWL1.jpg" group-title="Lançamentos 2026",Hallow Road: Caminho Sem Volta
+http://sev3u.sbs/movie/583638889/428916998/4247300.mp4
+#EXTINF:-1 type="video" tvg-id="Pavana" tvg-logo="https://image.tmdb.org/t/p/w500/onUWCAs2uhNuUX5nY2wiEHAfR3T.jpg" group-title="Lançamentos 2026",Pavana
+http://sev3u.sbs/movie/583638889/428916998/4247301.mp4
+#EXTINF:-1 type="video" tvg-id="Enaldinho e o Mistério da Lagoa" tvg-logo="https://image.tmdb.org/t/p/w500/mRnthkrCp0hbsTY06Wa5u9LWyxS.jpg" group-title="Lançamentos 2026",Enaldinho e o Mistério da Lagoa
+http://sev3u.sbs/movie/583638889/428916998/4247302.mp4
+#EXTINF:-1 type="video" tvg-id="Corta-fogo" tvg-logo="https://image.tmdb.org/t/p/w500/6V0FLzciqJh7d1Y4zXyyqLAKnTs.jpg" group-title="Lançamentos 2026",Corta-fogo
+http://sev3u.sbs/movie/583638889/428916998/4247303.mp4
+#EXTINF:-1 type="video" tvg-id="A Conexão Sueca" tvg-logo="https://image.tmdb.org/t/p/w500/lKBY11mRbPXApcXMY96RjXtT7GU.jpg" group-title="Lançamentos 2026",A Conexão Sueca
+http://sev3u.sbs/movie/583638889/428916998/4247304.mp4
+#EXTINF:-1 type="video" tvg-id="Paterno" tvg-logo="https://image.tmdb.org/t/p/w500/Ad4y2Cc2FcY1wOk3DH7HVWlrgEM.jpg" group-title="Lançamentos 2026",Paterno
+http://sev3u.sbs/movie/583638889/428916998/4247305.mp4
+#EXTINF:-1 type="video" tvg-id="Família de Aluguel" tvg-logo="https://image.tmdb.org/t/p/w500/6OLrvwkdkQ3vzEzhNR7g24HYbeg.jpg" group-title="Lançamentos 2026",Família de Aluguel
+http://sev3u.sbs/movie/583638889/428916998/4247306.mp4
+#EXTINF:-1 type="video" tvg-id="Perdoai-nos as Nossas Ofensas" tvg-logo="https://image.tmdb.org/t/p/w500/onc5fMwe0eBlrw8DgXv3ZYgjEil.jpg" group-title="Lançamentos 2026",Perdoai-nos as Nossas Ofensas
+http://sev3u.sbs/movie/583638889/428916998/4251373.mp4
+#EXTINF:-1 type="video" tvg-id="Eunice Gutman Tem Histórias" tvg-logo="https://image.tmdb.org/t/p/w500/7GDoq1ZSPSFfXzRXgYIfXHmVCDE.jpg" group-title="Lançamentos 2026",Eunice Gutman Tem Histórias
+http://sev3u.sbs/movie/583638889/428916998/4251374.mp4
+#EXTINF:-1 type="video" tvg-id="Sobrevivendo na América" tvg-logo="https://image.tmdb.org/t/p/w500/zevWxVyyRQY6kMBQjRrUoA5a8a1.jpg" group-title="Lançamentos 2026",Sobrevivendo na América
+http://sev3u.sbs/movie/583638889/428916998/4251375.mp4
+#EXTINF:-1 type="video" tvg-id="Sinfonia da Sobrevivência" tvg-logo="https://image.tmdb.org/t/p/w500/iSpsLTIBqiyxLEpnyimXLJ43Z0K.jpg" group-title="Lançamentos 2026",Sinfonia da Sobrevivência
+http://sev3u.sbs/movie/583638889/428916998/4251376.mp4
+#EXTINF:-1 type="video" tvg-id="Granizo" tvg-logo="https://image.tmdb.org/t/p/w500/pnTp17HCwQ6EhsWfqzgwnUfhSym.jpg" group-title="Lançamentos 2026",Granizo
+http://sev3u.sbs/movie/583638889/428916998/4251377.mp4
+#EXTINF:-1 type="video" tvg-id="Uma Nota para o Amor" tvg-logo="https://image.tmdb.org/t/p/w500/qu62nfKz9HfLMCJd4fVTnnNWuza.jpg" group-title="Lançamentos 2026",Uma Nota para o Amor
+http://sev3u.sbs/movie/583638889/428916998/4251378.mp4
+#EXTINF:-1 type="video" tvg-id="Soldado em Fúria" tvg-logo="https://image.tmdb.org/t/p/w500/dmIl4xTL6nnjb3DodS2Df4Xo8tM.jpg" group-title="Lançamentos 2026",Soldado em Fúria
+http://sev3u.sbs/movie/583638889/428916998/4251379.mp4
+#EXTINF:-1 type="video" tvg-id="Nunca Acaba, Jeff Buckley" tvg-logo="https://image.tmdb.org/t/p/w500/rrKe8bC6UKFKvfZHvbwA9Bq5hkR.jpg" group-title="Lançamentos 2026",Nunca Acaba, Jeff Buckley
+http://sev3u.sbs/movie/583638889/428916998/4251380.mp4
+#EXTINF:-1 type="video" tvg-id="Invasores da Noite" tvg-logo="https://image.tmdb.org/t/p/w500/aA2Zs7FNstzzqYAFKAyMHIvKVI8.jpg" group-title="Lançamentos 2026",Invasores da Noite
+http://sev3u.sbs/movie/583638889/428916998/4251381.mp4
+#EXTINF:-1 type="video" tvg-id="Prisioneira do Terror" tvg-logo="https://image.tmdb.org/t/p/w500/6cJUoeACxdJK9c7SrRlFHUm6T6m.jpg" group-title="Lançamentos 2026",Prisioneira do Terror
+http://sev3u.sbs/movie/583638889/428916998/4251382.mp4
+#EXTINF:-1 type="video" tvg-id="Cinderela no Caribe" tvg-logo="https://image.tmdb.org/t/p/w500/RD21PYErP8FeYcpHu4H1bBKPNZ.jpg" group-title="Lançamentos 2026",Cinderela no Caribe
+http://sev3u.sbs/movie/583638889/428916998/4251383.mp4
+#EXTINF:-1 type="video" tvg-id="Matar. Vingar. Repetir" tvg-logo="https://image.tmdb.org/t/p/w500/6kpunNhxuXCj8YKnazUc30qadpT.jpg" group-title="Lançamentos 2026",Matar. Vingar. Repetir
+http://sev3u.sbs/movie/583638889/428916998/4251384.mp4
+#EXTINF:-1 type="video" tvg-id="Uno: Entre o Ouro e a Morte" tvg-logo="https://image.tmdb.org/t/p/w500/aL1DvA7f9QofwuIVt0kYp6txES.jpg" group-title="Lançamentos 2026",Uno: Entre o Ouro e a Morte
+http://sev3u.sbs/movie/583638889/428916998/4252776.mp4
+#EXTINF:-1 type="video" tvg-id="Peaky Blinders: O Homem Imortal" tvg-logo="https://image.tmdb.org/t/p/w500/8XLNDeumvz0cXa6sntZJ6p4zfLb.jpg" group-title="Lançamentos 2026",Peaky Blinders: O Homem Imortal
+http://sev3u.sbs/movie/583638889/428916998/4252777.mp4
+#EXTINF:-1 type="video" tvg-id="ImpunIdade: As consequências da lei da maioridade penal no Brasil" tvg-logo="https://image.tmdb.org/t/p/w500/9H0M1wGzToMqIrOMQNgotXPlTpB.jpg" group-title="Lançamentos 2026",ImpunIdade: As consequências da lei da maioridade penal no Brasil
+http://sev3u.sbs/movie/583638889/428916998/4252778.mp4
+#EXTINF:-1 type="video" tvg-id="Servindo Nazistas" tvg-logo="https://image.tmdb.org/t/p/w500/aOlVasVXQLr5WjLdfJAd5KI8xTS.jpg" group-title="Lançamentos 2026",Servindo Nazistas
+http://sev3u.sbs/movie/583638889/428916998/4252779.mp4
+#EXTINF:-1 type="video" tvg-id="Meu Sonho Americano" tvg-logo="https://image.tmdb.org/t/p/w500/fbrXXpnXpGHVcrXP66ZzdtsZofD.jpg" group-title="Lançamentos 2026",Meu Sonho Americano
+http://sev3u.sbs/movie/583638889/428916998/4252780.mp4
+#EXTINF:-1 type="video" tvg-id="O Diário de Pilar na Amazônia" tvg-logo="https://image.tmdb.org/t/p/w500/kFBWjlAhdGgVFYXFN6hI5Pflezy.jpg" group-title="Lançamentos 2026",O Diário de Pilar na Amazônia
+http://sev3u.sbs/movie/583638889/428916998/4252781.mp4
+#EXTINF:-1 type="video" tvg-id="No Reino das Sombras" tvg-logo="https://image.tmdb.org/t/p/w500/3F5BcXma9q91Sulyz6O2RBk4NEB.jpg" group-title="Lançamentos 2026",No Reino das Sombras
+http://sev3u.sbs/movie/583638889/428916998/4252782.mp4
+#EXTINF:-1 type="video" tvg-id="Resgate Polar" tvg-logo="https://image.tmdb.org/t/p/w500/jGrdGu169sivYwjxHXNtPrGpbl6.jpg" group-title="Lançamentos 2026",Resgate Polar
+http://sev3u.sbs/movie/583638889/428916998/4252783.mp4
+#EXTINF:-1 type="video" tvg-id="Detox de Plástico" tvg-logo="https://image.tmdb.org/t/p/w500/q97dOzjJNNz1Kw2lWZkdEjzJttp.jpg" group-title="Lançamentos 2026",Detox de Plástico
+http://sev3u.sbs/movie/583638889/428916998/4252784.mp4
+#EXTINF:-1 type="video" tvg-id="Luiz Melodia - No Coração do Brasil" tvg-logo="https://image.tmdb.org/t/p/w500/5J3pHjmnCyj1DpaeBsb0BNKOq2J.jpg" group-title="Lançamentos 2026",Luiz Melodia - No Coração do Brasil
+http://sev3u.sbs/movie/583638889/428916998/4252785.mp4
+#EXTINF:-1 type="video" tvg-id="Finja-se de Morta" tvg-logo="https://image.tmdb.org/t/p/w500/s8SQ73M4MvhY0U4FgV1TlukFgZJ.jpg" group-title="Lançamentos 2026",Finja-se de Morta
+http://sev3u.sbs/movie/583638889/428916998/4252786.mp4
+#EXTINF:-1 type="video" tvg-id="Patrulha Noturna" tvg-logo="https://image.tmdb.org/t/p/w500/7tAyZKZc1dQsu6ybfRTcIpjsbbK.jpg" group-title="Lançamentos 2026",Patrulha Noturna
+http://sev3u.sbs/movie/583638889/428916998/4252787.mp4
+#EXTINF:-1 type="video" tvg-id="Agente Zeta" tvg-logo="https://image.tmdb.org/t/p/w500/zU20MrtOAYon07ULE9wFxUeaaqd.jpg" group-title="Lançamentos 2026",Agente Zeta
+http://sev3u.sbs/movie/583638889/428916998/4252788.mp4
+#EXTINF:-1 type="video" tvg-id="Sonhar com Leões" tvg-logo="https://image.tmdb.org/t/p/w500/wGuU6BWvrfUoKp0MyVJiH4bE79r.jpg" group-title="Lançamentos 2026",Sonhar com Leões
+http://sev3u.sbs/movie/583638889/428916998/4252789.mp4
+#EXTINF:-1 type="video" tvg-id="Rabbit Trap" tvg-logo="https://image.tmdb.org/t/p/w500/kd4QlADSxNapjIstAuWqqqmOuIK.jpg" group-title="Lançamentos 2026",Rabbit Trap
+http://sev3u.sbs/movie/583638889/428916998/4252790.mp4
+#EXTINF:-1 type="video" tvg-id="Made in Korea" tvg-logo="https://image.tmdb.org/t/p/w500/foEObhyAMM3dxYeBEr242EdQDB7.jpg" group-title="Lançamentos 2026",Made in Korea
+http://sev3u.sbs/movie/583638889/428916998/4252791.mp4
+#EXTINF:-1 type="video" tvg-id="A Face Oculta de Varginha: Poder, Dinheiro e Rituais." tvg-logo="https://image.tmdb.org/t/p/w500/jhemlyhhwpEYRgnWqSPRXXFVWxL.jpg" group-title="Lançamentos 2026",A Face Oculta de Varginha: Poder, Dinheiro e Rituais.
+http://sev3u.sbs/movie/583638889/428916998/4252792.mp4
+#EXTINF:-1 type="video" tvg-id="Louis Theroux: Por Dentro da Machosfera" tvg-logo="https://image.tmdb.org/t/p/w500/4KL3v3bTy8OCsgFgOlbZmeCBsQa.jpg" group-title="Lançamentos 2026",Louis Theroux: Por Dentro da Machosfera
+http://sev3u.sbs/movie/583638889/428916998/4252793.mp4
+#EXTINF:-1 type="video" tvg-id="O Porão da Rua do Grito" tvg-logo="https://image.tmdb.org/t/p/w500/a4h0VpBrnMnyq0CX9PmPzFS8IVc.jpg" group-title="Lançamentos 2026",O Porão da Rua do Grito
+http://sev3u.sbs/movie/583638889/428916998/4252794.mp4
+#EXTINF:-1 type="video" tvg-id="Jumbo: Um Coração Gigante" tvg-logo="https://image.tmdb.org/t/p/w500/g4Xew5ghnOBKoPyX2M4qh8jtuyn.jpg" group-title="Lançamentos 2026",Jumbo: Um Coração Gigante
+http://sev3u.sbs/movie/583638889/428916998/4252795.mp4
+#EXTINF:-1 type="video" tvg-id="Um Cabra Bom de Bola" tvg-logo="https://image.tmdb.org/t/p/w500/x0SRTrltSJi1iQiIAUpyvkxnr41.jpg" group-title="Lançamentos 2026",Um Cabra Bom de Bola
+http://sev3u.sbs/movie/583638889/428916998/4253014.mp4
+#EXTINF:-1 type="video" tvg-id="Invasão à Venezuela" tvg-logo="https://image.tmdb.org/t/p/w500/lD1vYyKuO1omlQXtwrGVdz8yfnt.jpg" group-title="Lançamentos 2026",Invasão à Venezuela
+http://sev3u.sbs/movie/583638889/428916998/4254125.mp4
+#EXTINF:-1 type="video" tvg-id="À Procura de Harry: A Arte por Trás da Magia" tvg-logo="https://image.tmdb.org/t/p/w500/yKsg1Q9IZmKlN6a1ykxUZf8BkGL.jpg" group-title="Lançamentos 2026",À Procura de Harry: A Arte por Trás da Magia
+http://sev3u.sbs/movie/583638889/428916998/4254254.mp4
+#EXTINF:-1 type="video" tvg-id="Ataque Brutal" tvg-logo="https://image.tmdb.org/t/p/w500/349RbnEbWd38iLlqzELTUppjSt2.jpg" group-title="Lançamentos 2026",Ataque Brutal
+http://sev3u.sbs/movie/583638889/428916998/4254266.mp4
+#EXTINF:-1 type="video" tvg-id="A Noiva!" tvg-logo="https://image.tmdb.org/t/p/w500/vcdnSEcm0f0shJohkJnrOBcCq1m.jpg" group-title="Lançamentos 2026",A Noiva!
+http://sev3u.sbs/movie/583638889/428916998/4254553.mp4
+#EXTINF:-1 type="video" tvg-id="Vlavianos, o Impulso e a Razão" tvg-logo="https://image.tmdb.org/t/p/w500/wf73CbB2Ag6NmMofdas79EBfGu3.jpg" group-title="Lançamentos 2026",Vlavianos, o Impulso e a Razão
+http://sev3u.sbs/movie/583638889/428916998/4254729.mp4
+#EXTINF:-1 type="video" tvg-id="Teste para Cardíaco" tvg-logo="https://image.tmdb.org/t/p/w500/g0zoFAa88CNIHWYoDPFsISCuM3z.jpg" group-title="Lançamentos 2026",Teste para Cardíaco
+http://sev3u.sbs/movie/583638889/428916998/4254731.mp4
+#EXTINF:-1 type="video" tvg-id="É Quase Verdade" tvg-logo="https://image.tmdb.org/t/p/w500/aYLSUuloTcDS273R9NJwcqDjVJ8.jpg" group-title="Lançamentos 2026",É Quase Verdade
+http://sev3u.sbs/movie/583638889/428916998/4254732.mp4
+#EXTINF:-1 type="video" tvg-id="O Retorno de Davy Crockett" tvg-logo="https://image.tmdb.org/t/p/w500/gu6NYYtUQhWOousLZqZmmziQnu8.jpg" group-title="Lançamentos 2026",O Retorno de Davy Crockett
+http://sev3u.sbs/movie/583638889/428916998/4254733.mp4
+#EXTINF:-1 type="video" tvg-id="Lonely People: Nunca Confie em Ninguém" tvg-logo="https://image.tmdb.org/t/p/w500/soNUK2e6RiTnonbroEqWvQuH5fw.jpg" group-title="Lançamentos 2026",Lonely People: Nunca Confie em Ninguém
+http://sev3u.sbs/movie/583638889/428916998/4254734.mp4
+#EXTINF:-1 type="video" tvg-id="Placa-mãe" tvg-logo="https://image.tmdb.org/t/p/w500/mQytxHlGSqSs2oVQuC9ns91iiqk.jpg" group-title="Lançamentos 2026",Placa-mãe
+http://sev3u.sbs/movie/583638889/428916998/4254735.mp4
+#EXTINF:-1 type="video" tvg-id="Manual Prático da Vingança Lucrativa" tvg-logo="https://image.tmdb.org/t/p/w500/eyYbgERxVuWBhCeZZLNFlZVWLz2.jpg" group-title="Lançamentos 2026",Manual Prático da Vingança Lucrativa
+http://sev3u.sbs/movie/583638889/428916998/4254736.mp4
+#EXTINF:-1 type="video" tvg-id="A Tragédia de Moriah Wilson" tvg-logo="https://image.tmdb.org/t/p/w500/mVwDPMZr6x3u2uEq9pclqbigPh2.jpg" group-title="Lançamentos 2026",A Tragédia de Moriah Wilson
+http://sev3u.sbs/movie/583638889/428916998/4254737.mp4
+#EXTINF:-1 type="video" tvg-id="Grace by Night" tvg-logo="https://image.tmdb.org/t/p/w500/cDAws6LhkKmIjoRGsxzo6RgBgNT.jpg" group-title="Lançamentos 2026",Grace by Night
+http://sev3u.sbs/movie/583638889/428916998/4254738.mp4
+#EXTINF:-1 type="video" tvg-id="Quase Deserto" tvg-logo="https://image.tmdb.org/t/p/w500/77gH6cZgKs1uuzmy8FuZ09VSavC.jpg" group-title="Lançamentos 2026",Quase Deserto
+http://sev3u.sbs/movie/583638889/428916998/4254739.mp4
+#EXTINF:-1 type="video" tvg-id="Dois Nilos" tvg-logo="https://image.tmdb.org/t/p/w500/mLufrbc31bVPe2iDb1L92aWAFGM.jpg" group-title="Lançamentos 2026",Dois Nilos
+http://sev3u.sbs/movie/583638889/428916998/4254740.mp4
+#EXTINF:-1 type="video" tvg-id="A Sombra de Um Futuro" tvg-logo="https://image.tmdb.org/t/p/w500/pLNiu9uUnmoxQrQzIwWS7K8Z3rq.jpg" group-title="Lançamentos 2026",A Sombra de Um Futuro
+http://sev3u.sbs/movie/583638889/428916998/4254741.mp4
+#EXTINF:-1 type="video" tvg-id="Charlie: O Super Cão" tvg-logo="https://image.tmdb.org/t/p/w500/uvXHs10CYWRyerGSX2WuN2dzxse.jpg" group-title="Lançamentos 2026",Charlie: O Super Cão
+http://sev3u.sbs/movie/583638889/428916998/4254742.mp4
+#EXTINF:-1 type="video" tvg-id="O Caso dos Estrangeiros" tvg-logo="https://image.tmdb.org/t/p/w500/weTyThAvs2JZJ3AZefA53d7vyfy.jpg" group-title="Lançamentos 2026",O Caso dos Estrangeiros
+http://sev3u.sbs/movie/583638889/428916998/4254743.mp4
+#EXTINF:-1 type="video" tvg-id="Bola pra Cima" tvg-logo="https://image.tmdb.org/t/p/w500/9uMTLWiDPFWYxEwP11G9Sp9cVAk.jpg" group-title="Lançamentos 2026",Bola pra Cima
+http://sev3u.sbs/movie/583638889/428916998/4254744.mp4
+#EXTINF:-1 type="video" tvg-id="Para Sempre Medo" tvg-logo="https://image.tmdb.org/t/p/w500/usGVBMdUxIiXIZ2iZD04iWsi3ed.jpg" group-title="Lançamentos 2026",Para Sempre Medo
+http://sev3u.sbs/movie/583638889/428916998/4254745.mp4
+#EXTINF:-1 type="video" tvg-id="Ato Noturno" tvg-logo="https://image.tmdb.org/t/p/w500/o0uHoWYGsZaGSC6O9iTRy4sAz5J.jpg" group-title="Lançamentos 2026",Ato Noturno
+http://sev3u.sbs/movie/583638889/428916998/4254746.mp4
+#EXTINF:-1 type="video" tvg-id="Gosto Infernal" tvg-logo="https://image.tmdb.org/t/p/w500/rMuHUjtM3HptEXz9acWEEm8U1P4.jpg" group-title="Lançamentos 2026",Gosto Infernal
+http://sev3u.sbs/movie/583638889/428916998/4254747.mp4
+#EXTINF:-1 type="video" tvg-id="Depois do Fogo" tvg-logo="https://image.tmdb.org/t/p/w500/zK4HmDCTALWOrVpUJV8fh2yPGFf.jpg" group-title="Lançamentos 2026",Depois do Fogo
+http://sev3u.sbs/movie/583638889/428916998/4254748.mp4
+#EXTINF:-1 type="video" tvg-id="The Moment" tvg-logo="https://image.tmdb.org/t/p/w500/uLawIFprIeQ5tdWwHPnxrBSuDCH.jpg" group-title="Lançamentos 2026",The Moment
+http://sev3u.sbs/movie/583638889/428916998/4254749.mp4
+#EXTINF:-1 type="video" tvg-id="18 Rosas" tvg-logo="https://image.tmdb.org/t/p/w500/1TApAJqCQekKeoRV1Nza2damyfz.jpg" group-title="Lançamentos 2026",18 Rosas
+http://sev3u.sbs/movie/583638889/428916998/4254750.mp4
+#EXTINF:-1 type="video" tvg-id="As Aventuras de Porco e Amendoim" tvg-logo="https://image.tmdb.org/t/p/w500/9JeqMDjMWyv6Dnr7jTZi73Q2o9I.jpg" group-title="Lançamentos 2026",As Aventuras de Porco e Amendoim
+http://sev3u.sbs/movie/583638889/428916998/4254751.mp4
+#EXTINF:-1 type="video" tvg-id="A Virgem da Pedreira" tvg-logo="https://image.tmdb.org/t/p/w500/f3TvzHqcFTb2TPokvV6hjC6Ypsz.jpg" group-title="Lançamentos 2026",A Virgem da Pedreira
+http://sev3u.sbs/movie/583638889/428916998/4254752.mp4
+#EXTINF:-1 type="video" tvg-id="À Espera da Morte" tvg-logo="https://image.tmdb.org/t/p/w500/kwCIrIEAQaUfzopPSM8iwBzCjDG.jpg" group-title="Lançamentos 2026",À Espera da Morte
+http://sev3u.sbs/movie/583638889/428916998/4254753.mp4
+#EXTINF:-1 type="video" tvg-id="Milton Gonçalves, Além do Espetáculo" tvg-logo="https://image.tmdb.org/t/p/w500/8EmUOxIr9p2Was31flKFIr2zGXK.jpg" group-title="Lançamentos 2026",Milton Gonçalves, Além do Espetáculo
+http://sev3u.sbs/movie/583638889/428916998/4254754.mp4
+#EXTINF:-1 type="video" tvg-id="O Diário de Frankenstein" tvg-logo="https://image.tmdb.org/t/p/w500/k8BJOKGlWqWECQhpyu70R0tHLnx.jpg" group-title="Lançamentos 2026",O Diário de Frankenstein
+http://sev3u.sbs/movie/583638889/428916998/4254755.mp4
+#EXTINF:-1 type="video" tvg-id="Uma Mulher Diferente" tvg-logo="https://image.tmdb.org/t/p/w500/tUcTRSXeU6mzlPqQ6i8vfWY3MhP.jpg" group-title="Lançamentos 2026",Uma Mulher Diferente
+http://sev3u.sbs/movie/583638889/428916998/4254756.mp4
+#EXTINF:-1 type="video" tvg-id="Resgate no Golfo" tvg-logo="https://image.tmdb.org/t/p/w500/jcUv3aqtiygXEhvc0bGEaIzJhMg.jpg" group-title="Lançamentos 2026",Resgate no Golfo
+http://sev3u.sbs/movie/583638889/428916998/4254785.mp4
+#EXTINF:-1 type="video" tvg-id="A Costureira" tvg-logo="https://image.tmdb.org/t/p/w500/Qso0177z6RrRFTHeblgjJEzpxX.jpg" group-title="Lançamentos 2026",A Costureira
+http://sev3u.sbs/movie/583638889/428916998/4254786.mp4
+#EXTINF:-1 type="video" tvg-id="É Preciso um Vilarejo…" tvg-logo="https://image.tmdb.org/t/p/w500/cXxFrrKMMu4gipC8kVoplzo0HAr.jpg" group-title="Lançamentos 2026",É Preciso um Vilarejo…
+http://sev3u.sbs/movie/583638889/428916998/4254787.mp4
+#EXTINF:-1 type="video" tvg-id="O Último Gigante" tvg-logo="https://image.tmdb.org/t/p/w500/rxQE2GmdabPcLQtrG0ik2MYyMu3.jpg" group-title="Lançamentos 2026",O Último Gigante
+http://sev3u.sbs/movie/583638889/428916998/4255029.mp4
+#EXTINF:-1 type="video" tvg-id="Desculpe, Querida" tvg-logo="https://image.tmdb.org/t/p/w500/bWkoOebjObFo21CJFElo4LsKggc.jpg" group-title="Lançamentos 2026",Desculpe, Querida
+http://sev3u.sbs/movie/583638889/428916998/4255030.mp4
+#EXTINF:-1 type="video" tvg-id="Sonho de Arrocha" tvg-logo="https://image.tmdb.org/t/p/w500/5JsQdqDJp89YOfaWLjpcSJKkQgd.jpg" group-title="Lançamentos 2026",Sonho de Arrocha
+http://sev3u.sbs/movie/583638889/428916998/4255067.mp4
+#EXTINF:-1 type="video" tvg-id="53 Domingos" tvg-logo="https://image.tmdb.org/t/p/w500/rL6GKuOAPUEGk0hqeY9sLRJTPWE.jpg" group-title="Lançamentos 2026",53 Domingos
+http://sev3u.sbs/movie/583638889/428916998/4255069.mp4
+#EXTINF:-1 type="video" tvg-id="A História do Som" tvg-logo="https://image.tmdb.org/t/p/w500/dR7HYAE56gEY8WcGVRZPLS3GEaR.jpg" group-title="Lançamentos 2026",A História do Som
+http://sev3u.sbs/movie/583638889/428916998/4255070.mp4
+#EXTINF:-1 type="video" tvg-id="A História de Um Gorila com David Attenborough" tvg-logo="https://image.tmdb.org/t/p/w500/jdbhjmDymtYdcYfzsmBlQEsOExV.jpg" group-title="Lançamentos 2026",A História de Um Gorila com David Attenborough
+http://sev3u.sbs/movie/583638889/428916998/4255080.mp4
+#EXTINF:-1 type="video" tvg-id="American Sweatshop" tvg-logo="https://image.tmdb.org/t/p/w500/38OuhBN7yga2nJSP16VPSOJ2Mwz.jpg" group-title="Lançamentos 2026",American Sweatshop
+http://sev3u.sbs/movie/583638889/428916998/4255081.mp4
+#EXTINF:-1 type="video" tvg-id="Venganza" tvg-logo="https://image.tmdb.org/t/p/w500/bQZQy1g1hkLP92IVLmIm66UVD4d.jpg" group-title="Lançamentos 2026",Venganza
+http://sev3u.sbs/movie/583638889/428916998/4255082.mp4
+#EXTINF:-1 type="video" tvg-id="A Colega Perfeita" tvg-logo="https://image.tmdb.org/t/p/w500/36zoDJG52EkHnMm60M9BdLw8Siv.jpg" group-title="Lançamentos 2026",A Colega Perfeita
+http://sev3u.sbs/movie/583638889/428916998/4255083.mp4
+#EXTINF:-1 type="video" tvg-id="Inteligência Humana" tvg-logo="https://image.tmdb.org/t/p/w500/zmv8yxTmswmMZk7mUktzY9wWXcO.jpg" group-title="Lançamentos 2026",Inteligência Humana
+http://sev3u.sbs/movie/583638889/428916998/4255084.mp4
+#EXTINF:-1 type="video" tvg-id="Barra Nova" tvg-logo="https://image.tmdb.org/t/p/w500/pfgTDPefWBcuNlZBUg5G5tFh7Tl.jpg" group-title="Lançamentos 2026",Barra Nova
+http://sev3u.sbs/movie/583638889/428916998/4255282.mp4
+#EXTINF:-1 type="video" tvg-id="Apresuntado" tvg-logo="https://image.tmdb.org/t/p/w500/yed44wIEtmC52iwbKpLGM4uXkUv.jpg" group-title="Lançamentos 2026",Apresuntado
+http://sev3u.sbs/movie/583638889/428916998/4255283.mp4
+#EXTINF:-1 type="video" tvg-id="Anti Amor" tvg-logo="https://image.tmdb.org/t/p/w500/20DnunWDP9o2A3rRCJC1QgIu9ee.jpg" group-title="Lançamentos 2026",Anti Amor
+http://sev3u.sbs/movie/583638889/428916998/4255284.mp4
+#EXTINF:-1 type="video" tvg-id="Operação Arriscada" tvg-logo="https://image.tmdb.org/t/p/w500/xoXAo6GyRo31pNjFhPTcAnAcZIw.jpg" group-title="Lançamentos 2026",Operação Arriscada
+http://sev3u.sbs/movie/583638889/428916998/4255285.mp4
+#EXTINF:-1 type="video" tvg-id="O Último Conquistador" tvg-logo="https://image.tmdb.org/t/p/w500/4kxZC9T2i0bDkPoXGK00C2A4Z5l.jpg" group-title="Lançamentos 2026",O Último Conquistador
+http://sev3u.sbs/movie/583638889/428916998/4255286.mp4
+#EXTINF:-1 type="video" tvg-id="Super Mario Bros." tvg-logo="https://image.tmdb.org/t/p/w500/yt5bbMfKpg1nRr4k5edxs7tPK2m.jpg" group-title="Lançamentos 2026",Super Mario Bros.
+http://sev3u.sbs/movie/583638889/428916998/4255349.mp4
+#EXTINF:-1 type="video" tvg-id="Untold: Crime em Hawthorne Hill" tvg-logo="https://image.tmdb.org/t/p/w500/eYDqbhcxT41dxkbQPxETlRgfwPH.jpg" group-title="Lançamentos 2026",Untold: Crime em Hawthorne Hill
+http://sev3u.sbs/movie/583638889/428916998/4258208.mp4
+#EXTINF:-1 type="video" tvg-id="O Segredo do Ourives" tvg-logo="https://image.tmdb.org/t/p/w500/uNuZwlnpH7Dk3H4gWVq9cGe6AwY.jpg" group-title="Lançamentos 2026",O Segredo do Ourives
+http://sev3u.sbs/movie/583638889/428916998/4258352.mp4
+#EXTINF:-1 type="video" tvg-id="Gafanhoto" tvg-logo="https://image.tmdb.org/t/p/w500/sRZOq9IGIPe2m1OmLCz5UgP867p.jpg" group-title="Lançamentos 2026",Gafanhoto
+http://sev3u.sbs/movie/583638889/428916998/4258353.mp4
+#EXTINF:-1 type="video" tvg-id="Um Conto Sombrio" tvg-logo="https://image.tmdb.org/t/p/w500/NVOOtkZHRVuLmp16gipDnhNwCy.jpg" group-title="Lançamentos 2026",Um Conto Sombrio
+http://sev3u.sbs/movie/583638889/428916998/4258408.mp4
+#EXTINF:-1 type="video" tvg-id="Push: No Limite do Medo" tvg-logo="https://image.tmdb.org/t/p/w500/aIOTrlX82mYw6o6LEuMn9yUrhd2.jpg" group-title="Lançamentos 2026",Push: No Limite do Medo
+http://sev3u.sbs/movie/583638889/428916998/4258409.mp4
+#EXTINF:-1 type="video" tvg-id="Mexicali: Terra sem Lei" tvg-logo="https://image.tmdb.org/t/p/w500/9lljJwaDdsTXvrs2umGSONO0k4q.jpg" group-title="Lançamentos 2026",Mexicali: Terra sem Lei
+http://sev3u.sbs/movie/583638889/428916998/4258410.mp4
+#EXTINF:-1 type="video" tvg-id="Halloween - O Espantalho Assassino" tvg-logo="https://image.tmdb.org/t/p/w500/ouczezymhTjjs6kJS9JvUj8tvHo.jpg" group-title="Lançamentos 2026",Halloween - O Espantalho Assassino
+http://sev3u.sbs/movie/583638889/428916998/4258411.mp4
+#EXTINF:-1 type="video" tvg-id="Yiya Murano: Morte na Hora do Chá" tvg-logo="https://image.tmdb.org/t/p/w500/msoLCiSHuVDIBeD2b3f7BODGbZJ.jpg" group-title="Lançamentos 2026",Yiya Murano: Morte na Hora do Chá
+http://sev3u.sbs/movie/583638889/428916998/4258412.mp4
+#EXTINF:-1 type="video" tvg-id="Um Stalker Apaixonado" tvg-logo="https://image.tmdb.org/t/p/w500/s5vMwYTvSQxDkTca9jIGJauGzPk.jpg" group-title="Lançamentos 2026",Um Stalker Apaixonado
+http://sev3u.sbs/movie/583638889/428916998/4258413.mp4
+#EXTINF:-1 type="video" tvg-id="Cigarros Mortais" tvg-logo="https://image.tmdb.org/t/p/w500/vFO43OAqQLP1ojSLZzQUpB01GGD.jpg" group-title="Lançamentos 2026",Cigarros Mortais
+http://sev3u.sbs/movie/583638889/428916998/4258416.mp4
+#EXTINF:-1 type="video" tvg-id="Os Esquecidos: Cicatrizes" tvg-logo="https://image.tmdb.org/t/p/w500/2yEX9CAcUWQK1yRYZMDpSiDY6cO.jpg" group-title="Lançamentos 2026",Os Esquecidos: Cicatrizes
+http://sev3u.sbs/movie/583638889/428916998/4258417.mp4
+#EXTINF:-1 type="video" tvg-id="Nouvelle Vague" tvg-logo="https://image.tmdb.org/t/p/w500/2mGChnRQd75pOWU18B26KlxFMah.jpg" group-title="Lançamentos 2026",Nouvelle Vague
+http://sev3u.sbs/movie/583638889/428916998/4258418.mp4
+#EXTINF:-1 type="video" tvg-id="Krishnamurti: A Revolução do Silêncio" tvg-logo="https://image.tmdb.org/t/p/w500/zjVka6tCsdTtmCbAyFNxnOU6EO8.jpg" group-title="Lançamentos 2026",Krishnamurti: A Revolução do Silêncio
+http://sev3u.sbs/movie/583638889/428916998/4258419.mp4
+#EXTINF:-1 type="video" tvg-id="Monstro a Bordo" tvg-logo="https://image.tmdb.org/t/p/w500/fGKaYbPMx4ovrx2DlLS4CUarqOS.jpg" group-title="Lançamentos 2026",Monstro a Bordo
+http://sev3u.sbs/movie/583638889/428916998/4258420.mp4
+#EXTINF:-1 type="video" tvg-id="O Jogo do Predador" tvg-logo="https://image.tmdb.org/t/p/w500/s0ub7FDXEyu8DqGcHKQpaOSem49.jpg" group-title="Lançamentos 2026",O Jogo do Predador
+http://sev3u.sbs/movie/583638889/428916998/4258421.mp4
+#EXTINF:-1 type="video" tvg-id="Il corpo" tvg-logo="https://image.tmdb.org/t/p/w500/mWzxyWAxkv5q3VRw34UCW70JWk8.jpg" group-title="Lançamentos 2026",Il corpo
+http://sev3u.sbs/movie/583638889/428916998/4258422.mp4
+#EXTINF:-1 type="video" tvg-id="Não Pisque" tvg-logo="https://image.tmdb.org/t/p/w500/vagg05j0CC1GgyKXF0JjAtBoCej.jpg" group-title="Lançamentos 2026",Não Pisque
+http://sev3u.sbs/movie/583638889/428916998/4258461.mp4
+#EXTINF:-1 type="video" tvg-id="A Memória do Cheiro das Coisas" tvg-logo="https://image.tmdb.org/t/p/w500/2CO17K4kQVec8Gpja07iC8xNbkJ.jpg" group-title="Lançamentos 2026",A Memória do Cheiro das Coisas
+http://sev3u.sbs/movie/583638889/428916998/4258476.mp4
+#EXTINF:-1 type="video" tvg-id="Pedagogia do Abandono" tvg-logo="https://image.tmdb.org/t/p/w500/2jWXDhw7qyQxSWWxFFHxjhyn2zn.jpg" group-title="Lançamentos 2026",Pedagogia do Abandono
+http://sev3u.sbs/movie/583638889/428916998/4258740.mp4
+#EXTINF:-1 type="video" tvg-id="Deixando Neverland 2" tvg-logo="https://image.tmdb.org/t/p/w500/3ZRbU81aYrizRVm305eAzTQqZOL.jpg" group-title="Lançamentos 2026",Deixando Neverland 2
+http://sev3u.sbs/movie/583638889/428916998/4258951.mp4
+#EXTINF:-1 type="video" tvg-id="De Olhos Bem Abertos" tvg-logo="https://image.tmdb.org/t/p/w500/mgteCoPVupMqCj9HjWcWki1gZjF.jpg" group-title="Lançamentos 2026",De Olhos Bem Abertos
+http://sev3u.sbs/movie/583638889/428916998/4258952.mp4
+#EXTINF:-1 type="video" tvg-id="O Monstro da Ilha" tvg-logo="https://image.tmdb.org/t/p/w500/mvGem9E8avZEg33F9csGHGBT7kM.jpg" group-title="Lançamentos 2026",O Monstro da Ilha
+http://sev3u.sbs/movie/583638889/428916998/4258953.mp4
+#EXTINF:-1 type="video" tvg-id="Além de um Olhar" tvg-logo="https://image.tmdb.org/t/p/w500/37UB5wTXUBzaIjm9wJdxfMSvEyL.jpg" group-title="Lançamentos 2026",Além de um Olhar
+http://sev3u.sbs/movie/583638889/428916998/4258954.mp4
+#EXTINF:-1 type="video" tvg-id="POV: Presença Oculta" tvg-logo="https://image.tmdb.org/t/p/w500/fC4GSEiDu2ONAOjT3VhKdAOR2UI.jpg" group-title="Lançamentos 2026",POV: Presença Oculta
+http://sev3u.sbs/movie/583638889/428916998/4258955.mp4
+#EXTINF:-1 type="video" tvg-id="Icefall: Saque no Gelo" tvg-logo="https://image.tmdb.org/t/p/w500/p4JtLVvZQlzcEKMfzyVCvRBidQb.jpg" group-title="Lançamentos 2026",Icefall: Saque no Gelo
+http://sev3u.sbs/movie/583638889/428916998/4258956.mp4
+#EXTINF:-1 type="video" tvg-id="Meu Nome é Agneta" tvg-logo="https://image.tmdb.org/t/p/w500/jFFPtC0kj3MFspj76enfKIGNxqy.jpg" group-title="Lançamentos 2026",Meu Nome é Agneta
+http://sev3u.sbs/movie/583638889/428916998/4258957.mp4
+#EXTINF:-1 type="video" tvg-id="Plauto, Um Sopro Musical" tvg-logo="https://image.tmdb.org/t/p/w500/bvvPMghCFM77kKzqo29EjtvoSJ.jpg" group-title="Lançamentos 2026",Plauto, Um Sopro Musical
+http://sev3u.sbs/movie/583638889/428916998/4259382.mp4
+#EXTINF:-1 type="video" tvg-id="Projeto Silêncio" tvg-logo="https://image.tmdb.org/t/p/w500/cBpeLbt1YM7Hg5DTrR54alhtZMA.jpg" group-title="Lançamentos 2026",Projeto Silêncio
+http://sev3u.sbs/movie/583638889/428916998/4259383.mp4
+#EXTINF:-1 type="video" tvg-id="Como Mágica" tvg-logo="https://image.tmdb.org/t/p/w500/7FBnCkYzHlVHEtuzTEiGgFhs8EQ.jpg" group-title="Lançamentos 2026",Como Mágica
+http://sev3u.sbs/movie/583638889/428916998/4259384.mp4
+#EXTINF:-1 type="video" tvg-id="Minha Querida Senhorita" tvg-logo="https://image.tmdb.org/t/p/w500/gKJpNEcYCC6clmlfuAshJ5QiV24.jpg" group-title="Lançamentos 2026",Minha Querida Senhorita
+http://sev3u.sbs/movie/583638889/428916998/4259385.mp4
+#EXTINF:-1 type="video" tvg-id="Agentes Muito Especiais" tvg-logo="https://image.tmdb.org/t/p/w500/lOnODWkmfV3PQDsBYrAdoL2SBT0.jpg" group-title="Lançamentos 2026",Agentes Muito Especiais
+http://sev3u.sbs/movie/583638889/428916998/4259386.mp4
+#EXTINF:-1 type="video" tvg-id="A Pequena Amélie" tvg-logo="https://image.tmdb.org/t/p/w500/fSGMCWbFXzfWHLnoaJBnm74viGo.jpg" group-title="Lançamentos 2026",A Pequena Amélie
+http://sev3u.sbs/movie/583638889/428916998/4262954.mp4
+#EXTINF:-1 type="video" tvg-id="Rastro do Ouro" tvg-logo="https://image.tmdb.org/t/p/w500/or8efRgDO5SRNCcpi3DYESF0D0K.jpg" group-title="Lançamentos 2026",Rastro do Ouro
+http://sev3u.sbs/movie/583638889/428916998/4263678.mp4
+#EXTINF:-1 type="video" tvg-id="O fim da Cracolândia" tvg-logo="https://image.tmdb.org/t/p/w500/6XtysHKS8IMjrnJlw1KziAP8ruC.jpg" group-title="Lançamentos 2026",O fim da Cracolândia
+http://sev3u.sbs/movie/583638889/428916998/4263679.mp4
+#EXTINF:-1 type="video" tvg-id="Gary" tvg-logo="https://image.tmdb.org/t/p/w500/qOOhoxvUDe7lWpPEeh0gFBYpjFe.jpg" group-title="Lançamentos 2026",Gary
+http://sev3u.sbs/movie/583638889/428916998/4263680.mp4
+#EXTINF:-1 type="video" tvg-id="Jester: Não Dá para Enganar A Morte Duas Vezes" tvg-logo="https://image.tmdb.org/t/p/w500/tWis6d7uffULdEUrECQXSCWWEQZ.jpg" group-title="Lançamentos 2026",Jester: Não Dá para Enganar A Morte Duas Vezes
+http://sev3u.sbs/movie/583638889/428916998/4263681.mp4
+#EXTINF:-1 type="video" tvg-id="Da Toscana, com Amor" tvg-logo="https://image.tmdb.org/t/p/w500/iKBCQUw8c6l3MOOI0OzLpP649du.jpg" group-title="Lançamentos 2026",Da Toscana, com Amor
+http://sev3u.sbs/movie/583638889/428916998/4263682.mp4
+#EXTINF:-1 type="video" tvg-id="Martin Short: Uma Vida de Comédia" tvg-logo="https://image.tmdb.org/t/p/w500/udQ4UWZaaN5s46jVHTBmEkWVpst.jpg" group-title="Lançamentos 2026",Martin Short: Uma Vida de Comédia
+http://sev3u.sbs/movie/583638889/428916998/4264431.mp4
+#EXTINF:-1 type="video" tvg-id="Eu & Você na Toscana" tvg-logo="https://image.tmdb.org/t/p/w500/i21UWr8sC65vN0Q8EY7H6PjTpv5.jpg" group-title="Lançamentos 2026",Eu & Você na Toscana
+http://sev3u.sbs/movie/583638889/428916998/4264432.mp4
+#EXTINF:-1 type="video" tvg-id="A Greve da Seleção da França" tvg-logo="https://image.tmdb.org/t/p/w500/vLYxo8SDMLfroqT3fMVnbvddXRF.jpg" group-title="Lançamentos 2026",A Greve da Seleção da França
+http://sev3u.sbs/movie/583638889/428916998/4264983.mp4
+#EXTINF:-1 type="video" tvg-id="Untold Reino Unido: Jamie Vardy" tvg-logo="https://image.tmdb.org/t/p/w500/t3cxqW5ZlQnLO8rhzKbrW8uOgaI.jpg" group-title="Lançamentos 2026",Untold Reino Unido: Jamie Vardy
+http://sev3u.sbs/movie/583638889/428916998/4264984.mp4
+#EXTINF:-1 type="video" tvg-id="Perturbado Pelo Passado" tvg-logo="https://image.tmdb.org/t/p/w500/aefbl9hqx44kU4jqmwQY6CXZYWK.jpg" group-title="Lançamentos 2026",Perturbado Pelo Passado
+http://sev3u.sbs/movie/583638889/428916998/4265889.mp4
+#EXTINF:-1 type="video" tvg-id="Noel Rosa, um Espírito Circulante" tvg-logo="https://image.tmdb.org/t/p/w500/qXkXnyok6Aqxnm0yfmVOgzDge7H.jpg" group-title="Lançamentos 2026",Noel Rosa, um Espírito Circulante
+http://sev3u.sbs/movie/583638889/428916998/4265890.mp4
+#EXTINF:-1 type="video" tvg-id="O Conselheiro do Amor" tvg-logo="https://image.tmdb.org/t/p/w500/qnDc1F7LKQnHCx8vnzEqcvm5Ene.jpg" group-title="Lançamentos 2026",O Conselheiro do Amor
+http://sev3u.sbs/movie/583638889/428916998/4265891.mp4
+#EXTINF:-1 type="video" tvg-id="The Groove Under the Groove: Os Sons de Paulinho da Costa [L]" tvg-logo="" group-title="Lançamentos 2026",The Groove Under the Groove: Os Sons de Paulinho da Costa [L]
+http://sev3u.sbs/movie/583638889/428916998/4265893.mp4
+#EXTINF:-1 type="video" tvg-id="O Amor Não se Ensina" tvg-logo="https://image.tmdb.org/t/p/w500/qNBmaR8DbgHeXGD5mJijXgjbHGw.jpg" group-title="Lançamentos 2026",O Amor Não se Ensina
+http://sev3u.sbs/movie/583638889/428916998/4265894.mp4
+#EXTINF:-1 type="video" tvg-id="Casamento na Costa Rica" tvg-logo="https://image.tmdb.org/t/p/w500/ccYPtLstIoNW1zkWzOQg2MC0qs3.jpg" group-title="Lançamentos 2026",Casamento na Costa Rica
+http://sev3u.sbs/movie/583638889/428916998/4265895.mp4
+#EXTINF:-1 type="video" tvg-id="Colisão: Acidente ou Homicídio?" tvg-logo="https://image.tmdb.org/t/p/w500/94AQpf6Rg6tblNpa65ogzYw4q6P.jpg" group-title="Lançamentos 2026",Colisão: Acidente ou Homicídio?
+http://sev3u.sbs/movie/583638889/428916998/4265896.mp4
+#EXTINF:-1 type="video" tvg-id="A Noiva do Ano" tvg-logo="https://image.tmdb.org/t/p/w500/geFc71rCYM8fErbROLY6n1LfAS6.jpg" group-title="Lançamentos 2026",A Noiva do Ano
+http://sev3u.sbs/movie/583638889/428916998/4265897.mp4
+#EXTINF:-1 type="video" tvg-id="Além do Dever" tvg-logo="https://image.tmdb.org/t/p/w500/tVJVueBmMmGwuel02Z8XeudNoq4.jpg" group-title="Lançamentos 2026",Além do Dever
+http://sev3u.sbs/movie/583638889/428916998/4265898.mp4
+#EXTINF:-1 type="video" tvg-id="Ilusão Macabra" tvg-logo="https://image.tmdb.org/t/p/w500/fWsWD1IIYtZFvKmOBMZKGUYyXeA.jpg" group-title="Lançamentos 2026",Ilusão Macabra
+http://sev3u.sbs/movie/583638889/428916998/4265899.mp4
+#EXTINF:-1 type="video" tvg-id="El Salvador - O dia em que o medo mudou de lado" tvg-logo="https://image.tmdb.org/t/p/w500/bg4KbU1M53QRFKGtoHOJPjFonbu.jpg" group-title="Lançamentos 2026",El Salvador - O dia em que o medo mudou de lado
+http://sev3u.sbs/movie/583638889/428916998/4266398.mp4
+#EXTINF:-1 type="video" tvg-id="Primeiro as Damas" tvg-logo="https://image.tmdb.org/t/p/w500/tW10rRdxMwJC4r1zldQzxcyzEUS.jpg" group-title="Lançamentos 2026",Primeiro as Damas
+http://sev3u.sbs/movie/583638889/428916998/4266399.mp4
+#EXTINF:-1 type="video" tvg-id="Jack Ryan de Tom Clancy: Guerra Fantasma" tvg-logo="https://image.tmdb.org/t/p/w500/bPue4NKPiGNrIbZFeOsZfnovFAM.jpg" group-title="Lançamentos 2026",Jack Ryan de Tom Clancy: Guerra Fantasma
+http://sev3u.sbs/movie/583638889/428916998/4266400.mp4
+#EXTINF:-1 type="video" tvg-id="Velhos Bandidos" tvg-logo="https://image.tmdb.org/t/p/w500/eYZUzJMumKoUPX5Q40xBsgFs6dY.jpg" group-title="Lançamentos 2026",Velhos Bandidos
+http://sev3u.sbs/movie/583638889/428916998/4267370.mp4
+#EXTINF:-1 type="video" tvg-id="Aventuras nas Alturas" tvg-logo="https://image.tmdb.org/t/p/w500/2CfaoWBSBUA1wquEa0CF45f4Aaa.jpg" group-title="Lançamentos 2026",Aventuras nas Alturas
+http://sev3u.sbs/movie/583638889/428916998/4267371.mp4
+#EXTINF:-1 type="video" tvg-id="Untold Reino Unido: Vinnie Jones" tvg-logo="https://image.tmdb.org/t/p/w500/7IOFqkArtYgpftXnviaLD6awQ1U.jpg" group-title="Lançamentos 2026",Untold Reino Unido: Vinnie Jones
+http://sev3u.sbs/movie/583638889/428916998/4267372.mp4
+#EXTINF:-1 type="video" tvg-id="Urso Sangrento: A Noite do Terror" tvg-logo="https://image.tmdb.org/t/p/w500/lGS6aiYtZjh08ci3UAhunoAiBWk.jpg" group-title="Lançamentos 2026",Urso Sangrento: A Noite do Terror
+http://sev3u.sbs/movie/583638889/428916998/4267373.mp4
+#EXTINF:-1 type="video" tvg-id="Dibu Martínez: O Garoto que Parava o Tempo" tvg-logo="https://image.tmdb.org/t/p/w500/ns7hOXCSuDtoVUyqx1v806y0XGF.jpg" group-title="Lançamentos 2026",Dibu Martínez: O Garoto que Parava o Tempo
+http://sev3u.sbs/movie/583638889/428916998/4267374.mp4
+#EXTINF:-1 type="video" tvg-id="O Mago do Kremlin" tvg-logo="https://image.tmdb.org/t/p/w500/7joKjcNIzDsJszsIlsUUMta17yX.jpg" group-title="Lançamentos 2026",O Mago do Kremlin
+http://sev3u.sbs/movie/583638889/428916998/4267375.mp4
+#EXTINF:-1 type="video" tvg-id="BTS: O Reencontro" tvg-logo="https://image.tmdb.org/t/p/w500/vfE6dI8ECv4mbctoHQF5vSpLZEX.jpg" group-title="Lançamentos 2026",BTS: O Reencontro
+http://sev3u.sbs/movie/583638889/428916998/4268415.mp4
+#EXTINF:-1 type="video" tvg-id="Mensagens para Isabelle" tvg-logo="https://image.tmdb.org/t/p/w500/nf7N5j407xPTOEPG0feJJbKFNRd.jpg" group-title="Lançamentos 2026",Mensagens para Isabelle
+http://sev3u.sbs/movie/583638889/428916998/4268745.mp4
+#EXTINF:-1 type="video" tvg-id="As Ovelhas Detetives" tvg-logo="https://image.tmdb.org/t/p/w500/crW4rarCRUVRSRFy3Bufw8Mwf8l.jpg" group-title="Lançamentos 2026",As Ovelhas Detetives
+http://sev3u.sbs/movie/583638889/428916998/4268775.mp4
+#EXTINF:-1 type="video" tvg-id="Backrooms: Um Não-Lugar" tvg-logo="https://image.tmdb.org/t/p/w500/qEl4BDBTGnhLiadZx0c9nHM8vBF.jpg" group-title="Lançamentos 2026",Backrooms: Um Não-Lugar
+http://sev3u.sbs/movie/583638889/428916998/4270065.mp4
+#EXTINF:-1 type="video" tvg-id="Todo Mundo em Pânico 6" tvg-logo="https://image.tmdb.org/t/p/w500/97lWamoj4RSBjBHXFmliQbPs06K.jpg" group-title="Lançamentos 2026",Todo Mundo em Pânico 6
+http://sev3u.sbs/movie/583638889/428916998/4270177.mp4
+#EXTINF:-1 type="video" tvg-id="Mestres do Universo FHD" tvg-logo="https://image.tmdb.org/t/p/w500/atpb7NKSyM4bJSUY8vQTunzK4Na.jpg" group-title="Lançamentos 2026",Mestres do Universo FHD
+http://sev3u.sbs/movie/583638889/428916998/4270299.mp4
+#EXTINF:-1 type="video" tvg-id="Meu Irmão é um Problema" tvg-logo="" group-title="Lançamentos 2026",Meu Irmão é um Problema
+http://sev3u.sbs/movie/583638889/428916998/4270342.mp4
+#EXTINF:-1 type="video" tvg-id="Supergirl" tvg-logo="https://image.tmdb.org/t/p/w500/qhXfLI1gDWaahzfHT0cb2CH61hO.jpg" group-title="Lançamentos 2026",Supergirl
+http://sev3u.sbs/movie/583638889/428916998/4270422.mp4
+#EXTINF:-1 type="video" tvg-id="O Diabo Veste Prada 2" tvg-logo="https://image.tmdb.org/t/p/w500/50yWyY981TyUHhoxxSEKwO70FmQ.jpg" group-title="Lançamentos 2026",O Diabo Veste Prada 2
+http://sev3u.sbs/movie/583638889/428916998/4271000.mp4
+#EXTINF:-1 type="video" tvg-id="Hungria: A Escolha de um Sonho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwruAdJdxbZrUShcNJdPLz5QYwr.jpg" group-title="Lançamentos 2026",Hungria: A Escolha de um Sonho
+http://sev3u.sbs/movie/583638889/428916998/4271038.mp4
+#EXTINF:-1 type="video" tvg-id="O Aspirante" tvg-logo="https://image.tmdb.org/t/p/w500/4KCWdkH58qfb748jGrVEygW9zMu.jpg" group-title="Lançamentos 2026",O Aspirante
+http://sev3u.sbs/movie/583638889/428916998/4271202.mp4
+#EXTINF:-1 type="video" tvg-id="Jackass: O Último é o Melhor" tvg-logo="https://image.tmdb.org/t/p/w500/pU9949BZVMUmZtiEiJyN76bFaLA.jpg" group-title="Lançamentos 2026",Jackass: O Último é o Melhor
+http://sev3u.sbs/movie/583638889/428916998/4271203.mp4
+#EXTINF:-1 type="video" tvg-id="Apreensão" tvg-logo="https://image.tmdb.org/t/p/w500/nrULF6tc5ky5K5aLlNkxph8DVcB.jpg" group-title="Lançamentos 2026",Apreensão
+http://sev3u.sbs/movie/583638889/428916998/4271805.mp4
+#EXTINF:-1 type="video" tvg-id="Não Identificada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgK88QD7LWN72UqztjuZ1wKCmBV.jpg" group-title="Lançamentos 2026",Não Identificada
+http://sev3u.sbs/movie/583638889/428916998/4271806.mp4
+#EXTINF:-1 type="video" tvg-id="Frango: A Conspiração do Fast-Food" tvg-logo="https://image.tmdb.org/t/p/w500/vZvfPX0FrUONMfYEaKZo1sXo4Js.jpg" group-title="Lançamentos 2026",Frango: A Conspiração do Fast-Food
+http://sev3u.sbs/movie/583638889/428916998/4271808.mp4
+#EXTINF:-1 type="video" tvg-id="Trustor: Por Dentro do Escândalo Financeiro" tvg-logo="https://image.tmdb.org/t/p/w500/q6NAnjrGV7BGrEIqpglQYshFHq9.jpg" group-title="Lançamentos 2026",Trustor: Por Dentro do Escândalo Financeiro
+http://sev3u.sbs/movie/583638889/428916998/4271809.mp4
+#EXTINF:-1 type="video" tvg-id="Authentic Games: No Império Desconectado" tvg-logo="https://image.tmdb.org/t/p/w500/9xkEKCOfVC44Awe2gHJQrt02eak.jpg" group-title="Lançamentos 2026",Authentic Games: No Império Desconectado
+http://sev3u.sbs/movie/583638889/428916998/4271811.mp4
+#EXTINF:-1 type="video" tvg-id="Tempestade na Vila Sésamo" tvg-logo="https://image.tmdb.org/t/p/w500/7Ibn8R0SDx1859Ekqd5ALsuxU2f.jpg" group-title="Lançamentos 2026",Tempestade na Vila Sésamo
+http://sev3u.sbs/movie/583638889/428916998/4271814.mp4
+#EXTINF:-1 type="video" tvg-id="That Time I Got Reincarnated as a Slime o Filme: Lágrimas do mar azul-celeste" tvg-logo="https://image.tmdb.org/t/p/w500/cmYFNjvmWYwwwpcNdcyLE87LzoF.jpg" group-title="Lançamentos 2026",That Time I Got Reincarnated as a Slime o Filme: Lágrimas do mar azul-celeste
+http://sev3u.sbs/movie/583638889/428916998/4271818.mp4
+#EXTINF:-1 type="video" tvg-id="Snoopy Apresenta - Não Há Nada Como a Nossa Casa, Snoopy" tvg-logo="https://image.tmdb.org/t/p/w500/6Ucmnt3nUaYY5rLfMjntK5WObNA.jpg" group-title="Lançamentos 2026",Snoopy Apresenta - Não Há Nada Como a Nossa Casa, Snoopy
+http://sev3u.sbs/movie/583638889/428916998/4271819.mp4
+#EXTINF:-1 type="video" tvg-id="Flamingos: A Vida Depois do Meteorito" tvg-logo="https://image.tmdb.org/t/p/w500/1VdObnJlNSBj2WWpPX07bcYyLdP.jpg" group-title="Lançamentos 2026",Flamingos: A Vida Depois do Meteorito
+http://sev3u.sbs/movie/583638889/428916998/4271820.mp4
+#EXTINF:-1 type="video" tvg-id="Instadocs: O Jogo dos Palpites" tvg-logo="https://image.tmdb.org/t/p/w500/xeTCcALCqpT8IvJuakrjk5clzXL.jpg" group-title="Lançamentos 2026",Instadocs: O Jogo dos Palpites
+http://sev3u.sbs/movie/583638889/428916998/4271821.mp4
+#EXTINF:-1 type="video" tvg-id="Instadocs: Alex Murdaugh, Unconvicted" tvg-logo="https://image.tmdb.org/t/p/w500/iP9b3NBxJKtyzLf7CKFWl3MpgKS.jpg" group-title="Lançamentos 2026",Instadocs: Alex Murdaugh, Unconvicted
+http://sev3u.sbs/movie/583638889/428916998/4271822.mp4
+#EXTINF:-1 type="video" tvg-id="Psicopata em Fuga" tvg-logo="" group-title="Lançamentos 2026",Psicopata em Fuga
+http://sev3u.sbs/movie/583638889/428916998/4271823.mp4
+#EXTINF:-1 type="video" tvg-id="Euphoria: Um Olhar para Trás" tvg-logo="https://image.tmdb.org/t/p/w500/g9T0tOaK7IL5cvJbrcJQ3puNOh8.jpg" group-title="Lançamentos 2026",Euphoria: Um Olhar para Trás
+http://sev3u.sbs/movie/583638889/428916998/4271824.mp4
+#EXTINF:-1 type="video" tvg-id="Encanto Quebrado" tvg-logo="https://image.tmdb.org/t/p/w500/rdFOVAlGrS3Fz3X77DedH6OvXRh.jpg" group-title="Lançamentos 2026",Encanto Quebrado
+http://sev3u.sbs/movie/583638889/428916998/4271825.mp4
+#EXTINF:-1 type="video" tvg-id="Shake, Rattle & Roll: As Origens do Mal" tvg-logo="https://image.tmdb.org/t/p/w500/4NSwhJVIvO54GyWsvGXHxRPRd3q.jpg" group-title="Lançamentos 2026",Shake, Rattle & Roll: As Origens do Mal
+http://sev3u.sbs/movie/583638889/428916998/4271826.mp4
+#EXTINF:-1 type="video" tvg-id="‎Um Grande Despertar" tvg-logo="https://image.tmdb.org/t/p/w500/qZf42h6r8BSkVTCBtTXTELcgTV1.jpg" group-title="Lançamentos 2026",‎Um Grande Despertar
+http://sev3u.sbs/movie/583638889/428916998/4271827.mp4
+#EXTINF:-1 type="video" tvg-id="A Mansão Savage" tvg-logo="https://image.tmdb.org/t/p/w500/k5Maipij0lwfTWJSs6xq3dcCWVj.jpg" group-title="Lançamentos 2026",A Mansão Savage
+http://sev3u.sbs/movie/583638889/428916998/4271828.mp4
+#EXTINF:-1 type="video" tvg-id="Conspiradores" tvg-logo="https://image.tmdb.org/t/p/w500/o1LeQ4ZIPjXIFFVur4b2dLUM5nQ.jpg" group-title="Lançamentos 2026",Conspiradores
+http://sev3u.sbs/movie/583638889/428916998/4271829.mp4
+#EXTINF:-1 type="video" tvg-id="The Dink - A Última Chance" tvg-logo="https://image.tmdb.org/t/p/w500/lIQGvXrP76yQ3bKiUkYTqGTXFcM.jpg" group-title="Lançamentos 2026",The Dink - A Última Chance
+http://sev3u.sbs/movie/583638889/428916998/4271830.mp4
+#EXTINF:-1 type="video" tvg-id="A Bahia Me Fez Assim" tvg-logo="https://image.tmdb.org/t/p/w500/lLgRVHa0zk80ccdOosBJD5ndNFk.jpg" group-title="Lançamentos 2026",A Bahia Me Fez Assim
+http://sev3u.sbs/movie/583638889/428916998/4271831.mp4
+#EXTINF:-1 type="video" tvg-id="Amor Tóxico" tvg-logo="https://image.tmdb.org/t/p/w500/1WUHK5GFZYw1la8jUFtGQRkOVba.jpg" group-title="Lançamentos 2026",Amor Tóxico
+http://sev3u.sbs/movie/583638889/428916998/4271832.mp4
+#EXTINF:-1 type="video" tvg-id="Amor em Câmera Lenta" tvg-logo="https://image.tmdb.org/t/p/w500/1xufFKDpVSxATQh0i7gsA4SjSl1.jpg" group-title="Lançamentos 2026",Amor em Câmera Lenta
+http://sev3u.sbs/movie/583638889/428916998/4271833.mp4
+#EXTINF:-1 type="video" tvg-id="O Brasil Evangélico" tvg-logo="https://image.tmdb.org/t/p/w500/qILFLftThKcjhtVVdUqrbvMxQI.jpg" group-title="Lançamentos 2026",O Brasil Evangélico
+http://sev3u.sbs/movie/583638889/428916998/4271834.mp4
+#EXTINF:-1 type="video" tvg-id="Barba Ensopada de Sangue" tvg-logo="https://image.tmdb.org/t/p/w500/8yDd2WJE3P1WInfcnGRdXiYK2pI.jpg" group-title="Lançamentos 2026",Barba Ensopada de Sangue
+http://sev3u.sbs/movie/583638889/428916998/4271835.mp4
+#EXTINF:-1 type="video" tvg-id="23.000 Vidas" tvg-logo="https://image.tmdb.org/t/p/w500/iABvE2vyn7ZorgMlDqtIElpDaLn.jpg" group-title="Lançamentos 2026",23.000 Vidas
+http://sev3u.sbs/movie/583638889/428916998/4271836.mp4
+#EXTINF:-1 type="video" tvg-id="Pai em Tempo Integral" tvg-logo="https://image.tmdb.org/t/p/w500/k2TdrNWJHWpdTYZaJivu8bk5KAF.jpg" group-title="Lançamentos 2026",Pai em Tempo Integral
+http://sev3u.sbs/movie/583638889/428916998/4271837.mp4
+#EXTINF:-1 type="video" tvg-id="Eu Antes de Mim" tvg-logo="https://image.tmdb.org/t/p/w500/jnq1i2obAreHlkfEZCswlKu1zvF.jpg" group-title="Lançamentos 2026",Eu Antes de Mim
+http://sev3u.sbs/movie/583638889/428916998/4271838.mp4
+#EXTINF:-1 type="video" tvg-id="Ardente Vingança" tvg-logo="https://image.tmdb.org/t/p/w500/9qrWHR8GUJOO95jHeG0jDTTF1m7.jpg" group-title="Lançamentos 2026",Ardente Vingança
+http://sev3u.sbs/movie/583638889/428916998/4271839.mp4
+#EXTINF:-1 type="video" tvg-id="Onde Estiver Estarei: Uma Paixão Rubro-negra" tvg-logo="https://image.tmdb.org/t/p/w500/xU0dutVC6FP16oYhIXHuFaUZddw.jpg" group-title="Lançamentos 2026",Onde Estiver Estarei: Uma Paixão Rubro-negra
+http://sev3u.sbs/movie/583638889/428916998/4271840.mp4
+#EXTINF:-1 type="video" tvg-id="Susana e Elvira: Sem Plano B" tvg-logo="https://image.tmdb.org/t/p/w500/l4ygfNJ7PpOa68oqkPOWhZJLWEv.jpg" group-title="Lançamentos 2026",Susana e Elvira: Sem Plano B
+http://sev3u.sbs/movie/583638889/428916998/4271841.mp4
+#EXTINF:-1 type="video" tvg-id="Naufrágio: O Pesadelo do Costa Concordia" tvg-logo="https://image.tmdb.org/t/p/w500/4LuFhKoO1NXZiB7R3Cu4Eiw1GWR.jpg" group-title="Lançamentos 2026",Naufrágio: O Pesadelo do Costa Concordia
+http://sev3u.sbs/movie/583638889/428916998/4271842.mp4
+#EXTINF:-1 type="video" tvg-id="Um Pesadelo Maravilhoso" tvg-logo="https://image.tmdb.org/t/p/w500/yF2VjrEfU3C4hNCz4gCwKqXuy3J.jpg" group-title="Lançamentos 2026",Um Pesadelo Maravilhoso
+http://sev3u.sbs/movie/583638889/428916998/4271843.mp4
+#EXTINF:-1 type="video" tvg-id="Midwinter Break" tvg-logo="https://image.tmdb.org/t/p/w500/vkMOruokVnD05xSiwI2hWBzG7UD.jpg" group-title="Lançamentos 2026",Midwinter Break
+http://sev3u.sbs/movie/583638889/428916998/4271844.mp4
+#EXTINF:-1 type="video" tvg-id="Expresso Galático Metrô Via-Lácteo: O Filme" tvg-logo="https://image.tmdb.org/t/p/w500/p2wClSPUcs0NidsNBueaTBmGkJd.jpg" group-title="Lançamentos 2026",Expresso Galático Metrô Via-Lácteo: O Filme
+http://sev3u.sbs/movie/583638889/428916998/4271845.mp4
+#EXTINF:-1 type="video" tvg-id="Trunfo" tvg-logo="https://image.tmdb.org/t/p/w500/gbg2dqK1zIvvSyTMaCJ4g22Pl9l.jpg" group-title="Lançamentos 2026",Trunfo
+http://sev3u.sbs/movie/583638889/428916998/4271846.mp4
+#EXTINF:-1 type="video" tvg-id="Um Goleiro Muito Improvável" tvg-logo="https://image.tmdb.org/t/p/w500/sxZL5hNC6sHxZTjSiVIQGY5VPik.jpg" group-title="Lançamentos 2026",Um Goleiro Muito Improvável
+http://sev3u.sbs/movie/583638889/428916998/4271847.mp4
+#EXTINF:-1 type="video" tvg-id="Ballistic" tvg-logo="https://image.tmdb.org/t/p/w500/pAkoiHgmyOzYFCg6AMWbMnIOPUZ.jpg" group-title="Lançamentos 2026",Ballistic
+http://sev3u.sbs/movie/583638889/428916998/4271848.mp4
+#EXTINF:-1 type="video" tvg-id="Clika" tvg-logo="https://image.tmdb.org/t/p/w500/82Vh8PSzWtBi0CLWrnJdRhGYxEr.jpg" group-title="Lançamentos 2026",Clika
+http://sev3u.sbs/movie/583638889/428916998/4271849.mp4
+#EXTINF:-1 type="video" tvg-id="Dolly: A Boneca Maldita" tvg-logo="https://image.tmdb.org/t/p/w500/vCeOJ9wpABXDSdqVnZ7jPbgtNUp.jpg" group-title="Lançamentos 2026",Dolly: A Boneca Maldita
+http://sev3u.sbs/movie/583638889/428916998/4271850.mp4
+#EXTINF:-1 type="video" tvg-id="A Maldição do Casamento" tvg-logo="https://image.tmdb.org/t/p/w500/ftAgBfDGfzLfnuHEz8nDOup4PD3.jpg" group-title="Lançamentos 2026",A Maldição do Casamento
+http://sev3u.sbs/movie/583638889/428916998/4271851.mp4
+#EXTINF:-1 type="video" tvg-id="O Passado Nunca Morre" tvg-logo="https://image.tmdb.org/t/p/w500/beH25Zp1QucmYcajcVdOiSXa2V5.jpg" group-title="Lançamentos 2026",O Passado Nunca Morre
+http://sev3u.sbs/movie/583638889/428916998/4271852.mp4
+#EXTINF:-1 type="video" tvg-id="Ruas da Glória" tvg-logo="https://image.tmdb.org/t/p/w500/dnkEWz5vd1VfdF4SyTVzloxHs4P.jpg" group-title="Lançamentos 2026",Ruas da Glória
+http://sev3u.sbs/movie/583638889/428916998/4271853.mp4
+#EXTINF:-1 type="video" tvg-id="Hitpig!" tvg-logo="https://image.tmdb.org/t/p/w500/bYa20LYAZ3Q7lKXtLYybo0yWWTN.jpg" group-title="Lançamentos 2026",Hitpig!
+http://sev3u.sbs/movie/583638889/428916998/4271854.mp4
+#EXTINF:-1 type="video" tvg-id="O Cravista" tvg-logo="https://image.tmdb.org/t/p/w500/e58rW8tLiLaZs692Qp6YrzLIXat.jpg" group-title="Lançamentos 2026",O Cravista
+http://sev3u.sbs/movie/583638889/428916998/4271855.mp4
+#EXTINF:-1 type="video" tvg-id="undertone" tvg-logo="https://image.tmdb.org/t/p/w500/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg" group-title="Lançamentos 2026",undertone
+http://sev3u.sbs/movie/583638889/428916998/4271856.mp4
+#EXTINF:-1 type="video" tvg-id="Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved" tvg-logo="https://image.tmdb.org/t/p/w500/3JFCxQpsBppFADWQ3WcykwH14YG.jpg" group-title="Lançamentos 2026",Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved
+http://sev3u.sbs/movie/583638889/428916998/4271857.mp4
+#EXTINF:-1 type="video" tvg-id="Golden Kamuy 3 - Invasão a Prisão Abashiri" tvg-logo="https://image.tmdb.org/t/p/w500/clYkNUIdjFhe1PJGYiFEBepyy6k.jpg" group-title="Lançamentos 2026",Golden Kamuy 3 - Invasão a Prisão Abashiri
+http://sev3u.sbs/movie/583638889/428916998/4271858.mp4
+#EXTINF:-1 type="video" tvg-id="Trago Seu Amor" tvg-logo="https://image.tmdb.org/t/p/w500/r9GLwJEFcGAmMpdUPwALK2K7zTs.jpg" group-title="Lançamentos 2026",Trago Seu Amor
+http://sev3u.sbs/movie/583638889/428916998/4274244.mp4
+#EXTINF:-1 type="video" tvg-id="Máfia de Mumbai: Polícia Contra o Crime Organizado" tvg-logo="https://image.tmdb.org/t/p/w500/x8KYZWt1nraPdRSkNfxdrxFdjim.jpg" group-title="Lançamentos 2026",Máfia de Mumbai: Polícia Contra o Crime Organizado
+http://sev3u.sbs/movie/583638889/428916998/4274245.mp4
+#EXTINF:-1 type="video" tvg-id="My Best Friend, His Girlfriend and Me" tvg-logo="https://image.tmdb.org/t/p/w500/xk2QaaDjaHG1xKhyB6hpi2OcQmL.jpg" group-title="Lançamentos 2026",My Best Friend, His Girlfriend and Me
+http://sev3u.sbs/movie/583638889/428916998/4277407.mp4
+#EXTINF:-1 type="video" tvg-id="Feras no Limite" tvg-logo="https://image.tmdb.org/t/p/w500/s9kLAZDpvjKCkaESrRhpfuuWAQP.jpg" group-title="Lançamentos 2026",Feras no Limite
+http://sev3u.sbs/movie/583638889/428916998/4277410.mp4
+#EXTINF:-1 type="video" tvg-id="Asa Branca: A Voz da Arena" tvg-logo="https://image.tmdb.org/t/p/w500/kaqnuVEqWNziEVcTX55hvU213Ch.jpg" group-title="Lançamentos 2026",Asa Branca: A Voz da Arena
+http://sev3u.sbs/movie/583638889/428916998/4277421.mp4
+#EXTINF:-1 type="video" tvg-id="A Primeira Ministra - A História De Jacinda Ardern" tvg-logo="https://image.tmdb.org/t/p/w500/1gKknFHT6mUpT5R8axbWAnZwJnB.jpg" group-title="Lançamentos 2026",A Primeira Ministra - A História De Jacinda Ardern
+http://sev3u.sbs/movie/583638889/428916998/4277422.mp4
+#EXTINF:-1 type="video" tvg-id="Meu Próprio Filho" tvg-logo="https://image.tmdb.org/t/p/w500/iBD5kzk6XMyQEuV4m4A6OotqcSK.jpg" group-title="Lançamentos 2026",Meu Próprio Filho
+http://sev3u.sbs/movie/583638889/428916998/4277425.mp4
+#EXTINF:-1 type="video" tvg-id="Presos em um Crime" tvg-logo="https://image.tmdb.org/t/p/w500/8cHcvKPWay62YPDXTqmB17C2Cvt.jpg" group-title="Lançamentos 2026",Presos em um Crime
+http://sev3u.sbs/movie/583638889/428916998/4277428.mp4
+#EXTINF:-1 type="video" tvg-id="O Afinador" tvg-logo="https://image.tmdb.org/t/p/w500/bq21NGxKqV6DgHfm5j48mscM7Ai.jpg" group-title="Lançamentos 2026",O Afinador
+http://sev3u.sbs/movie/583638889/428916998/4277431.mp4
+#EXTINF:-1 type="video" tvg-id="O Sol Nasce Para Todos" tvg-logo="https://image.tmdb.org/t/p/w500/j5hiqvH4lqSU4m83wkqGTiMvXpX.jpg" group-title="Lançamentos 2026",O Sol Nasce Para Todos
+http://sev3u.sbs/movie/583638889/428916998/4277432.mp4
+#EXTINF:-1 type="video" tvg-id="Não Deseje Boa Sorte" tvg-logo="https://image.tmdb.org/t/p/w500/l6cwkNbPIOdjvFwm7XZTI2EZhZu.jpg" group-title="Lançamentos 2026",Não Deseje Boa Sorte
+http://sev3u.sbs/movie/583638889/428916998/4277768.mp4
+#EXTINF:-1 type="video" tvg-id="Café, Pépi e Limão" tvg-logo="https://image.tmdb.org/t/p/w500/lY5FB28guL8lgWEsd6DXNNqdcwK.jpg" group-title="Lançamentos 2026",Café, Pépi e Limão
+http://sev3u.sbs/movie/583638889/428916998/4278339.mp4
+#EXTINF:-1 type="video" tvg-id="Quinze Dias" tvg-logo="https://image.tmdb.org/t/p/w500/7SkSZOAHPJbks40PQYwIH2bV1f2.jpg" group-title="Lançamentos 2026",Quinze Dias
+http://sev3u.sbs/movie/583638889/428916998/4278340.mp4
+#EXTINF:-1 type="video" tvg-id="Desaparecida e Esquecida: O Caso Chompoo" tvg-logo="https://image.tmdb.org/t/p/w500/1F0ZkDmiVq31SFj2YnTINGVLUoz.jpg" group-title="Lançamentos 2026",Desaparecida e Esquecida: O Caso Chompoo
+http://sev3u.sbs/movie/583638889/428916998/4278482.mp4
+#EXTINF:-1 type="video" tvg-id="Nightborn" tvg-logo="https://image.tmdb.org/t/p/w500/e9ALgOANOJbcFpw84MbafK3xvD2.jpg" group-title="Lançamentos 2026",Nightborn
+http://sev3u.sbs/movie/583638889/428916998/4278487.mp4
+#EXTINF:-1 type="video" tvg-id="Beijar é Fácil" tvg-logo="https://image.tmdb.org/t/p/w500/1kuUHuFiCIXGdZUfrFobiYulycU.jpg" group-title="Lançamentos 2026",Beijar é Fácil
+http://sev3u.sbs/movie/583638889/428916998/4278489.mp4
+#EXTINF:-1 type="video" tvg-id="Campeonex" tvg-logo="https://image.tmdb.org/t/p/w500/juLIGT2tbLqVFoVVnGEKj6YRZp1.jpg" group-title="Lançamentos 2026",Campeonex
+http://sev3u.sbs/movie/583638889/428916998/4278490.mp4
+#EXTINF:-1 type="video" tvg-id="Queda Livre: As Consequências do Caso Boeing" tvg-logo="https://image.tmdb.org/t/p/w500/c4xTdrb3mCRFcv6iIKyyySLGD75.jpg" group-title="Lançamentos 2026",Queda Livre: As Consequências do Caso Boeing
+http://sev3u.sbs/movie/583638889/428916998/4278493.mp4
+#EXTINF:-1 type="video" tvg-id="A Solidão dos Lagartos" tvg-logo="https://image.tmdb.org/t/p/w500/biSqWLYrgrsjmVPN55C0fK5wos4.jpg" group-title="Lançamentos 2026",A Solidão dos Lagartos
+http://sev3u.sbs/movie/583638889/428916998/4278563.mp4
+#EXTINF:-1 type="video" tvg-id="De Volta Aos Anos 90" tvg-logo="https://image.tmdb.org/t/p/w500/pKgzdwNqFPKJNcibY37klP6ySqE.jpg" group-title="Lançamentos 2026",De Volta Aos Anos 90
+http://sev3u.sbs/movie/583638889/428916998/4278564.mp4
+#EXTINF:-1 type="video" tvg-id="Amor, Romance, Casamento" tvg-logo="https://image.tmdb.org/t/p/w500/bFARF1GDM13XkOi4TpIHddbEbXK.jpg" group-title="Lançamentos 2026",Amor, Romance, Casamento
+http://sev3u.sbs/movie/583638889/428916998/4278565.mp4
+#EXTINF:-1 type="video" tvg-id="Lego Disney Princesa: Bagunça Mágica" tvg-logo="https://image.tmdb.org/t/p/w500/xNA3Ub2MsAvbyg1GlDrrUQI2Kru.jpg" group-title="Lançamentos 2026",Lego Disney Princesa: Bagunça Mágica
+http://sev3u.sbs/movie/583638889/428916998/4278640.mp4
+#EXTINF:-1 type="video" tvg-id="Diamante Negro" tvg-logo="https://image.tmdb.org/t/p/w500/4aPn0pXvkMoTzeNI6uw2KgvCEK3.jpg" group-title="Lançamentos 2026",Diamante Negro
+http://sev3u.sbs/movie/583638889/428916998/4278710.mp4
+#EXTINF:-1 type="video" tvg-id="Voltei na Foto" tvg-logo="https://image.tmdb.org/t/p/w500/5dnHNzYDXouqR6IYzm9Tipyr5rf.jpg" group-title="Lançamentos 2026",Voltei na Foto
+http://sev3u.sbs/movie/583638889/428916998/4278711.mp4
+#EXTINF:-1 type="video" tvg-id="O Último Nascer do Sol" tvg-logo="https://image.tmdb.org/t/p/w500/aUP8lmnCvOUiG0n1ciXaeFEou3j.jpg" group-title="Lançamentos 2026",O Último Nascer do Sol
+http://sev3u.sbs/movie/583638889/428916998/4279392.mp4
+#EXTINF:-1 type="video" tvg-id="Ana Cecília" tvg-logo="https://image.tmdb.org/t/p/w500/m00WOXxwivew7lAB4PKeCAca951.jpg" group-title="Lançamentos 2026",Ana Cecília
+http://sev3u.sbs/movie/583638889/428916998/4279932.mp4
+#EXTINF:-1 type="video" tvg-id="Yellow Mirror: A Realidade Paralela de Homer" tvg-logo="https://image.tmdb.org/t/p/w500/4IZMDMvy1ayRguIIPTZ6NT8Dk0V.jpg" group-title="Lançamentos 2026",Yellow Mirror: A Realidade Paralela de Homer
+http://sev3u.sbs/movie/583638889/428916998/4279933.mp4
+#EXTINF:-1 type="video" tvg-id="Isto Não é um Teste" tvg-logo="https://image.tmdb.org/t/p/w500/9ps2jm2lacM2l2AHzSw2EUOoSON.jpg" group-title="Lançamentos 2026",Isto Não é um Teste
+http://sev3u.sbs/movie/583638889/428916998/4279937.mp4
+#EXTINF:-1 type="video" tvg-id="Saudades te Amo" tvg-logo="https://image.tmdb.org/t/p/w500/eEBZ3cKpgcsHuIJk3mYFzYivPfM.jpg" group-title="Lançamentos 2026",Saudades te Amo
+http://sev3u.sbs/movie/583638889/428916998/4280802.mp4
+#EXTINF:-1 type="video" tvg-id="O Homem que Sussurra" tvg-logo="https://image.tmdb.org/t/p/w500/umlg3mqkny7opAfPtBLUGYwZ8xF.jpg" group-title="Lançamentos 2026",O Homem que Sussurra
+http://sev3u.sbs/movie/583638889/428916998/4280804.mp4
+#EXTINF:-1 type="video" tvg-id="Grand Theft Auto VI: Um Olhar Estendido" tvg-logo="https://image.tmdb.org/t/p/w500/iww7yBKMEFGm2KSAawCi0b825oT.jpg" group-title="Lançamentos 2026",Grand Theft Auto VI: Um Olhar Estendido
+http://sev3u.sbs/movie/583638889/428916998/4280805.mp4
+#EXTINF:-1 type="video" tvg-id="Rendel 2: Ciclo da Vingança" tvg-logo="https://image.tmdb.org/t/p/w500/im48m1dWTdSTYo7Ue8SxvfUd6iq.jpg" group-title="Lançamentos 2026",Rendel 2: Ciclo da Vingança
+http://sev3u.sbs/movie/583638889/428916998/4280806.mp4
+#EXTINF:-1 type="video" tvg-id="Den hemmelige kvinde" tvg-logo="" group-title="Lançamentos 2026",Den hemmelige kvinde
+http://sev3u.sbs/movie/583638889/428916998/4280807.mp4
+#EXTINF:-1 type="video" tvg-id="Meu Nome é Enéas: Muito Além dos 15 Segundos" tvg-logo="https://image.tmdb.org/t/p/w500/nz7DNjZ7wtsuxktqLHij6Af7x0M.jpg" group-title="Lançamentos 2026",Meu Nome é Enéas: Muito Além dos 15 Segundos
+http://sev3u.sbs/movie/583638889/428916998/4280808.mp4
+#EXTINF:-1 type="video" tvg-id="Cidade Rabat" tvg-logo="https://image.tmdb.org/t/p/w500/nTWRFouxdOu7CWeSl9bRSY4wUay.jpg" group-title="Lançamentos 2026",Cidade Rabat
+http://sev3u.sbs/movie/583638889/428916998/4280809.mp4
+#EXTINF:-1 type="video" tvg-id="O Rei da Internet" tvg-logo="https://image.tmdb.org/t/p/w500/7XwnN6bGkJWY9SYGZslciMs7QTW.jpg" group-title="Lançamentos 2026",O Rei da Internet
+http://sev3u.sbs/movie/583638889/428916998/4280810.mp4
+#EXTINF:-1 type="video" tvg-id="Violent Ends" tvg-logo="https://image.tmdb.org/t/p/w500/9BrXyyrd5amNmpbZNc4gSblt6kQ.jpg" group-title="Lançamentos 2026",Violent Ends
+http://sev3u.sbs/movie/583638889/428916998/4280811.mp4
+#EXTINF:-1 type="video" tvg-id="Gintama: Yoshiwara em Chamas" tvg-logo="https://image.tmdb.org/t/p/w500/sb41qo6yHw5GS2Tujd7H4NDP4ZH.jpg" group-title="Lançamentos 2026",Gintama: Yoshiwara em Chamas
+http://sev3u.sbs/movie/583638889/428916998/4282687.mp4
+#EXTINF:-1 type="video" tvg-id="Universe Designed" tvg-logo="https://image.tmdb.org/t/p/w500/5ZwtApFloy9gY8ui2raBQDg3CfJ.jpg" group-title="Lançamentos 2026",Universe Designed
+http://sev3u.sbs/movie/583638889/428916998/4290218.mp4
+#EXTINF:-1 type="video" tvg-id="Sete Homens e uma Sentença" tvg-logo="https://image.tmdb.org/t/p/w500/8AUo6zNOJQXfBSEnOEmCBSwRN3U.jpg" group-title="Lançamentos 2026",Sete Homens e uma Sentença
+http://sev3u.sbs/movie/583638889/428916998/4290219.mp4
+#EXTINF:-1 type="video" tvg-id="Instadocs: The Decoy Plane" tvg-logo="https://image.tmdb.org/t/p/w500/uItPhP1Joq94T8BYCqQbIyZ73kE.jpg" group-title="Lançamentos 2026",Instadocs: The Decoy Plane
+http://sev3u.sbs/movie/583638889/428916998/4291384.mp4
+#EXTINF:-1 type="video" tvg-id="The Robot Chicken Adult Swim Special" tvg-logo="" group-title="Lançamentos 2026",The Robot Chicken Adult Swim Special
+http://sev3u.sbs/movie/583638889/428916998/4291385.mp4
+#EXTINF:-1 type="video" tvg-id="LEGO Star Wars: The Mandalorian" tvg-logo="https://image.tmdb.org/t/p/w500/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg" group-title="Lançamentos 2026",LEGO Star Wars: The Mandalorian
+http://sev3u.sbs/movie/583638889/428916998/4291386.mp4
+#EXTINF:-1 type="video" tvg-id="O Confronto dos Thundermans" tvg-logo="https://image.tmdb.org/t/p/w500/6GCxZ7RXjMZbSAd0CGHAfhmpKnL.jpg" group-title="Lançamentos 2026",O Confronto dos Thundermans
+http://sev3u.sbs/movie/583638889/428916998/4291387.mp4
+#EXTINF:-1 type="video" tvg-id="Um Retrato de Esperança" tvg-logo="https://image.tmdb.org/t/p/w500/iWckl9hilVTIum7P0OSkwCeoBEh.jpg" group-title="Lançamentos 2026",Um Retrato de Esperança
+http://sev3u.sbs/movie/583638889/428916998/4291388.mp4
+#EXTINF:-1 type="video" tvg-id="Soy Nevenka" tvg-logo="https://image.tmdb.org/t/p/w500/ax7yyYIfRQtKCPo39yibUJFsmAG.jpg" group-title="Lançamentos 2026",Soy Nevenka
+http://sev3u.sbs/movie/583638889/428916998/4291389.mp4
+#EXTINF:-1 type="video" tvg-id="Ponto de Virada: Geração 11 de Setembro" tvg-logo="https://image.tmdb.org/t/p/w500/2F1sqcKQ9BOFF3c88aIxIb6dcxE.jpg" group-title="Lançamentos 2026",Ponto de Virada: Geração 11 de Setembro
+http://sev3u.sbs/movie/583638889/428916998/4291390.mp4
+#EXTINF:-1 type="video" tvg-id="Termodielétrico" tvg-logo="https://image.tmdb.org/t/p/w500/zlj3bZSAl4d4aJsbQXgKApA5Mpa.jpg" group-title="Lançamentos 2026",Termodielétrico
+http://sev3u.sbs/movie/583638889/428916998/4292762.mp4
+#EXTINF:-1 type="video" tvg-id="Kangaroo: Uma Aventura na Austrália" tvg-logo="" group-title="Lançamentos 2026",Kangaroo: Uma Aventura na Austrália
+http://sev3u.sbs/movie/583638889/428916998/4292763.mp4
+#EXTINF:-1 type="video" tvg-id="Ferro's Bar" tvg-logo="https://image.tmdb.org/t/p/w500/oXekzNaqJXOV9xZk2XP0zEI2vmj.jpg" group-title="Lançamentos 2026",Ferro's Bar
+http://sev3u.sbs/movie/583638889/428916998/4292764.mp4
+#EXTINF:-1 type="video" tvg-id="O Solar dos Prazeres Noturnos" tvg-logo="https://image.tmdb.org/t/p/w500/463w8tVTsqxqkDcmxlqvksbOBAH.jpg" group-title="Lançamentos 2026",O Solar dos Prazeres Noturnos
+http://sev3u.sbs/movie/583638889/428916998/4292765.mp4
+#EXTINF:-1 type="video" tvg-id="Quinze Quase Dezesseis" tvg-logo="https://image.tmdb.org/t/p/w500/6U49qgczvZQYt1KpfQSK7olsXU4.jpg" group-title="Lançamentos 2026",Quinze Quase Dezesseis
+http://sev3u.sbs/movie/583638889/428916998/4292766.mp4
+#EXTINF:-1 type="video" tvg-id="Praia Formosa" tvg-logo="https://image.tmdb.org/t/p/w500/29SNRUTcgrtfsnrfnSRgRVB2QZm.jpg" group-title="Lançamentos 2026",Praia Formosa
+http://sev3u.sbs/movie/583638889/428916998/4292767.mp4
+#EXTINF:-1 type="video" tvg-id="Deuses da Peste" tvg-logo="https://image.tmdb.org/t/p/w500/q0BFQMrZEQF6hFVnMvgofgd0pY1.jpg" group-title="Lançamentos 2026",Deuses da Peste
+http://sev3u.sbs/movie/583638889/428916998/4292768.mp4
+#EXTINF:-1 type="video" tvg-id="Quando Eu Me Encontrar" tvg-logo="https://image.tmdb.org/t/p/w500/nuWuyVOPjttUBgUAth8MI1KcJrR.jpg" group-title="Lançamentos 2026",Quando Eu Me Encontrar
+http://sev3u.sbs/movie/583638889/428916998/4292769.mp4
+#EXTINF:-1 type="video" tvg-id="Felicidade em Dobro" tvg-logo="https://image.tmdb.org/t/p/w500/iFCfFSPdD0N9xzHEB9iVYu4H0jH.jpg" group-title="Lançamentos 2026",Felicidade em Dobro
+http://sev3u.sbs/movie/583638889/428916998/4292770.mp4
+#EXTINF:-1 type="video" tvg-id="Technocracia: O Algoritmo do Poder" tvg-logo="https://image.tmdb.org/t/p/w500/unwbaCbSaszQlic1Tc5DcsF5hYB.jpg" group-title="Lançamentos 2026",Technocracia: O Algoritmo do Poder
+http://sev3u.sbs/movie/583638889/428916998/4292808.mp4
+#EXTINF:-1 type="video" tvg-id="Untold Mr. T: I Pity the Fool" tvg-logo="https://image.tmdb.org/t/p/w500/zqL5x88i7loWlaCRJIxW0Wy48bB.jpg" group-title="Lançamentos 2026",Untold Mr. T: I Pity the Fool
+http://sev3u.sbs/movie/583638889/428916998/4293143.mp4
+#EXTINF:-1 type="video" tvg-id="As Cores e Amores de Lore" tvg-logo="https://image.tmdb.org/t/p/w500/sWCu3bkOb3ufzMqhfJcrl5LmVD8.jpg" group-title="Lançamentos 2026",As Cores e Amores de Lore
+http://sev3u.sbs/movie/583638889/428916998/4293144.mp4
+#EXTINF:-1 type="video" tvg-id="Você Me Deixa Louca" tvg-logo="https://image.tmdb.org/t/p/w500/ggrMFhEc50M2OmpxBeXNPOadpsZ.jpg" group-title="Lançamentos 2026",Você Me Deixa Louca
+http://sev3u.sbs/movie/583638889/428916998/4293145.mp4
+#EXTINF:-1 type="video" tvg-id="Greice" tvg-logo="https://image.tmdb.org/t/p/w500/xfWuMW9fAq54Q25DYSWlApuMWzE.jpg" group-title="Lançamentos 2026",Greice
+http://sev3u.sbs/movie/583638889/428916998/4293146.mp4
+#EXTINF:-1 type="video" tvg-id="The M Factor: Shredding the Silence on Menopause" tvg-logo="https://image.tmdb.org/t/p/w500/aFuSIXs9umwKtqZLQjUUDiLRUiZ.jpg" group-title="Lançamentos 2026",The M Factor: Shredding the Silence on Menopause
+http://sev3u.sbs/movie/583638889/428916998/4293401.mp4
+#EXTINF:-1 type="video" tvg-id="Juvenal e o Dragão" tvg-logo="https://image.tmdb.org/t/p/w500/dGH0KE6WTOfccI4KfKedZDpYdXW.jpg" group-title="Lançamentos 2026",Juvenal e o Dragão
+http://sev3u.sbs/movie/583638889/428916998/4293402.mp4
+#EXTINF:-1 type="video" tvg-id="Por Que Eu Me Casei de Novo?" tvg-logo="https://image.tmdb.org/t/p/w500/bHMtdZFZztcAE5uHHhsY2pWRPB9.jpg" group-title="Lançamentos 2026",Por Que Eu Me Casei de Novo?
+http://sev3u.sbs/movie/583638889/428916998/4293403.mp4
+#EXTINF:-1 type="video" tvg-id="The Girl Who Cried Pearls" tvg-logo="https://image.tmdb.org/t/p/w500/sqdqvstmM2vOBnb5beVT8lOQ4Oi.jpg" group-title="Lançamentos 2026",The Girl Who Cried Pearls
+http://sev3u.sbs/movie/583638889/428916998/4293611.mp4
+#EXTINF:-1 type="video" tvg-id="American Cherry" tvg-logo="https://image.tmdb.org/t/p/w500/gqiNrbkYj7yFtkEkt0Ov1ZNUdoo.jpg" group-title="Lançamentos 2026",American Cherry
+http://sev3u.sbs/movie/583638889/428916998/4293612.mp4
+#EXTINF:-1 type="video" tvg-id="Vamos, Time!" tvg-logo="https://image.tmdb.org/t/p/w500/aVGaBCt8g0Q990jKW85wTJKotev.jpg" group-title="Lançamentos 2026",Vamos, Time!
+http://sev3u.sbs/movie/583638889/428916998/4293613.mp4
+#EXTINF:-1 type="video" tvg-id="Dix pour cent: O Filme" tvg-logo="https://image.tmdb.org/t/p/w500/41Yezvy8Kxr9bcwQsPR3teq4EvX.jpg" group-title="Lançamentos 2026",Dix pour cent: O Filme
+http://sev3u.sbs/movie/583638889/428916998/4293614.mp4
+#EXTINF:-1 type="video" tvg-id="Copan" tvg-logo="https://image.tmdb.org/t/p/w500/bSgcjkUf0MJkD0rAkCfcCO1v4iv.jpg" group-title="Lançamentos 2026",Copan
+http://sev3u.sbs/movie/583638889/428916998/4293615.mp4
+#EXTINF:-1 type="video" tvg-id="Águas Mortais" tvg-logo="https://image.tmdb.org/t/p/w500/dWsw0X420R6ngEcVCkNlZ189Amr.jpg" group-title="Lançamentos 2026",Águas Mortais
+http://sev3u.sbs/movie/583638889/428916998/4293616.mp4
+#EXTINF:-1 type="video" tvg-id="Operação Maldoror" tvg-logo="https://image.tmdb.org/t/p/w500/47i8UACyz7juExYIYh4aIzr2mYR.jpg" group-title="Lançamentos 2026",Operação Maldoror
+http://sev3u.sbs/movie/583638889/428916998/4293617.mp4
+#EXTINF:-1 type="video" tvg-id="Patrulha Canina: Uma Aventura Dino" tvg-logo="https://image.tmdb.org/t/p/w500/zyQ0KOfyuTyBYHAQ7wl7XrrOBH2.jpg" group-title="Lançamentos 2026",Patrulha Canina: Uma Aventura Dino
+http://sev3u.sbs/movie/583638889/428916998/4293618.mp4
+#EXTINF:-1 type="video" tvg-id="Pulmão de Pedra" tvg-logo="https://image.tmdb.org/t/p/w500/rUj5Djtpddog2E5xIsncjUQxUeC.jpg" group-title="Lançamentos 2026",Pulmão de Pedra
+http://sev3u.sbs/movie/583638889/428916998/4293663.mp4
+#EXTINF:-1 type="video" tvg-id="3 Obás de Xangô" tvg-logo="https://image.tmdb.org/t/p/w500/5ecdYVdJqeIWgCPr74LAEhj5JQI.jpg" group-title="Lançamentos 2026",3 Obás de Xangô
+http://sev3u.sbs/movie/583638889/428916998/4293664.mp4
+#EXTINF:-1 type="video" tvg-id="Sofia Foi" tvg-logo="https://image.tmdb.org/t/p/w500/pRryW2JOpCHDlFLV50r2FqHbfQF.jpg" group-title="Lançamentos 2026",Sofia Foi
+http://sev3u.sbs/movie/583638889/428916998/4293665.mp4
+#EXTINF:-1 type="video" tvg-id="The AI Doc: Or How I Became an Apocaloptimist" tvg-logo="https://image.tmdb.org/t/p/w500/A610QT1gWjhJ1dJrXP9qMm4JMLr.jpg" group-title="Lançamentos 2026",The AI Doc: Or How I Became an Apocaloptimist
+http://sev3u.sbs/movie/583638889/428916998/4293666.mp4
+#EXTINF:-1 type="video" tvg-id="Aqui Não Entra Luz" tvg-logo="https://image.tmdb.org/t/p/w500/nDGWHfVkjRCFNZe67mF3OiGfj3F.jpg" group-title="Lançamentos 2026",Aqui Não Entra Luz
+http://sev3u.sbs/movie/583638889/428916998/4293667.mp4
+#EXTINF:-1 type="video" tvg-id="1 Milhão de Seguidores" tvg-logo="https://image.tmdb.org/t/p/w500/rlP0rEYa9AsRuQ5xFPifFRvcBWd.jpg" group-title="Lançamentos 2026",1 Milhão de Seguidores
+http://sev3u.sbs/movie/583638889/428916998/4246830.mp4
+#EXTINF:-1 type="video" tvg-id="A Acusada" tvg-logo="https://image.tmdb.org/t/p/w500/yRf0OrswYzoLnjXLpTLsmRUVtd.jpg" group-title="Lançamentos 2026",A Acusada
+http://sev3u.sbs/movie/583638889/428916998/4243768.mp4
+#EXTINF:-1 type="video" tvg-id="A Cela dos Milagres" tvg-logo="https://image.tmdb.org/t/p/w500/xaloioubOPQOFaERBPxLHnONyeJ.jpg" group-title="Lançamentos 2026",A Cela dos Milagres
+http://sev3u.sbs/movie/583638889/428916998/4236204.mp4
+#EXTINF:-1 type="video" tvg-id="A Esperança se Chama Liberdade" tvg-logo="https://image.tmdb.org/t/p/w500/lxkW6iWDesq0OsRkWcTBEMPg2M9.jpg" group-title="Lançamentos 2026",A Esperança se Chama Liberdade
+http://sev3u.sbs/movie/583638889/428916998/4227771.mp4
+#EXTINF:-1 type="video" tvg-id="A Lenda do Rosto Pálido" tvg-logo="https://image.tmdb.org/t/p/w500/nGqWlIv9wIWni2SWFV7b9S6rLkz.jpg" group-title="Lançamentos 2026",A Lenda do Rosto Pálido
+http://sev3u.sbs/movie/583638889/428916998/4236209.mp4
+#EXTINF:-1 type="video" tvg-id="A Natureza das Coisas Invisíveis" tvg-logo="https://image.tmdb.org/t/p/w500/sVhGCIVZkicOzumtKyBnAAKGOhH.jpg" group-title="Lançamentos 2026",A Natureza das Coisas Invisíveis
+http://sev3u.sbs/movie/583638889/428916998/4236246.mp4
+#EXTINF:-1 type="video" tvg-id="A Ouvinte" tvg-logo="https://image.tmdb.org/t/p/w500/dnkZEcD7VuCHoqhkaAuAGrXhpAd.jpg" group-title="Lançamentos 2026",A Ouvinte
+http://sev3u.sbs/movie/583638889/428916998/4236186.mp4
+#EXTINF:-1 type="video" tvg-id="A Queda do Céu" tvg-logo="https://image.tmdb.org/t/p/w500/dzBEhUSiiDJtd6v4LSN1SykSM5F.jpg" group-title="Lançamentos 2026",A Queda do Céu
+http://sev3u.sbs/movie/583638889/428916998/4236215.mp4
+#EXTINF:-1 type="video" tvg-id="A Rainha do Xadrez" tvg-logo="https://image.tmdb.org/t/p/w500/fAckgewEBm7lPkYDaqmBvxlcWf2.jpg" group-title="Lançamentos 2026",A Rainha do Xadrez
+http://sev3u.sbs/movie/583638889/428916998/4236216.mp4
+#EXTINF:-1 type="video" tvg-id="Ah, a Amizade…" tvg-logo="https://image.tmdb.org/t/p/w500/r8B4RQr40OlimrJa3Bt04asBRFI.jpg" group-title="Lançamentos 2026",Ah, a Amizade…
+http://sev3u.sbs/movie/583638889/428916998/4236222.mp4
+#EXTINF:-1 type="video" tvg-id="Além da Fumaça: O que o Sistema Esconde de Você?" tvg-logo="https://image.tmdb.org/t/p/w500/e8noQkCQvYvKXU1H9kdtIXvNeu7.jpg" group-title="Lançamentos 2026",Além da Fumaça: O que o Sistema Esconde de Você?
+http://sev3u.sbs/movie/583638889/428916998/4236184.mp4
+#EXTINF:-1 type="video" tvg-id="Amor Demais" tvg-logo="https://image.tmdb.org/t/p/w500/obv2Dt7T8p9lxtfl2qguuRL6nF8.jpg" group-title="Lançamentos 2026",Amor Demais
+http://sev3u.sbs/movie/583638889/428916998/4236195.mp4
+#EXTINF:-1 type="video" tvg-id="Brasiliana: O Musical Negro Que Apresentou o Brasil ao Mundo" tvg-logo="https://image.tmdb.org/t/p/w500/pzlAfhUqKWSa0JvkQuPXsduyTDz.jpg" group-title="Lançamentos 2026",Brasiliana: O Musical Negro Que Apresentou o Brasil ao Mundo
+http://sev3u.sbs/movie/583638889/428916998/4236185.mp4
+#EXTINF:-1 type="video" tvg-id="Caju, Meu Amigo" tvg-logo="https://image.tmdb.org/t/p/w500/euYHIYx8d6sNI2FMePFXYzp0sA7.jpg" group-title="Lançamentos 2026",Caju, Meu Amigo
+http://sev3u.sbs/movie/583638889/428916998/4221367.mp4
+#EXTINF:-1 type="video" tvg-id="Christy - Um Novo Round" tvg-logo="https://image.tmdb.org/t/p/w500/2WJEpkeQ78HQlTtSP9Bll1xRFhs.jpg" group-title="Lançamentos 2026",Christy - Um Novo Round
+http://sev3u.sbs/movie/583638889/428916998/4236240.mp4
+#EXTINF:-1 type="video" tvg-id="Clarice Niskier: Teatro dos Pés à Cabeça" tvg-logo="https://image.tmdb.org/t/p/w500/cOQGZ8NNgZ2kFOrSV280I8Xu68Q.jpg" group-title="Lançamentos 2026",Clarice Niskier: Teatro dos Pés à Cabeça
+http://sev3u.sbs/movie/583638889/428916998/4236220.mp4
+#EXTINF:-1 type="video" tvg-id="Cora Bora" tvg-logo="https://image.tmdb.org/t/p/w500/ulgczyiS9s41CoyeDIKGkyF8Azr.jpg" group-title="Lançamentos 2026",Cora Bora
+http://sev3u.sbs/movie/583638889/428916998/4236238.mp4
+#EXTINF:-1 type="video" tvg-id="Da Fome ao Sonho" tvg-logo="https://image.tmdb.org/t/p/w500/rvxJou2HXEeG5VFYlHyNepfIFqv.jpg" group-title="Lançamentos 2026",Da Fome ao Sonho
+http://sev3u.sbs/movie/583638889/428916998/4236183.mp4
+#EXTINF:-1 type="video" tvg-id="Davi: Nasce Um Rei" tvg-logo="https://image.tmdb.org/t/p/w500/kr5Owq7ixs2gsOMZm1MferN8qZX.jpg" group-title="Lançamentos 2026",Davi: Nasce Um Rei
+http://sev3u.sbs/movie/583638889/428916998/4226658.mp4
+#EXTINF:-1 type="video" tvg-id="Depois Deste Desterro" tvg-logo="https://image.tmdb.org/t/p/w500/rYCboAWEsFeTUeu0rWl9odSgghF.jpg" group-title="Lançamentos 2026",Depois Deste Desterro
+http://sev3u.sbs/movie/583638889/428916998/4236182.mp4
+#EXTINF:-1 type="video" tvg-id="Dhurandhar" tvg-logo="https://image.tmdb.org/t/p/w500/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg" group-title="Lançamentos 2026",Dhurandhar
+http://sev3u.sbs/movie/583638889/428916998/4236239.mp4
+#EXTINF:-1 type="video" tvg-id="Dinheiro Suspeito" tvg-logo="https://image.tmdb.org/t/p/w500/bm04TGkE5ySrHbHlO6YloYZvs4P.jpg" group-title="Lançamentos 2026",Dinheiro Suspeito
+http://sev3u.sbs/movie/583638889/428916998/4221368.mp4
+#EXTINF:-1 type="video" tvg-id="Down Quixote" tvg-logo="https://image.tmdb.org/t/p/w500/hHluHFenJBDUzMvyYUYuXMP72U2.jpg" group-title="Lançamentos 2026",Down Quixote
+http://sev3u.sbs/movie/583638889/428916998/4236221.mp4
+#EXTINF:-1 type="video" tvg-id="Dupla Perigosa" tvg-logo="https://image.tmdb.org/t/p/w500/jYpk5Zun4VTWrplO3m9BHANi4S5.jpg" group-title="Lançamentos 2026",Dupla Perigosa
+http://sev3u.sbs/movie/583638889/428916998/4226485.mp4
+#EXTINF:-1 type="video" tvg-id="Edifício do Medo" tvg-logo="https://image.tmdb.org/t/p/w500/4Bqr7InOdVuNYSoLMEm6FAJT7L6.jpg" group-title="Lançamentos 2026",Edifício do Medo
+http://sev3u.sbs/movie/583638889/428916998/4236188.mp4
+#EXTINF:-1 type="video" tvg-id="Entre Nós: Uma Dose Extra de Amor" tvg-logo="https://image.tmdb.org/t/p/w500/foFIkupQR27Ku5fwtmezDAiV1gW.jpg" group-title="Lançamentos 2026",Entre Nós: Uma Dose Extra de Amor
+http://sev3u.sbs/movie/583638889/428916998/4236236.mp4
+#EXTINF:-1 type="video" tvg-id="Esta Sou Eu" tvg-logo="https://image.tmdb.org/t/p/w500/dqMgB4z8oxUDACfCuRcwUlKauoh.jpg" group-title="Lançamentos 2026",Esta Sou Eu
+http://sev3u.sbs/movie/583638889/428916998/4236211.mp4
+#EXTINF:-1 type="video" tvg-id="Eu, Nirvana" tvg-logo="https://image.tmdb.org/t/p/w500/35lD8bz8AngFLbiiGPaF6fBfnYU.jpg" group-title="Lançamentos 2026",Eu, Nirvana
+http://sev3u.sbs/movie/583638889/428916998/4236207.mp4
+#EXTINF:-1 type="video" tvg-id="Extermínio: O Templo dos Ossos" tvg-logo="https://image.tmdb.org/t/p/w500/tbECC1mMbytgaynCnBhgVPzCZcd.jpg" group-title="Lançamentos 2026",Extermínio: O Templo dos Ossos
+http://sev3u.sbs/movie/583638889/428916998/4236179.mp4
+#EXTINF:-1 type="video" tvg-id="Eye For An Eye" tvg-logo="https://image.tmdb.org/t/p/w500/4hpKNChTYSqY5nOjQyM2ticGgKe.jpg" group-title="Lançamentos 2026",Eye For An Eye
+http://sev3u.sbs/movie/583638889/428916998/4236203.mp4
+#EXTINF:-1 type="video" tvg-id="Férias Forçadas" tvg-logo="https://image.tmdb.org/t/p/w500/j6DLrKZ9Y9jOWUvwiH3KvVdoDd2.jpg" group-title="Lançamentos 2026",Férias Forçadas
+http://sev3u.sbs/movie/583638889/428916998/4236202.mp4
+#EXTINF:-1 type="video" tvg-id="Freaky Tales" tvg-logo="https://image.tmdb.org/t/p/w500/lo5mfglsGeMYmAkSRXs9DATNJxk.jpg" group-title="Lançamentos 2026",Freaky Tales
+http://sev3u.sbs/movie/583638889/428916998/4236237.mp4
+#EXTINF:-1 type="video" tvg-id="Fresh Hell: Adolescentes Mortos" tvg-logo="https://image.tmdb.org/t/p/w500/z8Yr4ASYm52miXd0vl7pE3jDqys.jpg" group-title="Lançamentos 2026",Fresh Hell: Adolescentes Mortos
+http://sev3u.sbs/movie/583638889/428916998/4236193.mp4
+#EXTINF:-1 type="video" tvg-id="Fresh Hell: Lobos Contra o Mundo" tvg-logo="https://image.tmdb.org/t/p/w500/yL4vYPynrlw33rnkC7KXu4ol8pR.jpg" group-title="Lançamentos 2026",Fresh Hell: Lobos Contra o Mundo
+http://sev3u.sbs/movie/583638889/428916998/4236194.mp4
+#EXTINF:-1 type="video" tvg-id="God Complex - O Complexo Industrial da Censura" tvg-logo="https://image.tmdb.org/t/p/w500/csw7g2zOUeCsqIqO7Qf7nxnQMjk.jpg" group-title="Lançamentos 2026",God Complex - O Complexo Industrial da Censura
+http://sev3u.sbs/movie/583638889/428916998/4236234.mp4
+#EXTINF:-1 type="video" tvg-id="Hamnet: A Vida Antes de Hamlet" tvg-logo="https://image.tmdb.org/t/p/w500/njatIGrIlZCxB88UUBC2xgmfCNE.jpg" group-title="Lançamentos 2026",Hamnet: A Vida Antes de Hamlet
+http://sev3u.sbs/movie/583638889/428916998/4236177.mp4
+#EXTINF:-1 type="video" tvg-id="Harpia: Presença Maligna" tvg-logo="https://image.tmdb.org/t/p/w500/82qGoDfjSqYjwSAfeforpgku0IH.jpg" group-title="Lançamentos 2026",Harpia: Presença Maligna
+http://sev3u.sbs/movie/583638889/428916998/4236247.mp4
+#EXTINF:-1 type="video" tvg-id="Imperfeitamente Perfeita" tvg-logo="https://image.tmdb.org/t/p/w500/fK1plLeeaomQNBM3LNxkDtcMoPS.jpg" group-title="Lançamentos 2026",Imperfeitamente Perfeita
+http://sev3u.sbs/movie/583638889/428916998/4236226.mp4
+#EXTINF:-1 type="video" tvg-id="Investigando Lucy Letby" tvg-logo="https://image.tmdb.org/t/p/w500/wgxGooHYBfsVDwmBCwyQ2WmCCFg.jpg" group-title="Lançamentos 2026",Investigando Lucy Letby
+http://sev3u.sbs/movie/583638889/428916998/4236227.mp4
+#EXTINF:-1 type="video" tvg-id="Jardim do Éden" tvg-logo="https://image.tmdb.org/t/p/w500/h64PrjUMF3tDYdwscZxMgawmuee.jpg" group-title="Lançamentos 2026",Jardim do Éden
+http://sev3u.sbs/movie/583638889/428916998/4236210.mp4
+#EXTINF:-1 type="video" tvg-id="Joe e a Viagem de Carro" tvg-logo="https://image.tmdb.org/t/p/w500/vwqQbN0gCOUerdoglA96VEtYzUg.jpg" group-title="Lançamentos 2026",Joe e a Viagem de Carro
+http://sev3u.sbs/movie/583638889/428916998/4236196.mp4
+#EXTINF:-1 type="video" tvg-id="Justiça Artificial" tvg-logo="https://image.tmdb.org/t/p/w500/7OR4UwZW6eTGIoNMujGAAtCnLCx.jpg" group-title="Lançamentos 2026",Justiça Artificial
+http://sev3u.sbs/movie/583638889/428916998/4236176.mp4
+#EXTINF:-1 type="video" tvg-id="Kyochuu Rettou Movie" tvg-logo="https://image.tmdb.org/t/p/w500/sf0lHt1uG6LdgxG56VE0Aw6PCVH.jpg" group-title="Lançamentos 2026",Kyochuu Rettou Movie
+http://sev3u.sbs/movie/583638889/428916998/4236244.mp4
+#EXTINF:-1 type="video" tvg-id="Livros Restantes" tvg-logo="https://image.tmdb.org/t/p/w500/7RUlq6PxUb7whoJB8O3lZ2lvDol.jpg" group-title="Lançamentos 2026",Livros Restantes
+http://sev3u.sbs/movie/583638889/428916998/4236205.mp4
+#EXTINF:-1 type="video" tvg-id="Lupicínio Rodrigues: Confissões de um Sofredor" tvg-logo="https://image.tmdb.org/t/p/w500/tKtmKKn3mGYbkGy31ckTfJ1VjL8.jpg" group-title="Lançamentos 2026",Lupicínio Rodrigues: Confissões de um Sofredor
+http://sev3u.sbs/movie/583638889/428916998/4236219.mp4
+#EXTINF:-1 type="video" tvg-id="Maira Porongyta – O aviso do céu" tvg-logo="https://image.tmdb.org/t/p/w500/iW2cbyOv5XSVJCJfnY9lu4M3Lwj.jpg" group-title="Lançamentos 2026",Maira Porongyta – O aviso do céu
+http://sev3u.sbs/movie/583638889/428916998/4236201.mp4
+#EXTINF:-1 type="video" tvg-id="Mandíbulas à Espreita" tvg-logo="https://image.tmdb.org/t/p/w500/6AFT705digB3q06YwX7RJz2TDVw.jpg" group-title="Lançamentos 2026",Mandíbulas à Espreita
+http://sev3u.sbs/movie/583638889/428916998/4236223.mp4
+#EXTINF:-1 type="video" tvg-id="Mandioca Frita" tvg-logo="https://image.tmdb.org/t/p/w500/niDeR6vC7mQka0rHzfNmKn8EmPk.jpg" group-title="Lançamentos 2026",Mandioca Frita
+http://sev3u.sbs/movie/583638889/428916998/4236212.mp4
+#EXTINF:-1 type="video" tvg-id="Março de 1968" tvg-logo="https://image.tmdb.org/t/p/w500/PvEe1veunt4vnxygXFCLsUEWAd.jpg" group-title="Lançamentos 2026",Março de 1968
+http://sev3u.sbs/movie/583638889/428916998/4236181.mp4
+#EXTINF:-1 type="video" tvg-id="Metas de Relacionamento" tvg-logo="https://image.tmdb.org/t/p/w500/kTVyIkrqxrdLYN9rLXhqljMiplj.jpg" group-title="Lançamentos 2026",Metas de Relacionamento
+http://sev3u.sbs/movie/583638889/428916998/4236229.mp4
+#EXTINF:-1 type="video" tvg-id="Meu Avô Stanislau" tvg-logo="https://image.tmdb.org/t/p/w500/t6Y1I2AVkzZ8Nzkltkqi9FfdTzD.jpg" group-title="Lançamentos 2026",Meu Avô Stanislau
+http://sev3u.sbs/movie/583638889/428916998/4236230.mp4
+#EXTINF:-1 type="video" tvg-id="Mulheres Radicais" tvg-logo="https://image.tmdb.org/t/p/w500/xo1kBd4srulvGU0yOCrJf9Vbrd.jpg" group-title="Lançamentos 2026",Mulheres Radicais
+http://sev3u.sbs/movie/583638889/428916998/4236218.mp4
+#EXTINF:-1 type="video" tvg-id="Nossa Vizinhança" tvg-logo="https://image.tmdb.org/t/p/w500/5ivxdAWTJf6YdQDBLmysTgJiqqh.jpg" group-title="Lançamentos 2026",Nossa Vizinhança
+http://sev3u.sbs/movie/583638889/428916998/4236243.mp4
+#EXTINF:-1 type="video" tvg-id="O Demônio que Habita em Mim" tvg-logo="https://image.tmdb.org/t/p/w500/qUoznhGA1izG3G9xUE218JltOoz.jpg" group-title="Lançamentos 2026",O Demônio que Habita em Mim
+http://sev3u.sbs/movie/583638889/428916998/4236197.mp4
+#EXTINF:-1 type="video" tvg-id="O Falsário" tvg-logo="https://image.tmdb.org/t/p/w500/kruMkxPyLf8bZIuu53JxgyZ29kj.jpg" group-title="Lançamentos 2026",O Falsário
+http://sev3u.sbs/movie/583638889/428916998/4222278.mp4
+#EXTINF:-1 type="video" tvg-id="O Lar Sinistro" tvg-logo="https://image.tmdb.org/t/p/w500/40nxLSRwm0sfiTVEPBtWXfCVhd1.jpg" group-title="Lançamentos 2026",O Lar Sinistro
+http://sev3u.sbs/movie/583638889/428916998/4236228.mp4
+#EXTINF:-1 type="video" tvg-id="O que se Esconde nas Sombras" tvg-logo="https://image.tmdb.org/t/p/w500/3gQmOz6QRNTPJ01j8Q7E89yK8LL.jpg" group-title="Lançamentos 2026",O que se Esconde nas Sombras
+http://sev3u.sbs/movie/583638889/428916998/4236189.mp4
+#EXTINF:-1 type="video" tvg-id="O Show dos Muppets" tvg-logo="https://image.tmdb.org/t/p/w500/rVnxHAbQVtNbuz1ig3oSNyltj4I.jpg" group-title="Lançamentos 2026",O Show dos Muppets
+http://sev3u.sbs/movie/583638889/428916998/4236225.mp4
+#EXTINF:-1 type="video" tvg-id="O.T.H.E.R - Presença Maligna" tvg-logo="https://image.tmdb.org/t/p/w500/TfqwmTWowJJZAhpTTvVYm6uTcd.jpg" group-title="Lançamentos 2026",O.T.H.E.R - Presença Maligna
+http://sev3u.sbs/movie/583638889/428916998/4236213.mp4
+#EXTINF:-1 type="video" tvg-id="Os Cantores" tvg-logo="https://image.tmdb.org/t/p/w500/4PYwVS6wEIEy734eoTPFScUS8AG.jpg" group-title="Lançamentos 2026",Os Cantores
+http://sev3u.sbs/movie/583638889/428916998/4236192.mp4
+#EXTINF:-1 type="video" tvg-id="Palavras de Guerra" tvg-logo="https://image.tmdb.org/t/p/w500/59JXT8JtyQ3CAWVf3wBa8yCCdIJ.jpg" group-title="Lançamentos 2026",Palavras de Guerra
+http://sev3u.sbs/movie/583638889/428916998/4236248.mp4
+#EXTINF:-1 type="video" tvg-id="Paula" tvg-logo="https://image.tmdb.org/t/p/w500/kqve8TwLrTOEeXArLmozC3wFNta.jpg" group-title="Lançamentos 2026",Paula
+http://sev3u.sbs/movie/583638889/428916998/4236217.mp4
+#EXTINF:-1 type="video" tvg-id="Peixe Vivo" tvg-logo="https://image.tmdb.org/t/p/w500/ahRYsk9P2jiYiLR2elUujtMBvbT.jpg" group-title="Lançamentos 2026",Peixe Vivo
+http://sev3u.sbs/movie/583638889/428916998/4236200.mp4
+#EXTINF:-1 type="video" tvg-id="Placar: A Revista Militante" tvg-logo="https://image.tmdb.org/t/p/w500/1O16NNhRlnStBCSn0IDBCFTyzDa.jpg" group-title="Lançamentos 2026",Placar: A Revista Militante
+http://sev3u.sbs/movie/583638889/428916998/4236224.mp4
+#EXTINF:-1 type="video" tvg-id="Presa em Minha Própria Casa" tvg-logo="https://image.tmdb.org/t/p/w500/sMOrssQRDd4YGiZ2pp65IcPv19N.jpg" group-title="Lançamentos 2026",Presa em Minha Própria Casa
+http://sev3u.sbs/movie/583638889/428916998/4236190.mp4
+#EXTINF:-1 type="video" tvg-id="Presenças Ocultas" tvg-logo="https://image.tmdb.org/t/p/w500/b8dekgiMuVk7nwsAC6Cf9Q8a0N9.jpg" group-title="Lançamentos 2026",Presenças Ocultas
+http://sev3u.sbs/movie/583638889/428916998/4236191.mp4
+#EXTINF:-1 type="video" tvg-id="Quase Trinta - Em Busca do Amor" tvg-logo="https://image.tmdb.org/t/p/w500/hlsDQdBtZeewxYEHKJBp3jVwdrk.jpg" group-title="Lançamentos 2026",Quase Trinta - Em Busca do Amor
+http://sev3u.sbs/movie/583638889/428916998/4236187.mp4
+#EXTINF:-1 type="video" tvg-id="Queimando Por Dentro" tvg-logo="https://image.tmdb.org/t/p/w500/ftetcGhnH9IMlPktJeoinmvmaHR.jpg" group-title="Lançamentos 2026",Queimando Por Dentro
+http://sev3u.sbs/movie/583638889/428916998/4236199.mp4
+#EXTINF:-1 type="video" tvg-id="Romance Real na Estrada" tvg-logo="https://image.tmdb.org/t/p/w500/s6S1AJt7SfOCgjw8zO0QJoipOzV.jpg" group-title="Lançamentos 2026",Romance Real na Estrada
+http://sev3u.sbs/movie/583638889/428916998/4236180.mp4
+#EXTINF:-1 type="video" tvg-id="Salve Geral: Irmandade" tvg-logo="https://image.tmdb.org/t/p/w500/5AAzx2bcorTZUVe4Sk6yqhMBq1s.jpg" group-title="Lançamentos 2026",Salve Geral: Irmandade
+http://sev3u.sbs/movie/583638889/428916998/4236208.mp4
+#EXTINF:-1 type="video" tvg-id="Se Esse Amor Desaparecesse Hoje" tvg-logo="https://image.tmdb.org/t/p/w500/rZpbBGwqGHkXhIOzhvHdrFqXgDX.jpg" group-title="Lançamentos 2026",Se Esse Amor Desaparecesse Hoje
+http://sev3u.sbs/movie/583638889/428916998/4236232.mp4
+#EXTINF:-1 type="video" tvg-id="Se Eu Tivesse Pernas, Eu Te Chutaria" tvg-logo="https://image.tmdb.org/t/p/w500/rKmfPaOx1V2gPK9gJj5Fdg4UI44.jpg" group-title="Lançamentos 2026",Se Eu Tivesse Pernas, Eu Te Chutaria
+http://sev3u.sbs/movie/583638889/428916998/4236206.mp4
+#EXTINF:-1 type="video" tvg-id="Sinfonia de Guerra" tvg-logo="https://image.tmdb.org/t/p/w500/aZlsV0BB56sny4FnFYSCzr3is1B.jpg" group-title="Lançamentos 2026",Sinfonia de Guerra
+http://sev3u.sbs/movie/583638889/428916998/4236245.mp4
+#EXTINF:-1 type="video" tvg-id="Springsteen: Salve-me do Desconhecido" tvg-logo="https://image.tmdb.org/t/p/w500/ZbKU1buIabrW4b5seDoHY5HkeF.jpg" group-title="Lançamentos 2026",Springsteen: Salve-me do Desconhecido
+http://sev3u.sbs/movie/583638889/428916998/4236249.mp4
+#EXTINF:-1 type="video" tvg-id="Tarde demais, meu amor [L]" tvg-logo="http://lgfp.one/RRZ5" group-title="Lançamentos 2026",Tarde demais, meu amor [L]
+http://sev3u.sbs/movie/583638889/428916998/4236178.mp4
+#EXTINF:-1 type="video" tvg-id="Um Dia Extraordinário" tvg-logo="https://image.tmdb.org/t/p/w500/AuRamBsUf8AqRzHmWMjb2jg5vVZ.jpg" group-title="Lançamentos 2026",Um Dia Extraordinário
+http://sev3u.sbs/movie/583638889/428916998/4222279.mp4
+#EXTINF:-1 type="video" tvg-id="Uma Carta à Minha Juventude" tvg-logo="https://image.tmdb.org/t/p/w500/xNOOOaRmv3NvRnVx8L0FK1aIq6N.jpg" group-title="Lançamentos 2026",Uma Carta à Minha Juventude
+http://sev3u.sbs/movie/583638889/428916998/4236242.mp4
+#EXTINF:-1 type="video" tvg-id="Utopia Muda" tvg-logo="https://image.tmdb.org/t/p/w500/8T17fu0qEeO7O9OXrDTYOBzrzaL.jpg" group-title="Lançamentos 2026",Utopia Muda
+http://sev3u.sbs/movie/583638889/428916998/4236241.mp4
+#EXTINF:-1 type="video" tvg-id="Verdade e Traição" tvg-logo="https://image.tmdb.org/t/p/w500https://image.tmdb.org/t/p/w500/AoV1OxQpKhXxwmvcjUAwiaHWhkU.jpg" group-title="Lançamentos 2026",Verdade e Traição
+http://sev3u.sbs/movie/583638889/428916998/4222280.mp4
+#EXTINF:-1 type="video" tvg-id="Vingança Brutal" tvg-logo="https://image.tmdb.org/t/p/w500/sHkiapXNCtO9G9tLEWzfdxKC0LN.jpg" group-title="Lançamentos 2026",Vingança Brutal
+http://sev3u.sbs/movie/583638889/428916998/4236214.mp4
+#EXTINF:-1 type="video" tvg-id="Vizinhos Bárbaros" tvg-logo="https://image.tmdb.org/t/p/w500/fekB6qBGqaSWXY1TXPgQ6vWbTy0.jpg" group-title="Lançamentos 2026",Vizinhos Bárbaros
+http://sev3u.sbs/movie/583638889/428916998/4236198.mp4
+#EXTINF:-1 type="video" tvg-id="Você Radical - Amnésia" tvg-logo="https://image.tmdb.org/t/p/w500/pGt2JUsDjhSn738jR3R1SdxWRe5.jpg" group-title="Lançamentos 2026",Você Radical - Amnésia
+http://sev3u.sbs/movie/583638889/428916998/4236231.mp4
+#EXTINF:-1 type="video" tvg-id="Você Vai Morrer em 6 Horas" tvg-logo="https://image.tmdb.org/t/p/w500/s7Vze1z7tAs4d4xfhu0OqNkFuDM.jpg" group-title="Lançamentos 2026",Você Vai Morrer em 6 Horas
+http://sev3u.sbs/movie/583638889/428916998/4236235.mp4
+#EXTINF:-1 type="video" tvg-id="Zona de Caça" tvg-logo="https://image.tmdb.org/t/p/w500/eFrZLDfyb0fef5IDk9CH4MV2aod.jpg" group-title="Lançamentos 2026",Zona de Caça
+http://sev3u.sbs/movie/583638889/428916998/4236233.mp4
+#EXTINF:-1 type="video" tvg-id="De Férias com Você" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJUSPBMyt8U1XBlpW8s3IijIgSe.jpg" group-title="Lançamentos 2026",De Férias com Você
+http://sev3u.sbs/movie/583638889/428916998/4177210.mp4
+#EXTINF:-1 type="video" tvg-id="Twinless - Um Gêmeo a Menos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DDiHWvCRwCWXUjv1xdMefzsrCh.jpg" group-title="Lançamentos 2026",Twinless - Um Gêmeo a Menos
+http://sev3u.sbs/movie/583638889/428916998/4177211.mp4
 
 ################################### FILMES LANÇAMENTOS 2025 PATRICK ###################################
 
