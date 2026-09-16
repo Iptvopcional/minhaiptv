@@ -200,9 +200,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2182
 https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2qWdToI.png" group-title="CANAIS AO VIVO",SONY ONE SHARK TANK
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
-
-####################################### CANAIS NOVELAS #####################################
-
 #EXTINF:-1 tvg-id="GloboPlay Novelas" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="CANAIS NOVELAS",GloboPlay Novelas HD
 http://79.127.238.228:14455/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyGF8K4.png" group-title="CANAIS NOVELAS",Reis
@@ -223,9 +220,6 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="CANAIS NOVELAS",Novelissima BR
 https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
-
-######################################## CANAIS AO VIVO ####################################
-
 #EXTINF:-1 tvg-id="SPACE HD" tvg-name="SPACE HD" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="CANAIS AO VIVO",SPACE HD
 http://45.162.64.114/SPACE/index.m3u8
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="CANAIS AO VIVO",Warner Channel HD 
@@ -248,16 +242,10 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 https://amg00627-banijay-amg00627c48-tcl-us-8096.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/u8XN65I.png" group-title="CANAIS AO VIVO",CHANNEL ONE 
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
-
-######################################### CANAIS ANIMES & GEEK ###################################
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xFbshql.png" group-title="CANAIS ANIMES & GEEK"",Loading...TV HD
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C5nMqAf.png" group-title="CANAIS ANIMES & GEEK"",WORDING TV
 https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1264551258.m3u8
-
-####################################### CANAIS AO VIVO #####################################
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/clouding.png" group-title="CANAIS AO VIVO",Clouding
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w459304988.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qSC5fSZ.png" group-title="CANAIS AO VIVO", Kuriakos Kids
@@ -288,9 +276,6 @@ http://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 https://d1si3n1st4nkgb.cloudfront.net/10000/88876021/hls/master.m3u8?ads.xumo_channelId=88876021
 #EXTINF:-1  tvg-logo="https://i.imgur.com/1NPDhgI.png" group-title="CANAIS AO VIVO",TV Itapetinga
 https://stmv1.samcast.com.br/eroaldo15634/eroaldo15634/playlist.m3u8
-
-######################################## CANAIS RUNTIME ####################################
-
 #EXTINF:-1 tvg-logo="https://imgur.com/3Wpaz9E.png" group-title="CANAIS RUNTIME",Runtime Ação HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:-1 tvg-logo="https://imgur.com/5aavtj1.png" group-title="CANAIS RUNTIME",Runtime TV e Filmes Grátis
@@ -305,9 +290,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 #EXTINF:-1 tvg-logo="https://imgur.com/KQt9WGA.png" group-title="CANAIS RUNTIME",Runtime Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-
-###################################### CANAIS PLUTO TV ######################################
-
 #EXTINF:-1 tvg-id="Pluto TV Cine Sucessos" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS PLUTO TV",Pluto TV Cine Sucessos
 https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="CANAIS PLUTO TV",Pluto TV Filmes Ação
@@ -352,9 +334,6 @@ https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
 https://jmp2.uk/plu-62c5d32e2c48f9000715b6e9.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="CANAIS PLUTO TV",Filmelier TV
 https://jmp2.uk/plu-633dcebd80386500074a2461.m3u8
-
-###################################### CANAIS SÉRIES PLUTO TV ######################################
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png" group-title="PLUTO TV SÉRIES",Pluto TV Séries Criminais
 https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="PLUTO TV SÉRIES",CSI: Miami
@@ -389,9 +368,6 @@ https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8
 https://jmp2.uk/plu-64e501eec630a900088ed0f8.m3u8
 #EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/TWDbyAMC_400x200.png" group-title="PLUTO TV SÉRIES",",The Walking Dead by AMC
 https://amg01822-amc-amg01822c1-lg-br-8375.playouts.now.amagi.tv/playlist/amg01822-amcnetworkslatinamericallcfast-thewalkingdeadbyamcbr-lgbr/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-
-####################################### CANAIS JORNADA NAS ESTRELAS #####################################
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vrGYzv5.png" group-title="JORNADA NAS ESTRELAS",Star Trek
 https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vrGYzv5.png" group-title="JORNADA NAS ESTRELAS",Star Trek: The Next Generation
@@ -400,9 +376,6 @@ https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8
 https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vrGYzv5.png" group-title="JORNADA NAS ESTRELAS",Star Trek: Voyager
 https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
-
-#################################### CANAIS RETRÔ ########################################
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39nEUR8.png" group-title="CANAIS RETRÔ",CANAIS RETRÔ 
 https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YM6uLry.png" group-title="CANAIS RETRÔ",A Feiticeira 
@@ -421,14 +394,8 @@ https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
 https://jmp2.uk/plu-68b88ae1943f6fb1fb2ad749.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a4KYVwf.png" group-title="CANAIS RETRÔ",Inspetor Bugiganga
 https://jmp2.uk/plu-69162648d03565d6c8c8df97.m3u8
-
-##################################### CANAIS NOVELAS #######################################
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9bIhIR.png" group-title="CANAIS NOVELAS",PLUTO TV NOVELAS
 https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
-
-###################################### PlutoTV CANAIS REALITY ######################################
-
 #EXTINF:-1 tvg-id="MasterChef" tvg-logo="https://i.imgur.com/qKwrAUT.png" group-title="CANAIS REALITY",MasterChef
 https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
 #EXTINF:-1 tvg-id="MasterChef Profissionais" tvg-logo="https://i.imgur.com/Vd2HfJo.png" group-title="CANAIS REALITY",MasterChef Brasil Profissionais
@@ -437,9 +404,6 @@ https://jmp2.uk/plu-681110afc188aa63faa147e0.m3u8
 https://jmp2.uk/plu-681111be5e0764e297fb200e.m3u8
 #EXTINF:-1 tvg-id="Shark Tank Brasil" tvg-logo="https://i.imgur.com/RXKOU0b.png" group-title="CANAIS REALITY",Sony One Shark Tank Brasil
 https://jmp2.uk/plu-6647c0b91050b60008390de4.m3u8
-
-######################################## CANAIS PLUTO TV ####################################
-
 #EXTINF:-1 tvg-id="MTV Pluto TV" tvg-name="MTV Pluto TV" tvg-logo="https://i.imgur.com/Ub1Zwoy.png" group-title="CANAIS PLUTO TV",MTV Pluto TV
 https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
 #EXTINF:-1 tvg-id="MTV Dating" tvg-name="MTV Dating" tvg-logo="https://i.imgur.com/2SVQ28Q.png" group-title="CANAIS PLUTO TV",MTV Dating
@@ -548,9 +512,9 @@ https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 https://jmp2.uk/plu-69440d0611f6c6384ab78306.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R5dI2gh.png" group-title="CANAIS PLUTO TV",Pegadinhas - Just for Laughs
 https://jmp2.uk/plu-67802a22a5d8215f99dcee30.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="CANAIS | COMÉDIA",FailArmy
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="CANAIS PLUTO TV",FailArmy
 https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="CANAIS | COMÉDIA",The Pet Collective
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="CANAIS PLUTO TV",The Pet Collective
 https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s4pf0PF.png" group-title="CANAIS PLUTO TV",Salon line
 https://jmp2.uk/plu-66a7d0e0cd0d310008448610.m3u8
@@ -804,9 +768,6 @@ https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/chunklist_w1960836974_b896000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wCaOOL8.png" group-title="CANAIS AO VIVO",Igreja Mundial HD
 https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/chunklist_w1960836974_b1596000.m3u8
-
-############################################################################
-
 #EXTINF:-1 tvg-id="https://comCANAIS AO VIVOtv.com.br/" tvg-logo="https://3.bp.blogspot.com/-3-qGjUB7_K0/XWnV3jUTPfI/AAAAAAAABoU/KxHJ ExkQAAc0sBd_3u62yCA04XfFpQWkACLcBGAs/s320/Screenshot_2019-08-30-23-03-37.png" group-title="CANAIS AO VIVO", COM
 https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w467414107.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JQU7Ysw.png" group-title="CANAIS AO VIVO", CATVE PR
@@ -22783,6 +22744,8 @@ http://sanyyy.top/movie/853147733/119555943/3684853.mp4
 
 ################################### MEUS FILMES ###################################
 
+#EXTINF:-1 tvg-id="https://www.runtime.tv/" tvg-logo="https://img1.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/black_mask_thumbnail_16x9_widescreen_bpor.jpg" group-title="AÇÃO | AVENTURA", MÁSCARA NEGRA
+https://of5xi6lyjh.execute-api.us-west-2.amazonaws.com/dev/media.m3u8?payload=eyJyYXdEdXIiOiI1OTc1IiwibGluQ2hhbklkIjpudWxsLCJwYXJ0bmVySWQiOjUxMzU1MSwic2l0ZSI6InJ1biIsInNjdGVBZFNsYXRlIjpmYWxzZSwiYWRJbmZvIjp7InN0ZEFkcyI6ZmFsc2V9LCJhZE9wcyI6e30sInJlZmVycmVyIjoicnVudGltZS50diIsInNpZ0J5cEtleSI6InloQ1p2aXFMYjdwdmVzbWYyMllQQmtHV3pYcCIsInNsYXRlZFN0aXRjaCI6ZmFsc2UsImZvcmNlX25ld19zdGl0Y2hlciI6MCwibWVkaWFVcmwiOiJodHRwczovL2Nmdm9kLmthbHR1cmEuY29tL2hsc20vcC81MTM1NTEvc3AvNTEzNTUxMDAvc2VydmVGbGF2b3IvZW50cnlJZC8xX3MxdWhnZnVtL3YvMS9wdi8xL2V2LzgvZmxhdm9ySWQvMV80Y3NnZnY2NS9uYW1lL2EubXA0L2luZGV4Lm0zdTgvaW5kZXgtdjEtYTEubTN1OCIsImJhbmR3aWR0aCI6MTQxOTU4OSwicGxhY2Vob2xkZXJTbGF0ZSI6Imh0dHBzOi8vb3Ytc3RhdGljLm90dGVyYXZpc2lvbi5jb20vc2N0ZV92My9kZWZhdWx0L290dGVyYV9kZWZhdWx0X2FkX3NsYXRlXzIwMjIwOTIxXzcyMF9sb3cubTN1OCIsInByZUJ1bXBlciI6Imh0dHBzOi8vb3Ytc3RhdGljLm90dGVyYS50di9idW1wZXJzL3J1bi83MzA5L3J1bl9idW1wZXJfNzMwOV83MjAubTN1OCJ9
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.actor/resize/WGROOTZkaWlwWW9hdTdmSCQBjmRaJQONjvRsABoyl5DC1nFM5SmiA8sXpalCONWKOq8-G51J8Kb-f7gbVbOBg6H-fJx1fsGvOPo-q5xeG1rhomYmdtjJx1ZASmzsoVptECUDUpSZJaW0VsPpcrLT_g.webp?w=370&h=556" group-title="SUSPENSE | TERROR", THE YETI Ano:2026
 https://topflix.actor/a1/out/6/14081/14081_the.yeti.2026.1080p.webrip.dublado.m3u8
 #EXTINF:-1 tvg-id="https://topflix.digital/" tvg-logo="https://topflix.actor/resize/WGROOTZkaWlwWW9hdTdmSCQBjmRaJQONjvRsABoyl5DC1nFM5SmiA8sXpalCONWKOq8-G51J8Kb-f7gbVbOBg_FRc5TnLjDD4oACaYxex9UwadhdZ_Er5xNQkvlN4zjXQXSrVhmgT0UfZdIgXXXZKQ.webp?w=370&h=556" group-title="SUSPENSE | TERROR", SEU INFERNO PARTICULAR Ano:2026
