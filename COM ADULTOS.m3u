@@ -220,6 +220,8 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="CANAIS NOVELAS",Novelissima BR
 https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="CANAIS NOVELAS",TNT Novelas Brazil (720p)
+http://45.162.64.114/TNT_NOVELAS/index.m3u8
 #EXTINF:-1 tvg-id="SPACE HD" tvg-name="SPACE HD" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="CANAIS AO VIVO",SPACE HD
 http://45.162.64.114/SPACE/index.m3u8
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="CANAIS AO VIVO",Warner Channel HD 
@@ -276,6 +278,34 @@ http://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 https://d1si3n1st4nkgb.cloudfront.net/10000/88876021/hls/master.m3u8?ads.xumo_channelId=88876021
 #EXTINF:-1  tvg-logo="https://i.imgur.com/1NPDhgI.png" group-title="CANAIS AO VIVO",TV Itapetinga
 https://stmv1.samcast.com.br/eroaldo15634/eroaldo15634/playlist.m3u8
+#EXTINF:-1 tvg-#EXTINF:-1 tvg-id="TravelBoxBrazil.br@SD" tvg-logo="https://i.imgur.com/3tBJERH.png" group-title="CANAIS ON-LINE",Travel Box Brazil (720p)
+http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8
+#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" group-title="CANAIS ON-LINE",Adult Swim Latin America Brazil (720p)
+http://168.197.104.22/ADULT_SWIM/index.m3u8
+#EXTINF:-1 tvg-id="AELatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="CANAIS ON-LINE",A&E Latin America Brazil (720p)
+http://170.83.16.50/AeE/index.m3u8
+#EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-logo="https://i.imgur.com/duy6waL.png" group-title="CANAIS ON-LINE",TV Senado (Brazil) (720p)
+http://45.162.64.114/TV_SENADO/index.m3u8
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="CANAIS ON-LINE",Studio Universal Latin America Brazil (720p)
+http://187.102.210.46/universo/index.m3u8
+#EXTINF:-1 tvg-id="SonyChannel.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="CANAIS ON-LINE",Sony Channel (Brazil) (720p)
+http://170.83.16.50/SONY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="PlayTV.br@SD" tvg-logo="https://i.imgur.com/Ikrj3lk.png" group-title="CANAIS ON-LINE",Play TV (Brazil) (720p)
+http://45.162.64.114/PLAY_TV/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.br@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="CANAIS ON-LINE",Nickelodeon (Brazil) (480p)
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
+#EXTINF:-1 tvg-id="MusicBoxBrazil.br@SD" tvg-logo="https://i.imgur.com/CDPCF2X.png" group-title="CANAIS ON-LINE",Music Box Brazil (720p)
+http://168.197.104.22/MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="CANAIS ON-LINE",Lifetime Latin America Brazil (720p)
+http://170.83.16.50/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="LiderTV.br@SD" tvg-logo="https://i0.wp.com/lidertv.com.br/wp-content/uploads/2024/11/cropped-cropped-LOGO-LIDER-EM-BAIXA.png?fit=512%2C228&ssl=1" group-title="CANAIS ON-LINE",Lider TV (Brazil) (720p)
+https://cdn-tiva-video08-logicahost-com-br.smartbit.co/lidertvssp/lidertvssp/playlist.m3u8
+#EXTINF:-1 tvg-id="ISTV.br@SD" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="CANAIS ON-LINE",ISTV (Brazil) (720p) [Not 24/7]
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="CANAIS ON-LINE",History 2 Latin America Brazil (720p)
+http://45.177.114.114/HISTORY_2/index.m3u8
+#EXTINF:-1 tvg-id="History.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="CANAIS ON-LINE",History (Brazil) (720p)
+http://45.177.114.114/HISTORY/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3Wpaz9E.png" group-title="CANAIS RUNTIME",Runtime Ação HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:-1 tvg-logo="https://imgur.com/5aavtj1.png" group-title="CANAIS RUNTIME",Runtime TV e Filmes Grátis
@@ -911,8 +941,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
 https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SyzEjqx.png" group-title="CANAIS AO VIVO", TV ALMG | MG
 https://streaming.almg.gov.br/live/tvalmg.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="CANAIS AO VIVO", TV C芒mara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kG2br4g.png" group-title="CANAIS AO VIVO", Bem Mais TV | RJ
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="CANAIS AO VIVO", Nova Era TV | Lages SC
