@@ -31,6 +31,18 @@ http://sev3u1.sbs/583638889/428916998/3425523
 http://sev3u1.sbs/583638889/428916998/3425524
 #EXTINF:-1 type="stream" tvg-id="SBT RJ SD" tvg-logo="https://painel.binstream.me/lgs_btv/sbt.png" group-title="CANAIS ON-LINE",SBT RJ SD
 http://sev3u1.sbs/583638889/428916998/3425525
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/oOhk9Gg.png" group-title="CANAIS ON-LINE",SBT Guajará
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/tyFtNYn.png" group-title="CANAIS ON-LINE",SBT TV ARATU HD
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="CANAIS ON-LINE",SBT CIDADE VERDE FHD
+https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTPara.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ON-LINE",SBT | TV Guajará | Tailândia | PA
+https://video05.logicahost.com.br/tvguajara/tvguajara/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnApLKd.png" group-title="CANAIS ON-LINE",SBT NEWS
+https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8?ads.devicemodel=[DEVICE_MODEL]&ads.gdprconsent=[GDPR_CONSENT]&ads.ua=[UA]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.targetad=[TARGETAD_ALLOWED]&ads.usprivacy=[US_PRIVACY]&ads.appversion=[APP_VERSION]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.gdpr=[GDPR]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.bundleid=[APP_BUNDLE]&coppa=0&ads.url=[URL]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnApLKd.png" group-title="CANAIS ON-LINE",SBT NEWS
+https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8?ads.devicemodel=[DEVICE_MODEL]&ads.gdprconsent=[GDPR_CONSENT]&ads.ua=[UA]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.targetad=[TARGETAD_ALLOWED]&ads.usprivacy=[US_PRIVACY]&ads.appversion=[APP_VERSION]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.gdpr=[GDPR]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.bundleid=[APP_BUNDLE]&coppa=0&ads.url=[URL]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 type="stream" tvg-id="BAND RJ FHD" tvg-logo="https://painel.binstream.me/lgs_btv/band.png" group-title="CANAIS ON-LINE",BAND RJ FHD
 http://sev3u1.sbs/583638889/428916998/3424978
 #EXTINF:-1 type="stream" tvg-id="BAND RJ HD" tvg-logo="https://painel.binstream.me/lgs_btv/band.png" group-title="CANAIS ON-LINE",BAND RJ HD
@@ -45,14 +57,6 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m
 https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay_Rights/Masterchef_Brasil_BR/Masterchef_Brasil.m3u8
 #EXTINF:-1 tvg-id="TERRA VIVA" tvg-logo="https://img.platform.wurl.dev/channel/2176/lg/3943d0/LG-Logo-PNG-100x100_v1.png" group-title="CANAIS ON-LINE",Terra Viva
 https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LnApLKd.png" group-title="CANAIS ON-LINE",SBT NEWS
-https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8?ads.devicemodel=[DEVICE_MODEL]&ads.gdprconsent=[GDPR_CONSENT]&ads.ua=[UA]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.targetad=[TARGETAD_ALLOWED]&ads.usprivacy=[US_PRIVACY]&ads.appversion=[APP_VERSION]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.gdpr=[GDPR]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.bundleid=[APP_BUNDLE]&coppa=0&ads.url=[URL]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/oOhk9Gg.png" group-title="CANAIS ON-LINE",SBT Guajará
-https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
-#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/tyFtNYn.png" group-title="CANAIS ON-LINE",TV ARATU HD
-https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
-#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="CANAIS ON-LINE",SBT CIDADE VERDE FHD
-https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTV HD" tvg-name="RedeTV HD" tvg-logo="https://i.imgur.com/2vYqKX5.png" group-title="CANAIS ON-LINE",RedeTV! TV Pampa RS
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/tvpantanalredetv.png" group-title="CANAIS ON-LINE", RedeTV! TV Pantanal (MT)
@@ -139,8 +143,6 @@ https://d25usgadhphvwi.cloudfront.net/hls/stv-plus-960x540/playlist.m3u8
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
 #EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="GLOBONEWS" tvg-logo="https://i.imgur.com/Wu4ykxo.png" group-title="CANAIS ON-LINE",Globo News HD
 http://79.127.238.228:14093/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LnApLKd.png" group-title="CANAIS ON-LINE",SBT NEWS
-https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8?ads.devicemodel=[DEVICE_MODEL]&ads.gdprconsent=[GDPR_CONSENT]&ads.ua=[UA]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.targetad=[TARGETAD_ALLOWED]&ads.usprivacy=[US_PRIVACY]&ads.appversion=[APP_VERSION]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.gdpr=[GDPR]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.bundleid=[APP_BUNDLE]&coppa=0&ads.url=[URL]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="CANAIS ON-LINE",Record News
 https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TlqB0Uo.png" group-title="CANAIS ON-LINE",TV Câmera HD
@@ -417,8 +419,6 @@ https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
 https://jmp2.uk/plu-63dac32bda711800088a2ba3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8mDqFnG.png" group-title="CANAIS PLUTO TV",Shows por Stingray
 https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3JOVuei.png" group-title="CANAIS PLUTO TV",Karaokê por Stingray
-https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cbQg86V.png" group-title="CANAIS PLUTO TV",Natureza
 https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eEF4EHR.png" group-title="CANAIS PLUTO TV",NatureTime
@@ -565,10 +565,6 @@ https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8
 https://jmp2.uk/plu-62d969fd8451a30007f0fd94.m3u8
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/colorLogoPNG.png" group-title="CANAIS PLUTO TV",Baby Shark
 https://jmp2.uk/plu-63da6bcd60bc8f0008a5d364.m3u8
-#EXTINF:-1 tvg-id="Babyfirst" tvg-name="Babyfirst" tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="CANAIS PLUTO TV",Babyfirst
-https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/t5RZzN7.png" group-title="CANAIS PLUTO TV",TELETUBBIES
-https://jmp2.uk/plu-64e50055286f6b000838c067.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q7Jadd8.png" group-title="CANAIS PLUTO TV",Patrulha Canina
 https://jmp2.uk/plu-63eba189c111bc0008ff59c5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AdzhY5y.png" group-title="CANAIS PLUTO TV",Nickelodeon Toons
@@ -599,8 +595,6 @@ https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8
 
 ############################################# TV ABERTA ###############################
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/FoPnWx0.png" group-title="CANAIS ON-LINE",TV Evangelizar 
-https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 #EXTINF:-1 tvg-id="TVE" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="CANAIS ON-LINE",TVE RS
 https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JxyVX6Y.png" group-title="CANAIS ON-LINE",SANTA CRUZ WEB TV
@@ -633,14 +627,10 @@ https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XqAcHMg.png" group-title="CANAIS ON-LINE",Rede Brasil PA
 https://tvbrasil-stream.ebc.com.br/index.m3u8?ManoTV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XqAcHMg.png" group-title="CANAIS ON-LINE",Rede Brasil HD
-https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rGJNeou.png" group-title="CANAIS ON-LINE",Vivax TV
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ev3SsBX.png" group-title="CANAIS ON-LINE",AmazonSat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?ManoTV
-#EXTINF:-1 tvg-logo="https://imgur.com/p7gJt8P.png" group-title="CANAIS ON-LINE",TERRA VIVA HD
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/82
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NNiNQFX.png" group-title="CANAIS ON-LINE",TV Notícias Agrícolas
 https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tbxAkds.png" group-title="CANAIS ON-LINE",TV Brasil Central
@@ -653,8 +643,6 @@ https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?ManoTV
 https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xnBg83J.png" group-title="CANAIS ON-LINE",Astral TV FHD
 https://isaocorp.cloudecast.com/astraltv/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ShOT5Xg.png" group-title="CANAIS ON-LINE",Rede UTV
-https://utvcdn.acessaradios.com.br/utvcdn/utvcdn.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QmhUB1N.png" group-title="CANAIS ON-LINE",TV Cidade Verde
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="CANAIS ON-LINE",Play TV
@@ -669,8 +657,6 @@ https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 https://stmv6.voxtvhd.com.br/imperialtv/imperialtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/X3lIFxM.png" group-title="CANAIS ON-LINE",TV Fala Litoral 
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/chunklist_w1605044150.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="CANAIS ON-LINE",Canção Nova Portugal
-https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w1282186408.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QZhhn6FN9to/UlFrsL3Tt0I/AAAAAAAAbHo/ds9DswoDlWo/s400/Logo%2Bdo%2BSite.png" group-title="CANAIS ON-LINE",CINEPIX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 #EXTINF:-1 tvg-logo="https://imgur.com/psyk2C5.png" group-title="CANAIS ON-LINE",RIT TV
@@ -703,8 +689,6 @@ https://isaocorp.cloudecast.com/tvgramado/tracks-v1/index.fmp4.m3u8
 https://cbtvnow.com:5866/hls/livest2024.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tLkF2BE.png" group-title="CANAIS ON-LINE",TV SIM São Mateus
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tLkF2BE.png" group-title="CANAIS ON-LINE",TV SIM Linhares
-https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbCBogB.png" group-title="CANAIS ON-LINE",TV da Gente
 https://srv6.zcast.com.br/tvdagente/tvdagente/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BJVNmJv.png" group-title="CANAIS ON-LINE",CATVE 2
@@ -737,8 +721,6 @@ https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NwIolMu.png" group-title="CANAIS ON-LINE",WTV Brasil
 https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oyShsQU.png" group-title="CANAIS ON-LINE",AgitoMax
-https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TQKRfvo.png" group-title="CANAIS ON-LINE",Universo TV
 https://srv5.zcast.com.br/universotv/universotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c13e6b573ac2c21dd7268e3a65f95b34.webp" group-title="CANAIS ON-LINE",ComBrasil
@@ -769,8 +751,6 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/96ed4934fbcf5351314bfabfd78a976c.webp" group-title="CANAIS ON-LINE", REDE MINAS MG - Belo Horizonte
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w89976065_b2771072.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ON-LINE", SBT | TV Guajar谩 | Tail芒ndia | PA
-https://video05.logicahost.com.br/tvguajara/tvguajara/master.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/29bd5af93095d92009a3090c0b978a60.png" group-title="CANAIS ON-LINE", TV DI脕RIO DO SERT脙O PB - Cajazeiras
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/chunklist_w935505143.m3u8
 #EXTINF:-1 tvg-logo="https://www.terceiroanjo.com/static/img/logo-terceiro.png" group-title="CANAIS ON-LINE", TV TERCEIRO ANJO
@@ -799,8 +779,6 @@ https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 https://5c483b9d1019c.streamlock.net/8054/8054/chunklist_w1638070109.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d7fd8759b2598a188c00fd4980c4ceb.webp" group-title="CANAIS ON-LINE", TV SETE LAGOAS MG-Sete Lagoas
 https://video04.logicahost.com.br/santiagoproducoes/santiagoproducoes/chunklist_w2033956157.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/4o6Xeee.png" group-title="CANAIS ON-LINE", TV COM DF
-https://5b7f3c45ab7c2.streamlock.net:443/8008/smil:8008.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="https://www.cxtvlive.com/" tvg-logo="https://i.imgur.com/Rlz2Mvg.png" group-title="CANAIS ON-LINE", TVCOM SANTOS AO VIVO
 https://video01.logicahost.com.br/tvcomsantos/tvcomsantos/chunklist_w224607587.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6bA9LbZ.png" group-title="CANAIS ON-LINE",PEGADINHAS
@@ -831,8 +809,6 @@ https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/chunklist_w1927803429
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Klwjy9d.png" group-title="CANAIS ON-LINE", TV RIO MADEIRA
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
-#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0a461c7b42c873e2b9643b3a4082dc87.webp" group-title="CANAIS ON-LINE", TV ONIX SP - S茫o Carlos
-https://tv02.zas.media:1936/tvonix/tvonix/chunklist_w684240460.m3u8
 #EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f24b1cd1064865c050503ea604e4526a.webp" group-title="CANAIS ON-LINE", TV J SID BA - Candeias
 https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w502273574.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IQWmGHN.png" group-title="CANAIS ON-LINE", TV CANDIDES
@@ -841,10 +817,6 @@ https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w1992804748.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/F66Mq8p.png" group-title="CANAIS ON-LINE", TV MAIS MARICA
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/hBw3n2j.png" group-title="CANAIS ON-LINE", TV CN AGITOS
-https://s1.tvr.ovh/cnagitos/cnagitos/chunklist_w223189952.m3u8
-#EXTINF:-1 tvg-id="https://www.cxtv.com.br/" tvg-logo="https://imgur.com/hFkrSZD.png" group-title="CANAIS ON-LINE", UTV PR - Londrina
-https://video05.logicahost.com.br/utvtv/utvtv/chunklist_w612288830.m3u8
 
 ################################### LISTA DE TERCEIROS ###################################
 
@@ -858,12 +830,8 @@ https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/playlist/am
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/jetsons.png" group-title="CANAIS ON-LINE", Jetsons - Webtv
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="CANAIS ON-LINE", TV Cultura - TV Futuro (RJ)
-https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/wp-content/uploads/2023/03/tbc.png" group-title="CANAIS ON-LINE",TV Brasil Central - Cultura (GO)
 https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/culturapara.png" group-title="CANAIS ON-LINE", Cultura Pará
-https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/wp-content/uploads/2023/12/RTN-logo.png" group-title="CANAIS ON-LINE", RTN
 https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/logo_redeparanaeducativa.png" group-title="CANAIS ON-LINE",Paraná Turismo
@@ -884,8 +852,6 @@ http://wz3.dnip.com.br/novaeratv/novaeratv.sdp/live.m3u8
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JqP03l.png" group-title="CANAIS ON-LINE", Rede SPTV | SP
 https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="CANAIS ON-LINE", Rede TV | PR
-https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LuvJMBp.png" group-title="CANAIS ON-LINE", Top Mix TV
 https://video03.logicahost.com.br/topmixtv/topmixtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zcrcwhy.png" group-title="CANAIS ON-LINE", TV A Folha | Palmas PR
@@ -914,8 +880,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6128
 https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="CANAIS ON-LINE", Rede Vida
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tEQn90j.png" group-title="CANAIS ON-LINE", Tenda TV
-https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="CANAIS ON-LINE", TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png" group-title="CANAIS ON-LINE", TV Aparecida | PUC TV Goi谩s
@@ -940,26 +904,16 @@ https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVConquista.br" tvg-logo="https://i.imgur.com/RDekR7e.png" group-title="CANAIS ON-LINE",Record | TV Conquista | MT Brasil
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="CANAIS ON-LINE",Rede TV | TV Arapuan | PB Brasil
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0HK61zq.png" group-title="CANAIS ON-LINE",Rede UTV | Brasil
-https://utvsoultv.acessaradios.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP 1 HD" tvg-logo="https://i.imgur.com/gsS7Kv5.png" group-title="CANAIS ON-LINE",RTP 1 | Portugal
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP Açores" tvg-logo="https://i.imgur.com/vkSRSWQ.png" group-title="CANAIS ON-LINE",RTP Açores | Portugal
 https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP África" tvg-logo="https://i.imgur.com/vkSRSWQ.png" group-title="CANAIS ON-LINE",RTP África | Portugal
-https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPiAmerica.pt" tvg-logo="https://i.imgur.com/SBlCf1m.png" group-title="CANAIS ON-LINE",RTP Internacional | Portugal
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP Madeira" tvg-logo="https://i.imgur.com/vZrqQPX.png" group-title="CANAIS ON-LINE",RTP Madeira | Portugal
 https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP Memória" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtpMemoria_negativo_horiz_RGB.png" group-title="CANAIS ON-LINE",RTP Memória | Portugal
 https://streaming-live.rtp.pt/liverepeater/estudoemcasa.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ON-LINE",SBT | interior de SP 
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:-1 tvg-id="SBTPara.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ON-LINE",SBT | TV Guajará | Tailândia | PA
-https://video05.logicahost.com.br/tvguajara/tvguajara/master.m3u8
 
 ################################### NOVELAS ################################### NOVELAS ###################################
 
