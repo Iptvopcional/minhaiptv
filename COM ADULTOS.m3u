@@ -65,8 +65,20 @@ http://185.152.67.187:14474/
 http://79.127.238.228:14551/
 #EXTINF:-1 tvg-id="AELatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="CANAIS ON-LINE",A&E Latin America Brazil (720p)
 http://170.83.16.50/AeE/index.m3u8
+#EXTINF:-1 tvg-id="Discovery channel" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/dgGgYjc.png" group-title="CANAIS ON-LINE",Discovery Channel HD
+http://hls1.sua.tv:80/live/discoverychannelfhd/s.m3u8
 #EXTINF:-1 tvg-id="SPACE HD" tvg-name="SPACE HD" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="CANAIS ON-LINE",SPACE HD
 http://45.162.64.114/SPACE/index.m3u8
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="CANAIS ON-LINE",Studio Universal Latin America Brazil (720p)
+http://187.102.210.46/universo/index.m3u8
+#EXTINF:-1 tvg-id="SonyChannel.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="CANAIS ON-LINE",Sony Channel (Brazil) (720p)
+http://170.83.16.50/SONY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="PlayTV.br@SD" tvg-logo="https://i.imgur.com/Ikrj3lk.png" group-title="CANAIS ON-LINE",Play TV (Brazil) (720p)
+http://45.162.64.114/PLAY_TV/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.br@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="CANAIS ON-LINE",Nickelodeon (Brazil) (480p)
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="CANAIS ON-LINE",Lifetime Latin America Brazil (720p)
+http://170.83.16.50/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vSKVrvH.png" group-title="CANAIS ON-LINE",NEW BRASIL HD
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
@@ -170,8 +182,6 @@ http://79.127.238.228:14433/TLChd
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 #EXTINF:-1 tvg-id="Disc. Home & Health" tvg-name="Disc. Home & Health" tvg-logo="https://i.imgur.com/VSezlWv.png" group-title="CANAIS ON-LINE",Disc. Home & Health HD
 http://hls1.sua.tv:80/live/discoveryhehfhd/s.m3u8
-#EXTINF:-1 tvg-id="Discovery channel" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/dgGgYjc.png" group-title="CANAIS ON-LINE",Discovery Channel HD
-http://hls1.sua.tv:80/live/discoverychannelfhd/s.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rgDKfki.png" group-title="CANAIS ON-LINE",History 2 HD
 http://185.152.67.187:14392/
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="CANAIS ON-LINE",World Poker Tour
@@ -258,16 +268,6 @@ https://d1si3n1st4nkgb.cloudfront.net/10000/88876021/hls/master.m3u8?ads.xumo_ch
 https://stmv1.samcast.com.br/eroaldo15634/eroaldo15634/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-logo="https://i.imgur.com/duy6waL.png" group-title="CANAIS ON-LINE",TV Senado (Brazil) (720p)
 http://45.162.64.114/TV_SENADO/index.m3u8
-#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="CANAIS ON-LINE",Studio Universal Latin America Brazil (720p)
-http://187.102.210.46/universo/index.m3u8
-#EXTINF:-1 tvg-id="SonyChannel.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="CANAIS ON-LINE",Sony Channel (Brazil) (720p)
-http://170.83.16.50/SONY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="PlayTV.br@SD" tvg-logo="https://i.imgur.com/Ikrj3lk.png" group-title="CANAIS ON-LINE",Play TV (Brazil) (720p)
-http://45.162.64.114/PLAY_TV/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.br@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="CANAIS ON-LINE",Nickelodeon (Brazil) (480p)
-https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
-#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="CANAIS ON-LINE",Lifetime Latin America Brazil (720p)
-http://170.83.16.50/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="ISTV.br@SD" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="CANAIS ON-LINE",ISTV (Brazil) (720p) [Not 24/7]
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3Wpaz9E.png" group-title="CANAIS RUNTIME",Runtime Ação HD
