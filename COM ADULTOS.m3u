@@ -1729,8 +1729,51 @@ http://sev3u1.sbs/movie/159562668/961586862/3812903.mp4
 #EXTINF:-1 type="video" tvg-id="Harry Potter e as Relíquias da Morte - Parte 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg" group-title="COLEÇÃO HARRY POTTER",Harry Potter e as Relíquias da Morte - Parte 2
 http://sev3u1.sbs/movie/159562668/961586862/3812904.mp4
 
+#EXTINF:-1 type="video" tvg-id="O Senhor dos Anéis: O Retorno do Rei" tvg-logo="https://image.tmdb.org/t/p/w500/rU4oIKv5I4C59DpcXKmT7kNwGI0.jpg" group-title="COLEÇÃO O SENHOR DOS ANÉIS",O Senhor dos Anéis: O Retorno do Rei
+http://sev3u1.sbs/movie/159562668/961586862/4276389.mp4
+#EXTINF:-1 type="video" tvg-id="O Senhor dos Anéis: As Duas Torres" tvg-logo="https://image.tmdb.org/t/p/w500/mCs8vxvScCqVM3YFMQIdbrdFEhu.jpg" group-title="COLEÇÃO O SENHOR DOS ANÉIS",O Senhor dos Anéis: As Duas Torres
+http://sev3u1.sbs/movie/159562668/961586862/4279016.mp4
+#EXTINF:-1 type="video" tvg-id="O Senhor dos Anéis: A Sociedade do Anel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9tiZkjs5A1XdD3m3E15ij9IxCV.jpg" group-title="COLEÇÃO O SENHOR DOS ANÉIS",O Senhor dos Anéis: A Sociedade do Anel
+http://sev3u1.sbs/movie/159562668/961586862/3821962.mp4
+
+#EXTINF:-1 type="video" tvg-id="Crepúsculo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4ki1gYHkP6IWNdwjHvI9vzfpuC.jpg" group-title="COLEÇÃO A SAGA CREPÚSCULO",Crepúsculo
+http://sev3u1.sbs/movie/159562668/961586862/3821975.mp4
+#EXTINF:-1 type="video" tvg-id="A Saga Crepúsculo: Amanhecer - Parte 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1clnx7FymVEo1NC3Yikf1GrEfq7.jpg" group-title="COLEÇÃO A SAGA CREPÚSCULO",A Saga Crepúsculo: Amanhecer - Parte 2
+http://sev3u1.sbs/movie/159562668/961586862/3821976.mp4
+#EXTINF:-1 type="video" tvg-id="A Saga Crepúsculo: Lua Nova" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z39dbVwa1iIihdUDHGiRy4tc2Ov.jpg" group-title="COLEÇÃO A SAGA CREPÚSCULO",A Saga Crepúsculo: Lua Nova
+http://sev3u1.sbs/movie/159562668/961586862/3821977.mp4
+#EXTINF:-1 type="video" tvg-id="A Saga Crepúsculo: Eclipse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8qPjwfKA1MwjEoVPhTf1ptVzdE.jpg" group-title="COLEÇÃO A SAGA CREPÚSCULO",A Saga Crepúsculo: Eclipse
+http://sev3u1.sbs/movie/159562668/961586862/3821978.mp4
+#EXTINF:-1 type="video" tvg-id="A Saga Crepúsculo: Amanhecer - Parte 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6PexAo0jJRLlPNBfdiXXr0HYyz.jpg" group-title="COLEÇÃO A SAGA CREPÚSCULO",A Saga Crepúsculo: Amanhecer - Parte 1
+http://sev3u1.sbs/movie/159562668/961586862/3821979.mp4
+
+#EXTINF:-1 type="video" tvg-id="Jornada nas Estrelas II: A Ira de Khan" tvg-logo="https://image.tmdb.org/t/p/w500/s4hqeVjhAdVgbdYQRzxcJTEEaJP.jpg" group-title="COLEÇÃO JORNADA NAS ESTRELAS",Jornada nas Estrelas II: A Ira de Khan
+http://sev3u1.sbs/movie/159562668/961586862/3813223.mp4
+#EXTINF:-1 type="video" tvg-id="Jornada nas Estrelas III: À Procura de Spock" tvg-logo="https://image.tmdb.org/t/p/w500/oGn1eFPzI35QrjTcN1WFHGbzWKm.jpg" group-title="COLEÇÃO JORNADA NAS ESTRELAS",Jornada nas Estrelas III: À Procura de Spock
+http://sev3u1.sbs/movie/159562668/961586862/3813220.mp4
+#EXTINF:-1 type="video" tvg-id="Jornada nas Estrelas IV: A Volta para Casa" tvg-logo="https://image.tmdb.org/t/p/w500/1QfHoXsGaMc1OgGcBoPNxcJ9WeI.jpg" group-title="COLEÇÃO JORNADA NAS ESTRELAS",Jornada nas Estrelas IV: A Volta para Casa
+http://sev3u1.sbs/movie/159562668/961586862/3813222.mp4
+#EXTINF:-1 type="video" tvg-id="Jornada nas Estrelas V: A Última Fronteira" tvg-logo="https://image.tmdb.org/t/p/w500/ohA8ogNltkGmyIiO3vpw3UUltmK.jpg" group-title="COLEÇÃO JORNADA NAS ESTRELAS",Jornada nas Estrelas V: A Última Fronteira
+http://sev3u1.sbs/movie/159562668/961586862/3813219.mp4
+#EXTINF:-1 type="video" tvg-id="Jornada nas Estrelas VI: A Terra Desconhecida" tvg-logo="https://image.tmdb.org/t/p/w500/xOIRuEWq2otcK6pGGntBGIKquC9.jpg" group-title="COLEÇÃO JORNADA NAS ESTRELAS",Jornada nas Estrelas VI: A Terra Desconhecida
+http://sev3u1.sbs/movie/159562668/961586862/3813218.mp4
+#EXTINF:-1 type="video" tvg-id="Jornada nas Estrelas: Generations" tvg-logo="https://image.tmdb.org/t/p/w500/7GMgjENIaTOdEngnBEllmkAHGbF.jpg" group-title="COLEÇÃO JORNADA NAS ESTRELAS",Jornada nas Estrelas: Generations
+http://sev3u1.sbs/movie/159562668/961586862/3813215.mp4
+#EXTINF:-1 type="video" tvg-id="Jornada nas Estrelas: Insurreição" tvg-logo="https://image.tmdb.org/t/p/w500/kQg1M46bIcqozNYfhYPJs93Dd2w.jpg" group-title="COLEÇÃO JORNADA NAS ESTRELAS",Jornada nas Estrelas: Insurreição
+http://sev3u1.sbs/movie/159562668/961586862/3813214.mp4
+#EXTINF:-1 type="video" tvg-id="Jornada nas Estrelas: Nêmesis" tvg-logo="https://image.tmdb.org/t/p/w500/zXp12dqRNk5JPoLN8pbW2VKL6GN.jpg" group-title="COLEÇÃO JORNADA NAS ESTRELAS",Jornada nas Estrelas: Nêmesis
+http://sev3u1.sbs/movie/159562668/961586862/3813216.mp4
+#EXTINF:-1 type="video" tvg-id="Jornada nas Estrelas: O Filme" tvg-logo="https://image.tmdb.org/t/p/w500/zxmDbzEfSBQuI2tcxwEhoBPQT9c.jpg" group-title="COLEÇÃO JORNADA NAS ESTRELAS",Jornada nas Estrelas: O Filme
+http://sev3u1.sbs/movie/159562668/961586862/3813221.mp4
+#EXTINF:-1 type="video" tvg-id="Jornada nas Estrelas: Primeiro Contato" tvg-logo="https://image.tmdb.org/t/p/w500/idKfn9XDzVSemYDw7tsohdRNA5b.jpg" group-title="COLEÇÃO JORNADA NAS ESTRELAS",Jornada nas Estrelas: Primeiro Contato
+http://sev3u1.sbs/movie/159562668/961586862/3813217.mp4
+
 ################################### FILMES NOVOS PATRICK ###################################
 
+#EXTINF:-1 type="video" tvg-id="Convenção das Bruxas" tvg-logo="https://image.tmdb.org/t/p/w500/orrJiQs30G6zSkT8is4QOAtRpFM.jpg" group-title="FILMES NOVOS",Convenção das Bruxas
+http://sev3u1.sbs/movie/159562668/961586862/4253045.mp4
+#EXTINF:-1 type="video" tvg-id="Virando o Jogo" tvg-logo="https://image.tmdb.org/t/p/w500/866Ws6MZITM98oKJJhpbAlmZtcU.jpg" group-title="FILMES NOVOS",Virando o Jogo
+http://sev3u1.sbs/movie/159562668/961586862/4253750.mp4
 #EXTINF:-1 type="video" tvg-id="Madonna: The Celebration Tour in Rio" tvg-logo="https://image.tmdb.org/t/p/w500/mGSCIvmZ8jRHSFzdNZVaeWzVr80.jpg" group-title="MÚSICA | SHOW",Madonna: The Celebration Tour in Rio
 http://sanyyy.top/movie/853147733/119555943/4253751.mp4
 #EXTINF:-1 type="video" tvg-id="A Barraca do Beijo 3" tvg-logo="https://image.tmdb.org/t/p/w500/eqK1FjjTcZ84Yo4ae7Vq7E8rsIo.jpg" group-title="COMÉDIA | ROMANCE",A Barraca do Beijo 3
@@ -1856,9 +1899,8 @@ http://sanyyy.top/movie/853147733/119555943/4221411.mp4
 #EXTINF:-1 type="video" tvg-id="Valor Sentimental" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTMpLRfB9wUaQ8CEdGEUkyVXwOo.jpg" group-title="FILMES NOVOS",Valor Sentimental
 http://sanyyy.top/movie/853147733/119555943/4221407.mp4
 
-################################### FILMES LANÇAMENTOS 2026 PATRICK ###################################
+################################### FILMES LANÇAMENTOS 2026 ###################################
 
-#EXTM3U size="Medium"
 #EXTINF:-1 type="video" tvg-id="Morando Com o Inimigo" tvg-logo="https://image.tmdb.org/t/p/w500/6W12WT2THoSVu2zAzXqlWyFaOmE.jpg" group-title="Lançamentos 2026",Morando Com o Inimigo
 http://sev3u.sbs/movie/583638889/428916998/4247264.mp4
 #EXTINF:-1 type="video" tvg-id="Banlieusards 3" tvg-logo="https://images.justwatch.com/poster/306117474/s166/the-night-shift.avif" group-title="Lançamentos 2026",Banlieusards 3
@@ -7813,6 +7855,157 @@ http://sanyyy.top/movie/853147733/119555943/3683144.mp4
 http://sanyyy.top/movie/853147733/119555943/3683150.mp4
 #EXTINF:-1 type="video" tvg-id="Eternos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzezdUZEnpiUIlxpdyLO1R08Lqm.jpg" group-title="FILMES MARVEL E DC",Eternos
 http://sanyyy.top/movie/853147733/119555943/3683198.mp4
+
+################################### FILMES DISNEY+ ###################################
+
+#EXTINF:-1 type="video" tvg-id="Rio de Sangue" tvg-logo="https://image.tmdb.org/t/p/w500/k6afis4jZrXZZ9ImvZD9NW9qhyB.jpg" group-title="FILMES DISNEY+",Rio de Sangue
+http://sev3u1.sbs/movie/159562668/961586862/4269720.mp4
+#EXTINF:-1 type="video" tvg-id="Casamento Sangrento: A Viúva" tvg-logo="https://image.tmdb.org/t/p/w500/u6OwPW7mO8nrtJoC27W541bRQ8F.jpg" group-title="FILMES DISNEY+",Casamento Sangrento: A Viúva
+http://sev3u1.sbs/movie/159562668/961586862/4269721.mp4
+#EXTINF:-1 type="video" tvg-id="Descendentes: País das Maravilhas Malvado" tvg-logo="https://image.tmdb.org/t/p/w500/2IdGPF5ALnkPbDBqxuzjdTuCOFC.jpg" group-title="FILMES DISNEY+",Descendentes: País das Maravilhas Malvado
+http://sev3u1.sbs/movie/159562668/961586862/4270228.mp4
+#EXTINF:-1 type="video" tvg-id="Pacificado" tvg-logo="https://image.tmdb.org/t/p/w500/tnJvroCbINCUFViNjSMJJ7ZQLhf.jpg" group-title="FILMES DISNEY+",Pacificado
+http://sev3u1.sbs/movie/159562668/961586862/4270895.mp4
+#EXTINF:-1 type="video" tvg-id="Camp Rock 3" tvg-logo="https://image.tmdb.org/t/p/w500/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg" group-title="FILMES DISNEY+",Camp Rock 3
+http://sev3u1.sbs/movie/159562668/961586862/4278349.mp4
+#EXTINF:-1 type="video" tvg-id="Cadete Kelly" tvg-logo="https://image.tmdb.org/t/p/w500/leeIXPxv3qtU7KKwwATBuELP0kv.jpg" group-title="FILMES DISNEY+",Cadete Kelly
+http://sev3u1.sbs/movie/159562668/961586862/4288244.mp4
+#EXTINF:-1 type="video" tvg-id="A Bela e a Fera" tvg-logo="https://image.tmdb.org/t/p/w500/8JkXzfzwpZNZV72vSbG5c3Vn6Tt.jpg" group-title="FILMES DISNEY+",A Bela e a Fera
+http://sev3u1.sbs/movie/159562668/961586862/4296556.mp4
+#EXTINF:-1 type="video" tvg-id="Operação Babá" tvg-logo="https://image.tmdb.org/t/p/w500/K1DaD3dlJTnpj8q6f64mb58DgN.jpg" group-title="FILMES DISNEY+",Operação Babá
+http://sev3u1.sbs/movie/159562668/961586862/4297432.mp4
+#EXTINF:-1 type="video" tvg-id="À Procura do Amor" tvg-logo="https://image.tmdb.org/t/p/w500/lh4iE3odsvzPyFtTi7mMTwZmxUJ.jpg" group-title="FILMES DISNEY+",À Procura do Amor
+http://sev3u1.sbs/movie/159562668/961586862/4299469.mp4
+#EXTINF:-1 type="video" tvg-id="Peter Pan & Wendy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkWxiUsc32qJHLwt7vt5AvUFNlx.jpg" group-title="FILMES DISNEY+",Peter Pan & Wendy
+http://sev3u1.sbs/movie/159562668/961586862/3731781.mp4
+#EXTINF:-1 type="video" tvg-id="A Arca das Girafas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87xYDGhbi9xdM5MAhs6YM5qJWoy.jpg" group-title="FILMES DISNEY+",A Arca das Girafas
+http://sev3u1.sbs/movie/159562668/961586862/3731782.mp4
+#EXTINF:-1 type="video" tvg-id="A Bela e a Fera" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/is4c02QuP70BCVLp27SSlDeByoe.jpg" group-title="FILMES DISNEY+",A Bela e a Fera
+http://sev3u1.sbs/movie/159562668/961586862/3731783.mp4
+#EXTINF:-1 type="video" tvg-id="A Vida Secreta das Abelhas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7x4nZvhJnvjssgdklSgR66NpNi.jpg" group-title="FILMES DISNEY+",A Vida Secreta das Abelhas
+http://sev3u1.sbs/movie/159562668/961586862/3731784.mp4
+#EXTINF:-1 type="video" tvg-id="Amigos para Sempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsOM52BsDeHzc0yI27bah2OWems.jpg" group-title="FILMES DISNEY+",Amigos para Sempre
+http://sev3u1.sbs/movie/159562668/961586862/3731785.mp4
+#EXTINF:-1 type="video" tvg-id="Pocahontas II: Uma Jornada Para o Novo Mundo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNsHnGRoGYziVpz0D6hS4x78y2A.jpg" group-title="FILMES DISNEY+",Pocahontas II: Uma Jornada Para o Novo Mundo
+http://sev3u1.sbs/movie/159562668/961586862/3731786.mp4
+#EXTINF:-1 type="video" tvg-id="A Pequena Sereia 2023" tvg-logo="https://image.tmdb.org/t/p/w300/yeo0MKX2cAE0Ge7qoeRCiMWvSjV.jpg" group-title="FILMES DISNEY+",A Pequena Sereia 2023
+http://sev3u1.sbs/movie/159562668/961586862/3731787.mp4
+#EXTINF:-1 type="video" tvg-id="Maus Momentos no Hotel Royale" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rIbKUGQV5gqXT37lmhmG7P0YIt.jpg" group-title="FILMES DISNEY+",Maus Momentos no Hotel Royale
+http://sev3u1.sbs/movie/159562668/961586862/3731788.mp4
+#EXTINF:-1 type="video" tvg-id="A Extraordinária Garota Chamada Estrela em Hollywood" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2h5C9SDYM3hk2xDJQZP0SKSVVZT.jpg" group-title="FILMES DISNEY+",A Extraordinária Garota Chamada Estrela em Hollywood
+http://sev3u1.sbs/movie/159562668/961586862/3731789.mp4
+#EXTINF:-1 type="video" tvg-id="Abracadabra 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8G7EaPTocE0ok3YNxo972woo9EP.jpg" group-title="FILMES DISNEY+",Abracadabra 2
+http://sev3u1.sbs/movie/159562668/961586862/3731790.mp4
+#EXTINF:-1 type="video" tvg-id="O Jovem Corcel Negro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adCZqppp9nZxOHfaOhujqFRenIe.jpg" group-title="FILMES DISNEY+",O Jovem Corcel Negro
+http://sev3u1.sbs/movie/159562668/961586862/3731791.mp4
+#EXTINF:-1 type="video" tvg-id="Sob o Sol da Toscana" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvI0t29g8ZKWOr9NSt9UeFFhNbM.jpg" group-title="FILMES DISNEY+",Sob o Sol da Toscana
+http://sev3u1.sbs/movie/159562668/961586862/3731792.mp4
+#EXTINF:-1 type="video" tvg-id="Um Pacto de Amizade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1NEx4lohw47WSuNqQife0GxWLv.jpg" group-title="FILMES DISNEY+",Um Pacto de Amizade
+http://sev3u1.sbs/movie/159562668/961586862/3731794.mp4
+#EXTINF:-1 type="video" tvg-id="Viva: A Vida é uma Festa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg" group-title="FILMES DISNEY+",Viva: A Vida é uma Festa
+http://sev3u1.sbs/movie/159562668/961586862/3731793.mp4
+#EXTINF:-1 type="video" tvg-id="Matilda: O Musical" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5GR75CM0FbATtHjnAaE7WwUXkX.jpg" group-title="FILMES DISNEY+",Matilda: O Musical
+http://sev3u1.sbs/movie/159562668/961586862/3731795.mp4
+#EXTINF:-1 type="video" tvg-id="Star Wars: Episódio I - A Ameaça Fantasma" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNk8UNAumXlfCdtaxDqsQe7ZGlt.jpg" group-title="FILMES DISNEY+",Star Wars: Episódio I - A Ameaça Fantasma
+http://sev3u1.sbs/movie/159562668/961586862/3731796.mp4
+#EXTINF:-1 type="video" tvg-id="Os Fantasmas de Scrooge" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qhU3VJo10sISkHIyANLsHioq0Y.jpg" group-title="FILMES DISNEY+",Os Fantasmas de Scrooge
+http://sev3u1.sbs/movie/159562668/961586862/3731797.mp4
+#EXTINF:-1 type="video" tvg-id="Você de Novo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNGGf5HV9P7wvKvMBS2Dzp3wcgX.jpg" group-title="FILMES DISNEY+",Você de Novo
+http://sev3u1.sbs/movie/159562668/961586862/3731798.mp4
+#EXTINF:-1 type="video" tvg-id="A Dama e o Vagabundo II: As Aventuras de Banzé" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8kqvSoshJobn1zdZhJM0Gnj1kx.jpg" group-title="FILMES DISNEY+",A Dama e o Vagabundo II: As Aventuras de Banzé
+http://sev3u1.sbs/movie/159562668/961586862/3731800.mp4
+#EXTINF:-1 type="video" tvg-id="Rogue One: Uma História Star Wars" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74C2YX0NLWnozVMRS56d5CKDdEv.jpg" group-title="FILMES DISNEY+",Rogue One: Uma História Star Wars
+http://sev3u1.sbs/movie/159562668/961586862/3731799.mp4
+#EXTINF:-1 type="video" tvg-id="A Dama e o Vagabundo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnBl7huZPEPsxD2ZmqZqRBI3efr.jpg" group-title="FILMES DISNEY+",A Dama e o Vagabundo
+http://sev3u1.sbs/movie/159562668/961586862/3731801.mp4
+#EXTINF:-1 type="video" tvg-id="12 Horas para Sobreviver: O Ano da Eleição" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41NT5TCXWnlg2vxtVZz8uFlhHca.jpg" group-title="FILMES DISNEY+",12 Horas para Sobreviver: O Ano da Eleição
+http://sev3u1.sbs/movie/159562668/961586862/3731802.mp4
+#EXTINF:-1 type="video" tvg-id="Mary Poppins" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DjJh0vwGwi6KugPZfDiliO25XP.jpg" group-title="FILMES DISNEY+",Mary Poppins
+http://sev3u1.sbs/movie/159562668/961586862/3731803.mp4
+#EXTINF:-1 type="video" tvg-id="Aladdin - O Retorno de Jafar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7cOd8UI3QJepdIU26Pi300fjs3.jpg" group-title="FILMES DISNEY+",Aladdin - O Retorno de Jafar
+http://sev3u1.sbs/movie/159562668/961586862/3731805.mp4
+#EXTINF:-1 type="video" tvg-id="Aminimigos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0jVmmTjnKUpP5GKKJQzpiV87IE.jpg" group-title="FILMES DISNEY+",Aminimigos
+http://sev3u1.sbs/movie/159562668/961586862/3731807.mp4
+#EXTINF:-1 type="video" tvg-id="Copycat - A Vida Imita a Morte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jf2ZtreVJjog3b8zNkjvGVitv3.jpg" group-title="FILMES DISNEY+",Copycat - A Vida Imita a Morte
+http://sev3u1.sbs/movie/159562668/961586862/3731806.mp4
+#EXTINF:-1 type="video" tvg-id="O Ursinho Pooh" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uXSJt8x0rvloSFdardAxQC3wSN.jpg" group-title="FILMES DISNEY+",O Ursinho Pooh
+http://sev3u1.sbs/movie/159562668/961586862/3731809.mp4
+#EXTINF:-1 type="video" tvg-id="Star Wars: O Despertar da Força" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqMDbo4rXnakFgc4C6LzPv6pG7F.jpg" group-title="FILMES DISNEY+",Star Wars: O Despertar da Força
+http://sev3u1.sbs/movie/159562668/961586862/3731808.mp4
+#EXTINF:-1 type="video" tvg-id="Esqueceram de Mim no Lar, Doce Lar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exMwWR4b80r6V6MJKtTnmQ6SseO.jpg" group-title="FILMES DISNEY+",Esqueceram de Mim no Lar, Doce Lar
+http://sev3u1.sbs/movie/159562668/961586862/3731810.mp4
+#EXTINF:-1 type="video" tvg-id="Star Wars: Episódio IX - A Ascensão Skywalker" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLlrDUtFG2tKtDcJN6kBznlqqsp.jpg" group-title="FILMES DISNEY+",Star Wars: Episódio IX - A Ascensão Skywalker
+http://sev3u1.sbs/movie/159562668/961586862/3731811.mp4
+#EXTINF:-1 type="video" tvg-id="Nove Rainhas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81dNUMGIB55L8PxYHkcWUG594og.jpg" group-title="FILMES DISNEY+",Nove Rainhas
+http://sev3u1.sbs/movie/159562668/961586862/3731812.mp4
+#EXTINF:-1 type="video" tvg-id="LEGO Star Wars: O Império Contra Ataca" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/doeFDzZ0Ywp8YUoRaEhVE5UBqka.jpg" group-title="FILMES DISNEY+",LEGO Star Wars: O Império Contra Ataca
+http://sev3u1.sbs/movie/159562668/961586862/3731813.mp4
+#EXTINF:-1 type="video" tvg-id="Um Completo Desconhecido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXNPJ3XvF4RaEV66Qm9QO3pu3w7.jpg" group-title="FILMES DISNEY+",Um Completo Desconhecido
+http://sev3u1.sbs/movie/159562668/961586862/3731814.mp4
+#EXTINF:-1 type="video" tvg-id="O Dia em que a Terra Parou" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFT6PNXqDpYwE0Zgsqard9nvrke.jpg" group-title="FILMES DISNEY+",O Dia em que a Terra Parou
+http://sev3u1.sbs/movie/159562668/961586862/3731815.mp4
+#EXTINF:-1 type="video" tvg-id="Alexandre e o Dia Terrível, Horrível, Espantoso e Horroroso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DhdFeIxE9zCnjF7qGkjNxHQIr9.jpg" group-title="FILMES DISNEY+",Alexandre e o Dia Terrível, Horrível, Espantoso e Horroroso
+http://sev3u1.sbs/movie/159562668/961586862/3731816.mp4
+#EXTINF:-1 type="video" tvg-id="A Cratera" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65CXDhp2Y0ro847Lzq9l1iQ9Hn6.jpg" group-title="FILMES DISNEY+",A Cratera
+http://sev3u1.sbs/movie/159562668/961586862/3731817.mp4
+#EXTINF:-1 type="video" tvg-id="Elton John: Never Too Late" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFvflqdWsrKLwh28VgOurgRlnPe.jpg" group-title="FILMES DISNEY+",Elton John: Never Too Late
+http://sev3u1.sbs/movie/159562668/961586862/3731818.mp4
+#EXTINF:-1 type="video" tvg-id="Malévola" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dk6dGb014XAP7UOV0psttzcuh3E.jpg" group-title="FILMES DISNEY+",Malévola
+http://sev3u1.sbs/movie/159562668/961586862/3731819.mp4
+#EXTINF:-1 type="video" tvg-id="Arizona Nunca Mais" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0YuT50odGkaIH4TozEiQ53x5E1.jpg" group-title="FILMES DISNEY+",Arizona Nunca Mais
+http://sev3u1.sbs/movie/159562668/961586862/3731822.mp4
+#EXTINF:-1 type="video" tvg-id="Enquanto Você Dormia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hid0NixxCPkoIxTisp82eq3xW7J.jpg" group-title="FILMES DISNEY+",Enquanto Você Dormia
+http://sev3u1.sbs/movie/159562668/961586862/3731821.mp4
+#EXTINF:-1 type="video" tvg-id="Sky High: Super Escola de Heróis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUVPAWrszwEy1TNblitVkuYyb7I.jpg" group-title="FILMES DISNEY+",Sky High: Super Escola de Heróis
+http://sev3u1.sbs/movie/159562668/961586862/3731823.mp4
+#EXTINF:-1 type="video" tvg-id="Reação em Cadeia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugdjCDRcM3ABif313FF0y14SXwR.jpg" group-title="FILMES DISNEY+",Reação em Cadeia
+http://sev3u1.sbs/movie/159562668/961586862/3731824.mp4
+#EXTINF:-1 type="video" tvg-id="Desencantada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tuvxhScKT6qs8Js7ghLCLG5gxD.jpg" group-title="FILMES DISNEY+",Desencantada
+http://sev3u1.sbs/movie/159562668/961586862/3731825.mp4
+#EXTINF:-1 type="video" tvg-id="Mansão Mal-Assombrada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3puybXuYPlZPRplIVSrExZnWibb.jpg" group-title="FILMES DISNEY+",Mansão Mal-Assombrada
+http://sev3u1.sbs/movie/159562668/961586862/3731826.mp4
+#EXTINF:-1 type="video" tvg-id="Max Payne" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1Hq5B2wXsbv7G8mA3MIWbjDpQh.jpg" group-title="FILMES DISNEY+",Max Payne
+http://sev3u1.sbs/movie/159562668/961586862/3731827.mp4
+#EXTINF:-1 type="video" tvg-id="Aristogatas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2tgpsGTa28TAosyngMprBnXyG9.jpg" group-title="FILMES DISNEY+",Aristogatas
+http://sev3u1.sbs/movie/159562668/961586862/3731828.mp4
+#EXTINF:-1 type="video" tvg-id="Revelação" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXUaXaOYwgWdNwzxhDdgUiJnEUA.jpg" group-title="FILMES DISNEY+",Revelação
+http://sev3u1.sbs/movie/159562668/961586862/3731829.mp4
+#EXTINF:-1 type="video" tvg-id="Além da Linha Vermelha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZTfnqmIzB6rWQeT0DDC66K8iBf.jpg" group-title="FILMES DISNEY+",Além da Linha Vermelha
+http://sev3u1.sbs/movie/159562668/961586862/3731830.mp4
+#EXTINF:-1 type="video" tvg-id="Garganta do Diabo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cp07rpRQEufNHM4oqatncUmolbn.jpg" group-title="FILMES DISNEY+",Garganta do Diabo
+http://sev3u1.sbs/movie/159562668/961586862/3731831.mp4
+#EXTINF:-1 type="video" tvg-id="Falando de Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afLVNPUxvBZ5laBeC4BeuOvTVfD.jpg" group-title="FILMES DISNEY+",Falando de Amor
+http://sev3u1.sbs/movie/159562668/961586862/3731832.mp4
+#EXTINF:-1 type="video" tvg-id="O Rei Leão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrHr8eEJYDAA7WYybyH162s4oZ4.jpg" group-title="FILMES DISNEY+",O Rei Leão
+http://sev3u1.sbs/movie/159562668/961586862/3731833.mp4
+#EXTINF:-1 type="video" tvg-id="A Família da Noiva" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvIgkHV0PC7Dcdyiy3zfRunxz5E.jpg" group-title="FILMES DISNEY+",A Família da Noiva
+http://sev3u1.sbs/movie/159562668/961586862/3731834.mp4
+#EXTINF:-1 type="video" tvg-id="Ajuste Final" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XELsdm0zvT943VKvjTzzAew2Y6.jpg" group-title="FILMES DISNEY+",Ajuste Final
+http://sev3u1.sbs/movie/159562668/961586862/3731837.mp4
+#EXTINF:-1 type="video" tvg-id="Era uma vez um Estúdio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9kAmpg4F95vJXx1BD3T7zC9oYT.jpg" group-title="FILMES DISNEY+",Era uma vez um Estúdio
+http://sev3u1.sbs/movie/159562668/961586862/3731835.mp4
+#EXTINF:-1 type="video" tvg-id="Vizinhos Nada Secretos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5EnGaVBGt4tjznKjwv2vjE2Ouf.jpg" group-title="FILMES DISNEY+",Vizinhos Nada Secretos
+http://sev3u1.sbs/movie/159562668/961586862/3731836.mp4
+#EXTINF:-1 type="video" tvg-id="De Volta ao Titanic" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHQFLTI6man9BfELaQVCr6LRDd2.jpg" group-title="FILMES DISNEY+",De Volta ao Titanic
+http://sev3u1.sbs/movie/159562668/961586862/3731839.mp4
+#EXTINF:-1 type="video" tvg-id="King's Man: A Origem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRegMnwf0s7cYjPrtFhNba5TXzc.jpg" group-title="FILMES DISNEY+",King's Man: A Origem
+http://sev3u1.sbs/movie/159562668/961586862/3731838.mp4
+#EXTINF:-1 type="video" tvg-id="A Rocha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmqxzXp0o2rGOFAtxmK0wwkR1Sc.jpg" group-title="FILMES DISNEY+",A Rocha
+http://sev3u1.sbs/movie/159562668/961586862/3731840.mp4
+#EXTINF:-1 type="video" tvg-id="Oliver e Sua Turma" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqjEHCoGou8QjY5Yh9JyQ57ut9Z.jpg" group-title="FILMES DISNEY+",Oliver e Sua Turma
+http://sev3u1.sbs/movie/159562668/961586862/3732511.mp4
+#EXTINF:-1 type="video" tvg-id="Pocahontas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5MYFXVy8UQ1ds76fdJs6AJbMzv.jpg" group-title="FILMES DISNEY+",Pocahontas
+http://sev3u1.sbs/movie/159562668/961586862/3732512.mp4
+#EXTINF:-1 type="video" tvg-id="Malévola: Dona do Mal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VlGbVShN1qQx6WbshMA4Ex04qJ.jpg" group-title="FILMES DISNEY+",Malévola: Dona do Mal
+http://sev3u1.sbs/movie/159562668/961586862/3732514.mp4
+#EXTINF:-1 type="video" tvg-id="Rebelde da Rádio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfpbrUhOJ5tER1j4oolnvqd4nOC.jpg" group-title="FILMES DISNEY+",Rebelde da Rádio
+http://sev3u1.sbs/movie/159562668/961586862/3732513.mp4
+#EXTINF:-1 type="video" tvg-id="Lemonade Mouth: Uma Banda Diferente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5OCL75RKk4D21u4QkGCJVYpEyH.jpg" group-title="FILMES DISNEY+",Lemonade Mouth: Uma Banda Diferente
+http://sev3u1.sbs/movie/159562668/961586862/3732515.mp4
+#EXTINF:-1 type="video" tvg-id="Dormindo com o Inimigo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MDHMzwa1xkTZDhed68kviLIIj2.jpg" group-title="FILMES DISNEY+",Dormindo com o Inimigo
+http://sev3u1.sbs/movie/159562668/961586862/3732516.mp4
+#EXTINF:-1 type="video" tvg-id="Busca Implacável" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5Lr8E4HSK7Lc4zqWtgtYsM1iJA.jpg" group-title="FILMES DISNEY+",Busca Implacável
+http://sev3u1.sbs/movie/159562668/961586862/4178344.mp4
 
 ################################### FILMES AÇÃO PATRICK ###################################
 
